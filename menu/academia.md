@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 31 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 32 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（25）
+## ★（26）
 
 <table>
 <tr>
@@ -51,6 +51,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0537.md"><img src="../images/m0537-philosophy-superiority-complex.png" width="240" alt="哲學：但我就是比較優越"></a><br><a href="../memes/m0537.md">哲學：但我就是比較優越</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0562.md"><img src="../images/m0562-man-made-horrors-comprehension.png" width="240" alt="研讀這些人造恐怖，直到它們不再超出我的理解"></a><br><a href="../memes/m0562.md">研讀這些人造恐怖，直到它們不再超出我的理解</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

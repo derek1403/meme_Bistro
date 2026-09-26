@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 145 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 146 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（84）
+## ★（85）
 
 <table>
 <tr>
@@ -148,6 +148,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0554.md"><img src="../images/m0554-traffic-light-chandelier.png" width="240" alt="把爸媽的吊燈換成紅綠燈"></a><br><a href="../memes/m0554.md">把爸媽的吊燈換成紅綠燈</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0557.md"><img src="../images/m0557-fully-charged-kitten.png" width="240" alt="我現在充滿了能量"></a><br><a href="../memes/m0557.md">我現在充滿了能量</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0558.md"><img src="../images/m0558-scratch-back-congo.png" width="240" alt="要抓哪裡？剛果共和國"></a><br><a href="../memes/m0558.md">要抓哪裡？剛果共和國</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0565.md"><img src="../images/m0565-hey-brain-hows-it-going.png" width="240" alt="嘿大腦，你還好嗎？"></a><br><a href="../memes/m0565.md">嘿大腦，你還好嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

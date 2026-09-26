@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 52 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 54 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（21）
+## ★（23）
 
 <table>
 <tr>
@@ -43,6 +43,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0438.md"><img src="../images/m0438-sodium-chloride-cat-pat.png" width="240" alt="鈉摸氯貓"></a><br><a href="../memes/m0438.md">鈉摸氯貓</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0534.md"><img src="../images/m0534-define-hot-star-trek.png" width="240" alt="電腦：請定義「熱」"></a><br><a href="../memes/m0534.md">電腦：請定義「熱」</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0543.md"><img src="../images/m0543-quantum-healing-dog-face.png" width="240" alt="聽別人聊量子療癒的我"></a><br><a href="../memes/m0543.md">聽別人聊量子療癒的我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0560.md"><img src="../images/m0560-invention-second-telephone.png" width="240" alt="比第一支電話更重要的發明？第二支電話"></a><br><a href="../memes/m0560.md">比第一支電話更重要的發明？第二支電話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0569.md"><img src="../images/m0569-aikido-book-mechanics.png" width="240" alt="為了理解合氣道買了本武術書"></a><br><a href="../memes/m0569.md">為了理解合氣道買了本武術書</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

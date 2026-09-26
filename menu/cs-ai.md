@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 93 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（56）
+## ★（58）
 
 <table>
 <tr>
@@ -102,10 +102,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0556.md"><img src="../images/m0556-magic-word-sudo.png" width="240" alt="魔法咒語是什麼？sudo"></a><br><a href="../memes/m0556.md">魔法咒語是什麼？sudo</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0559.md"><img src="../images/m0559-fridge-sudo-apt-get-food.png" width="240" alt="sudo apt-get food"></a><br><a href="../memes/m0559.md">sudo apt-get food</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0564.md"><img src="../images/m0564-it-guy-probably-ransomware.png" width="240" alt="IT 人去哪了？He probably ransomware"></a><br><a href="../memes/m0564.md">IT 人去哪了？He probably ransomware</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0567.md"><img src="../images/m0567-qa-tester-squid-game.png" width="240" alt="QA 測試員抓住沒測就想上線的工程師"></a><br><a href="../memes/m0567.md">QA 測試員抓住沒測就想上線的工程師</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（26）
+## ★★（27）
 
 <table>
 <tr>
@@ -151,6 +155,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0451.md"><img src="../images/m0451-digital-infrastructure-cloudflare.png" width="240" alt="所有現代數位基礎建設（2025 版）"></a><br><a href="../memes/m0451.md">所有現代數位基礎建設（2025 版）</a><br><sub>👀🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0521.md"><img src="../images/m0521-linux-from-scratch-for-babies.png" width="240" alt="Linux From Scratch for Babies"></a><br><a href="../memes/m0521.md">Linux From Scratch for Babies</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0561.md"><img src="../images/m0561-witches-java-cpp-python.png" width="240" alt="疊在一起飛的魔女們"></a><br><a href="../memes/m0561.md">疊在一起飛的魔女們</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

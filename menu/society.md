@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 42 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 44 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（7）
+## ★（8）
 
 <table>
 <tr>
@@ -21,6 +21,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0518.md"><img src="../images/m0518-womens-rights-1920.png" width="240" alt="女權：1920 年被發明"></a><br><a href="../memes/m0518.md">女權：1920 年被發明</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0570.md"><img src="../images/m0570-alexander-the-ok.png" width="240" alt="亞歷山大大帝 → 亞歷山大還行 → 就只是 Alex"></a><br><a href="../memes/m0570.md">亞歷山大大帝 → 亞歷山大還行 → 就只是 Alex</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 
@@ -32,7 +33,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（34）
+## ⚠️ 需斟酌（35）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -371,6 +372,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0535.md"><img src="../images/m0535-twin-blood-donation-all-died.png" width="240" alt="最治癒的社交帖：最後他們都死了"></a><br><a href="../memes/m0535.md">最治癒的社交帖：最後他們都死了</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>一場韓式生日派對 — ⚠️ 政治人物</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0568.md"><img src="../images/m0568-korean-birthday-party-kim.png" width="240" alt="一場韓式生日派對"></a><br><a href="../memes/m0568.md">一場韓式生日派對</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

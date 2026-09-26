@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 147 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 149 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（49）
+## ★（50）
 
 <table>
 <tr>
@@ -91,10 +91,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0550.md"><img src="../images/m0550-sigma-drawing-decay.png" width="240" alt="畫 Σ 的能力 vs 畫的次數"></a><br><a href="../memes/m0550.md">畫 Σ 的能力 vs 畫的次數</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0563.md"><img src="../images/m0563-cthulhu-vs-advanced-math.png" width="240" alt="克蘇魯 vs 高等數學"></a><br><a href="../memes/m0563.md">克蘇魯 vs 高等數學</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（59）
+## ★★（60）
 
 <table>
 <tr>
@@ -195,6 +196,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0538.md"><img src="../images/m0538-real-complex-quaternion-octonion.png" width="240" alt="實數 → 八元數：一路失去性質"></a><br><a href="../memes/m0538.md">實數 → 八元數：一路失去性質</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0541.md"><img src="../images/m0541-ramanujan-sleep-pi-formula.png" width="240" alt="拉馬努金：好，該睡了——等一下"></a><br><a href="../memes/m0541.md">拉馬努金：好，該睡了——等一下</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0566.md"><img src="../images/m0566-ramanujan-principal-3254.png" width="240" alt="校長拉馬努金（3254）"></a><br><a href="../memes/m0566.md">校長拉馬努金（3254）</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

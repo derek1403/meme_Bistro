@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 74 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 78 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（42）
+## ★（44）
 
 <table>
 <tr>
@@ -79,9 +79,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0441.md"><img src="../images/m0441-variable-name-vs-iterator-i.png" width="240" alt="取變數名 vs 取迴圈變數名"></a><br><a href="../memes/m0441.md">取變數名 vs 取迴圈變數名</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0442.md"><img src="../images/m0442-native-language-java.png" width="240" alt="我的母語是 JAVA"></a><br><a href="../memes/m0442.md">我的母語是 JAVA</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0447.md"><img src="../images/m0447-flirting-cloudflare-crash.png" width="240" alt="我的撩妹技巧：Cloudflare 當機好扯喔"></a><br><a href="../memes/m0447.md">我的撩妹技巧：Cloudflare 當機好扯喔</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0450.md"><img src="../images/m0450-cloudflare-death-loop.png" width="240" alt="真正的死循環"></a><br><a href="../memes/m0450.md">真正的死循環</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（24）
+## ★★（25）
 
 <table>
 <tr>
@@ -124,9 +128,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0385.md"><img src="../images/m0385-stackoverflow-wishes.png" width="240" alt="神社：java.lang.StackOverflowError"></a><br><a href="../memes/m0385.md">神社：java.lang.StackOverflowError</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0395.md"><img src="../images/m0395-baby-onesie-cisco-config.png" width="240" alt="嬰兒連身衣上的 Cisco 設定"></a><br><a href="../memes/m0395.md">嬰兒連身衣上的 Cisco 設定</a><br><sub>👀🧠 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0451.md"><img src="../images/m0451-digital-infrastructure-cloudflare.png" width="240" alt="所有現代數位基礎建設（2025 版）"></a><br><a href="../memes/m0451.md">所有現代數位基礎建設（2025 版）</a><br><sub>👀🧠 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（8）
+## ⚠️ 需斟酌（9）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -205,6 +212,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0435.md"><img src="../images/m0435-6g-petabit-speed.png" width="240" alt="1.02 拍位元網速是什麼概念？"></a><br><a href="../memes/m0435.md">1.02 拍位元網速是什麼概念？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>所有現代數位基礎建設（地緣政治版） — ⚠️ 戰爭／政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0449.md"><img src="../images/m0449-digital-infrastructure-geopolitics.png" width="240" alt="所有現代數位基礎建設（地緣政治版）"></a><br><a href="../memes/m0449.md">所有現代數位基礎建設（地緣政治版）</a><br><sub>👀🧠 ★★</sub></td>
 </tr>
 </table>
 

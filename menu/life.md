@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 99 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 104 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（52）
+## ★（54）
 
 <table>
 <tr>
@@ -96,6 +96,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0437.md"><img src="../images/m0437-magic-8-ball-airport-security.png" width="240" alt="機場安檢的魔術八號球"></a><br><a href="../memes/m0437.md">機場安檢的魔術八號球</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0452.md"><img src="../images/m0452-kid-pity-yawning-uncle.png" width="240" alt="小孩：「可憐」"></a><br><a href="../memes/m0452.md">小孩：「可憐」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0453.md"><img src="../images/m0453-deleted-elden-ring-save.png" width="240" alt="我刪掉了男友的艾爾登法環存檔"></a><br><a href="../memes/m0453.md">我刪掉了男友的艾爾登法環存檔</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -144,7 +146,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（23）
+## ⚠️ 需斟酌（26）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -373,6 +375,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0428.md"><img src="../images/m0428-stalker-soy-sauce.png" width="240" alt="什麼鍋配什麼蓋"></a><br><a href="../memes/m0428.md">什麼鍋配什麼蓋</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>床頭櫃上的高級玩具 — ⚠️ 性話題</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0443.md"><img src="../images/m0443-bedside-toy-prepared-for-you.png" width="240" alt="床頭櫃上的高級玩具"></a><br><a href="../memes/m0443.md">床頭櫃上的高級玩具</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>假如沒有腳你還會穿鞋嗎 — ⚠️ 身材嘲諷</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0444.md"><img src="../images/m0444-no-feet-shoes-bra.png" width="240" alt="假如沒有腳你還會穿鞋嗎"></a><br><a href="../memes/m0444.md">假如沒有腳你還會穿鞋嗎</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>愛因斯坦……正弦、餘弦、正切…… — ⚠️ 毒品隱喻</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0445.md"><img src="../images/m0445-einstein-sine-cosine-trip.png" width="240" alt="愛因斯坦……正弦、餘弦、正切……"></a><br><a href="../memes/m0445.md">愛因斯坦……正弦、餘弦、正切……</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

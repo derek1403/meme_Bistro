@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 125 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 126 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（40）
+## ★（41）
 
 <table>
 <tr>
@@ -76,6 +76,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0408.md"><img src="../images/m0408-2026-sum-of-zero-powers.png" width="240" alt="2026 = 1⁰ + 2⁰ + … + 2026⁰"></a><br><a href="../memes/m0408.md">2026 = 1⁰ + 2⁰ + … + 2026⁰</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0446.md"><img src="../images/m0446-teach-fish-exam-fish-radicals.png" width="240" alt="授之以魚，考之以鱈鰹鰾……"></a><br><a href="../memes/m0446.md">授之以魚，考之以鱈鰹鰾……</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

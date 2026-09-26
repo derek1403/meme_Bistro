@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 63 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 66 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（30）
 
@@ -61,7 +61,7 @@
 </tr>
 </table>
 
-## ★★（24）
+## ★★（26）
 
 <table>
 <tr>
@@ -104,6 +104,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0578.md"><img src="../images/m0578-brick-wall-quantum-tunneling.png" width="240" alt="我會築起自己的牆……除了量子穿隧"></a><br><a href="../memes/m0578.md">我會築起自己的牆……除了量子穿隧</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0580.md"><img src="../images/m0580-expired-bento-arrhenius.png" width="240" alt="用阿瑞尼士方程證明過期便當還能吃"></a><br><a href="../memes/m0580.md">用阿瑞尼士方程證明過期便當還能吃</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0647.md"><img src="../images/m0647-redo-physics-conventions.png" width="240" alt="如果人類忘掉所有物理重新來過"></a><br><a href="../memes/m0647.md">如果人類忘掉所有物理重新來過</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0651.md"><img src="../images/m0651-newton-every-morning.png" width="240" alt="牛頓的每個早晨"></a><br><a href="../memes/m0651.md">牛頓的每個早晨</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
 ## ★★★（2）
@@ -115,7 +119,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（7）
+## ⚠️ 需斟酌（8）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -184,6 +188,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0416.md"><img src="../images/m0416-silicate-anesthetic-brick.png" width="240" alt="主要成分是矽酸鹽的麻藥"></a><br><a href="../memes/m0416.md">主要成分是矽酸鹽的麻藥</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>用非牛頓流體灌腸 — ⚠️ 噁心</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0652.md"><img src="../images/m0652-non-newtonian-enema-darwin.png" width="240" alt="用非牛頓流體灌腸"></a><br><a href="../memes/m0652.md">用非牛頓流體灌腸</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

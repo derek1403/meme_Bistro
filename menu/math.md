@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 166 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 168 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（61）
 
@@ -114,7 +114,7 @@
 </tr>
 </table>
 
-## ★★（63）
+## ★★（64）
 
 <table>
 <tr>
@@ -222,6 +222,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0625.md"><img src="../images/m0625-integral-1-over-x5-plus-1.png" width="240" alt="微積分下學期的學生 vs ∫1/(x⁵+1)dx"></a><br><a href="../memes/m0625.md">微積分下學期的學生 vs ∫1/(x⁵+1)dx</a><br><sub>👀🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0636.md"><img src="../images/m0636-vectors-2-times-3-equals-6.png" width="240" alt="如果 2、3、6 都是向量……"></a><br><a href="../memes/m0636.md">如果 2、3、6 都是向量……</a><br><sub>🧠 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0653.md"><img src="../images/m0653-recursive-load-bridge-clearance.png" width="240" alt="遞迴載物通過限高 Σ1/2ⁿ 的橋"></a><br><a href="../memes/m0653.md">遞迴載物通過限高 Σ1/2ⁿ 的橋</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
 </table>
 
 ## ★★★（32）
@@ -283,7 +286,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（10）
+## ⚠️ 需斟酌（11）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -382,6 +385,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0630.md"><img src="../images/m0630-sin-cos-gay.png" width="240" alt="不覺得 sin 跟 cos 很 gay 嗎"></a><br><a href="../memes/m0630.md">不覺得 sin 跟 cos 很 gay 嗎</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我是一個普通的高中三角函數 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0650.md"><img src="../images/m0650-trig-function-galgame.png" width="240" alt="我是一個普通的高中三角函數"></a><br><a href="../memes/m0650.md">我是一個普通的高中三角函數</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

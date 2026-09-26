@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 95 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（43）
 
@@ -84,7 +84,7 @@
 </tr>
 </table>
 
-## ★★（36）
+## ★★（37）
 
 <table>
 <tr>
@@ -146,6 +146,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0892.md"><img src="../images/m0892-pfas-standard-model-recycling.png" width="240" alt="如果 PFAS 不能回收，那你解釋這個！"></a><br><a href="../memes/m0892.md">如果 PFAS 不能回收，那你解釋這個！</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0897.md"><img src="../images/m0897-crocodile-stomach-stones.png" width="240" alt="肚子痛跟胖沒半毛錢關係"></a><br><a href="../memes/m0897.md">肚子痛跟胖沒半毛錢關係</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0914.md"><img src="../images/m0914-aliasing-avatar-omega.png" width="240" alt="取樣頻率不夠時的混疊"></a><br><a href="../memes/m0914.md">取樣頻率不夠時的混疊</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0964.md"><img src="../images/m0964-newton-vs-einstein-objects.png" width="240" alt="物體不喜歡改變速度——真的真的非常不喜歡"></a><br><a href="../memes/m0964.md">物體不喜歡改變速度——真的真的非常不喜歡</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

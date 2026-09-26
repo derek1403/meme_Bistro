@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 205 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 207 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（75）
+## ★（77）
 
 <table>
 <tr>
@@ -133,6 +133,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0848.md"><img src="../images/m0848-sphere-in-triangle-factory.png" width="240" alt="一個球體？出現在三角形工廠？"></a><br><a href="../memes/m0848.md">一個球體？出現在三角形工廠？</a><br><sub>👀🧠 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0850.md"><img src="../images/m0850-desmos-anime-girl.png" width="240" alt="用 Desmos 函數畫動漫女孩"></a><br><a href="../memes/m0850.md">用 Desmos 函數畫動漫女孩</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0859.md"><img src="../images/m0859-delta-x-lick-lemon-dx.png" width="240" alt="Δx 舔檸檬，dx 不舔"></a><br><a href="../memes/m0859.md">Δx 舔檸檬，dx 不舔</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0965.md"><img src="../images/m0965-vegetable-price-equation-aunt.png" width="240" alt="賣菜阿姨說一共是……"></a><br><a href="../memes/m0965.md">賣菜阿姨說一共是……</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0967.md"><img src="../images/m0967-multiplication-symbols-spongebob.png" width="240" alt="乘法符號的三種境界"></a><br><a href="../memes/m0967.md">乘法符號的三種境界</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

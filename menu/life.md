@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 317 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 323 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（205）
+## ★（209）
 
 <table>
 <tr>
@@ -351,10 +351,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0958.md"><img src="../images/m0958-rezero-woman-yelling-cat.png" width="240" alt="女人罵貓（Re:Zero 版）"></a><br><a href="../memes/m0958.md">女人罵貓（Re:Zero 版）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0963.md"><img src="../images/m0963-delivery-hang-on-door-handle.jpg" width="240" alt="放在門外不要放在地上"></a><br><a href="../memes/m0963.md">放在門外不要放在地上</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0966.md"><img src="../images/m0966-wtf-anon-three-frames.png" width="240" alt="WTF（千早愛音）"></a><br><a href="../memes/m0966.md">WTF（千早愛音）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0969.md"><img src="../images/m0969-adult-books-section-health.jpg" width="240" alt="成人單本區"></a><br><a href="../memes/m0969.md">成人單本區</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0970.md"><img src="../images/m0970-100-usagi-this-one-different.jpg" width="240" alt="你已經有 100 隻烏薩奇了"></a><br><a href="../memes/m0970.md">你已經有 100 隻烏薩奇了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（48）
+## ★★（49）
 
 <table>
 <tr>
@@ -437,9 +443,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0906.md"><img src="../images/m0906-sakiko-hokkien-drama.jpg" width="240" alt="市井豪門：滿腦子都只想到自己呢"></a><br><a href="../memes/m0906.md">市井豪門：滿腦子都只想到自己呢</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0910.md"><img src="../images/m0910-oldest-in-picture-yukari.png" width="240" alt="請找出圖裡年紀最大的那個"></a><br><a href="../memes/m0910.md">請找出圖裡年紀最大的那個</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0971.md"><img src="../images/m0971-sakiko-grandpa-bought-mcdonalds.png" width="240" alt="不小心把整個麥當勞買下來了"></a><br><a href="../memes/m0971.md">不小心把整個麥當勞買下來了</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（64）
+## ⚠️ 需斟酌（65）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1078,6 +1087,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0939.md"><img src="../images/m0939-gryffindor-six-points-snape.png" width="240" alt="葛萊分多加六尸……"></a><br><a href="../memes/m0939.md">葛萊分多加六尸……</a><br><sub>🔥🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>別人的皮卡丘是安逸，你的是安詳 — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0968.md"><img src="../images/m0968-pikachu-bento-peaceful-rest.png" width="240" alt="別人的皮卡丘是安逸，你的是安詳"></a><br><a href="../memes/m0968.md">別人的皮卡丘是安逸，你的是安詳</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

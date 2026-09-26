@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 72 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 73 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（12）
 
@@ -39,7 +39,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（59）
+## ⚠️ 需斟酌（60）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -628,6 +628,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0920.md"><img src="../images/m0920-guillotine-cross-infection.png" width="240" alt="斷頭台共用刀片會不會交叉感染？"></a><br><a href="../memes/m0920.md">斷頭台共用刀片會不會交叉感染？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>覺得不新鮮，所以給太太小孩吃 — ⚠️ 食安</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0961.md"><img src="../images/m0961-not-fresh-gave-to-wife-kids.png" width="240" alt="覺得不新鮮，所以給太太小孩吃"></a><br><a href="../memes/m0961.md">覺得不新鮮，所以給太太小孩吃</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

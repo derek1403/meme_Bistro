@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 193 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 195 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（116）
+## ★（118）
 
 <table>
 <tr>
@@ -202,6 +202,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0687.md"><img src="../images/m0687-dialga-palkia-time-space.png" width="240" alt="對象說我沒給他時間和空間"></a><br><a href="../memes/m0687.md">對象說我沒給他時間和空間</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0694.md"><img src="../images/m0694-cat-free-will-muscle-arms.png" width="240" alt="意識到我有自由意志，可以幫貓做手臂"></a><br><a href="../memes/m0694.md">意識到我有自由意志，可以幫貓做手臂</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0704.md"><img src="../images/m0704-plan-early-fails-spontaneous-works.png" width="240" alt="很早就計畫聚會 = 95% 失敗"></a><br><a href="../memes/m0704.md">很早就計畫聚會 = 95% 失敗</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0707.md"><img src="../images/m0707-ugly-man-warrior-its-me.png" width="240" alt="天哪這根本就是我"></a><br><a href="../memes/m0707.md">天哪這根本就是我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 55 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 56 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（10）
 
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（44）
+## ⚠️ 需斟酌（45）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -476,6 +476,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0692.md"><img src="../images/m0692-down-syndrome-tang-intolerance.png" width="240" alt="你有辱唐不耐症喔"></a><br><a href="../memes/m0692.md">你有辱唐不耐症喔</a><br><sub>🔤🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>安檢門響個不停：那是他鋼鐵般的意志 — ⚠️ 政治人物</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0699.md"><img src="../images/m0699-kim-iron-will-metal-detector.png" width="240" alt="安檢門響個不停：那是他鋼鐵般的意志"></a><br><a href="../memes/m0699.md">安檢門響個不停：那是他鋼鐵般的意志</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

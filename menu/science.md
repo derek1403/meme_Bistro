@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 70 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 71 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（32）
 
@@ -65,7 +65,7 @@
 </tr>
 </table>
 
-## ★★（28）
+## ★★（29）
 
 <table>
 <tr>
@@ -115,6 +115,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0660.md"><img src="../images/m0660-floor-plan-future-collider.png" width="240" alt="我在找負擔得起的房子（附粒子加速器）"></a><br><a href="../memes/m0660.md">我在找負擔得起的房子（附粒子加速器）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0702.md"><img src="../images/m0702-en-passant-double-slit.png" width="240" alt="吃過路兵雙狹縫實驗"></a><br><a href="../memes/m0702.md">吃過路兵雙狹縫實驗</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

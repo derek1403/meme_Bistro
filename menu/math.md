@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 180 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 181 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（66）
+## ★（67）
 
 <table>
 <tr>
@@ -118,6 +118,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0680.md"><img src="../images/m0680-dice-balance-1-equals-6.jpg" width="240" alt="數學天才用天平證明 1 = 6"></a><br><a href="../memes/m0680.md">數學天才用天平證明 1 = 6</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0695.md"><img src="../images/m0695-pain-scale-pi.png" width="240" alt="痛苦指數 1 到 10，你是多少？π"></a><br><a href="../memes/m0695.md">痛苦指數 1 到 10，你是多少？π</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0698.md"><img src="../images/m0698-quadratic-formula-giant-spoon.png" width="240" alt="用公式解解 x² − 1 = 0"></a><br><a href="../memes/m0698.md">用公式解解 x² − 1 = 0</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0701.md"><img src="../images/m0701-iphone-function-graphs.png" width="240" alt="iPhone X、iPhone Y、iPhone Y = sin X"></a><br><a href="../memes/m0701.md">iPhone X、iPhone Y、iPhone Y = sin X</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

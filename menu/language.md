@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 56 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 59 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（28）
+## ★（31）
 
 <table>
 <tr>
@@ -56,6 +56,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0691.md"><img src="../images/m0691-socrates-kant-scooby.png" width="240" alt="To be is to do — Do be do be do"></a><br><a href="../memes/m0691.md">To be is to do — Do be do be do</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0700.md"><img src="../images/m0700-punctuation-changes-meaning.png" width="240" alt="標點符號能明顯改變一句話的意思"></a><br><a href="../memes/m0700.md">標點符號能明顯改變一句話的意思</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0705.md"><img src="../images/m0705-first-reply-is-gay-edit.png" width="240" alt="緊急修改，第二個回覆我的人是 gay"></a><br><a href="../memes/m0705.md">緊急修改，第二個回覆我的人是 gay</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0706.md"><img src="../images/m0706-yingge-junior-high-schedule.png" width="240" alt="國中課表：驪數迴戰"></a><br><a href="../memes/m0706.md">國中課表：驪數迴戰</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

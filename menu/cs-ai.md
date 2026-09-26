@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 129 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（81）
+## ★（85）
 
 <table>
 <tr>
@@ -143,6 +143,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0870.md"><img src="../images/m0870-cycle-of-life-ai-sun-god.png" width="240" alt="生命的迴圈：AI 與太陽神"></a><br><a href="../memes/m0870.md">生命的迴圈：AI 與太陽神</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0874.md"><img src="../images/m0874-windows-update-looking-forward.png" width="240" alt="重開機時的 Windows Update"></a><br><a href="../memes/m0874.md">重開機時的 Windows Update</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0899.md"><img src="../images/m0899-if-it-works-dont-touch-it.png" width="240" alt="If it works, don't touch it"></a><br><a href="../memes/m0899.md">If it works, don't touch it</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0908.md"><img src="../images/m0908-c-i-am-your-father-python.png" width="240" alt="C：我是你爸爸"></a><br><a href="../memes/m0908.md">C：我是你爸爸</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0911.md"><img src="../images/m0911-milk-zip-cheese-torrent-cow.png" width="240" alt="Milk、Milk.zip、Torrent"></a><br><a href="../memes/m0911.md">Milk、Milk.zip、Torrent</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0912.md"><img src="../images/m0912-power-strip-control-flow.png" width="240" alt="延長線版控制流程"></a><br><a href="../memes/m0912.md">延長線版控制流程</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0915.md"><img src="../images/m0915-job-failed-successfully-cake.png" width="240" alt="Job failed successfully"></a><br><a href="../memes/m0915.md">Job failed successfully</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

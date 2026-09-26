@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 288 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 291 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（180）
+## ★（181）
 
 <table>
 <tr>
@@ -309,9 +309,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0900.md"><img src="../images/m0900-touhou-yuri-three-bowls.png" width="240" alt="東方百合：很好吃，可以吃三碗"></a><br><a href="../memes/m0900.md">東方百合：很好吃，可以吃三碗</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0903.md"><img src="../images/m0903-shot-put-girl-hit-boy.png" width="240" alt="妳不是鉛球隊的嗎？"></a><br><a href="../memes/m0903.md">妳不是鉛球隊的嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0913.md"><img src="../images/m0913-elbow-nvidia-logo.png" width="240" alt="一個注定要被 NVIDIA 玩的手肘"></a><br><a href="../memes/m0913.md">一個注定要被 NVIDIA 玩的手肘</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（47）
+## ★★（48）
 
 <table>
 <tr>
@@ -392,10 +395,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0883.md"><img src="../images/m0883-laios-would-actually-do-it.jpg" width="240" alt="如果是萊歐斯的話可能真的幹得出來"></a><br><a href="../memes/m0883.md">如果是萊歐斯的話可能真的幹得出來</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0906.md"><img src="../images/m0906-sakiko-hokkien-drama.jpg" width="240" alt="市井豪門：滿腦子都只想到自己呢"></a><br><a href="../memes/m0906.md">市井豪門：滿腦子都只想到自己呢</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0910.md"><img src="../images/m0910-oldest-in-picture-yukari.png" width="240" alt="請找出圖裡年紀最大的那個"></a><br><a href="../memes/m0910.md">請找出圖裡年紀最大的那個</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（61）
+## ⚠️ 需斟酌（62）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1004,6 +1008,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0904.md"><img src="../images/m0904-stones-on-steering-wheel.png" width="240" alt="把可愛的石頭黏到方向盤上"></a><br><a href="../memes/m0904.md">把可愛的石頭黏到方向盤上</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Wow… I have an idea — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0909.md"><img src="../images/m0909-sparkle-giant-i-have-idea.png" width="240" alt="Wow… I have an idea"></a><br><a href="../memes/m0909.md">Wow… I have an idea</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

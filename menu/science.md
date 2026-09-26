@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 89 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 92 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（38）
+## ★（40）
 
 <table>
 <tr>
@@ -72,10 +72,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0823.md"><img src="../images/m0823-every-machine-smoke-machine.png" width="240" alt="每台機器都能是煙霧機"></a><br><a href="../memes/m0823.md">每台機器都能是煙霧機</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0882.md"><img src="../images/m0882-megalodon-60-million-years.png" width="240" alt="現在才 2025 年，六千萬年前是？"></a><br><a href="../memes/m0882.md">現在才 2025 年，六千萬年前是？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0907.md"><img src="../images/m0907-fa-shen-jing-neuron-flyer.png" width="240" alt="發神經"></a><br><a href="../memes/m0907.md">發神經</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0917.md"><img src="../images/m0917-hawaii-noon-no-shadows.png" width="240" alt="太陽垂直照射夏威夷時"></a><br><a href="../memes/m0917.md">太陽垂直照射夏威夷時</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（35）
+## ★★（36）
 
 <table>
 <tr>
@@ -136,6 +140,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0892.md"><img src="../images/m0892-pfas-standard-model-recycling.png" width="240" alt="如果 PFAS 不能回收，那你解釋這個！"></a><br><a href="../memes/m0892.md">如果 PFAS 不能回收，那你解釋這個！</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0897.md"><img src="../images/m0897-crocodile-stomach-stones.png" width="240" alt="肚子痛跟胖沒半毛錢關係"></a><br><a href="../memes/m0897.md">肚子痛跟胖沒半毛錢關係</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0914.md"><img src="../images/m0914-aliasing-avatar-omega.png" width="240" alt="取樣頻率不夠時的混疊"></a><br><a href="../memes/m0914.md">取樣頻率不夠時的混疊</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

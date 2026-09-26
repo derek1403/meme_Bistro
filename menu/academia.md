@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 40 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 41 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（32）
+## ★（33）
 
 <table>
 <tr>
@@ -62,6 +62,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0703.md"><img src="../images/m0703-camping-pack-grad-student.png" width="240" alt="露營的正確打包方式（研究生版）"></a><br><a href="../memes/m0703.md">露營的正確打包方式（研究生版）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0735.md"><img src="../images/m0735-reading-textbooks-blinking.png" width="240" alt="讀教科書的樣子"></a><br><a href="../memes/m0735.md">讀教科書的樣子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0774.md"><img src="../images/m0774-school-is-a-key-place.jpg" width="240" alt="學校就是個關賤人的地方"></a><br><a href="../memes/m0774.md">學校就是個關賤人的地方</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

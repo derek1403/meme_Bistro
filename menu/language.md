@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 65 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 68 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（36）
+## ★（39）
 
 <table>
 <tr>
@@ -68,6 +68,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0728.md"><img src="../images/m0728-adult-code-words.png" width="240" alt="成年人黑話"></a><br><a href="../memes/m0728.md">成年人黑話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0757.md"><img src="../images/m0757-520-work-overtime-no-rest.jpg" width="240" alt="520 是什麼？5 天工作 2 天加班 0 天休息"></a><br><a href="../memes/m0757.md">520 是什麼？5 天工作 2 天加班 0 天休息</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0768.md"><img src="../images/m0768-baklava-bakmagma.png" width="240" alt="Baklava 和 Bakmagma"></a><br><a href="../memes/m0768.md">Baklava 和 Bakmagma</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0773.md"><img src="../images/m0773-half-pts-logo.jpg" width="240" alt="我在半公視等妳"></a><br><a href="../memes/m0773.md">我在半公視等妳</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0776.md"><img src="../images/m0776-tap-coffee-cup-caffeine.jpg" width="240" alt="敲咖啡杯會發出什麼聲音？"></a><br><a href="../memes/m0776.md">敲咖啡杯會發出什麼聲音？</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0781.md"><img src="../images/m0781-three-minutes-learned-wall.png" width="240" alt="三分鐘沒理我，我學會煎牆了"></a><br><a href="../memes/m0781.md">三分鐘沒理我，我學會煎牆了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

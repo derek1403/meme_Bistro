@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 224 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 229 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（141）
+## ★（144）
 
 <table>
 <tr>
@@ -244,9 +244,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0766.md"><img src="../images/m0766-breech-birth-wear-mom.png" width="240" alt="冷知識：腳先出來的話"></a><br><a href="../memes/m0766.md">冷知識：腳先出來的話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0769.md"><img src="../images/m0769-scooter-shadow-dog-rider.png" width="240" alt="機車上的影子是狗在騎車"></a><br><a href="../memes/m0769.md">機車上的影子是狗在騎車</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0775.md"><img src="../images/m0775-magic-to-be-happy-resignation.png" width="240" alt="變得幸福的魔法（放大 100 倍）"></a><br><a href="../memes/m0775.md">變得幸福的魔法（放大 100 倍）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0777.md"><img src="../images/m0777-croissant-peeled-french-hr.jpg" width="240" alt="吃可頌前會先去皮"></a><br><a href="../memes/m0777.md">吃可頌前會先去皮</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0780.md"><img src="../images/m0780-cat-likes-high-salary-job.png" width="240" alt="找工作不一定要找工資高的，要找自己喜歡的"></a><br><a href="../memes/m0780.md">找工作不一定要找工資高的，要找自己喜歡的</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（37）
+## ★★（38）
 
 <table>
 <tr>
@@ -311,10 +316,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0739.md"><img src="../images/m0739-takamatsu-tomori-penguin.jpg" width="240" alt="提起高松燈，你應該想到……"></a><br><a href="../memes/m0739.md">提起高松燈，你應該想到……</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0782.md"><img src="../images/m0782-eye-chart-ave-mujica.jpg" width="240" alt="視力表裡的 AVE Mujica"></a><br><a href="../memes/m0782.md">視力表裡的 AVE Mujica</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（46）
+## ⚠️ 需斟酌（47）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -773,6 +779,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0764.md"><img src="../images/m0764-naruto-kurama-hinata.jpg" width="240" alt="當鳴人要你再借力量給他"></a><br><a href="../memes/m0764.md">當鳴人要你再借力量給他</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>各國會講話的貓 — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0778.md"><img src="../images/m0778-talking-cats-by-country.png" width="240" alt="各國會講話的貓"></a><br><a href="../memes/m0778.md">各國會講話的貓</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

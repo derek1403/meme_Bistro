@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 85 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 87 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（37）
+## ★（38）
 
 <table>
 <tr>
@@ -71,6 +71,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0823.md"><img src="../images/m0823-every-machine-smoke-machine.png" width="240" alt="每台機器都能是煙霧機"></a><br><a href="../memes/m0823.md">每台機器都能是煙霧機</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0882.md"><img src="../images/m0882-megalodon-60-million-years.png" width="240" alt="現在才 2025 年，六千萬年前是？"></a><br><a href="../memes/m0882.md">現在才 2025 年，六千萬年前是？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -143,7 +144,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（13）
+## ⚠️ 需斟酌（14）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -272,6 +273,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0854.md"><img src="../images/m0854-red-blood-cells-go-down.png" width="240" alt="我和女生握手，我的血球：走啊"></a><br><a href="../memes/m0854.md">我和女生握手，我的血球：走啊</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我是隻陸龜，你這個智障 — ⚠️ 動物死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0880.md"><img src="../images/m0880-land-tortoise-freedom.jpg" width="240" alt="我是隻陸龜，你這個智障"></a><br><a href="../memes/m0880.md">我是隻陸龜，你這個智障</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

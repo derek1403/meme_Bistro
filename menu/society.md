@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 68 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 69 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（11）
 
@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（56）
+## ⚠️ 需斟酌（57）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -597,6 +597,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0853.md"><img src="../images/m0853-plane-on-fire-not-smoking.png" width="240" alt="我還以為是有人抽煙呢"></a><br><a href="../memes/m0853.md">我還以為是有人抽煙呢</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>猜猜番茄醬從哪裡來？ — ⚠️ 暴力（車禍暗示）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0878.md"><img src="../images/m0878-mcdonalds-crosswalk-ketchup.png" width="240" alt="猜猜番茄醬從哪裡來？"></a><br><a href="../memes/m0878.md">猜猜番茄醬從哪裡來？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

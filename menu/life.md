@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 267 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 273 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（169）
+## ★（172）
 
 <table>
 <tr>
@@ -291,10 +291,15 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0869.md"><img src="../images/m0869-wine-glass-solo-leveling-face.png" width="240" alt="用酒杯變成我獨自升級的主角"></a><br><a href="../memes/m0869.md">用酒杯變成我獨自升級的主角</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0873.md"><img src="../images/m0873-dog-game-again.jpg" width="240" alt="再玩我是狗"></a><br><a href="../memes/m0873.md">再玩我是狗</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0875.md"><img src="../images/m0875-curry-rice-balls.png" width="240" alt="大家都在討論咖哩飯要拌還是不拌"></a><br><a href="../memes/m0875.md">大家都在討論咖哩飯要拌還是不拌</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0879.md"><img src="../images/m0879-asian-parents-color-c.png" width="240" alt="亞洲父母聽到你要去上色彩分 C"></a><br><a href="../memes/m0879.md">亞洲父母聽到你要去上色彩分 C</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（45）
+## ★★（46）
 
 <table>
 <tr>
@@ -372,9 +377,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0851.md"><img src="../images/m0851-elsword-real-estate-map.png" width="240" alt="艾爾房地產"></a><br><a href="../memes/m0851.md">艾爾房地產</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0860.md"><img src="../images/m0860-cant-find-seat-cafeteria.jpg" width="240" alt="這幅畫名字叫：我在食堂找不到位置"></a><br><a href="../memes/m0860.md">這幅畫名字叫：我在食堂找不到位置</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0883.md"><img src="../images/m0883-laios-would-actually-do-it.jpg" width="240" alt="如果是萊歐斯的話可能真的幹得出來"></a><br><a href="../memes/m0883.md">如果是萊歐斯的話可能真的幹得出來</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（53）
+## ⚠️ 需斟酌（55）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -903,6 +911,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0855.md"><img src="../images/m0855-kid-chili-eye-rub.png" width="240" alt="切辣椒時小孩揉眼睛"></a><br><a href="../memes/m0855.md">切辣椒時小孩揉眼睛</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>班，你怎麼會知道我在這裡？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0872.md"><img src="../images/m0872-thing-invisible-woman-plug.png" width="240" alt="班，你怎麼會知道我在這裡？"></a><br><a href="../memes/m0872.md">班，你怎麼會知道我在這裡？</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>他的命是叔叔救的 — ⚠️ 墮胎</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0876.md"><img src="../images/m0876-uncle-saved-your-life.png" width="240" alt="他的命是叔叔救的"></a><br><a href="../memes/m0876.md">他的命是叔叔救的</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

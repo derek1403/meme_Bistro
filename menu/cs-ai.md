@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 126 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（79）
+## ★（80）
 
 <table>
 <tr>
@@ -141,6 +141,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0870.md"><img src="../images/m0870-cycle-of-life-ai-sun-god.png" width="240" alt="生命的迴圈：AI 與太陽神"></a><br><a href="../memes/m0870.md">生命的迴圈：AI 與太陽神</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0874.md"><img src="../images/m0874-windows-update-looking-forward.png" width="240" alt="重開機時的 Windows Update"></a><br><a href="../memes/m0874.md">重開機時的 Windows Update</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

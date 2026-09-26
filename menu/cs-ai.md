@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 78 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 79 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（44）
 
@@ -133,7 +133,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（9）
+## ⚠️ 需斟酌（10）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -222,6 +222,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0449.md"><img src="../images/m0449-digital-infrastructure-geopolitics.png" width="240" alt="所有現代數位基礎建設（地緣政治版）"></a><br><a href="../memes/m0449.md">所有現代數位基礎建設（地緣政治版）</a><br><sub>👀🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>該死的雲焰 — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0460.md"><img src="../images/m0460-cloudflare-block-internet.png" width="240" alt="該死的雲焰"></a><br><a href="../memes/m0460.md">該死的雲焰</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

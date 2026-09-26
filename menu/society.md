@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 35 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 36 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（5）
 
@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（29）
+## ⚠️ 需斟酌（30）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -317,6 +317,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0436.md"><img src="../images/m0436-organs-expensive-190-per-hour.png" width="240" alt="器官拆開來很貴，合在一起每小時 190 元"></a><br><a href="../memes/m0436.md">器官拆開來很貴，合在一起每小時 190 元</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>服務業不能擺臭臉：你買這麼多木炭喔？ — ⚠️ 自殺</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0455.md"><img src="../images/m0455-service-smile-charcoal.png" width="240" alt="服務業不能擺臭臉：你買這麼多木炭喔？"></a><br><a href="../memes/m0455.md">服務業不能擺臭臉：你買這麼多木炭喔？</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

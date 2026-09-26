@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 104 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 105 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（54）
 
@@ -146,7 +146,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（26）
+## ⚠️ 需斟酌（27）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -405,6 +405,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0445.md"><img src="../images/m0445-einstein-sine-cosine-trip.png" width="240" alt="愛因斯坦……正弦、餘弦、正切……"></a><br><a href="../memes/m0445.md">愛因斯坦……正弦、餘弦、正切……</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這個掛了一大串肛塞的是誰？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0461.md"><img src="../images/m0461-flandre-silhouette-plugs.png" width="240" alt="這個掛了一大串肛塞的是誰？"></a><br><a href="../memes/m0461.md">這個掛了一大串肛塞的是誰？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

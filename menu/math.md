@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 126 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 131 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（41）
+## ★（44）
 
 <table>
 <tr>
@@ -77,10 +77,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0408.md"><img src="../images/m0408-2026-sum-of-zero-powers.png" width="240" alt="2026 = 1⁰ + 2⁰ + … + 2026⁰"></a><br><a href="../memes/m0408.md">2026 = 1⁰ + 2⁰ + … + 2026⁰</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0446.md"><img src="../images/m0446-teach-fish-exam-fish-radicals.png" width="240" alt="授之以魚，考之以鱈鰹鰾……"></a><br><a href="../memes/m0446.md">授之以魚，考之以鱈鰹鰾……</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0456.md"><img src="../images/m0456-i-am-a-tree-random-variable.png" width="240" alt="我是一棵樹！我是隨機變數"></a><br><a href="../memes/m0456.md">我是一棵樹！我是隨機變數</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0457.md"><img src="../images/m0457-normal-vector-to-plane.png" width="240" alt="朋友問平面的法向量長怎樣"></a><br><a href="../memes/m0457.md">朋友問平面的法向量長怎樣</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0459.md"><img src="../images/m0459-sqrt3-mathematician.png" width="240" alt="√3 就是 √3"></a><br><a href="../memes/m0459.md">√3 就是 √3</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（48）
+## ★★（50）
 
 <table>
 <tr>
@@ -162,6 +167,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0418.md"><img src="../images/m0418-integration-by-parts-determinant.png" width="240" alt="分部積分＝行列式？是這樣沒錯，但不是這樣"></a><br><a href="../memes/m0418.md">分部積分＝行列式？是這樣沒錯，但不是這樣</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0420.md"><img src="../images/m0420-russell-set-of-all-memes.png" width="240" alt="羅素：所有迷因的集合"></a><br><a href="../memes/m0420.md">羅素：所有迷因的集合</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0421.md"><img src="../images/m0421-grimm-fairy-tales-greens-function.png" width="240" alt="從讀格林童話到讀格林函數"></a><br><a href="../memes/m0421.md">從讀格林童話到讀格林函數</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0454.md"><img src="../images/m0454-not-chosen-is-chosen-binomial.png" width="240" alt="沒被選上，就是被選上"></a><br><a href="../memes/m0454.md">沒被選上，就是被選上</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0463.md"><img src="../images/m0463-ai-straight-route-great-circle.png" width="240" alt="AI 規劃了更直達的航線"></a><br><a href="../memes/m0463.md">AI 規劃了更直達的航線</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

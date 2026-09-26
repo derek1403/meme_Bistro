@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 148 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 149 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（98）
+## ★（99）
 
 <table>
 <tr>
@@ -172,6 +172,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1077.md"><img src="../images/m1077-online-course-promise-regression.png" width="240" alt="線上課程：它們承諾你會學到的"></a><br><a href="../memes/m1077.md">線上課程：它們承諾你會學到的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1094.md"><img src="../images/m1094-word-last-blank-page.png" width="240" alt="怎麼把 Word 最後一頁空白刪掉"></a><br><a href="../memes/m1094.md">怎麼把 Word 最後一頁空白刪掉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1150.md"><img src="../images/m1150-mobile-usability-thumb-zone.png" width="240" alt="Mobile Usability"></a><br><a href="../memes/m1150.md">Mobile Usability</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

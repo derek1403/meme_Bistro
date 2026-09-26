@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 433 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 439 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（290）
+## ★（293）
 
 <table>
 <tr>
@@ -492,6 +492,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1146.md"><img src="../images/m1146-ancient-as-forest-baby.png" width="240" alt="我和森林一樣古老"></a><br><a href="../memes/m1146.md">我和森林一樣古老</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1147.md"><img src="../images/m1147-flat-french-horn.png" width="240" alt="今天的法國號聽起來好扁平"></a><br><a href="../memes/m1147.md">今天的法國號聽起來好扁平</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1149.md"><img src="../images/m1149-new-year-eve-just-staying-up.png" width="240" alt="沒女朋友，那你今晚只能算熬夜"></a><br><a href="../memes/m1149.md">沒女朋友，那你今晚只能算熬夜</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1154.md"><img src="../images/m1154-boss-bonus-resignation.png" width="240" alt="員工拿完 Bonus 後一個一個丟信辭職"></a><br><a href="../memes/m1154.md">員工拿完 Bonus 後一個一個丟信辭職</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1156.md"><img src="../images/m1156-chiikawa-friends-hope-success.jpg" width="240" alt="真正的朋友會由衷希望對方成功"></a><br><a href="../memes/m1156.md">真正的朋友會由衷希望對方成功</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -595,7 +600,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（86）
+## ⚠️ 需斟酌（89）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1454,6 +1459,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1128.md"><img src="../images/m1128-cheat-once-a-month-97-percent.jpg" width="240" alt="一個月偷吃一次還是 97% 的忠誠"></a><br><a href="../memes/m1128.md">一個月偷吃一次還是 97% 的忠誠</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>When you show up at work high as f*ck — ⚠️ 毒品隱喻</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1151.md"><img src="../images/m1151-news-anchors-red-mug.png" width="240" alt="When you show up at work high as f*ck"></a><br><a href="../memes/m1151.md">When you show up at work high as f*ck</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>2025 年第一秒你會多得到一個煙火 — ⚠️ 血腥</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1152.md"><img src="../images/m1152-evangelion-new-year-firework.png" width="240" alt="2025 年第一秒你會多得到一個煙火"></a><br><a href="../memes/m1152.md">2025 年第一秒你會多得到一個煙火</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>老師，你剛掉教室的 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1157.md"><img src="../images/m1157-teacher-remote-please-dont-touch.png" width="240" alt="老師，你剛掉教室的"></a><br><a href="../memes/m1157.md">老師，你剛掉教室的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

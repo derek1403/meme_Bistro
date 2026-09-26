@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 377 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 387 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（248）
+## ★（256）
 
 <table>
 <tr>
@@ -422,10 +422,24 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1045.md"><img src="../images/m1045-polar-bear-meet-her-dad.png" width="240" alt="第一次去女朋友家時"></a><br><a href="../memes/m1045.md">第一次去女朋友家時</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1048.md"><img src="../images/m1048-25-go-see-doctor-alone.jpg" width="240" alt="都幾歲了！你明天自己去看醫生"></a><br><a href="../memes/m1048.md">都幾歲了！你明天自己去看醫生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1050.md"><img src="../images/m1050-previous-job-student-quit.png" width="240" alt="之前是學生，是什麼原因不做了？"></a><br><a href="../memes/m1050.md">之前是學生，是什麼原因不做了？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1051.md"><img src="../images/m1051-stove-coil-water-heater.png" width="240" alt="使用 200% 大腦的熱水器"></a><br><a href="../memes/m1051.md">使用 200% 大腦的熱水器</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1052.md"><img src="../images/m1052-cat-lost-passion-except-fries.png" width="240" alt="我似乎對一切都喪失熱情了——除了薯條"></a><br><a href="../memes/m1052.md">我似乎對一切都喪失熱情了——除了薯條</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1054.md"><img src="../images/m1054-return-red-envelope-money.png" width="240" alt="那現在我長大了可以把紅包錢還給我了吧"></a><br><a href="../memes/m1054.md">那現在我長大了可以把紅包錢還給我了吧</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1055.md"><img src="../images/m1055-bread-tongs-psychology.png" width="240" alt="麵包夾心理學"></a><br><a href="../memes/m1055.md">麵包夾心理學</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1056.md"><img src="../images/m1056-cat-lemon-mouse.jpg" width="240" alt="為什麼這隻老鼠和其他的不一樣？"></a><br><a href="../memes/m1056.md">為什麼這隻老鼠和其他的不一樣？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1057.md"><img src="../images/m1057-snow-ditto.jpg" width="240" alt="雪的品質不好，就先堆個百變怪吧"></a><br><a href="../memes/m1057.md">雪的品質不好，就先堆個百變怪吧</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1058.md"><img src="../images/m1058-scooter-poster-waiting.png" width="240" alt="等了一小時還不下來"></a><br><a href="../memes/m1058.md">等了一小時還不下來</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（53）
+## ★★（54）
 
 <table>
 <tr>
@@ -516,10 +530,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1032.md"><img src="../images/m1032-shopee-reply-good-song.jpg" width="240" alt="因為春日影是一首好歌"></a><br><a href="../memes/m1032.md">因為春日影是一首好歌</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1044.md"><img src="../images/m1044-chopin-simple-hated-passage.png" width="240" alt="蕭邦：看起來簡單但大家討厭的段落"></a><br><a href="../memes/m1044.md">蕭邦：看起來簡單但大家討厭的段落</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1059.md"><img src="../images/m1059-pet-translator-interesting-woman.png" width="240" alt="寵物翻譯師：她說有趣的女人"></a><br><a href="../memes/m1059.md">寵物翻譯師：她說有趣的女人</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（76）
+## ⚠️ 需斟酌（77）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1278,6 +1293,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1049.md"><img src="../images/m1049-woke-up-early-dont-wake-next-time.png" width="240" alt="醒了也不會找我"></a><br><a href="../memes/m1049.md">醒了也不會找我</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>烏龜：不慢，只是沒什麼地方要去 — ⚠️ 動物捕食</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1060.md"><img src="../images/m1060-turtle-nowhere-to-go-eagle.png" width="240" alt="烏龜：不慢，只是沒什麼地方要去"></a><br><a href="../memes/m1060.md">烏龜：不慢，只是沒什麼地方要去</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

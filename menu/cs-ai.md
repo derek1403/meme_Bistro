@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 86 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 87 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（51）
 
@@ -96,7 +96,7 @@
 </tr>
 </table>
 
-## ★★（25）
+## ★★（26）
 
 <table>
 <tr>
@@ -141,6 +141,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0451.md"><img src="../images/m0451-digital-infrastructure-cloudflare.png" width="240" alt="所有現代數位基礎建設（2025 版）"></a><br><a href="../memes/m0451.md">所有現代數位基礎建設（2025 版）</a><br><sub>👀🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0521.md"><img src="../images/m0521-linux-from-scratch-for-babies.png" width="240" alt="Linux From Scratch for Babies"></a><br><a href="../memes/m0521.md">Linux From Scratch for Babies</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

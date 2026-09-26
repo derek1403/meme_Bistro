@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 46 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 47 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（21）
 
@@ -46,7 +46,7 @@
 </tr>
 </table>
 
-## ★★（8）
+## ★★（9）
 
 <table>
 <tr>
@@ -62,6 +62,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0381.md"><img src="../images/m0381-sparkle-reversed-huohua.png" width="240" alt="花火倒過來是火花"></a><br><a href="../memes/m0381.md">花火倒過來是火花</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0387.md"><img src="../images/m0387-linear-mandarin-five-elements.png" width="240" alt="線性中文：金木水火土外積"></a><br><a href="../memes/m0387.md">線性中文：金木水火土外積</a><br><sub>👀🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0517.md"><img src="../images/m0517-legendary-suzuki-densetsu.png" width="240" alt="傳說中的鈴木先生"></a><br><a href="../memes/m0517.md">傳說中的鈴木先生</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

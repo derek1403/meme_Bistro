@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 141 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 142 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（47）
+## ★（48）
 
 <table>
 <tr>
@@ -87,6 +87,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0484.md"><img src="../images/m0484-log-is-10g-mass.png" width="240" alt="那個 10g 是三小，算質量喔？"></a><br><a href="../memes/m0484.md">那個 10g 是三小，算質量喔？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0486.md"><img src="../images/m0486-fibonacci-miles-to-km.png" width="240" alt="用費氏數列換算英里到公里"></a><br><a href="../memes/m0486.md">用費氏數列換算英里到公里</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0526.md"><img src="../images/m0526-ghost-integral-paper-pen.png" width="240" alt="嗚～～～用紙筆算這題"></a><br><a href="../memes/m0526.md">嗚～～～用紙筆算這題</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

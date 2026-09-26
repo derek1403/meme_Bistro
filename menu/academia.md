@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 29 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 30 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（23）
+## ★（24）
 
 <table>
 <tr>
@@ -47,6 +47,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0496.md"><img src="../images/m0496-quit-phd-after-5-semesters.png" width="240" alt="我讀了五個學期就放棄博士了"></a><br><a href="../memes/m0496.md">我讀了五個學期就放棄博士了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0504.md"><img src="../images/m0504-report-due-at-12.png" width="240" alt="今天 12 點前一定要交報告"></a><br><a href="../memes/m0504.md">今天 12 點前一定要交報告</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0525.md"><img src="../images/m0525-kyoto-astronomy-zero-points.png" width="240" alt="京都大學：以下感想以 0 分計算"></a><br><a href="../memes/m0525.md">京都大學：以下感想以 0 分計算</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

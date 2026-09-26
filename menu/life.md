@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 125 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 130 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（67）
+## ★（70）
 
 <table>
 <tr>
@@ -121,6 +121,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0513.md"><img src="../images/m0513-astigmatism-mug-wall.png" width="240" alt="有散光的人看到的世界"></a><br><a href="../memes/m0513.md">有散光的人看到的世界</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0516.md"><img src="../images/m0516-traffic-cone-cement-crew.png" width="240" alt="你也水泥工班！"></a><br><a href="../memes/m0516.md">你也水泥工班！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0520.md"><img src="../images/m0520-credit-card-thief-supermarket.png" width="240" alt="有個竊賊正在盜刷您的信用卡"></a><br><a href="../memes/m0520.md">有個竊賊正在盜刷您的信用卡</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0522.md"><img src="../images/m0522-cure-trypophobia-gold.png" width="240" alt="如何快速治癒密集恐懼症"></a><br><a href="../memes/m0522.md">如何快速治癒密集恐懼症</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -177,7 +182,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（30）
+## ⚠️ 需斟酌（32）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -476,6 +481,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0490.md"><img src="../images/m0490-she-likes-rich-i-like-18.png" width="240" alt="我們兩個人都沒有變"></a><br><a href="../memes/m0490.md">我們兩個人都沒有變</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>巴麻美隨身碟：符合原著 — ⚠️ 暴力（動畫情節）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0519.md"><img src="../images/m0519-mami-usb-canon-accurate.png" width="240" alt="巴麻美隨身碟：符合原著"></a><br><a href="../memes/m0519.md">巴麻美隨身碟：符合原著</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我就知道那不是鳥屎 — ⚠️ 露骨性內容＋噁心</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0523.md"><img src="../images/m0523-reddit-bird-poop-window.png" width="240" alt="我就知道那不是鳥屎"></a><br><a href="../memes/m0523.md">我就知道那不是鳥屎</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

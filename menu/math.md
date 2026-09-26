@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 123 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（40）
 
@@ -164,7 +164,7 @@
 </tr>
 </table>
 
-## ★★★（27）
+## ★★★（28）
 
 <table>
 <tr>
@@ -211,6 +211,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0379.md"><img src="../images/m0379-tensor-product-coend.png" width="240" alt="張量積其實就是餘端？"></a><br><a href="../memes/m0379.md">張量積其實就是餘端？</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0382.md"><img src="../images/m0382-tensor-decategorified-multiprofunctor.png" width="240" alt="張量是去範疇化的多重 profunctor"></a><br><a href="../memes/m0382.md">張量是去範疇化的多重 profunctor</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0396.md"><img src="../images/m0396-cycle-index-a-bit-difficult.png" width="240" alt="可以看出，雖然有點難"></a><br><a href="../memes/m0396.md">可以看出，雖然有點難</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0422.md"><img src="../images/m0422-big-o-seasons.png" width="240" alt="𝒪 的四季"></a><br><a href="../memes/m0422.md">𝒪 的四季</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

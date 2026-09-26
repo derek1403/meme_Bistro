@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 35 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 39 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（15）
 
@@ -55,7 +55,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（12）
+## ⚠️ 需斟酌（16）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -174,6 +174,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0386.md"><img src="../images/m0386-venezuela-outsourced.png" width="240" alt="委內瑞拉被外國人接管"></a><br><a href="../memes/m0386.md">委內瑞拉被外國人接管</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>以後迈乎就叫 123 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0423.md"><img src="../images/m0423-xi-jin-ping-123.png" width="240" alt="以後迈乎就叫 123"></a><br><a href="../memes/m0423.md">以後迈乎就叫 123</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我失綿了 — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0424.md"><img src="../images/m0424-sheep-lost-wool-insomnia.png" width="240" alt="我失綿了"></a><br><a href="../memes/m0424.md">我失綿了</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>人中下面那個器官 — ⚠️ 性暗示（誤讀）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0429.md"><img src="../images/m0429-organ-below-philtrum.png" width="240" alt="人中下面那個器官"></a><br><a href="../memes/m0429.md">人中下面那個器官</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>蟹肉棒為什麼不叫雜魚肉棒 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0431.md"><img src="../images/m0431-crab-stick-fish-stick.png" width="240" alt="蟹肉棒為什麼不叫雜魚肉棒"></a><br><a href="../memes/m0431.md">蟹肉棒為什麼不叫雜魚肉棒</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

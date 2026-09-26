@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 97 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（43）
 
@@ -161,7 +161,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（14）
+## ⚠️ 需斟酌（15）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -300,6 +300,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0880.md"><img src="../images/m0880-land-tortoise-freedom.jpg" width="240" alt="我是隻陸龜，你這個智障"></a><br><a href="../memes/m0880.md">我是隻陸龜，你這個智障</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>蜘蛛吸毒後織的網 — ⚠️ 毒品</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0983.md"><img src="../images/m0983-spider-webs-on-drugs.png" width="240" alt="蜘蛛吸毒後織的網"></a><br><a href="../memes/m0983.md">蜘蛛吸毒後織的網</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

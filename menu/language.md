@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 90 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 91 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（59）
 
@@ -133,7 +133,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（21）
+## ⚠️ 需斟酌（22）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -342,6 +342,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0881.md"><img src="../images/m0881-rabbit-cao-si-wo.png" width="240" alt="兔子是素食主義，草飼我就行"></a><br><a href="../memes/m0881.md">兔子是素食主義，草飼我就行</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>本群四大重工業 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0985.md"><img src="../images/m0985-four-heavy-industries-puns.jpg" width="240" alt="本群四大重工業"></a><br><a href="../memes/m0985.md">本群四大重工業</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

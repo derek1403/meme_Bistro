@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 138 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 139 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（89）
 
@@ -160,7 +160,7 @@
 </tr>
 </table>
 
-## ★★（36）
+## ★★（37）
 
 <table>
 <tr>
@@ -222,6 +222,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0750.md"><img src="../images/m0750-genai-ouroboros-problem.png" width="240" alt="他在想的是 GenAI 銜尾蛇問題"></a><br><a href="../memes/m0750.md">他在想的是 GenAI 銜尾蛇問題</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0902.md"><img src="../images/m0902-identity-theft-binary-card.png" width="240" alt="身分盜竊不是開玩笑的！"></a><br><a href="../memes/m0902.md">身分盜竊不是開玩笑的！</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0981.md"><img src="../images/m0981-openai-deepseek-coconut-straw.png" width="240" alt="Deep sip：OpenAI 與 DeepSeek 共享椰子"></a><br><a href="../memes/m0981.md">Deep sip：OpenAI 與 DeepSeek 共享椰子</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0993.md"><img src="../images/m0993-deepseek-fishing-chatgpt-bucket.png" width="240" alt="DeepSeek 在 ChatGPT 的水桶裡釣魚"></a><br><a href="../memes/m0993.md">DeepSeek 在 ChatGPT 的水桶裡釣魚</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,27 +4,27 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-每次執行 `tools/build_menu.py` 會依當天日期（2026-09-26）隨機抽出 12 杯，不含需斟酌的內容。
+每次執行 `tools/build_menu.py` 會依當天日期（2026-09-27）隨機抽出 12 杯，不含需斟酌的內容。
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0148.md"><img src="../images/m0148-viral-math-ambiguous-notation.png" width="240" alt="新的爆紅數學題"></a><br><a href="../memes/m0148.md">新的爆紅數學題</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0743.md"><img src="../images/m0743-fire-shadow-hokage.jpg" width="240" alt="為什麼看不見火的影子？"></a><br><a href="../memes/m0743.md">為什麼看不見火的影子？</a><br><sub>🔤 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0041.md"><img src="../images/m0041-adhd-introvert-with-ai.png" width="240" alt="具 ADHD 的內向者（有 AI 助力）"></a><br><a href="../memes/m0041.md">具 ADHD 的內向者（有 AI 助力）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0273.md"><img src="../images/m0273-suhua-highway-1-9-cars.png" width="240" alt="蘇花公路湧入 1.9 輛車"></a><br><a href="../memes/m0273.md">蘇花公路湧入 1.9 輛車</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0081.md"><img src="../images/m0081-countdown-82-prime.png" width="240" alt="從 82 倒數到 1 竟是質數"></a><br><a href="../memes/m0081.md">從 82 倒數到 1 竟是質數</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0642.md"><img src="../images/m0642-distribution-plushies.png" width="240" alt="常態分布與卡方分布布偶"></a><br><a href="../memes/m0642.md">常態分布與卡方分布布偶</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0470.md"><img src="../images/m0470-one-third-0-333333.png" width="240" alt="三分之一 = o.333333"></a><br><a href="../memes/m0470.md">三分之一 = o.333333</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0269.md"><img src="../images/m0269-he-wont-mess-up-isekai.jpg" width="240" alt="他不會搞砸（異世界主角圖鑑）"></a><br><a href="../memes/m0269.md">他不會搞砸（異世界主角圖鑑）</a><br><sub>👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0074.md"><img src="../images/m0074-mathematician-doing-research.png" width="240" alt="數學家的所謂「進行研究」"></a><br><a href="../memes/m0074.md">數學家的所謂「進行研究」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0741.md"><img src="../images/m0741-functions-vs-continuous.png" width="240" alt="揭穿微積分的真相：連續函數佔多少？"></a><br><a href="../memes/m0741.md">揭穿微積分的真相：連續函數佔多少？</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0308.md"><img src="../images/m0308-classical-vs-quantum-doge.png" width="240" alt="古典力學 vs 量子物理"></a><br><a href="../memes/m0308.md">古典力學 vs 量子物理</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0363.md"><img src="../images/m0363-coworker-fired-for-what-i-taught.png" width="240" alt="同事因為我教他的事被開除了"></a><br><a href="../memes/m0363.md">同事因為我教他的事被開除了</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0616.md"><img src="../images/m0616-military-still-re-sign.jpg" width="240" alt="我還是會續簽下去"></a><br><a href="../memes/m0616.md">我還是會續簽下去</a><br><sub>👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0028.md"><img src="../images/m0028-sudo-open-your-eyes.png" width="240" alt="sudo 打開你的眼睛"></a><br><a href="../memes/m0028.md">sudo 打開你的眼睛</a><br><sub>🧠👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0004.md"><img src="../images/m0004-gauss-bonnet-powerpuff.png" width="240" alt="高斯–博內定理是怎麼煉成的"></a><br><a href="../memes/m0004.md">高斯–博內定理是怎麼煉成的</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0960.md"><img src="../images/m0960-chihuahua-fog-reversed.jpg" width="240" alt="霧吉必反"></a><br><a href="../memes/m0960.md">霧吉必反</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0007.md"><img src="../images/m0007-password-must-be-unique.png" width="240" alt="密碼必須唯一"></a><br><a href="../memes/m0007.md">密碼必須唯一</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0688.md"><img src="../images/m0688-not-significantly-different-dad.png" width="240" alt="與好爸爸的標準沒有顯著差異"></a><br><a href="../memes/m0688.md">與好爸爸的標準沒有顯著差異</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0434.md"><img src="../images/m0434-boss-bracket-actions.png" width="240" alt="主管的括號動作太長了"></a><br><a href="../memes/m0434.md">主管的括號動作太長了</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0285.md"><img src="../images/m0285-a-over-b-plus-c-equals-4.png" width="240" alt="國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4"></a><br><a href="../memes/m0285.md">國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4</a><br><sub>🧠 ★★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0821.md"><img src="../images/m0821-madoka-vs-mujica-roles.png" width="240" alt="苦苦掙扎的女主一號、無法戰勝的天災"></a><br><a href="../memes/m0821.md">苦苦掙扎的女主一號、無法戰勝的天災</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0069.md"><img src="../images/m0069-spoiled-on-airplane.png" width="240" alt="在飛機上看超輝被劇透"></a><br><a href="../memes/m0069.md">在飛機上看超輝被劇透</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0782.md"><img src="../images/m0782-eye-chart-ave-mujica.jpg" width="240" alt="視力表裡的 AVE Mujica"></a><br><a href="../memes/m0782.md">視力表裡的 AVE Mujica</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0369.md"><img src="../images/m0369-boss-1000-no-change.png" width="240" alt="主管給 1000 說不用找了"></a><br><a href="../memes/m0369.md">主管給 1000 說不用找了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

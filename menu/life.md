@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 331 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 338 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（213）
+## ★（219）
 
 <table>
 <tr>
@@ -364,6 +364,16 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0979.md"><img src="../images/m0979-mom-sleep-enforcer-boss.png" width="240" alt="老媽：睡眠強制執行者"></a><br><a href="../memes/m0979.md">老媽：睡眠強制執行者</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0982.md"><img src="../images/m0982-rejected-and-flipped-the-table.jpg" width="240" alt="她不但不吃還把桌子掀了"></a><br><a href="../memes/m0982.md">她不但不吃還把桌子掀了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0984.md"><img src="../images/m0984-superman-threw-my-car.jpg" width="240" alt="超人把分 36 期買的車丟向了壞人"></a><br><a href="../memes/m0984.md">超人把分 36 期買的車丟向了壞人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0986.md"><img src="../images/m0986-bc400-cat-wake-up-feed-me.jpg" width="240" alt="公元前 400 年的雕刻品《趕快起床餵我吃飯》"></a><br><a href="../memes/m0986.md">公元前 400 年的雕刻品《趕快起床餵我吃飯》</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0987.md"><img src="../images/m0987-rescue-team-golden-retrievers.png" width="240" alt="我和我的救援隊"></a><br><a href="../memes/m0987.md">我和我的救援隊</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0989.md"><img src="../images/m0989-interstellar-work-hour-7-years.png" width="240" alt="這裡一小時等於地球七年"></a><br><a href="../memes/m0989.md">這裡一小時等於地球七年</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0990.md"><img src="../images/m0990-cat-pet-until-only-ugly.png" width="240" alt="摸到你只剩醜為止"></a><br><a href="../memes/m0990.md">摸到你只剩醜為止</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0991.md"><img src="../images/m0991-group-photo-mirror-trick.png" width="240" alt="過年聚會拍團體照最佳示範"></a><br><a href="../memes/m0991.md">過年聚會拍團體照最佳示範</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（49）
@@ -454,7 +464,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（69）
+## ⚠️ 需斟酌（70）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1143,6 +1153,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0980.md"><img src="../images/m0980-transformers-restroom.png" width="240" alt="男廁、女廁、變形金剛廁"></a><br><a href="../memes/m0980.md">男廁、女廁、變形金剛廁</a><br><sub>🔤👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>貓娘／項圈／膠衣／束縛／窒息／水很多 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0992.md"><img src="../images/m0992-cat-wrapped-water-bottles.png" width="240" alt="貓娘／項圈／膠衣／束縛／窒息／水很多"></a><br><a href="../memes/m0992.md">貓娘／項圈／膠衣／束縛／窒息／水很多</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

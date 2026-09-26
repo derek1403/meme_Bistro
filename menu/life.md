@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 323 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 331 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（209）
+## ★（213）
 
 <table>
 <tr>
@@ -357,6 +357,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0969.md"><img src="../images/m0969-adult-books-section-health.jpg" width="240" alt="成人單本區"></a><br><a href="../memes/m0969.md">成人單本區</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0970.md"><img src="../images/m0970-100-usagi-this-one-different.jpg" width="240" alt="你已經有 100 隻烏薩奇了"></a><br><a href="../memes/m0970.md">你已經有 100 隻烏薩奇了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0973.md"><img src="../images/m0973-cried-until-12-sharp.jpg" width="240" alt="你為什麼看著錶哭？"></a><br><a href="../memes/m0973.md">你為什麼看著錶哭？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0976.md"><img src="../images/m0976-burger-with-peel.jpg" width="240" alt="你們吃漢堡剝皮還是不剝皮？"></a><br><a href="../memes/m0976.md">你們吃漢堡剝皮還是不剝皮？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0979.md"><img src="../images/m0979-mom-sleep-enforcer-boss.png" width="240" alt="老媽：睡眠強制執行者"></a><br><a href="../memes/m0979.md">老媽：睡眠強制執行者</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0982.md"><img src="../images/m0982-rejected-and-flipped-the-table.jpg" width="240" alt="她不但不吃還把桌子掀了"></a><br><a href="../memes/m0982.md">她不但不吃還把桌子掀了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -448,7 +454,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（65）
+## ⚠️ 需斟酌（69）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1097,6 +1103,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0968.md"><img src="../images/m0968-pikachu-bento-peaceful-rest.png" width="240" alt="別人的皮卡丘是安逸，你的是安詳"></a><br><a href="../memes/m0968.md">別人的皮卡丘是安逸，你的是安詳</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我就坐在家門口等你們來接我 — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0972.md"><img src="../images/m0972-sit-at-door-wait-parents.png" width="240" alt="我就坐在家門口等你們來接我"></a><br><a href="../memes/m0972.md">我就坐在家門口等你們來接我</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我每天都不開心，只是今天沒力氣隱藏 — ⚠️ 心理健康</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0974.md"><img src="../images/m0974-unhappy-every-day-ice-age.jpg" width="240" alt="我每天都不開心，只是今天沒力氣隱藏"></a><br><a href="../memes/m0974.md">我每天都不開心，只是今天沒力氣隱藏</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>遊戲裡殺的也算 — ⚠️ 死亡（遊戲）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0975.md"><img src="../images/m0975-heaven-forgiveness-game-kills.jpg" width="240" alt="遊戲裡殺的也算"></a><br><a href="../memes/m0975.md">遊戲裡殺的也算</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>男廁、女廁、變形金剛廁 — ⚠️ 性別議題</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0980.md"><img src="../images/m0980-transformers-restroom.png" width="240" alt="男廁、女廁、變形金剛廁"></a><br><a href="../memes/m0980.md">男廁、女廁、變形金剛廁</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 

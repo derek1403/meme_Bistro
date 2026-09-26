@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 73 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 74 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（12）
+## ★（13）
 
 <table>
 <tr>
@@ -28,6 +28,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0679.md"><img src="../images/m0679-yes-but-50-50.png" width="240" alt="YES, BUT：50/50"></a><br><a href="../memes/m0679.md">YES, BUT：50/50</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0814.md"><img src="../images/m0814-curse-early-baby.jpg" width="240" alt="以前詛咒別人 vs 現在詛咒別人"></a><br><a href="../memes/m0814.md">以前詛咒別人 vs 現在詛咒別人</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0916.md"><img src="../images/m0916-why-is-my-height-important.png" width="240" alt="那為什麼我的身高就很重要？"></a><br><a href="../memes/m0916.md">那為什麼我的身高就很重要？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0978.md"><img src="../images/m0978-history-1896-ended-1895.jpg" width="240" alt="1896 年什麼結束了？1895"></a><br><a href="../memes/m0978.md">1896 年什麼結束了？1895</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

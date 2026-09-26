@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 138 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（88）
+## ★（89）
 
 <table>
 <tr>
@@ -156,10 +156,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0926.md"><img src="../images/m0926-thermodynamics-three-ai-answers.png" width="240" alt="三個 AI 給出三種不同算法"></a><br><a href="../memes/m0926.md">三個 AI 給出三種不同算法</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0977.md"><img src="../images/m0977-chatgpt-pick-number-dont-talk.jpg" width="240" alt="我能重選一次嗎？50"></a><br><a href="../memes/m0977.md">我能重選一次嗎？50</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（35）
+## ★★（36）
 
 <table>
 <tr>
@@ -220,6 +221,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0750.md"><img src="../images/m0750-genai-ouroboros-problem.png" width="240" alt="他在想的是 GenAI 銜尾蛇問題"></a><br><a href="../memes/m0750.md">他在想的是 GenAI 銜尾蛇問題</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0902.md"><img src="../images/m0902-identity-theft-binary-card.png" width="240" alt="身分盜竊不是開玩笑的！"></a><br><a href="../memes/m0902.md">身分盜竊不是開玩笑的！</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0981.md"><img src="../images/m0981-openai-deepseek-coconut-straw.png" width="240" alt="Deep sip：OpenAI 與 DeepSeek 共享椰子"></a><br><a href="../memes/m0981.md">Deep sip：OpenAI 與 DeepSeek 共享椰子</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

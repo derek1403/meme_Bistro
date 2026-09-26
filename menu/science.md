@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 59 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 60 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（26）
+## ★（27）
 
 <table>
 <tr>
@@ -52,6 +52,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0587.md"><img src="../images/m0587-physicists-vegas-no-gambling.png" width="240" alt="物理學家讓拉斯維加斯損失慘重"></a><br><a href="../memes/m0587.md">物理學家讓拉斯維加斯損失慘重</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0592.md"><img src="../images/m0592-electrons-equal-electrons.png" width="240" alt="原子中的電子數和哪個相同？"></a><br><a href="../memes/m0592.md">原子中的電子數和哪個相同？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0604.md"><img src="../images/m0604-human-body-cable-management.png" width="240" alt="人體的理線"></a><br><a href="../memes/m0604.md">人體的理線</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

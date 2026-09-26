@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 48 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 49 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（8）
 
@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（39）
+## ⚠️ 需斟酌（40）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -422,6 +422,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0599.md"><img src="../images/m0599-silver-bullet-werewolf.png" width="240" alt="我幹掉狼人了！"></a><br><a href="../memes/m0599.md">我幹掉狼人了！</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>OnlyFans 是全世界營收效率最高的公司 — ⚠️ 性產業</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0607.md"><img src="../images/m0607-onlyfans-revenue-per-employee.png" width="240" alt="OnlyFans 是全世界營收效率最高的公司"></a><br><a href="../memes/m0607.md">OnlyFans 是全世界營收效率最高的公司</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

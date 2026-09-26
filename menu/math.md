@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 160 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（56）
+## ★（58）
 
 <table>
 <tr>
@@ -102,6 +102,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0596.md"><img src="../images/m0596-yibian-yibian-triangle.png" width="240" alt="用「一邊……一邊……」造句"></a><br><a href="../memes/m0596.md">用「一邊……一邊……」造句</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0597.md"><img src="../images/m0597-math-textbook-f-x-delta-logo.png" width="240" alt="數學課本封面的「學」字"></a><br><a href="../memes/m0597.md">數學課本封面的「學」字</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0606.md"><img src="../images/m0606-letters-shouldnt-be-in-math.png" width="240" alt="不該出現在數學裡的字母"></a><br><a href="../memes/m0606.md">不該出現在數學裡的字母</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0609.md"><img src="../images/m0609-average-iq-test.png" width="240" alt="最快測智商的方法：講一個平均值"></a><br><a href="../memes/m0609.md">最快測智商的方法：講一個平均值</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

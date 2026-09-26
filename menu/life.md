@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 153 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（91）
+## ★（95）
 
 <table>
 <tr>
@@ -161,6 +161,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0601.md"><img src="../images/m0601-samoyed-chess-piece.png" width="240" alt="薩摩耶棋子"></a><br><a href="../memes/m0601.md">薩摩耶棋子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0602.md"><img src="../images/m0602-witch-broom-bike-parking.png" width="240" alt="竟然有女巫住在我家附近"></a><br><a href="../memes/m0602.md">竟然有女巫住在我家附近</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0603.md"><img src="../images/m0603-shiba-leaf-portrait.png" width="240" alt="落葉拼成的柴犬"></a><br><a href="../memes/m0603.md">落葉拼成的柴犬</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0605.md"><img src="../images/m0605-penguin-butter-skating.png" width="240" alt="可以在平底鍋上滑行的企鵝奶油"></a><br><a href="../memes/m0605.md">可以在平底鍋上滑行的企鵝奶油</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0610.md"><img src="../images/m0610-churchill-is-dead-onion-sandwich.png" width="240" alt="邱吉爾已經過世了，兄弟"></a><br><a href="../memes/m0610.md">邱吉爾已經過世了，兄弟</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -217,7 +223,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（34）
+## ⚠️ 需斟酌（35）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -556,6 +562,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0595.md"><img src="../images/m0595-girlfriend-wants-to-peg-cat.jpg" width="240" alt="當你女朋友突然說想捅你屁眼"></a><br><a href="../memes/m0595.md">當你女朋友突然說想捅你屁眼</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>iPhone Air 的 5.6mm 量法 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0611.md"><img src="../images/m0611-iphone-air-5-6mm-trick.png" width="240" alt="iPhone Air 的 5.6mm 量法"></a><br><a href="../memes/m0611.md">iPhone Air 的 5.6mm 量法</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

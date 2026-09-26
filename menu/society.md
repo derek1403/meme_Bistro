@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 52 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 53 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（9）
 
@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（42）
+## ⚠️ 需斟酌（43）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -453,6 +453,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0645.md"><img src="../images/m0645-gender-neutral-restroom-equal.png" width="240" alt="性別中立廁所的兩種尊重"></a><br><a href="../memes/m0645.md">性別中立廁所的兩種尊重</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>將軍：我來看看你們在幹什麼 — ⚠️ 政治人物＋性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0666.md"><img src="../images/m0666-general-peeks-at-sandiao.png" width="240" alt="將軍：我來看看你們在幹什麼"></a><br><a href="../memes/m0666.md">將軍：我來看看你們在幹什麼</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 180 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 184 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（109）
+## ★（111）
 
 <table>
 <tr>
@@ -191,6 +191,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0664.md"><img src="../images/m0664-saber-fast-food-apps.png" width="240" alt="Saber 的手機 App"></a><br><a href="../memes/m0664.md">Saber 的手機 App</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0671.md"><img src="../images/m0671-foxes-laughing-slapping.png" width="240" alt="笑到根本不能呼吸時"></a><br><a href="../memes/m0671.md">笑到根本不能呼吸時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0674.md"><img src="../images/m0674-3d-sheet-music.png" width="240" alt="你的音樂要更有立體感"></a><br><a href="../memes/m0674.md">你的音樂要更有立體感</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 
@@ -254,7 +256,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（38）
+## ⚠️ 需斟酌（40）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -633,6 +635,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0638.md"><img src="../images/m0638-find-giant-pikachu.png" width="240" alt="10 秒內找到皮卡丘"></a><br><a href="../memes/m0638.md">10 秒內找到皮卡丘</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>對不起，有一點偏科 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0669.md"><img src="../images/m0669-radar-chart-lust-overflow.png" width="240" alt="對不起，有一點偏科"></a><br><a href="../memes/m0669.md">對不起，有一點偏科</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>姐夫：是我先動的手 — ⚠️ 家暴（反轉）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0673.md"><img src="../images/m0673-brother-in-law-fight.png" width="240" alt="姐夫：是我先動的手"></a><br><a href="../memes/m0673.md">姐夫：是我先動的手</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

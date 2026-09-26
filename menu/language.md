@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 52 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 53 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（26）
+## ★（27）
 
 <table>
 <tr>
@@ -52,6 +52,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0608.md"><img src="../images/m0608-never-gonna-flowchart.png" width="240" alt="Never Gonna Give You Up 流程圖"></a><br><a href="../memes/m0608.md">Never Gonna Give You Up 流程圖</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0612.md"><img src="../images/m0612-why-read-books-sunset.png" width="240" alt="人為什麼要讀書"></a><br><a href="../memes/m0612.md">人為什麼要讀書</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0672.md"><img src="../images/m0672-crocodile-every-tuesday.png" width="240" alt="什麼動物會在每個星期二出現？"></a><br><a href="../memes/m0672.md">什麼動物會在每個星期二出現？</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

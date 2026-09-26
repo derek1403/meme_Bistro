@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 171 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 173 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（62）
+## ★（63）
 
 <table>
 <tr>
@@ -112,6 +112,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0642.md"><img src="../images/m0642-distribution-plushies.png" width="240" alt="常態分布與卡方分布布偶"></a><br><a href="../memes/m0642.md">常態分布與卡方分布布偶</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0665.md"><img src="../images/m0665-taylor-expansion-akaza.png" width="240" alt="術式展開：泰勒展開"></a><br><a href="../memes/m0665.md">術式展開：泰勒展開</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0667.md"><img src="../images/m0667-slime-ate-wife-identity.png" width="240" alt="史萊姆吞噬了你的妻子，那牠是誰？"></a><br><a href="../memes/m0667.md">史萊姆吞噬了你的妻子，那牠是誰？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -229,7 +230,7 @@
 </tr>
 </table>
 
-## ★★★（32）
+## ★★★（33）
 
 <table>
 <tr>
@@ -285,6 +286,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0571.md"><img src="../images/m0571-solve-quadratic-galois-theory.png" width="240" alt="怎麼解 3x² − x = 8？先考慮伽羅瓦群"></a><br><a href="../memes/m0571.md">怎麼解 3x² − x = 8？先考慮伽羅瓦群</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0585.md"><img src="../images/m0585-eevee-matrix-decompositions.png" width="240" alt="矩陣 A 的進化型"></a><br><a href="../memes/m0585.md">矩陣 A 的進化型</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0670.md"><img src="../images/m0670-abs-e-ipi-pi-ie-i-epi.png" width="240" alt="|e^{iπ} π^{ie} i^{eπ}| = ？"></a><br><a href="../memes/m0670.md">|e^{iπ} π^{ie} i^{eπ}| = ？</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 35 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 36 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（28）
+## ★（29）
 
 <table>
 <tr>
@@ -56,6 +56,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0648.md"><img src="../images/m0648-copied-wikipedia-i-wrote-it.png" width="240" alt="你抄維基百科？那篇是我寫的"></a><br><a href="../memes/m0648.md">你抄維基百科？那篇是我寫的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0668.md"><img src="../images/m0668-course-selection-squidward.png" width="240" alt="認真填二階初選的學生"></a><br><a href="../memes/m0668.md">認真填二階初選的學生</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

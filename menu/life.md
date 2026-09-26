@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 239 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 246 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（152）
+## ★（155）
 
 <table>
 <tr>
@@ -262,10 +262,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0811.md"><img src="../images/m0811-thanks-boss-you-go-busy.png" width="240" alt="「辛苦了」一般是上級對下級的慰問用詞"></a><br><a href="../memes/m0811.md">「辛苦了」一般是上級對下級的慰問用詞</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0812.md"><img src="../images/m0812-call-the-tv-remote.png" width="240" alt="找不到遙控器時就打電話給它"></a><br><a href="../memes/m0812.md">找不到遙控器時就打電話給它</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0818.md"><img src="../images/m0818-cyan-painted-cockroach.png" width="240" alt="街頭上最潮 der 蟑螂"></a><br><a href="../memes/m0818.md">街頭上最潮 der 蟑螂</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0819.md"><img src="../images/m0819-wake-up-son-rooster-hen.png" width="240" alt="你那個什麼公雞母雞的卡通早就結束了"></a><br><a href="../memes/m0819.md">你那個什麼公雞母雞的卡通早就結束了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0822.md"><img src="../images/m0822-google-maps-cross-railway.png" width="240" alt="謝謝你喔谷歌地圖"></a><br><a href="../memes/m0822.md">謝謝你喔谷歌地圖</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（39）
+## ★★（41）
 
 <table>
 <tr>
@@ -333,9 +338,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0782.md"><img src="../images/m0782-eye-chart-ave-mujica.jpg" width="240" alt="視力表裡的 AVE Mujica"></a><br><a href="../memes/m0782.md">視力表裡的 AVE Mujica</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0809.md"><img src="../images/m0809-claustrophobia-ave-mujica.png" width="240" alt="幽閉恐懼症＝害怕幽閉星光"></a><br><a href="../memes/m0809.md">幽閉恐懼症＝害怕幽閉星光</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0817.md"><img src="../images/m0817-destiny-community-mygo.png" width="240" alt="要不要成為命運共同體"></a><br><a href="../memes/m0817.md">要不要成為命運共同體</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0821.md"><img src="../images/m0821-madoka-vs-mujica-roles.png" width="240" alt="苦苦掙扎的女主一號、無法戰勝的天災"></a><br><a href="../memes/m0821.md">苦苦掙扎的女主一號、無法戰勝的天災</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（48）
+## ⚠️ 需斟酌（50）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -814,6 +823,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0813.md"><img src="../images/m0813-solo-leveling-arise-tomb.png" width="240" alt="看完我獨自升級後，明天掃墓：起來"></a><br><a href="../memes/m0813.md">看完我獨自升級後，明天掃墓：起來</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>今天天氣不錯，我打算把上司幹掉 — ⚠️ 暴力（虛構）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0815.md"><img src="../images/m0815-nice-weather-kill-boss-novel.jpg" width="240" alt="今天天氣不錯，我打算把上司幹掉"></a><br><a href="../memes/m0815.md">今天天氣不錯，我打算把上司幹掉</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我找人揍的啊 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0820.md"><img src="../images/m0820-mom-hired-people-to-beat-dad.png" width="240" alt="我找人揍的啊"></a><br><a href="../memes/m0820.md">我找人揍的啊</a><br><sub>👀🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -25,6 +25,6 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0434.md"><img src="../images/m0434-boss-bracket-actions.png" width="240" alt="主管的括號動作太長了"></a><br><a href="../memes/m0434.md">主管的括號動作太長了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0285.md"><img src="../images/m0285-a-over-b-plus-c-equals-4.png" width="240" alt="國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4"></a><br><a href="../memes/m0285.md">國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4</a><br><sub>🧠 ★★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0698.md"><img src="../images/m0698-quadratic-formula-giant-spoon.png" width="240" alt="用公式解解 x² − 1 = 0"></a><br><a href="../memes/m0698.md">用公式解解 x² − 1 = 0</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0821.md"><img src="../images/m0821-madoka-vs-mujica-roles.png" width="240" alt="苦苦掙扎的女主一號、無法戰勝的天災"></a><br><a href="../memes/m0821.md">苦苦掙扎的女主一號、無法戰勝的天災</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>

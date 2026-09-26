@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 81 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 82 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（36）
+## ★（37）
 
 <table>
 <tr>
@@ -68,6 +68,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0743.md"><img src="../images/m0743-fire-shadow-hokage.jpg" width="240" alt="為什麼看不見火的影子？"></a><br><a href="../memes/m0743.md">為什麼看不見火的影子？</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0761.md"><img src="../images/m0761-bees-communicate-by-dancing.png" width="240" alt="蜜蜂透過跳舞來交流"></a><br><a href="../memes/m0761.md">蜜蜂透過跳舞來交流</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0770.md"><img src="../images/m0770-lazy-low-energy-state.png" width="240" alt="不是我懶，我只是待在低能階"></a><br><a href="../memes/m0770.md">不是我懶，我只是待在低能階</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0823.md"><img src="../images/m0823-every-machine-smoke-machine.png" width="240" alt="每台機器都能是煙霧機"></a><br><a href="../memes/m0823.md">每台機器都能是煙霧機</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

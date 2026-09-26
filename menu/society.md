@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 62 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 64 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（11）
 
@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（50）
+## ⚠️ 需斟酌（52）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -537,6 +537,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0788.md"><img src="../images/m0788-deer-wants-interior-decoration.jpg" width="240" alt="我長大想做室內裝潢"></a><br><a href="../memes/m0788.md">我長大想做室內裝潢</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>說出一個比他更倒霉的角色 — ⚠️ 種族</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0816.md"><img src="../images/m0816-unluckiest-pictogram-man.jpg" width="240" alt="說出一個比他更倒霉的角色"></a><br><a href="../memes/m0816.md">說出一個比他更倒霉的角色</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>用熱狗水做冰塊給素食客人 — ⚠️ 食物惡作劇（違反素食者意願）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0824.md"><img src="../images/m0824-hotdog-water-ice-vegan.png" width="240" alt="用熱狗水做冰塊給素食客人"></a><br><a href="../memes/m0824.md">用熱狗水做冰塊給素食客人</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

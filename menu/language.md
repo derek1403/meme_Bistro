@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 30 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 35 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（14）
+## ★（15）
 
 <table>
 <tr>
@@ -32,10 +32,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0331.md"><img src="../images/m0331-greenland-iceland-biggest-scam.png" width="240" alt="史上最大的騙局：格陵蘭與冰島"></a><br><a href="../memes/m0331.md">史上最大的騙局：格陵蘭與冰島</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0350.md"><img src="../images/m0350-world-wide-web-faster.jpg" width="240" alt="說 world wide web 比說 www 還快"></a><br><a href="../memes/m0350.md">說 world wide web 比說 www 還快</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0383.md"><img src="../images/m0383-yi-mo-er-avogadro.png" width="240" alt="一陌兒不是 6×10²³ 張喔"></a><br><a href="../memes/m0383.md">一陌兒不是 6×10²³ 張喔</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（6）
+## ★★（8）
 
 <table>
 <tr>
@@ -48,9 +49,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0179.md"><img src="../images/m0179-kfc-pull-pull-door.png" width="240" alt="KFC 為啥只寫拉拉？"></a><br><a href="../memes/m0179.md">KFC 為啥只寫拉拉？</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0265.md"><img src="../images/m0265-infinitesimal-analysis-chiang-kai-shek.png" width="240" alt="無限小解析＝∞蔣介石"></a><br><a href="../memes/m0265.md">無限小解析＝∞蔣介石</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0381.md"><img src="../images/m0381-sparkle-reversed-huohua.png" width="240" alt="花火倒過來是火花"></a><br><a href="../memes/m0381.md">花火倒過來是火花</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0387.md"><img src="../images/m0387-linear-mandarin-five-elements.png" width="240" alt="線性中文：金木水火土外積"></a><br><a href="../memes/m0387.md">線性中文：金木水火土外積</a><br><sub>👀🧠 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（10）
+## ⚠️ 需斟酌（12）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -149,6 +154,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0334.md"><img src="../images/m0334-moon-as-verb.png" width="240" alt="Moon 當名詞 vs Moon 當動詞"></a><br><a href="../memes/m0334.md">Moon 當名詞 vs Moon 當動詞</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>屁眼的台語到底怎麼唸 — ⚠️ 粗俗用語</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0368.md"><img src="../images/m0368-taiwanese-for-butthole.png" width="240" alt="屁眼的台語到底怎麼唸"></a><br><a href="../memes/m0368.md">屁眼的台語到底怎麼唸</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>委內瑞拉被外國人接管 — ⚠️ 政治（國際時事）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0386.md"><img src="../images/m0386-venezuela-outsourced.png" width="240" alt="委內瑞拉被外國人接管"></a><br><a href="../memes/m0386.md">委內瑞拉被外國人接管</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

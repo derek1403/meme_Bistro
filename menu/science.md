@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 39 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 41 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（16）
 
@@ -85,7 +85,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（3）
+## ⚠️ 需斟酌（5）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -114,6 +114,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0171.md"><img src="../images/m0171-iodine-hydrogen-motorcycle.png" width="240" alt="碘與氫共乘機車"></a><br><a href="../memes/m0171.md">碘與氫共乘機車</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>切到成人片比較好解釋 — ⚠️ 性話題</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0375.md"><img src="../images/m0375-spacetime-billiard-porn-excuse.png" width="240" alt="切到成人片比較好解釋"></a><br><a href="../memes/m0375.md">切到成人片比較好解釋</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我來接住你！（向量合成） — ⚠️ 受傷</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0376.md"><img src="../images/m0376-catch-falling-vector-sum.png" width="240" alt="我來接住你！（向量合成）"></a><br><a href="../memes/m0376.md">我來接住你！（向量合成）</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

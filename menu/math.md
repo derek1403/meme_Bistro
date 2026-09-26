@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 100 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（30）
+## ★（33）
 
 <table>
 <tr>
@@ -59,9 +59,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0337.md"><img src="../images/m0337-infinite-rice-refill-series.png" width="240" alt="續飯無限次的店員"></a><br><a href="../memes/m0337.md">續飯無限次的店員</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0344.md"><img src="../images/m0344-diameter-radius-difference.png" width="240" alt="直徑和半徑差多少？一個半徑"></a><br><a href="../memes/m0344.md">直徑和半徑差多少？一個半徑</a><br><sub>🔤👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0377.md"><img src="../images/m0377-assume-x-equals-2.png" width="240" alt="假設 x = 2，假設正確"></a><br><a href="../memes/m0377.md">假設 x = 2，假設正確</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0378.md"><img src="../images/m0378-integral-devil-evil.png" width="240" alt="∫ devil = evil"></a><br><a href="../memes/m0378.md">∫ devil = evil</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0380.md"><img src="../images/m0380-chairman-luo-bi-da.png" width="240" alt="理事長羅必達"></a><br><a href="../memes/m0380.md">理事長羅必達</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（40）
+## ★★（41）
 
 <table>
 <tr>
@@ -131,10 +136,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0366.md"><img src="../images/m0366-love-limit-abs-x-over-x.png" width="240" alt="我對你的愛就像 lim |x|/x"></a><br><a href="../memes/m0366.md">我對你的愛就像 lim |x|/x</a><br><sub>🧠🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0384.md"><img src="../images/m0384-bourbaki-toddlers-isomorphism.png" width="240" alt="Bourbaki 與幼兒的共同點"></a><br><a href="../memes/m0384.md">Bourbaki 與幼兒的共同點</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（23）
+## ★★★（26）
 
 <table>
 <tr>
@@ -175,6 +181,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0329.md"><img src="../images/m0329-real-math-clock.png" width="240" alt="數學系真正會興奮的數學時鐘"></a><br><a href="../memes/m0329.md">數學系真正會興奮的數學時鐘</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0349.md"><img src="../images/m0349-set-theory-factory-shape-sorter.png" width="240" alt="集合論工廠的一天"></a><br><a href="../memes/m0349.md">集合論工廠的一天</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0374.md"><img src="../images/m0374-triangle-inequality-luthor.png" width="240" alt="打開窗戶，Luthor"></a><br><a href="../memes/m0374.md">打開窗戶，Luthor</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0379.md"><img src="../images/m0379-tensor-product-coend.png" width="240" alt="張量積其實就是餘端？"></a><br><a href="../memes/m0379.md">張量積其實就是餘端？</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0382.md"><img src="../images/m0382-tensor-decategorified-multiprofunctor.png" width="240" alt="張量是去範疇化的多重 profunctor"></a><br><a href="../memes/m0382.md">張量是去範疇化的多重 profunctor</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

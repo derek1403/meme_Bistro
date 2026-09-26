@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 30 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 32 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（4）
+## ★（5）
 
 <table>
 <tr>
@@ -16,6 +16,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0310.md"><img src="../images/m0310-baby-stroller-jaywalking-offender.png" width="240" alt="涉嫌違法人員（嬰兒）"></a><br><a href="../memes/m0310.md">涉嫌違法人員（嬰兒）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0373.md"><img src="../images/m0373-named-after-you-salad.png" width="240" alt="用你的名字命名了一份沙拉"></a><br><a href="../memes/m0373.md">用你的名字命名了一份沙拉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -27,7 +28,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（25）
+## ⚠️ 需斟酌（26）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -276,6 +277,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0364.md"><img src="../images/m0364-funeral-both-stiff.png" width="240" alt="那天僵掉的人不只有你"></a><br><a href="../memes/m0364.md">那天僵掉的人不只有你</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>外星朋友：你都要掛了，要不要嚐嚐鉛？ — ⚠️ 死亡（寵物臨終）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0367.md"><img src="../images/m0367-alien-friend-lead-taste.png" width="240" alt="外星朋友：你都要掛了，要不要嚐嚐鉛？"></a><br><a href="../memes/m0367.md">外星朋友：你都要掛了，要不要嚐嚐鉛？</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

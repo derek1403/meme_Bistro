@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 80 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 86 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（42）
+## ★（45）
 
 <table>
 <tr>
@@ -79,9 +79,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0359.md"><img src="../images/m0359-delivery-note-no-effort.png" width="240" alt="不想努力的話可以送上樓"></a><br><a href="../memes/m0359.md">不想努力的話可以送上樓</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0363.md"><img src="../images/m0363-coworker-fired-for-what-i-taught.png" width="240" alt="同事因為我教他的事被開除了"></a><br><a href="../memes/m0363.md">同事因為我教他的事被開除了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0369.md"><img src="../images/m0369-boss-1000-no-change.png" width="240" alt="主管給 1000 說不用找了"></a><br><a href="../memes/m0369.md">主管給 1000 說不用找了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0388.md"><img src="../images/m0388-electricity-bill-lottery-car.png" width="240" alt="拿電費買抽獎券，隔天門口真的停了一台車"></a><br><a href="../memes/m0388.md">拿電費買抽獎券，隔天門口真的停了一台車</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0389.md"><img src="../images/m0389-clown-sacrificed-for-company.png" width="240" alt="我犧牲一切換來一個會毫不猶豫解雇我的公司"></a><br><a href="../memes/m0389.md">我犧牲一切換來一個會毫不猶豫解雇我的公司</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（20）
+## ★★（23）
 
 <table>
 <tr>
@@ -117,6 +122,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0355.md"><img src="../images/m0355-currency-wars-unreasonable.png" width="240" alt="那些貨幣戰爭不合理的事"></a><br><a href="../memes/m0355.md">那些貨幣戰爭不合理的事</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0358.md"><img src="../images/m0358-real-science-popularization-vtuber.png" width="240" alt="我說真正的科普"></a><br><a href="../memes/m0358.md">我說真正的科普</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0370.md"><img src="../images/m0370-lantern-sakiko-never-fun.png" width="240" alt="燈會花燈：從來不覺得逛燈會開心過"></a><br><a href="../memes/m0370.md">燈會花燈：從來不覺得逛燈會開心過</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0371.md"><img src="../images/m0371-lantern-yes-but-no.png" width="240" alt="燈會花燈：是這樣沒錯，但不是這樣"></a><br><a href="../memes/m0371.md">燈會花燈：是這樣沒錯，但不是這樣</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0372.md"><img src="../images/m0372-lantern-one-lifetime.png" width="240" alt="燈會花燈：是一輩子喔？一輩子"></a><br><a href="../memes/m0372.md">燈會花燈：是一輩子喔？一輩子</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

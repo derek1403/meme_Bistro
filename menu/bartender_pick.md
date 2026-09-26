@@ -8,23 +8,23 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0274.md"><img src="../images/m0274-so-what-anime-reaction.png" width="240" alt="是又怎樣"></a><br><a href="../memes/m0274.md">是又怎樣</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0038.md"><img src="../images/m0038-derivative-of-constant.png" width="240" alt="f′(x) = ?（察覺之前與之後）"></a><br><a href="../memes/m0038.md">f′(x) = ?（察覺之前與之後）</a><br><sub>🧠👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0185.md"><img src="../images/m0185-yuri-tastes-good.png" width="240" alt="百合很好吃"></a><br><a href="../memes/m0185.md">百合很好吃</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0072.md"><img src="../images/m0072-claude-test-deploy-meetings.png" width="240" alt="可以順便測試、部署、開會嗎？"></a><br><a href="../memes/m0072.md">可以順便測試、部署、開會嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0019.md"><img src="../images/m0019-gpt-vs-navier-stokes.png" width="240" alt="GPT 打完 NS 方程，Hodge 慌了"></a><br><a href="../memes/m0019.md">GPT 打完 NS 方程，Hodge 慌了</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0229.md"><img src="../images/m0229-3-plus-3-times-3-taiwan.png" width="240" alt="3+3×3 = 12，相信我我是台灣人"></a><br><a href="../memes/m0229.md">3+3×3 = 12，相信我我是台灣人</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0009.md"><img src="../images/m0009-you-less-than-three.png" width="240" alt="you<3 的真正意思"></a><br><a href="../memes/m0009.md">you<3 的真正意思</a><br><sub>🔤 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0111.md"><img src="../images/m0111-funny-fat-friend-study.png" width="240" alt="死黨群中配備一個搞笑的胖子"></a><br><a href="../memes/m0111.md">死黨群中配備一個搞笑的胖子</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0067.md"><img src="../images/m0067-jacobian-conjecture-almost-surely.png" width="240" alt="雅可比猜想幾乎肯定是對的"></a><br><a href="../memes/m0067.md">雅可比猜想幾乎肯定是對的</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0136.md"><img src="../images/m0136-tilde-gentle-person-similar.png" width="240" alt="會打「～」的人肯定很溫柔"></a><br><a href="../memes/m0136.md">會打「～」的人肯定很溫柔</a><br><sub>🔤👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0039.md"><img src="../images/m0039-phenolphthalein-red-ink.png" width="240" alt="讓酚酞變紅的溶液都是鹼性？"></a><br><a href="../memes/m0039.md">讓酚酞變紅的溶液都是鹼性？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0304.md"><img src="../images/m0304-yuri-anime-overdose-happy.png" width="240" alt="我真的可以這麼幸福嗎？"></a><br><a href="../memes/m0304.md">我真的可以這麼幸福嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0241.md"><img src="../images/m0241-scnice-science-fair.png" width="240" alt="我兒子在科展贏了這個"></a><br><a href="../memes/m0241.md">我兒子在科展贏了這個</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0018.md"><img src="../images/m0018-ugly-algebra-physics.png" width="240" alt="物理答案是很醜的代數式"></a><br><a href="../memes/m0018.md">物理答案是很醜的代數式</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0153.md"><img src="../images/m0153-smbc-fahrenheit-celsius-agree.png" width="240" alt="猴掌：讓華氏和攝氏達成共識"></a><br><a href="../memes/m0153.md">猴掌：讓華氏和攝氏達成共識</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0012.md"><img src="../images/m0012-cursed-rows-columns.png" width="240" alt="被詛咒的行與列"></a><br><a href="../memes/m0012.md">被詛咒的行與列</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0002.md"><img src="../images/m0002-math-teacher-joke-coset.png" width="240" alt="數學老師講了一個笑話"></a><br><a href="../memes/m0002.md">數學老師講了一個笑話</a><br><sub>🧠🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0214.md"><img src="../images/m0214-how-to-handle-cats-touhou.png" width="240" alt="教你如何拿捏小貓（學費 2888 元）"></a><br><a href="../memes/m0214.md">教你如何拿捏小貓（學費 2888 元）</a><br><sub>👀 ★★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0295.md"><img src="../images/m0295-build-your-own-gpu-research.png" width="240" alt="沒錢買設備，就自己做才叫開創性"></a><br><a href="../memes/m0295.md">沒錢買設備，就自己做才叫開創性</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0255.md"><img src="../images/m0255-coulomb-looks-like-newton.png" width="240" alt="長得跟他笨蛋老爸一模一樣"></a><br><a href="../memes/m0255.md">長得跟他笨蛋老爸一模一樣</a><br><sub>🧠 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0006.md"><img src="../images/m0006-evolution-of-letter-a.png" width="240" alt="字母 A 的演化＝傳抄作業"></a><br><a href="../memes/m0006.md">字母 A 的演化＝傳抄作業</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0143.md"><img src="../images/m0143-kimetsu-100-times-aniplex.jpg" width="240" alt="鬼滅看了 100 次，隨便丟一張圖我都知道"></a><br><a href="../memes/m0143.md">鬼滅看了 100 次，隨便丟一張圖我都知道</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0286.md"><img src="../images/m0286-miso-soup-exit-poll.png" width="240" alt="出口民調與味噌湯"></a><br><a href="../memes/m0286.md">出口民調與味噌湯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0123.md"><img src="../images/m0123-von-neumann-ordinal-four.png" width="240" alt="數學家眼中的 4"></a><br><a href="../memes/m0123.md">數學家眼中的 4</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>

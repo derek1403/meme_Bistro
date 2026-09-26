@@ -4,15 +4,18 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 22 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 26 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（3）
+## ★（4）
 
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0071.md"><img src="../images/m0071-norway-flag-czech-recursion.png" width="240" alt="挪威國旗 vs 捷克國旗"></a><br><a href="../memes/m0071.md">挪威國旗 vs 捷克國旗</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0245.md"><img src="../images/m0245-happy-education-evolution.png" width="240" alt="快樂教育的演變"></a><br><a href="../memes/m0245.md">快樂教育的演變</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0279.md"><img src="../images/m0279-kinship-chart-can-marry.png" width="240" alt="親屬關係圖：可以 / 不可以"></a><br><a href="../memes/m0279.md">親屬關係圖：可以 / 不可以</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0310.md"><img src="../images/m0310-baby-stroller-jaywalking-offender.png" width="240" alt="涉嫌違法人員（嬰兒）"></a><br><a href="../memes/m0310.md">涉嫌違法人員（嬰兒）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -24,7 +27,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（18）
+## ⚠️ 需斟酌（21）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -203,6 +206,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0293.md"><img src="../images/m0293-tell-awen-wife-loves-her.png" width="240" alt="告訴阿文的老婆，他很愛她"></a><br><a href="../memes/m0293.md">告訴阿文的老婆，他很愛她</a><br><sub>🔥🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>台大刑法 B 卷：甲在丙的紅茶中加入藥劑 — ⚠️ 性侵題材</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0309.md"><img src="../images/m0309-ntu-criminal-law-exam-sus.png" width="240" alt="台大刑法 B 卷：甲在丙的紅茶中加入藥劑"></a><br><a href="../memes/m0309.md">台大刑法 B 卷：甲在丙的紅茶中加入藥劑</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>雇爸媽的小雞來我的莊園 — ⚠️ 家庭（離婚）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0324.md"><img src="../images/m0324-divorced-parents-farm-chickens.png" width="240" alt="雇爸媽的小雞來我的莊園"></a><br><a href="../memes/m0324.md">雇爸媽的小雞來我的莊園</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我有幾件陶藝作品可以一起燒嗎？ — ⚠️ 死亡（火化）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0335.md"><img src="../images/m0335-funeral-director-ceramics.png" width="240" alt="我有幾件陶藝作品可以一起燒嗎？"></a><br><a href="../memes/m0335.md">我有幾件陶藝作品可以一起燒嗎？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

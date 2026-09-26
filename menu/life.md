@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 60 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 72 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（29）
+## ★（37）
 
 <table>
 <tr>
@@ -57,10 +57,24 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0268.md"><img src="../images/m0268-cats-coke-fanta.png" width="240" alt="可樂貓與芬達貓"></a><br><a href="../memes/m0268.md">可樂貓與芬達貓</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0274.md"><img src="../images/m0274-so-what-anime-reaction.png" width="240" alt="是又怎樣"></a><br><a href="../memes/m0274.md">是又怎樣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0302.md"><img src="../images/m0302-anime-fanservice-dungeon-meshi.jpg" width="240" alt="各動畫給觀眾的福利"></a><br><a href="../memes/m0302.md">各動畫給觀眾的福利</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0304.md"><img src="../images/m0304-yuri-anime-overdose-happy.png" width="240" alt="我真的可以這麼幸福嗎？"></a><br><a href="../memes/m0304.md">我真的可以這麼幸福嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0306.md"><img src="../images/m0306-family-movie-vs-my-movie.png" width="240" alt="我家人追的電影 vs 我追的電影"></a><br><a href="../memes/m0306.md">我家人追的電影 vs 我追的電影</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0313.md"><img src="../images/m0313-heart-hand-question-mark.png" width="240" alt="比心 vs 問號人"></a><br><a href="../memes/m0313.md">比心 vs 問號人</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0315.md"><img src="../images/m0315-same-voice-actress-frieren-anya.jpg" width="240" alt="冷知識：這三女是同個聲優"></a><br><a href="../memes/m0315.md">冷知識：這三女是同個聲優</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0317.md"><img src="../images/m0317-maomao-zunming-middle-finger.png" width="240" alt="每當王氏要她做某件事時"></a><br><a href="../memes/m0317.md">每當王氏要她做某件事時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0318.md"><img src="../images/m0318-silver-salary-18-taels.png" width="240" alt="每個月的俸祿是 18 兩銀子"></a><br><a href="../memes/m0318.md">每個月的俸祿是 18 兩銀子</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0343.md"><img src="../images/m0343-eyes-open-looking-nowhere.png" width="240" alt="擦屁股時眼睛睜開卻沒在看任何地方"></a><br><a href="../memes/m0343.md">擦屁股時眼睛睜開卻沒在看任何地方</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（16）
+## ★★（18）
 
 <table>
 <tr>
@@ -90,10 +104,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0298.md"><img src="../images/m0298-kaguya-black-hair-houraisan.png" width="240" alt="超時空輝夜姬我看的是黑毛"></a><br><a href="../memes/m0298.md">超時空輝夜姬我看的是黑毛</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0303.md"><img src="../images/m0303-kaguya-hotline.png" width="240" alt="遇到困難請撥打"></a><br><a href="../memes/m0303.md">遇到困難請撥打</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0312.md"><img src="../images/m0312-sato-toshiyuki-ugly-faces.jpg" width="240" alt="這 3 個扭曲臉都是同一個動畫師畫的"></a><br><a href="../memes/m0312.md">這 3 個扭曲臉都是同一個動畫師畫的</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（15）
+## ⚠️ 需斟酌（17）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -242,6 +258,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0290.md"><img src="../images/m0290-hippo-capybara-fire-painting.png" width="240" alt="聽最愛的歌對抗憂鬱症的感覺"></a><br><a href="../memes/m0290.md">聽最愛的歌對抗憂鬱症的感覺</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>能不能給我一個正常的男性 — ⚠️ 性話題</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0323.md"><img src="../images/m0323-normal-man-at-comic-con.png" width="240" alt="能不能給我一個正常的男性"></a><br><a href="../memes/m0323.md">能不能給我一個正常的男性</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>寶石之穴 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0330.md"><img src="../images/m0330-gem-hole-houseki-no-kuni.png" width="240" alt="寶石之穴"></a><br><a href="../memes/m0330.md">寶石之穴</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

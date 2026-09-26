@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 24 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 29 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（10）
+## ★（13）
 
 <table>
 <tr>
@@ -26,6 +26,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0273.md"><img src="../images/m0273-suhua-highway-1-9-cars.png" width="240" alt="蘇花公路湧入 1.9 輛車"></a><br><a href="../memes/m0273.md">蘇花公路湧入 1.9 輛車</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0301.md"><img src="../images/m0301-please-give-me-that-quan.png" width="240" alt="請給我那個……券"></a><br><a href="../memes/m0301.md">請給我那個……券</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0322.md"><img src="../images/m0322-who-cares-about-your-health.png" width="240" alt="世衛組織關心您的健康"></a><br><a href="../memes/m0322.md">世衛組織關心您的健康</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0331.md"><img src="../images/m0331-greenland-iceland-biggest-scam.png" width="240" alt="史上最大的騙局：格陵蘭與冰島"></a><br><a href="../memes/m0331.md">史上最大的騙局：格陵蘭與冰島</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -44,7 +49,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（8）
+## ⚠️ 需斟酌（10）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -123,6 +128,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0280.md"><img src="../images/m0280-pound-translated-as-english-jin.png" width="240" alt="「磅」為什麼不翻成「英斤」？"></a><br><a href="../memes/m0280.md">「磅」為什麼不翻成「英斤」？</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我寒假絕對要追很多蕃 — ⚠️ 族群（歷史）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0327.md"><img src="../images/m0327-winter-break-chase-fan.png" width="240" alt="我寒假絕對要追很多蕃"></a><br><a href="../memes/m0327.md">我寒假絕對要追很多蕃</a><br><sub>🔤🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Moon 當名詞 vs Moon 當動詞 — ⚠️ 輕微性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0334.md"><img src="../images/m0334-moon-as-verb.png" width="240" alt="Moon 當名詞 vs Moon 當動詞"></a><br><a href="../memes/m0334.md">Moon 當名詞 vs Moon 當動詞</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

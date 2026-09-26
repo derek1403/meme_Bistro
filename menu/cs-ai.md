@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 61 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 65 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（34）
+## ★（37）
 
 <table>
 <tr>
@@ -66,10 +66,15 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0288.md"><img src="../images/m0288-crack-framed-data-science.png" width="240" alt="把牆上的裂縫裱框"></a><br><a href="../memes/m0288.md">把牆上的裂縫裱框</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0314.md"><img src="../images/m0314-four-engineers-car-wont-start.png" width="240" alt="四個工程師的車發不動"></a><br><a href="../memes/m0314.md">四個工程師的車發不動</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0338.md"><img src="../images/m0338-chatgpt-how-i-treat-you.png" width="240" alt="畫出我對待你的方式"></a><br><a href="../memes/m0338.md">畫出我對待你的方式</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0341.md"><img src="../images/m0341-plug-mouse-back-of-computer.png" width="240" alt="把新滑鼠插到電腦後面"></a><br><a href="../memes/m0341.md">把新滑鼠插到電腦後面</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（21）
+## ★★（22）
 
 <table>
 <tr>
@@ -106,6 +111,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0266.md"><img src="../images/m0266-never-ask-ai-training-data.png" width="240" alt="三大不禮貌的問題"></a><br><a href="../memes/m0266.md">三大不禮貌的問題</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0292.md"><img src="../images/m0292-stop-generational-trauma-error-bars.png" width="240" alt="只有你，才能中止跨世代的創傷"></a><br><a href="../memes/m0292.md">只有你，才能中止跨世代的創傷</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0299.md"><img src="../images/m0299-will-you-be-long-int64.png" width="240" alt="你會待很久（long）嗎？"></a><br><a href="../memes/m0299.md">你會待很久（long）嗎？</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0311.md"><img src="../images/m0311-test-engineer-walks-into-bar.png" width="240" alt="測試工程師走進酒吧"></a><br><a href="../memes/m0311.md">測試工程師走進酒吧</a><br><sub>👀🧠 ★★</sub></td>
 </tr>
 </table>
 

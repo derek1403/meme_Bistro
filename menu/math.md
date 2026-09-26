@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 84 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（23）
+## ★（29）
 
 <table>
 <tr>
@@ -47,10 +47,20 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0286.md"><img src="../images/m0286-miso-soup-exit-poll.png" width="240" alt="出口民調與味噌湯"></a><br><a href="../memes/m0286.md">出口民調與味噌湯</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0294.md"><img src="../images/m0294-i-plus-one-over-i-zero.png" width="240" alt="i + 1/i = 0"></a><br><a href="../memes/m0294.md">i + 1/i = 0</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0307.md"><img src="../images/m0307-pie-chart-exam-question.png" width="240" alt="生活圓餅圖考題"></a><br><a href="../memes/m0307.md">生活圓餅圖考題</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0319.md"><img src="../images/m0319-solving-equation-tragedy.png" width="240" alt="解方程是一件很刀的事情"></a><br><a href="../memes/m0319.md">解方程是一件很刀的事情</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0320.md"><img src="../images/m0320-why-humbly-find-x.png" width="240" alt="為什麼要卑微地求 x？"></a><br><a href="../memes/m0320.md">為什麼要卑微地求 x？</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0321.md"><img src="../images/m0321-fibonacciday-procrastination.png" width="240" alt="對拖延症來說，週三是 Fibonacciday"></a><br><a href="../memes/m0321.md">對拖延症來說，週三是 Fibonacciday</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0328.md"><img src="../images/m0328-lim-baozi-mantou.png" width="240" alt="lim 包子 = 饅頭（餡 → 0）"></a><br><a href="../memes/m0328.md">lim 包子 = 饅頭（餡 → 0）</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0337.md"><img src="../images/m0337-infinite-rice-refill-series.png" width="240" alt="續飯無限次的店員"></a><br><a href="../memes/m0337.md">續飯無限次的店員</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（36）
+## ★★（39）
 
 <table>
 <tr>
@@ -113,9 +123,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0296.md"><img src="../images/m0296-multi-monitor-layout-rotated.png" width="240" alt="我的多螢幕架設有最佳化嗎？"></a><br><a href="../memes/m0296.md">我的多螢幕架設有最佳化嗎？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0297.md"><img src="../images/m0297-rose-det-a-minus-lambda-i.png" width="240" alt="為什麼妹妹叫 Rose？"></a><br><a href="../memes/m0297.md">為什麼妹妹叫 Rose？</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0316.md"><img src="../images/m0316-smooth-operator-c-infinity.png" width="240" alt="He's a smooth operator"></a><br><a href="../memes/m0316.md">He's a smooth operator</a><br><sub>🔤🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0336.md"><img src="../images/m0336-probability-is-linear-algebra.png" width="240" alt="機率論其實就是線性代數？"></a><br><a href="../memes/m0336.md">機率論其實就是線性代數？</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0339.md"><img src="../images/m0339-spongebob-formula-levels.png" width="240" alt="一次到五次方程公式"></a><br><a href="../memes/m0339.md">一次到五次方程公式</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
 </table>
 
-## ★★★（20）
+## ★★★（22）
 
 <table>
 <tr>
@@ -151,10 +166,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0285.md"><img src="../images/m0285-a-over-b-plus-c-equals-4.png" width="240" alt="國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4"></a><br><a href="../memes/m0285.md">國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0287.md"><img src="../images/m0287-look-this-is-real-math.png" width="240" alt="看好了，這才是「統計力學」"></a><br><a href="../memes/m0287.md">看好了，這才是「統計力學」</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0326.md"><img src="../images/m0326-quintic-trig-substitution.png" width="240" alt="雕蟲小技竟敢班門弄斧"></a><br><a href="../memes/m0326.md">雕蟲小技竟敢班門弄斧</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0329.md"><img src="../images/m0329-real-math-clock.png" width="240" alt="數學系真正會興奮的數學時鐘"></a><br><a href="../memes/m0329.md">數學系真正會興奮的數學時鐘</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（5）
+## ⚠️ 需斟酌（6）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -203,6 +222,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0219.md"><img src="../images/m0219-zariski-topology-hint.png" width="240" alt="我丟內褲給他，他還在講 Zariski 拓樸"></a><br><a href="../memes/m0219.md">我丟內褲給他，他還在講 Zariski 拓樸</a><br><sub>👀🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這傢伙不懂泛代數！ — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0333.md"><img src="../images/m0333-doesnt-know-universal-algebra.png" width="240" alt="這傢伙不懂泛代數！"></a><br><a href="../memes/m0333.md">這傢伙不懂泛代數！</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

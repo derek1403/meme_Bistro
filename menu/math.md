@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 168 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 171 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（61）
+## ★（62）
 
 <table>
 <tr>
@@ -111,10 +111,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0642.md"><img src="../images/m0642-distribution-plushies.png" width="240" alt="常態分布與卡方分布布偶"></a><br><a href="../memes/m0642.md">常態分布與卡方分布布偶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0665.md"><img src="../images/m0665-taylor-expansion-akaza.png" width="240" alt="術式展開：泰勒展開"></a><br><a href="../memes/m0665.md">術式展開：泰勒展開</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（64）
+## ★★（65）
 
 <table>
 <tr>
@@ -224,6 +225,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0653.md"><img src="../images/m0653-recursive-load-bridge-clearance.png" width="240" alt="遞迴載物通過限高 Σ1/2ⁿ 的橋"></a><br><a href="../memes/m0653.md">遞迴載物通過限高 Σ1/2ⁿ 的橋</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0658.md"><img src="../images/m0658-laplace-panik-kalm-panik.png" width="240" alt="拉普拉斯轉換：Panik–Kalm–Panik"></a><br><a href="../memes/m0658.md">拉普拉斯轉換：Panik–Kalm–Panik</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -286,7 +288,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（11）
+## ⚠️ 需斟酌（12）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -395,6 +397,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0650.md"><img src="../images/m0650-trig-function-galgame.png" width="240" alt="我是一個普通的高中三角函數"></a><br><a href="../memes/m0650.md">我是一個普通的高中三角函數</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>狄利克雷、魏爾施特拉斯、Fabius 函數 — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0656.md"><img src="../images/m0656-dirichlet-weierstrass-fabius.png" width="240" alt="狄利克雷、魏爾施特拉斯、Fabius 函數"></a><br><a href="../memes/m0656.md">狄利克雷、魏爾施特拉斯、Fabius 函數</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

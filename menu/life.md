@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 175 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 180 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（105）
+## ★（109）
 
 <table>
 <tr>
@@ -184,9 +184,17 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0646.md"><img src="../images/m0646-where-i-live-clouds.jpg" width="240" alt="快看！是月全蝕！——我住的地方"></a><br><a href="../memes/m0646.md">快看！是月全蝕！——我住的地方</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0649.md"><img src="../images/m0649-elsword-no-top-up-ban.png" width="240" alt="沒儲值？封鎖一年"></a><br><a href="../memes/m0649.md">沒儲值？封鎖一年</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0654.md"><img src="../images/m0654-femboy-index-titan.png" width="240" alt="名字男娘指數解析器：歐貝利斯克的巨神兵"></a><br><a href="../memes/m0654.md">名字男娘指數解析器：歐貝利斯克的巨神兵</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0662.md"><img src="../images/m0662-mcdonalds-cosplay-kiss.png" width="240" alt="麥當勞裡的畫面"></a><br><a href="../memes/m0662.md">麥當勞裡的畫面</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0663.md"><img src="../images/m0663-hen-stuck-here-kids.png" width="240" alt="孩子們，母雞卡在這裡"></a><br><a href="../memes/m0663.md">孩子們，母雞卡在這裡</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0664.md"><img src="../images/m0664-saber-fast-food-apps.png" width="240" alt="Saber 的手機 App"></a><br><a href="../memes/m0664.md">Saber 的手機 App</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（32）
+## ★★（33）
 
 <table>
 <tr>
@@ -242,6 +250,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0626.md"><img src="../images/m0626-saki-chan-army-crawl.png" width="240" alt="戰術動作考核：saki 醬！"></a><br><a href="../memes/m0626.md">戰術動作考核：saki 醬！</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0628.md"><img src="../images/m0628-mygo-mujica-hospital-poster.png" width="240" alt="好朋友生病住院了，急需醫藥費 1780"></a><br><a href="../memes/m0628.md">好朋友生病住院了，急需醫藥費 1780</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0655.md"><img src="../images/m0655-shadowverse-quote-swap.png" width="240" alt="影之詩名台詞改寫"></a><br><a href="../memes/m0655.md">影之詩名台詞改寫</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

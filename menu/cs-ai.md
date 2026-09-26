@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 105 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 106 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（65）
+## ★（66）
 
 <table>
 <tr>
@@ -117,6 +117,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0627.md"><img src="../images/m0627-chatgpt-drum-shohei.png" width="240" alt="打鼓翔平"></a><br><a href="../memes/m0627.md">打鼓翔平</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0640.md"><img src="../images/m0640-chess-program-if-else.png" width="240" alt="為什麼寫個西洋棋程式那麼難"></a><br><a href="../memes/m0640.md">為什麼寫個西洋棋程式那麼難</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0659.md"><img src="../images/m0659-data-poop-ai-evolution.png" width="240" alt="垃圾資料 + AI = 各種屎"></a><br><a href="../memes/m0659.md">垃圾資料 + AI = 各種屎</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

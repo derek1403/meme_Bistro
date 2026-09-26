@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 81 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 85 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（46）
+## ★（50）
 
 <table>
 <tr>
@@ -86,6 +86,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0492.md"><img src="../images/m0492-usr-bin-cat.png" width="240" alt="/usr/bin/cat"></a><br><a href="../memes/m0492.md">/usr/bin/cat</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0497.md"><img src="../images/m0497-chatgpt-graduated-something-to-say.png" width="240" alt="你沒有什麼話要對我說嗎？"></a><br><a href="../memes/m0497.md">你沒有什麼話要對我說嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0499.md"><img src="../images/m0499-not-false-programmer-joke.png" width="240" alt="Programmer Joke：!false"></a><br><a href="../memes/m0499.md">Programmer Joke：!false</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0502.md"><img src="../images/m0502-502-bad-gateway-router.png" width="240" alt="502 Bad Gateway"></a><br><a href="../memes/m0502.md">502 Bad Gateway</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0503.md"><img src="../images/m0503-ai-demo-vs-production.png" width="240" alt="AI 在 demo vs AI 在正式環境"></a><br><a href="../memes/m0503.md">AI 在 demo vs AI 在正式環境</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

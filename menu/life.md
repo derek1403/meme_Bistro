@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 114 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（57）
+## ★（61）
 
 <table>
 <tr>
@@ -104,9 +104,17 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0480.md"><img src="../images/m0480-glass-half-amphoreus.png" width="240" alt="悲觀、樂觀，和翁法羅斯的人看半杯水"></a><br><a href="../memes/m0480.md">悲觀、樂觀，和翁法羅斯的人看半杯水</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0493.md"><img src="../images/m0493-time-travel-t1-finals.png" width="240" alt="從 2050 穿越回來：T1 進決賽了"></a><br><a href="../memes/m0493.md">從 2050 穿越回來：T1 進決賽了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0494.md"><img src="../images/m0494-simple-question-becomes-meeting.png" width="240" alt="問了個簡單問題，結果變成一場會議"></a><br><a href="../memes/m0494.md">問了個簡單問題，結果變成一場會議</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0498.md"><img src="../images/m0498-six-kids-discord-notion.png" width="240" alt="家族用 Discord 群和 Notion"></a><br><a href="../memes/m0498.md">家族用 Discord 群和 Notion</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0500.md"><img src="../images/m0500-desktop-full-of-galgames.png" width="240" alt="滿滿視覺小說的桌面"></a><br><a href="../memes/m0500.md">滿滿視覺小說的桌面</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0505.md"><img src="../images/m0505-weekend-study-plan-ten-minutes.png" width="240" alt="假日讀書計劃"></a><br><a href="../memes/m0505.md">假日讀書計劃</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（27）
+## ★★（28）
 
 <table>
 <tr>
@@ -153,6 +161,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0468.md"><img src="../images/m0468-zandar-curiosity.png" width="240" alt="贊達爾：拯救宇宙靠自制力，宇宙危險靠好奇心"></a><br><a href="../memes/m0468.md">贊達爾：拯救宇宙靠自制力，宇宙危險靠好奇心</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0475.md"><img src="../images/m0475-amphoreus-final-battle-crowd.png" width="240" alt="你以為的翁法羅斯大決戰"></a><br><a href="../memes/m0475.md">你以為的翁法羅斯大決戰</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0476.md"><img src="../images/m0476-mydei-phainon-black-actor.png" width="240" alt="這不終將升起的烈陽嗎？"></a><br><a href="../memes/m0476.md">這不終將升起的烈陽嗎？</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0495.md"><img src="../images/m0495-black-swan-kafka-would-say.png" width="240" alt="黑塔的話肯定會這麼說的"></a><br><a href="../memes/m0495.md">黑塔的話肯定會這麼說的</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

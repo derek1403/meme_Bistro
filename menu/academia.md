@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 47 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 49 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（37）
+## ★（38）
 
 <table>
 <tr>
@@ -71,6 +71,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1075.md"><img src="../images/m1075-group-member-i-dont-know.png" width="240" alt="你的大學報告分組隊友 be like"></a><br><a href="../memes/m1075.md">你的大學報告分組隊友 be like</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1087.md"><img src="../images/m1087-chance-essay-full-score.png" width="240" alt="「機會是什麼？是 chance」拿了 18 分"></a><br><a href="../memes/m1087.md">「機會是什麼？是 chance」拿了 18 分</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -88,7 +89,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（5）
+## ⚠️ 需斟酌（6）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -137,6 +138,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0865.md"><img src="../images/m0865-anatomy-bring-your-own-corpse.png" width="240" alt="解剖室是自己帶屍體嗎？"></a><br><a href="../memes/m0865.md">解剖室是自己帶屍體嗎？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>大考作文 vs 擅長堆砌詞藻、祖父母死不完的考生 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1088.md"><img src="../images/m1088-exam-essay-dead-grandparents.png" width="240" alt="大考作文 vs 擅長堆砌詞藻、祖父母死不完的考生"></a><br><a href="../memes/m1088.md">大考作文 vs 擅長堆砌詞藻、祖父母死不完的考生</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

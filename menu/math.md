@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（77）
 
@@ -140,7 +140,7 @@
 </tr>
 </table>
 
-## ★★（81）
+## ★★（82）
 
 <table>
 <tr>
@@ -277,6 +277,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0996.md"><img src="../images/m0996-topologist-morning-routine.png" width="240" alt="拓樸學家的晨間例行公事"></a><br><a href="../memes/m0996.md">拓樸學家的晨間例行公事</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1011.md"><img src="../images/m1011-robust-statistics-tightrope.png" width="240" alt="各種分析資料的方法（走鋼索版）"></a><br><a href="../memes/m1011.md">各種分析資料的方法（走鋼索版）</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1046.md"><img src="../images/m1046-newton-leibniz-notation-fight.png" width="240" alt="牛頓 vs 萊布尼茲：微分符號之戰"></a><br><a href="../memes/m1046.md">牛頓 vs 萊布尼茲：微分符號之戰</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1091.md"><img src="../images/m1091-zeta-jones-riemann-zeta.png" width="240" alt="凱薩琳．麗塔瓊斯 vs 黎曼 ζ 函數"></a><br><a href="../memes/m1091.md">凱薩琳．麗塔瓊斯 vs 黎曼 ζ 函數</a><br><sub>🔤🧠 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 400 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 405 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（266）
+## ★（268）
 
 <table>
 <tr>
@@ -452,10 +452,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1080.md"><img src="../images/m1080-double-bass-liquor-cabinet.png" width="240" alt="音樂家：我都把靈感收藏在樂器裡"></a><br><a href="../memes/m1080.md">音樂家：我都把靈感收藏在樂器裡</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1081.md"><img src="../images/m1081-tempo-90-000092.png" width="240" alt="作曲家：我對速度的要求是很精準的"></a><br><a href="../memes/m1081.md">作曲家：我對速度的要求是很精準的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1084.md"><img src="../images/m1084-blue-eyes-white-dragon-rug.png" width="240" alt="請脫鞋，別弄髒我的青眼白龍地毯"></a><br><a href="../memes/m1084.md">請脫鞋，別弄髒我的青眼白龍地毯</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1089.md"><img src="../images/m1089-sasayaku-anime-disaster.jpg" width="240" alt="如果你覺得人生很慘，可以看看《恰如細語的戀歌》"></a><br><a href="../memes/m1089.md">如果你覺得人生很慘，可以看看《恰如細語的戀歌》</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（55）
+## ★★（56）
 
 <table>
 <tr>
@@ -550,10 +554,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1074.md"><img src="../images/m1074-simpsons-monkey-fight-bangdream.png" width="240" alt="邦友鄉民與初華看 MyGO 和 Ave Mujica 打架"></a><br><a href="../memes/m1074.md">邦友鄉民與初華看 MyGO 和 Ave Mujica 打架</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1085.md"><img src="../images/m1085-koishi-excuse-me-waiter.png" width="240" alt="Excuse me！（古明地戀叫服務生）"></a><br><a href="../memes/m1085.md">Excuse me！（古明地戀叫服務生）</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（79）
+## ⚠️ 需斟酌（81）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1342,6 +1347,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1065.md"><img src="../images/m1065-boss-report-early-cant-live.png" width="240" alt="你活不到下個星期一嗎？"></a><br><a href="../memes/m1065.md">你活不到下個星期一嗎？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在診斷自己憂鬱之前，先確定周圍是不是都是混蛋 — ⚠️ 心理健康</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1083.md"><img src="../images/m1083-freud-surrounded-by-jerks.png" width="240" alt="在診斷自己憂鬱之前，先確定周圍是不是都是混蛋"></a><br><a href="../memes/m1083.md">在診斷自己憂鬱之前，先確定周圍是不是都是混蛋</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>禁止毆打顧客（除非忍不住） — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1090.md"><img src="../images/m1090-no-beating-customers-unless.jpg" width="240" alt="禁止毆打顧客（除非忍不住）"></a><br><a href="../memes/m1090.md">禁止毆打顧客（除非忍不住）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

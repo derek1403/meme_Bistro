@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 99 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 100 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（65）
+## ★（66）
 
 <table>
 <tr>
@@ -117,6 +117,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1071.md"><img src="../images/m1071-li-huang-xing-trust-me.png" width="240" alt="我辦事：李晃興"></a><br><a href="../memes/m1071.md">我辦事：李晃興</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1073.md"><img src="../images/m1073-monkey-dragon-throat-pain.png" width="240" alt="我屬猴你屬龍，我們在一起會喉嚨痛"></a><br><a href="../memes/m1073.md">我屬猴你屬龍，我們在一起會喉嚨痛</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1082.md"><img src="../images/m1082-first-hate-enemy-day.png" width="240" alt="你是我的初厭"></a><br><a href="../memes/m1082.md">你是我的初厭</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

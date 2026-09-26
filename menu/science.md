@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 50 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 52 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（20）
+## ★（21）
 
 <table>
 <tr>
@@ -42,10 +42,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0438.md"><img src="../images/m0438-sodium-chloride-cat-pat.png" width="240" alt="鈉摸氯貓"></a><br><a href="../memes/m0438.md">鈉摸氯貓</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0534.md"><img src="../images/m0534-define-hot-star-trek.png" width="240" alt="電腦：請定義「熱」"></a><br><a href="../memes/m0534.md">電腦：請定義「熱」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0543.md"><img src="../images/m0543-quantum-healing-dog-face.png" width="240" alt="聽別人聊量子療癒的我"></a><br><a href="../memes/m0543.md">聽別人聊量子療癒的我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（21）
+## ★★（22）
 
 <table>
 <tr>
@@ -82,6 +83,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0347.md"><img src="../images/m0347-physics-professor-quotes.png" width="240" alt="物理系教授語錄"></a><br><a href="../memes/m0347.md">物理系教授語錄</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0471.md"><img src="../images/m0471-cyrene-cycle-gravitational-wave.png" width="240" alt="昔漣的輪迴 vs 重力波訊號"></a><br><a href="../memes/m0471.md">昔漣的輪迴 vs 重力波訊號</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0515.md"><img src="../images/m0515-physics-class-harmonic-oscillator.png" width="240" alt="我夠聰明，修物理沒問題"></a><br><a href="../memes/m0515.md">我夠聰明，修物理沒問題</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0542.md"><img src="../images/m0542-pendulum-period-be-honest.png" width="240" alt="Be honest：單擺週期"></a><br><a href="../memes/m0542.md">Be honest：單擺週期</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

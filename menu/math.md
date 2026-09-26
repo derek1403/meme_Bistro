@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 144 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 145 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（48）
 
@@ -91,7 +91,7 @@
 </tr>
 </table>
 
-## ★★（58）
+## ★★（59）
 
 <table>
 <tr>
@@ -191,6 +191,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0538.md"><img src="../images/m0538-real-complex-quaternion-octonion.png" width="240" alt="實數 → 八元數：一路失去性質"></a><br><a href="../memes/m0538.md">實數 → 八元數：一路失去性質</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0541.md"><img src="../images/m0541-ramanujan-sleep-pi-formula.png" width="240" alt="拉馬努金：好，該睡了——等一下"></a><br><a href="../memes/m0541.md">拉馬努金：好，該睡了——等一下</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

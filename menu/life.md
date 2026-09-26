@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（75）
+## ★（79）
 
 <table>
 <tr>
@@ -133,6 +133,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0532.md"><img src="../images/m0532-asteroid-1-2-percent-gacha.png" width="240" alt="1.2% 機率撞地球：手遊玩家完蛋了"></a><br><a href="../memes/m0532.md">1.2% 機率撞地球：手遊玩家完蛋了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0533.md"><img src="../images/m0533-talking-to-others-vs-myself.png" width="240" alt="跟別人說話 vs 跟自己說話"></a><br><a href="../memes/m0533.md">跟別人說話 vs 跟自己說話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0536.md"><img src="../images/m0536-risky-joke-pill-bottle.png" width="240" alt="那個會毀掉友情或讓我們無敵的冒險笑話"></a><br><a href="../memes/m0536.md">那個會毀掉友情或讓我們無敵的冒險笑話</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0539.md"><img src="../images/m0539-dad-no-money-keep-studying.png" width="240" alt="爸，我念不下去了"></a><br><a href="../memes/m0539.md">爸，我念不下去了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0544.md"><img src="../images/m0544-apple-256g-birthday.png" width="240" alt="我想要 256G 的蘋果"></a><br><a href="../memes/m0544.md">我想要 256G 的蘋果</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0545.md"><img src="../images/m0545-sun-only-one-sunny-face.png" width="240" alt="可是太陽就只有一個啊"></a><br><a href="../memes/m0545.md">可是太陽就只有一個啊</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0548.md"><img src="../images/m0548-car-seats-balaclava.png" width="240" alt="車子改裝成看起來壞壞的樣子"></a><br><a href="../memes/m0548.md">車子改裝成看起來壞壞的樣子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

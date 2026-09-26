@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 87 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 90 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（51）
+## ★（53）
 
 <table>
 <tr>
@@ -94,6 +94,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0503.md"><img src="../images/m0503-ai-demo-vs-production.png" width="240" alt="AI 在 demo vs AI 在正式環境"></a><br><a href="../memes/m0503.md">AI 在 demo vs AI 在正式環境</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0514.md"><img src="../images/m0514-terminal-alias-ls-typos.png" width="240" alt="終端機使用者：精準打字大師？"></a><br><a href="../memes/m0514.md">終端機使用者：精準打字大師？</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0540.md"><img src="../images/m0540-backend-frontend-ui-suit.png" width="240" alt="後端、前端與使用者介面"></a><br><a href="../memes/m0540.md">後端、前端與使用者介面</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0547.md"><img src="../images/m0547-astronauts-use-linux-windows.png" width="240" alt="太空人為什麼用 Linux？"></a><br><a href="../memes/m0547.md">太空人為什麼用 Linux？</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（26）
@@ -145,7 +149,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（10）
+## ⚠️ 需斟酌（11）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -244,6 +248,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0460.md"><img src="../images/m0460-cloudflare-block-internet.png" width="240" alt="該死的雲焰"></a><br><a href="../memes/m0460.md">該死的雲焰</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我操，用戶徹底怒了 — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0546.md"><img src="../images/m0546-deepseek-thinking-user-angry.png" width="240" alt="我操，用戶徹底怒了"></a><br><a href="../memes/m0546.md">我操，用戶徹底怒了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

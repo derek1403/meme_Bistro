@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 129 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（80）
+## ★（81）
 
 <table>
 <tr>
@@ -142,10 +142,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0870.md"><img src="../images/m0870-cycle-of-life-ai-sun-god.png" width="240" alt="生命的迴圈：AI 與太陽神"></a><br><a href="../memes/m0870.md">生命的迴圈：AI 與太陽神</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0874.md"><img src="../images/m0874-windows-update-looking-forward.png" width="240" alt="重開機時的 Windows Update"></a><br><a href="../memes/m0874.md">重開機時的 Windows Update</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0899.md"><img src="../images/m0899-if-it-works-dont-touch-it.png" width="240" alt="If it works, don't touch it"></a><br><a href="../memes/m0899.md">If it works, don't touch it</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（34）
+## ★★（35）
 
 <table>
 <tr>
@@ -205,6 +206,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0750.md"><img src="../images/m0750-genai-ouroboros-problem.png" width="240" alt="他在想的是 GenAI 銜尾蛇問題"></a><br><a href="../memes/m0750.md">他在想的是 GenAI 銜尾蛇問題</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0902.md"><img src="../images/m0902-identity-theft-binary-card.png" width="240" alt="身分盜竊不是開玩笑的！"></a><br><a href="../memes/m0902.md">身分盜竊不是開玩笑的！</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

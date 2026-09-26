@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 282 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 288 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（177）
+## ★（180）
 
 <table>
 <tr>
@@ -304,9 +304,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0888.md"><img src="../images/m0888-mom-only-34.png" width="240" alt="知道為什麼我才 34 嗎？"></a><br><a href="../memes/m0888.md">知道為什麼我才 34 嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0894.md"><img src="../images/m0894-parking-bbq-twerk.png" width="240" alt="邊烤肉邊跳電臀舞的人專屬停車位"></a><br><a href="../memes/m0894.md">邊烤肉邊跳電臀舞的人專屬停車位</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0896.md"><img src="../images/m0896-homer-sponge-holder.png" width="240" alt="荷馬退進樹叢的海綿架"></a><br><a href="../memes/m0896.md">荷馬退進樹叢的海綿架</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0900.md"><img src="../images/m0900-touhou-yuri-three-bowls.png" width="240" alt="東方百合：很好吃，可以吃三碗"></a><br><a href="../memes/m0900.md">東方百合：很好吃，可以吃三碗</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0903.md"><img src="../images/m0903-shot-put-girl-hit-boy.png" width="240" alt="妳不是鉛球隊的嗎？"></a><br><a href="../memes/m0903.md">妳不是鉛球隊的嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（46）
+## ★★（47）
 
 <table>
 <tr>
@@ -386,10 +391,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0883.md"><img src="../images/m0883-laios-would-actually-do-it.jpg" width="240" alt="如果是萊歐斯的話可能真的幹得出來"></a><br><a href="../memes/m0883.md">如果是萊歐斯的話可能真的幹得出來</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0906.md"><img src="../images/m0906-sakiko-hokkien-drama.jpg" width="240" alt="市井豪門：滿腦子都只想到自己呢"></a><br><a href="../memes/m0906.md">市井豪門：滿腦子都只想到自己呢</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（59）
+## ⚠️ 需斟酌（61）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -978,6 +984,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0895.md"><img src="../images/m0895-parking-bbq-big-guy.png" width="240" alt="孕婦停車位（烤肉版）"></a><br><a href="../memes/m0895.md">孕婦停車位（烤肉版）</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你停止在乎其他人的想法——抱歉貼錯圖了 — ⚠️ 戀足暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0901.md"><img src="../images/m0901-pvz-wrong-image-feet.png" width="240" alt="當你停止在乎其他人的想法——抱歉貼錯圖了"></a><br><a href="../memes/m0901.md">當你停止在乎其他人的想法——抱歉貼錯圖了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>把可愛的石頭黏到方向盤上 — ⚠️ 受傷（車禍）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0904.md"><img src="../images/m0904-stones-on-steering-wheel.png" width="240" alt="把可愛的石頭黏到方向盤上"></a><br><a href="../memes/m0904.md">把可愛的石頭黏到方向盤上</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

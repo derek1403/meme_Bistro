@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 88 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 89 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（38）
 
@@ -75,7 +75,7 @@
 </tr>
 </table>
 
-## ★★（34）
+## ★★（35）
 
 <table>
 <tr>
@@ -135,6 +135,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0892.md"><img src="../images/m0892-pfas-standard-model-recycling.png" width="240" alt="如果 PFAS 不能回收，那你解釋這個！"></a><br><a href="../memes/m0892.md">如果 PFAS 不能回收，那你解釋這個！</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0897.md"><img src="../images/m0897-crocodile-stomach-stones.png" width="240" alt="肚子痛跟胖沒半毛錢關係"></a><br><a href="../memes/m0897.md">肚子痛跟胖沒半毛錢關係</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

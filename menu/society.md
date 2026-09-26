@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 69 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 70 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（11）
 
@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（57）
+## ⚠️ 需斟酌（58）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -607,6 +607,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0878.md"><img src="../images/m0878-mcdonalds-crosswalk-ketchup.png" width="240" alt="猜猜番茄醬從哪裡來？"></a><br><a href="../memes/m0878.md">猜猜番茄醬從哪裡來？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>戒菸六年買新車，然後死於車禍 — ⚠️ 死亡（車禍）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0898.md"><img src="../images/m0898-quit-smoking-bought-car-died.png" width="240" alt="戒菸六年買新車，然後死於車禍"></a><br><a href="../memes/m0898.md">戒菸六年買新車，然後死於車禍</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

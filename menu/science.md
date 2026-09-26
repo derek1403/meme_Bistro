@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 105 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（50）
 
@@ -95,7 +95,7 @@
 </tr>
 </table>
 
-## ★★（37）
+## ★★（39）
 
 <table>
 <tr>
@@ -160,6 +160,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0964.md"><img src="../images/m0964-newton-vs-einstein-objects.png" width="240" alt="物體不喜歡改變速度——真的真的非常不喜歡"></a><br><a href="../memes/m0964.md">物體不喜歡改變速度——真的真的非常不喜歡</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1173.md"><img src="../images/m1173-stadium-electron-configuration.png" width="240" alt="給這張圖配一個合適的注釋：1s² 2s² 2p⁶ 3s² 3p⁶"></a><br><a href="../memes/m1173.md">給這張圖配一個合適的注釋：1s² 2s² 2p⁶ 3s² 3p⁶</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1176.md"><img src="../images/m1176-afraid-of-calculus-accelerating.png" width="240" alt="他害怕微積分？是非等加速度運動"></a><br><a href="../memes/m1176.md">他害怕微積分？是非等加速度運動</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

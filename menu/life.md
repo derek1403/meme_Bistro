@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 445 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 452 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（298）
+## ★（305）
 
 <table>
 <tr>
@@ -506,6 +506,17 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1165.md"><img src="../images/m1165-introvert-ketchup-warmup.png" width="240" alt="內向人向服務員多要一包番茄醬前的熱身"></a><br><a href="../memes/m1165.md">內向人向服務員多要一包番茄醬前的熱身</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1167.md"><img src="../images/m1167-bird-poop-draws-horse.png" width="240" alt="鳥居然用……畫馬，還畫比我好"></a><br><a href="../memes/m1167.md">鳥居然用……畫馬，還畫比我好</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1168.md"><img src="../images/m1168-police-delivery-box-tainan.png" width="240" alt="台南警察的外送箱：臉力"></a><br><a href="../memes/m1168.md">台南警察的外送箱：臉力</a><br><sub>🔤👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1169.md"><img src="../images/m1169-snake-sushi-go-around.png" width="240" alt="決定今晚吃什麼了：迴轉壽司"></a><br><a href="../memes/m1169.md">決定今晚吃什麼了：迴轉壽司</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1171.md"><img src="../images/m1171-montelli-family-cosplay.png" width="240" alt="蒙特利家族首席與猛男們"></a><br><a href="../memes/m1171.md">蒙特利家族首席與猛男們</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1174.md"><img src="../images/m1174-grandma-oranges-truck.png" width="240" alt="阿嬤，你上次買的橘子好好吃"></a><br><a href="../memes/m1174.md">阿嬤，你上次買的橘子好好吃</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1175.md"><img src="../images/m1175-shipping-3-to-7-arrives-day-3.png" width="240" alt="貨運說三到七個工作天，但第三天就送到"></a><br><a href="../memes/m1175.md">貨運說三到七個工作天，但第三天就送到</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1177.md"><img src="../images/m1177-furniture-at-3am.png" width="240" alt="凌晨三點無故醒來，家裡的傢俱"></a><br><a href="../memes/m1177.md">凌晨三點無故醒來，家裡的傢俱</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

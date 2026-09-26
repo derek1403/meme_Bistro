@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 233 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 239 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（148）
+## ★（152）
 
 <table>
 <tr>
@@ -256,10 +256,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0802.md"><img src="../images/m0802-cat-butt-print-toast.png" width="240" alt="你的樂壓吐司好了，快給我吃掉"></a><br><a href="../memes/m0802.md">你的樂壓吐司好了，快給我吃掉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0807.md"><img src="../images/m0807-dont-buy-loop.png" width="240" alt="別買"></a><br><a href="../memes/m0807.md">別買</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0810.md"><img src="../images/m0810-stop-looking-stock-crash.png" width="240" alt="不要再看了！"></a><br><a href="../memes/m0810.md">不要再看了！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0811.md"><img src="../images/m0811-thanks-boss-you-go-busy.png" width="240" alt="「辛苦了」一般是上級對下級的慰問用詞"></a><br><a href="../memes/m0811.md">「辛苦了」一般是上級對下級的慰問用詞</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0812.md"><img src="../images/m0812-call-the-tv-remote.png" width="240" alt="找不到遙控器時就打電話給它"></a><br><a href="../memes/m0812.md">找不到遙控器時就打電話給它</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（38）
+## ★★（39）
 
 <table>
 <tr>
@@ -325,10 +331,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0739.md"><img src="../images/m0739-takamatsu-tomori-penguin.jpg" width="240" alt="提起高松燈，你應該想到……"></a><br><a href="../memes/m0739.md">提起高松燈，你應該想到……</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0782.md"><img src="../images/m0782-eye-chart-ave-mujica.jpg" width="240" alt="視力表裡的 AVE Mujica"></a><br><a href="../memes/m0782.md">視力表裡的 AVE Mujica</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0809.md"><img src="../images/m0809-claustrophobia-ave-mujica.png" width="240" alt="幽閉恐懼症＝害怕幽閉星光"></a><br><a href="../memes/m0809.md">幽閉恐懼症＝害怕幽閉星光</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（47）
+## ⚠️ 需斟酌（48）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -797,6 +804,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0778.md"><img src="../images/m0778-talking-cats-by-country.png" width="240" alt="各國會講話的貓"></a><br><a href="../memes/m0778.md">各國會講話的貓</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>看完我獨自升級後，明天掃墓：起來 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0813.md"><img src="../images/m0813-solo-leveling-arise-tomb.png" width="240" alt="看完我獨自升級後，明天掃墓：起來"></a><br><a href="../memes/m0813.md">看完我獨自升級後，明天掃墓：起來</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

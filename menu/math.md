@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 149 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 152 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（50）
+## ★（52）
 
 <table>
 <tr>
@@ -92,6 +92,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0550.md"><img src="../images/m0550-sigma-drawing-decay.png" width="240" alt="畫 Σ 的能力 vs 畫的次數"></a><br><a href="../memes/m0550.md">畫 Σ 的能力 vs 畫的次數</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0563.md"><img src="../images/m0563-cthulhu-vs-advanced-math.png" width="240" alt="克蘇魯 vs 高等數學"></a><br><a href="../memes/m0563.md">克蘇魯 vs 高等數學</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0574.md"><img src="../images/m0574-chips-on-bed-y-axis.png" width="240" alt="把洋芋片放在床上（y 軸設最大值）"></a><br><a href="../memes/m0574.md">把洋芋片放在床上（y 軸設最大值）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0575.md"><img src="../images/m0575-inverse-function-woman-cat.png" width="240" alt="f(x) 與 f⁻¹(x)"></a><br><a href="../memes/m0575.md">f(x) 與 f⁻¹(x)</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -200,7 +204,7 @@
 </tr>
 </table>
 
-## ★★★（30）
+## ★★★（31）
 
 <table>
 <tr>
@@ -252,6 +256,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0422.md"><img src="../images/m0422-big-o-seasons.png" width="240" alt="𝒪 的四季"></a><br><a href="../memes/m0422.md">𝒪 的四季</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0440.md"><img src="../images/m0440-right-triangle-angle-i.png" width="240" alt="角度是 i 的直角三角形"></a><br><a href="../memes/m0440.md">角度是 i 的直角三角形</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0553.md"><img src="../images/m0553-terminal-object-dating.png" width="240" alt="男生約會很難：範疇裡的終對象"></a><br><a href="../memes/m0553.md">男生約會很難：範疇裡的終對象</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0571.md"><img src="../images/m0571-solve-quadratic-galois-theory.png" width="240" alt="怎麼解 3x² − x = 8？先考慮伽羅瓦群"></a><br><a href="../memes/m0571.md">怎麼解 3x² − x = 8？先考慮伽羅瓦群</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

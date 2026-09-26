@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 44 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 45 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（8）
 
@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（35）
+## ⚠️ 需斟酌（36）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -382,6 +382,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0568.md"><img src="../images/m0568-korean-birthday-party-kim.png" width="240" alt="一場韓式生日派對"></a><br><a href="../memes/m0568.md">一場韓式生日派對</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你可以 14:00 再走嗎？ — ⚠️ 死亡（家人病危）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0581.md"><img src="../images/m0581-grandpa-dying-leave-at-14.png" width="240" alt="你可以 14:00 再走嗎？"></a><br><a href="../memes/m0581.md">你可以 14:00 再走嗎？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

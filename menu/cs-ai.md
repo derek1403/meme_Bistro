@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 100 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（58）
+## ★（62）
 
 <table>
 <tr>
@@ -106,6 +106,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0567.md"><img src="../images/m0567-qa-tester-squid-game.png" width="240" alt="QA 測試員抓住沒測就想上線的工程師"></a><br><a href="../memes/m0567.md">QA 測試員抓住沒測就想上線的工程師</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0572.md"><img src="../images/m0572-fix-one-error-get-six.png" width="240" alt="修好 1 個錯誤，得到 6 個錯誤"></a><br><a href="../memes/m0572.md">修好 1 個錯誤，得到 6 個錯誤</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0573.md"><img src="../images/m0573-linus-setup-vs-chatgpt-copier.png" width="240" alt="Linux 創造者 vs 複製貼上 ChatGPT 的人"></a><br><a href="../memes/m0573.md">Linux 創造者 vs 複製貼上 ChatGPT 的人</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0577.md"><img src="../images/m0577-finding-vulnerabilities-tornado.png" width="240" alt="他們在找真愛，我在找漏洞"></a><br><a href="../memes/m0577.md">他們在找真愛，我在找漏洞</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0579.md"><img src="../images/m0579-docker-yes-papa-ram.png" width="240" alt="Docker Docker, Yes papa"></a><br><a href="../memes/m0579.md">Docker Docker, Yes papa</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

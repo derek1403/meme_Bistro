@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 54 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 56 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（23）
 
@@ -50,7 +50,7 @@
 </tr>
 </table>
 
-## ★★（22）
+## ★★（24）
 
 <table>
 <tr>
@@ -90,6 +90,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0542.md"><img src="../images/m0542-pendulum-period-be-honest.png" width="240" alt="Be honest：單擺週期"></a><br><a href="../memes/m0542.md">Be honest：單擺週期</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0578.md"><img src="../images/m0578-brick-wall-quantum-tunneling.png" width="240" alt="我會築起自己的牆……除了量子穿隧"></a><br><a href="../memes/m0578.md">我會築起自己的牆……除了量子穿隧</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0580.md"><img src="../images/m0580-expired-bento-arrhenius.png" width="240" alt="用阿瑞尼士方程證明過期便當還能吃"></a><br><a href="../memes/m0580.md">用阿瑞尼士方程證明過期便當還能吃</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 297 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 307 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（187）
+## ★（195）
 
 <table>
 <tr>
@@ -321,6 +321,18 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0928.md"><img src="../images/m0928-husky-among-wolves.png" width="240" alt="哈士奇：這隻狼把我當同類了"></a><br><a href="../memes/m0928.md">哈士奇：這隻狼把我當同類了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0929.md"><img src="../images/m0929-review-this-is-my-ex.png" width="240" alt="商家回覆：這是我前任，大家不用理他"></a><br><a href="../memes/m0929.md">商家回覆：這是我前任，大家不用理他</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0930.md"><img src="../images/m0930-kirby-doctor-inhale.jpg" width="240" alt="卡比看醫生"></a><br><a href="../memes/m0930.md">卡比看醫生</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0931.md"><img src="../images/m0931-screenshot-chat-useful-tool.jpg" width="240" alt="這是以後會用得上的妙妙工具"></a><br><a href="../memes/m0931.md">這是以後會用得上的妙妙工具</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0932.md"><img src="../images/m0932-wish-i-were-dough.jpg" width="240" alt="真希望我是麵團"></a><br><a href="../memes/m0932.md">真希望我是麵團</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0933.md"><img src="../images/m0933-reform-eraser-delinquent.jpg" width="240" alt="改邪歸正橡皮擦"></a><br><a href="../memes/m0933.md">改邪歸正橡皮擦</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0935.md"><img src="../images/m0935-succulent-becoming-monster.png" width="240" alt="我的多肉越來越不簡單了"></a><br><a href="../memes/m0935.md">我的多肉越來越不簡單了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0937.md"><img src="../images/m0937-king-oyster-mushroom-cosmos.jpg" width="240" alt="杏鮑菇的花語是「宇宙」"></a><br><a href="../memes/m0937.md">杏鮑菇的花語是「宇宙」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0938.md"><img src="../images/m0938-mbti-nt-thinking-sheep.png" width="240" alt="NT 型的思考方式"></a><br><a href="../memes/m0938.md">NT 型的思考方式</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 
@@ -409,7 +421,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（62）
+## ⚠️ 需斟酌（64）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1028,6 +1040,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0909.md"><img src="../images/m0909-sparkle-giant-i-have-idea.png" width="240" alt="Wow… I have an idea"></a><br><a href="../memes/m0909.md">Wow… I have an idea</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>醫生，我是不是抑鬱了？ — ⚠️ 心理健康</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0934.md"><img src="../images/m0934-depressed-or-just-poor-working.jpg" width="240" alt="醫生，我是不是抑鬱了？"></a><br><a href="../memes/m0934.md">醫生，我是不是抑鬱了？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>葛萊分多加六尸…… — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0939.md"><img src="../images/m0939-gryffindor-six-points-snape.png" width="240" alt="葛萊分多加六尸……"></a><br><a href="../memes/m0939.md">葛萊分多加六尸……</a><br><sub>🔥🔤 ★★</sub></td>
 </tr>
 </table>
 

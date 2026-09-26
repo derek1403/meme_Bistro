@@ -23,8 +23,8 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0304.md"><img src="../images/m0304-yuri-anime-overdose-happy.png" width="240" alt="我真的可以這麼幸福嗎？"></a><br><a href="../memes/m0304.md">我真的可以這麼幸福嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0594.md"><img src="../images/m0594-orange-cat-paw-face-reaction.png" width="240" alt="橘貓推開灰貓的臉"></a><br><a href="../memes/m0594.md">橘貓推開灰貓的臉</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0527.md"><img src="../images/m0527-girl-3-plus-4-abelian-group.png" width="240" alt="3+4 等於 4+3，因為阿貝爾群"></a><br><a href="../memes/m0527.md">3+4 等於 4+3，因為阿貝爾群</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0012.md"><img src="../images/m0012-cursed-rows-columns.png" width="240" alt="被詛咒的行與列"></a><br><a href="../memes/m0012.md">被詛咒的行與列</a><br><sub>👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0002.md"><img src="../images/m0002-math-teacher-joke-coset.png" width="240" alt="數學老師講了一個笑話"></a><br><a href="../memes/m0002.md">數學老師講了一個笑話</a><br><sub>🧠🔤 ★★</sub></td>
 </tr>
 </table>

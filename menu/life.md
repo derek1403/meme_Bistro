@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 153 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（89）
+## ★（91）
 
 <table>
 <tr>
@@ -157,6 +157,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0583.md"><img src="../images/m0583-drunk-call-shower-head.png" width="240" alt="昨晚在雨中給你打了很多電話"></a><br><a href="../memes/m0583.md">昨晚在雨中給你打了很多電話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0589.md"><img src="../images/m0589-puzzle-same-cut-horse-train.png" width="240" alt="拼圖廠商用同一套模具"></a><br><a href="../memes/m0589.md">拼圖廠商用同一套模具</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0594.md"><img src="../images/m0594-orange-cat-paw-face-reaction.png" width="240" alt="橘貓推開灰貓的臉"></a><br><a href="../memes/m0594.md">橘貓推開灰貓的臉</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0601.md"><img src="../images/m0601-samoyed-chess-piece.png" width="240" alt="薩摩耶棋子"></a><br><a href="../memes/m0601.md">薩摩耶棋子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -213,7 +217,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（33）
+## ⚠️ 需斟酌（34）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -542,6 +546,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0530.md"><img src="../images/m0530-imaginary-wife-imaginary-friend.png" width="240" alt="虛構的，是女朋友而已嗎？"></a><br><a href="../memes/m0530.md">虛構的，是女朋友而已嗎？</a><br><sub>👀🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你女朋友突然說想捅你屁眼 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0595.md"><img src="../images/m0595-girlfriend-wants-to-peg-cat.jpg" width="240" alt="當你女朋友突然說想捅你屁眼"></a><br><a href="../memes/m0595.md">當你女朋友突然說想捅你屁眼</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 47 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 48 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（8）
 
@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（38）
+## ⚠️ 需斟酌（39）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -412,6 +412,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0591.md"><img src="../images/m0591-all-creatures-corpse-fetish.png" width="240" alt="所有生物都是不同種類的戀屍癖"></a><br><a href="../memes/m0591.md">所有生物都是不同種類的戀屍癖</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我幹掉狼人了！ — ⚠️ 暴力（槍殺）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0599.md"><img src="../images/m0599-silver-bullet-werewolf.png" width="240" alt="我幹掉狼人了！"></a><br><a href="../memes/m0599.md">我幹掉狼人了！</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

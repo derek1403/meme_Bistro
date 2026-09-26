@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 154 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（53）
+## ★（56）
 
 <table>
 <tr>
@@ -97,10 +97,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0575.md"><img src="../images/m0575-inverse-function-woman-cat.png" width="240" alt="f(x) 與 f⁻¹(x)"></a><br><a href="../memes/m0575.md">f(x) 與 f⁻¹(x)</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0584.md"><img src="../images/m0584-assume-x-one-third.png" width="240" alt="假設 x = 1/3，欸幹假設對了"></a><br><a href="../memes/m0584.md">假設 x = 1/3，欸幹假設對了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0593.md"><img src="../images/m0593-taylor-swift-taylor-series.png" width="240" alt="Taylor S… 是 Taylor Series"></a><br><a href="../memes/m0593.md">Taylor S… 是 Taylor Series</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0596.md"><img src="../images/m0596-yibian-yibian-triangle.png" width="240" alt="用「一邊……一邊……」造句"></a><br><a href="../memes/m0596.md">用「一邊……一邊……」造句</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0597.md"><img src="../images/m0597-math-textbook-f-x-delta-logo.png" width="240" alt="數學課本封面的「學」字"></a><br><a href="../memes/m0597.md">數學課本封面的「學」字</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（60）
+## ★★（61）
 
 <table>
 <tr>
@@ -202,6 +207,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0538.md"><img src="../images/m0538-real-complex-quaternion-octonion.png" width="240" alt="實數 → 八元數：一路失去性質"></a><br><a href="../memes/m0538.md">實數 → 八元數：一路失去性質</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0541.md"><img src="../images/m0541-ramanujan-sleep-pi-formula.png" width="240" alt="拉馬努金：好，該睡了——等一下"></a><br><a href="../memes/m0541.md">拉馬努金：好，該睡了——等一下</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0566.md"><img src="../images/m0566-ramanujan-principal-3254.png" width="240" alt="校長拉馬努金（3254）"></a><br><a href="../memes/m0566.md">校長拉馬努金（3254）</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0598.md"><img src="../images/m0598-ex-derivative-dy.png" width="240" alt="eˣ：你打不倒我——d/dy 可以"></a><br><a href="../memes/m0598.md">eˣ：你打不倒我——d/dy 可以</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -62,7 +62,7 @@ def parse_value(raw):
 
 
 def load_card(path):
-    text = path.read_text(encoding='utf-8')
+    text = path.read_text(encoding='utf-8').replace('\r\n', '\n')
     m = re.match(r'^---\n(.*?)\n---\n(.*)$', text, re.S)
     if not m:
         raise ValueError('缺少 front matter')

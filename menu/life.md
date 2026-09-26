@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 338 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（219）
+## ★（226）
 
 <table>
 <tr>
@@ -374,9 +374,22 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0990.md"><img src="../images/m0990-cat-pet-until-only-ugly.png" width="240" alt="摸到你只剩醜為止"></a><br><a href="../memes/m0990.md">摸到你只剩醜為止</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0991.md"><img src="../images/m0991-group-photo-mirror-trick.png" width="240" alt="過年聚會拍團體照最佳示範"></a><br><a href="../memes/m0991.md">過年聚會拍團體照最佳示範</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0995.md"><img src="../images/m0995-uika-god-of-wealth.png" width="240" alt="恭喜發財（財神初華）"></a><br><a href="../memes/m0995.md">恭喜發財（財神初華）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0998.md"><img src="../images/m0998-cousin-too-delete-her.png" width="240" alt="我也是你表妹，馬上給我刪了她"></a><br><a href="../memes/m0998.md">我也是你表妹，馬上給我刪了她</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0999.md"><img src="../images/m0999-red-envelope-lucky-words.png" width="240" alt="想要領紅包的，先來句吉祥話"></a><br><a href="../memes/m0999.md">想要領紅包的，先來句吉祥話</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1000.md"><img src="../images/m1000-relatives-ask-grades-like-poop.png" width="240" alt="親戚問你的成績：跟屎一樣"></a><br><a href="../memes/m1000.md">親戚問你的成績：跟屎一樣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1001.md"><img src="../images/m1001-parents-share-embarrassing-stories.png" width="240" alt="父母將你小時候做的糗事跟親戚分享"></a><br><a href="../memes/m1001.md">父母將你小時候做的糗事跟親戚分享</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1002.md"><img src="../images/m1002-new-year-visit-6am.png" width="240" alt="早上六點就開始的走春拜年"></a><br><a href="../memes/m1002.md">早上六點就開始的走春拜年</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1003.md"><img src="../images/m1003-relative-kid-noisy-cry.png" width="240" alt="親戚小孩在吵：哩洗勒哭喔"></a><br><a href="../memes/m1003.md">親戚小孩在吵：哩洗勒哭喔</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（49）
+## ★★（50）
 
 <table>
 <tr>
@@ -461,10 +474,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0971.md"><img src="../images/m0971-sakiko-grandpa-bought-mcdonalds.png" width="240" alt="不小心把整個麥當勞買下來了"></a><br><a href="../memes/m0971.md">不小心把整個麥當勞買下來了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0997.md"><img src="../images/m0997-new-year-couplet-anon.png" width="240" alt="千早愛音春聯：是又怎樣"></a><br><a href="../memes/m0997.md">千早愛音春聯：是又怎樣</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（70）
+## ⚠️ 需斟酌（72）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1163,6 +1177,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0992.md"><img src="../images/m0992-cat-wrapped-water-bottles.png" width="240" alt="貓娘／項圈／膠衣／束縛／窒息／水很多"></a><br><a href="../memes/m0992.md">貓娘／項圈／膠衣／束縛／窒息／水很多</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我的大腦毫無緣由地打開澀澀模式 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0994.md"><img src="../images/m0994-brain-horny-mode-switch.png" width="240" alt="我的大腦毫無緣由地打開澀澀模式"></a><br><a href="../memes/m0994.md">我的大腦毫無緣由地打開澀澀模式</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>把她未出生的孩子打碎倒進母親的屍塊裡 — ⚠️ 死亡（字面描述）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1005.md"><img src="../images/m1005-cooking-unborn-child-egg.jpg" width="240" alt="把她未出生的孩子打碎倒進母親的屍塊裡"></a><br><a href="../memes/m1005.md">把她未出生的孩子打碎倒進母親的屍塊裡</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

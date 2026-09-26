@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 207 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 208 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（77）
 
@@ -140,7 +140,7 @@
 </tr>
 </table>
 
-## ★★（78）
+## ★★（79）
 
 <table>
 <tr>
@@ -272,6 +272,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0877.md"><img src="../images/m0877-number-theorist-zero-divisors.png" width="240" alt="數論學家學抽象代數"></a><br><a href="../memes/m0877.md">數論學家學抽象代數</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0945.md"><img src="../images/m0945-chessboard-matrix-multiplication.png" width="240" alt="西洋棋盤 × 一列棋子 = ？"></a><br><a href="../memes/m0945.md">西洋棋盤 × 一列棋子 = ？</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0954.md"><img src="../images/m0954-set-of-empty-set-one-element.png" width="240" alt="{∅} 與 {{∅}} 都只有一個元素"></a><br><a href="../memes/m0954.md">{∅} 與 {{∅}} 都只有一個元素</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0996.md"><img src="../images/m0996-topologist-morning-routine.png" width="240" alt="拓樸學家的晨間例行公事"></a><br><a href="../memes/m0996.md">拓樸學家的晨間例行公事</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

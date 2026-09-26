@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 212 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（77）
+## ★（78）
 
 <table>
 <tr>
@@ -137,6 +137,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0965.md"><img src="../images/m0965-vegetable-price-equation-aunt.png" width="240" alt="賣菜阿姨說一共是……"></a><br><a href="../memes/m0965.md">賣菜阿姨說一共是……</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0967.md"><img src="../images/m0967-multiplication-symbols-spongebob.png" width="240" alt="乘法符號的三種境界"></a><br><a href="../memes/m0967.md">乘法符號的三種境界</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1098.md"><img src="../images/m1098-guess-who-dog-15.png" width="240" alt="猜一猜我是誰：我是狗"></a><br><a href="../memes/m1098.md">猜一猜我是誰：我是狗</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

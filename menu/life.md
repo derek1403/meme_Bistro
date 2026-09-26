@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 405 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 408 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（268）
+## ★（270）
 
 <table>
 <tr>
@@ -456,6 +456,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1089.md"><img src="../images/m1089-sasayaku-anime-disaster.jpg" width="240" alt="如果你覺得人生很慘，可以看看《恰如細語的戀歌》"></a><br><a href="../memes/m1089.md">如果你覺得人生很慘，可以看看《恰如細語的戀歌》</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1100.md"><img src="../images/m1100-bear-sleeping-bag.jpg" width="240" alt="熊形狀的睡袋"></a><br><a href="../memes/m1100.md">熊形狀的睡袋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1101.md"><img src="../images/m1101-rtx-5090-for-elsword.png" width="240" alt="是時候玩點真正的遊戲了"></a><br><a href="../memes/m1101.md">是時候玩點真正的遊戲了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -558,7 +560,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（81）
+## ⚠️ 需斟酌（82）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1367,6 +1369,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1090.md"><img src="../images/m1090-no-beating-customers-unless.jpg" width="240" alt="禁止毆打顧客（除非忍不住）"></a><br><a href="../memes/m1090.md">禁止毆打顧客（除非忍不住）</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我想我太太不會吃這些布朗尼 — ⚠️ 噁心（外觀）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1097.md"><img src="../images/m1097-brownies-corn-mold.png" width="240" alt="我想我太太不會吃這些布朗尼"></a><br><a href="../memes/m1097.md">我想我太太不會吃這些布朗尼</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

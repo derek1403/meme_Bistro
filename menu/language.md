@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 100 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 102 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（66）
+## ★（68）
 
 <table>
 <tr>
@@ -118,6 +118,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1071.md"><img src="../images/m1071-li-huang-xing-trust-me.png" width="240" alt="我辦事：李晃興"></a><br><a href="../memes/m1071.md">我辦事：李晃興</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1073.md"><img src="../images/m1073-monkey-dragon-throat-pain.png" width="240" alt="我屬猴你屬龍，我們在一起會喉嚨痛"></a><br><a href="../memes/m1073.md">我屬猴你屬龍，我們在一起會喉嚨痛</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1082.md"><img src="../images/m1082-first-hate-enemy-day.png" width="240" alt="你是我的初厭"></a><br><a href="../memes/m1082.md">你是我的初厭</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1095.md"><img src="../images/m1095-no-shower-vietnamese.jpg" width="240" alt="越久不洗澡，你就會越南文"></a><br><a href="../memes/m1095.md">越久不洗澡，你就會越南文</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1102.md"><img src="../images/m1102-squid-game-mosquito-coil.jpg" width="240" alt="韓國魷魚遊戲，台灣鱷魚遊戲"></a><br><a href="../memes/m1102.md">韓國魷魚遊戲，台灣鱷魚遊戲</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

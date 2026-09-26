@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 78 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 79 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（14）
 
@@ -43,7 +43,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（63）
+## ⚠️ 需斟酌（64）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -672,6 +672,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1053.md"><img src="../images/m1053-taichung-gunshot-headphones.png" width="240" alt="在台中打電動聽到超立體槍聲"></a><br><a href="../memes/m1053.md">在台中打電動聽到超立體槍聲</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>獸醫是唯一一種會吃患者的醫生 — ⚠️ 動物（食用）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1068.md"><img src="../images/m1068-vet-eats-patients.png" width="240" alt="獸醫是唯一一種會吃患者的醫生"></a><br><a href="../memes/m1068.md">獸醫是唯一一種會吃患者的醫生</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

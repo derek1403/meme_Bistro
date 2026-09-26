@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 387 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 394 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（256）
+## ★（261）
 
 <table>
 <tr>
@@ -436,6 +436,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1058.md"><img src="../images/m1058-scooter-poster-waiting.png" width="240" alt="等了一小時還不下來"></a><br><a href="../memes/m1058.md">等了一小時還不下來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1062.md"><img src="../images/m1062-whole-world-enemy-you-wrong.png" width="240" alt="如果全世界都成為妳的敵人"></a><br><a href="../memes/m1062.md">如果全世界都成為妳的敵人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1064.md"><img src="../images/m1064-clownpiece-rtx-banana.png" width="240" alt="搭載 GeForce RTX 的克勞恩皮絲"></a><br><a href="../memes/m1064.md">搭載 GeForce RTX 的克勞恩皮絲</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1066.md"><img src="../images/m1066-client-simple-lego-misaligned.png" width="240" alt="甲方：我們的要求這麼簡單"></a><br><a href="../memes/m1066.md">甲方：我們的要求這麼簡單</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1067.md"><img src="../images/m1067-spongebob-3-minute-study-motivation.png" width="240" alt="看完感動電影決定開始努力讀書"></a><br><a href="../memes/m1067.md">看完感動電影決定開始努力讀書</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1069.md"><img src="../images/m1069-late-for-date-cats.png" width="240" alt="約會遲到的時候"></a><br><a href="../memes/m1069.md">約會遲到的時候</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -534,7 +541,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（77）
+## ⚠️ 需斟酌（79）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1303,6 +1310,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1060.md"><img src="../images/m1060-turtle-nowhere-to-go-eagle.png" width="240" alt="烏龜：不慢，只是沒什麼地方要去"></a><br><a href="../memes/m1060.md">烏龜：不慢，只是沒什麼地方要去</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>能穿得下妳衣服的人肯定沒餓過肚子 — ⚠️ 身材</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1063.md"><img src="../images/m1063-donate-clothes-never-hungry.png" width="240" alt="能穿得下妳衣服的人肯定沒餓過肚子"></a><br><a href="../memes/m1063.md">能穿得下妳衣服的人肯定沒餓過肚子</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你活不到下個星期一嗎？ — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1065.md"><img src="../images/m1065-boss-report-early-cant-live.png" width="240" alt="你活不到下個星期一嗎？"></a><br><a href="../memes/m1065.md">你活不到下個星期一嗎？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

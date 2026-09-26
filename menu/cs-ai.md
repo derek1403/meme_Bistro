@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 145 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 146 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（95）
+## ★（96）
 
 <table>
 <tr>
@@ -167,6 +167,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1026.md"><img src="../images/m1026-wrapper-class-pug.png" width="240" alt="加上第 15 層 wrapper class 的程式碼"></a><br><a href="../memes/m1026.md">加上第 15 層 wrapper class 的程式碼</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1042.md"><img src="../images/m1042-sudo-apt-get-install-spiderman.png" width="240" alt="他說安裝這個套件"></a><br><a href="../memes/m1042.md">他說安裝這個套件</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1070.md"><img src="../images/m1070-ai-whip-worker-capitalist.png" width="240" alt="你以為的 AI 普及後"></a><br><a href="../memes/m1070.md">你以為的 AI 普及後</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

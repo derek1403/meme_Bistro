@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 73 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 75 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（33）
 
@@ -129,7 +129,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（9）
+## ⚠️ 需斟酌（11）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -218,6 +218,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0717.md"><img src="../images/m0717-literal-coolest-thing-black-hole.png" width="240" alt="字面意義上最酷的東西"></a><br><a href="../memes/m0717.md">字面意義上最酷的東西</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這次考試穩了：域界門綱目科屬種 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0731.md"><img src="../images/m0731-taxonomy-mnemonic-dear-kevin.png" width="240" alt="這次考試穩了：域界門綱目科屬種"></a><br><a href="../memes/m0731.md">這次考試穩了：域界門綱目科屬種</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>粒子：我父母不在家？穿隧！ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0737.md"><img src="../images/m0737-particle-parents-not-home-tunneling.png" width="240" alt="粒子：我父母不在家？穿隧！"></a><br><a href="../memes/m0737.md">粒子：我父母不在家？穿隧！</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

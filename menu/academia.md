@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 38 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 39 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（31）
+## ★（32）
 
 <table>
 <tr>
@@ -61,6 +61,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0703.md"><img src="../images/m0703-camping-pack-grad-student.png" width="240" alt="露營的正確打包方式（研究生版）"></a><br><a href="../memes/m0703.md">露營的正確打包方式（研究生版）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0735.md"><img src="../images/m0735-reading-textbooks-blinking.png" width="240" alt="讀教科書的樣子"></a><br><a href="../memes/m0735.md">讀教科書的樣子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 182 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 184 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（68）
 
@@ -125,7 +125,7 @@
 </tr>
 </table>
 
-## ★★（68）
+## ★★（69）
 
 <table>
 <tr>
@@ -241,6 +241,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0688.md"><img src="../images/m0688-not-significantly-different-dad.png" width="240" alt="與好爸爸的標準沒有顯著差異"></a><br><a href="../memes/m0688.md">與好爸爸的標準沒有顯著差異</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0689.md"><img src="../images/m0689-odd-product-equals-zero.png" width="240" alt="1·3·5·7·… = 0"></a><br><a href="../memes/m0689.md">1·3·5·7·… = 0</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0734.md"><img src="../images/m0734-random-real-rational-zero.png" width="240" alt="隨機選一個實數，它是有理數的機率為 0"></a><br><a href="../memes/m0734.md">隨機選一個實數，它是有理數的機率為 0</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
@@ -304,7 +305,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（13）
+## ⚠️ 需斟酌（14）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -433,6 +434,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0682.md"><img src="../images/m0682-ten-factorial-six-weeks.png" width="240" alt="10! 秒 = 6 週"></a><br><a href="../memes/m0682.md">10! 秒 = 6 週</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>測量距離的各種方法 — ⚠️ 政治人物</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0732.md"><img src="../images/m0732-ways-to-measure-distance.png" width="240" alt="測量距離的各種方法"></a><br><a href="../memes/m0732.md">測量距離的各種方法</a><br><sub>👀🧠 ★★</sub></td>
 </tr>
 </table>
 

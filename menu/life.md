@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 207 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 209 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（126）
+## ★（127）
 
 <table>
 <tr>
@@ -219,9 +219,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0721.md"><img src="../images/m0721-star-hands-cat-paws.png" width="240" alt="大家的手指圍成星星，貓也伸出了手"></a><br><a href="../memes/m0721.md">大家的手指圍成星星，貓也伸出了手</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0722.md"><img src="../images/m0722-bus-raise-hand-idol.png" width="240" alt="搭車要記得舉手喔！"></a><br><a href="../memes/m0722.md">搭車要記得舉手喔！</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0730.md"><img src="../images/m0730-lbj-lubi-sauce.png" width="240" alt="LBJ 是嚕比醬嗎？"></a><br><a href="../memes/m0730.md">LBJ 是嚕比醬嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（36）
+## ★★（37）
 
 <table>
 <tr>
@@ -283,6 +286,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0677.md"><img src="../images/m0677-grandma-zako-mesugaki.png" width="240" alt="奶奶小時候是什麼樣的？雜魚雜魚♡"></a><br><a href="../memes/m0677.md">奶奶小時候是什麼樣的？雜魚雜魚♡</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0684.md"><img src="../images/m0684-takamatsu-red-light-train.png" width="240" alt="高松＋紅燈＋綠色電車"></a><br><a href="../memes/m0684.md">高松＋紅燈＋綠色電車</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0718.md"><img src="../images/m0718-mutsumi-they-come-to-my-room.png" width="240" alt="她們會自己跑來我的房間"></a><br><a href="../memes/m0718.md">她們會自己跑來我的房間</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0739.md"><img src="../images/m0739-takamatsu-tomori-penguin.jpg" width="240" alt="提起高松燈，你應該想到……"></a><br><a href="../memes/m0739.md">提起高松燈，你應該想到……</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

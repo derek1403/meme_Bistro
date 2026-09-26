@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 60 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 61 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（32）
+## ★（33）
 
 <table>
 <tr>
@@ -62,6 +62,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0706.md"><img src="../images/m0706-yingge-junior-high-schedule.png" width="240" alt="國中課表：驪數迴戰"></a><br><a href="../memes/m0706.md">國中課表：驪數迴戰</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0716.md"><img src="../images/m0716-blood-pressure-graduated-junior-high.png" width="240" alt="你的血壓剛國中畢業"></a><br><a href="../memes/m0716.md">你的血壓剛國中畢業</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0725.md"><img src="../images/m0725-squid-hesitated-mermaid.jpg" width="240" alt="那一天的魷魚猶豫起來"></a><br><a href="../memes/m0725.md">那一天的魷魚猶豫起來</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

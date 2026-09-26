@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 56 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 57 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（10）
 
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（45）
+## ⚠️ 需斟酌（46）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -486,6 +486,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0699.md"><img src="../images/m0699-kim-iron-will-metal-detector.png" width="240" alt="安檢門響個不停：那是他鋼鐵般的意志"></a><br><a href="../memes/m0699.md">安檢門響個不停：那是他鋼鐵般的意志</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>各家手機拍照比較：華為 P30 Pro — ⚠️ 政治（六四事件）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0724.md"><img src="../images/m0724-huawei-p30-tank-man.png" width="240" alt="各家手機拍照比較：華為 P30 Pro"></a><br><a href="../memes/m0724.md">各家手機拍照比較：華為 P30 Pro</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

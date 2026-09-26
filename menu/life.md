@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 246 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 253 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（155）
+## ★（160）
 
 <table>
 <tr>
@@ -267,10 +267,19 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0819.md"><img src="../images/m0819-wake-up-son-rooster-hen.png" width="240" alt="你那個什麼公雞母雞的卡通早就結束了"></a><br><a href="../memes/m0819.md">你那個什麼公雞母雞的卡通早就結束了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0822.md"><img src="../images/m0822-google-maps-cross-railway.png" width="240" alt="謝謝你喔谷歌地圖"></a><br><a href="../memes/m0822.md">謝謝你喔谷歌地圖</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0825.md"><img src="../images/m0825-bro-scammed-ex-back.jpg" width="240" alt="兄弟把你前女友騙回來了"></a><br><a href="../memes/m0825.md">兄弟把你前女友騙回來了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0827.md"><img src="../images/m0827-cat-earthquake-fried-chicken.png" width="240" alt="地震、海嘯、暴風雨都叫不醒，除了鹹酥雞"></a><br><a href="../memes/m0827.md">地震、海嘯、暴風雨都叫不醒，除了鹹酥雞</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0830.md"><img src="../images/m0830-shirtless-elsword-cosplay.png" width="240" alt="出來打艾爾之光"></a><br><a href="../memes/m0830.md">出來打艾爾之光</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0831.md"><img src="../images/m0831-cook-spaghetti-mamma-mia.png" width="240" alt="煮義大利麵：Mamma mia!"></a><br><a href="../memes/m0831.md">煮義大利麵：Mamma mia!</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0832.md"><img src="../images/m0832-barilla-spotify-playlist-timer.jpg" width="240" alt="Barilla 義大利麵的 Spotify 計時歌單"></a><br><a href="../memes/m0832.md">Barilla 義大利麵的 Spotify 計時歌單</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（41）
+## ★★（42）
 
 <table>
 <tr>
@@ -341,10 +350,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0817.md"><img src="../images/m0817-destiny-community-mygo.png" width="240" alt="要不要成為命運共同體"></a><br><a href="../memes/m0817.md">要不要成為命運共同體</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0821.md"><img src="../images/m0821-madoka-vs-mujica-roles.png" width="240" alt="苦苦掙扎的女主一號、無法戰勝的天災"></a><br><a href="../memes/m0821.md">苦苦掙扎的女主一號、無法戰勝的天災</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0834.md"><img src="../images/m0834-dog-bad-apple-silhouette.png" width="240" alt="我家狗背後有 bad apple"></a><br><a href="../memes/m0834.md">我家狗背後有 bad apple</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（50）
+## ⚠️ 需斟酌（51）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -843,6 +853,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0820.md"><img src="../images/m0820-mom-hired-people-to-beat-dad.png" width="240" alt="我找人揍的啊"></a><br><a href="../memes/m0820.md">我找人揍的啊</a><br><sub>👀🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>車內水冷系統設計圖 — ⚠️ 輕微性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0826.md"><img src="../images/m0826-car-seat-cooling-pump.png" width="240" alt="車內水冷系統設計圖"></a><br><a href="../memes/m0826.md">車內水冷系統設計圖</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 120 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 121 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（74）
+## ★（75）
 
 <table>
 <tr>
@@ -132,6 +132,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0804.md"><img src="../images/m0804-offline-dino-jump-cactus.png" width="240" alt="沒有網際網路連線"></a><br><a href="../memes/m0804.md">沒有網際網路連線</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0805.md"><img src="../images/m0805-polite-to-chatgpt-just-in-case.png" width="240" alt="對 ChatGPT 說「請」，以防萬一"></a><br><a href="../memes/m0805.md">對 ChatGPT 說「請」，以防萬一</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0835.md"><img src="../images/m0835-two-types-brace-style.png" width="240" alt="世上有兩種人（大括號版）"></a><br><a href="../memes/m0835.md">世上有兩種人（大括號版）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

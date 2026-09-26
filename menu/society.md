@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 60 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 61 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（10）
 
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（49）
+## ⚠️ 需斟酌（50）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -526,6 +526,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0779.md"><img src="../images/m0779-i-pay-water-bill-africa.png" width="240" alt="我有交水費，他們沒有！"></a><br><a href="../memes/m0779.md">我有交水費，他們沒有！</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我長大想做室內裝潢 — ⚠️ 動物死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0788.md"><img src="../images/m0788-deer-wants-interior-decoration.jpg" width="240" alt="我長大想做室內裝潢"></a><br><a href="../memes/m0788.md">我長大想做室內裝潢</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 190 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 193 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（70）
+## ★（72）
 
 <table>
 <tr>
@@ -126,6 +126,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0783.md"><img src="../images/m0783-sin-pi-senpai.jpg" width="240" alt="想聽別人叫我前輩？寫個 sinπ"></a><br><a href="../memes/m0783.md">想聽別人叫我前輩？寫個 sinπ</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0784.md"><img src="../images/m0784-square-root-cat.png" width="240" alt="Cat 與 √Cat"></a><br><a href="../memes/m0784.md">Cat 與 √Cat</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0787.md"><img src="../images/m0787-head-swirl-two-plus-one.jpg" width="240" alt="2 + 1 = 頭上的髮旋"></a><br><a href="../memes/m0787.md">2 + 1 = 頭上的髮旋</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -314,7 +316,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（15）
+## ⚠️ 需斟酌（16）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -463,6 +465,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0751.md"><img src="../images/m0751-japan-testicle-median.png" width="240" alt="日本人的蛋蛋持有數量統計圖"></a><br><a href="../memes/m0751.md">日本人的蛋蛋持有數量統計圖</a><br><sub>👀🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>各科老師的武器 — ⚠️ 武器</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0786.md"><img src="../images/m0786-teachers-weapons-sqrt.jpg" width="240" alt="各科老師的武器"></a><br><a href="../memes/m0786.md">各科老師的武器</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

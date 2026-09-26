@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 229 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 230 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（144）
+## ★（145）
 
 <table>
 <tr>
@@ -248,6 +248,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0775.md"><img src="../images/m0775-magic-to-be-happy-resignation.png" width="240" alt="變得幸福的魔法（放大 100 倍）"></a><br><a href="../memes/m0775.md">變得幸福的魔法（放大 100 倍）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0777.md"><img src="../images/m0777-croissant-peeled-french-hr.jpg" width="240" alt="吃可頌前會先去皮"></a><br><a href="../memes/m0777.md">吃可頌前會先去皮</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0780.md"><img src="../images/m0780-cat-likes-high-salary-job.png" width="240" alt="找工作不一定要找工資高的，要找自己喜歡的"></a><br><a href="../memes/m0780.md">找工作不一定要找工資高的，要找自己喜歡的</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0789.md"><img src="../images/m0789-three-stages-of-hunger.jpg" width="240" alt="空腹的三階段"></a><br><a href="../memes/m0789.md">空腹的三階段</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

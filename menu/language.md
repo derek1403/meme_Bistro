@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 68 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 72 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（39）
+## ★（43）
 
 <table>
 <tr>
@@ -73,6 +73,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0773.md"><img src="../images/m0773-half-pts-logo.jpg" width="240" alt="我在半公視等妳"></a><br><a href="../memes/m0773.md">我在半公視等妳</a><br><sub>🔤👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0776.md"><img src="../images/m0776-tap-coffee-cup-caffeine.jpg" width="240" alt="敲咖啡杯會發出什麼聲音？"></a><br><a href="../memes/m0776.md">敲咖啡杯會發出什麼聲音？</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0781.md"><img src="../images/m0781-three-minutes-learned-wall.png" width="240" alt="三分鐘沒理我，我學會煎牆了"></a><br><a href="../memes/m0781.md">三分鐘沒理我，我學會煎牆了</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0785.md"><img src="../images/m0785-takoyaki-panic-face.jpg" width="240" alt="慌章"></a><br><a href="../memes/m0785.md">慌章</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0790.md"><img src="../images/m0790-dark-chocolate-two-bitterness.jpg" width="240" alt="花一份錢吃兩份苦"></a><br><a href="../memes/m0790.md">花一份錢吃兩份苦</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0791.md"><img src="../images/m0791-dongshi-cat-sensible-director.jpg" width="240" alt="去普通朋友家懂事，去好朋友家董事"></a><br><a href="../memes/m0791.md">去普通朋友家懂事，去好朋友家董事</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0792.md"><img src="../images/m0792-translate-idioms-cosplay-pig.jpg" width="240" alt="請翻譯下列詞語：扮豬吃老虎"></a><br><a href="../memes/m0792.md">請翻譯下列詞語：扮豬吃老虎</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

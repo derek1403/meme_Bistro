@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 147 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（86）
+## ★（89）
 
 <table>
 <tr>
@@ -152,6 +152,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0565.md"><img src="../images/m0565-hey-brain-hows-it-going.png" width="240" alt="嘿大腦，你還好嗎？"></a><br><a href="../memes/m0565.md">嘿大腦，你還好嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0576.md"><img src="../images/m0576-dentist-scary-tshirt.png" width="240" alt="穿「牙醫好可怕」T 恤去看牙醫"></a><br><a href="../memes/m0576.md">穿「牙醫好可怕」T 恤去看牙醫</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0582.md"><img src="../images/m0582-cat-fiji-water-snob.png" width="240" alt="我家貓只喝斐濟水"></a><br><a href="../memes/m0582.md">我家貓只喝斐濟水</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0583.md"><img src="../images/m0583-drunk-call-shower-head.png" width="240" alt="昨晚在雨中給你打了很多電話"></a><br><a href="../memes/m0583.md">昨晚在雨中給你打了很多電話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0589.md"><img src="../images/m0589-puzzle-same-cut-horse-train.png" width="240" alt="拼圖廠商用同一套模具"></a><br><a href="../memes/m0589.md">拼圖廠商用同一套模具</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

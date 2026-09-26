@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 56 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 59 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（23）
+## ★（26）
 
 <table>
 <tr>
@@ -47,6 +47,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0560.md"><img src="../images/m0560-invention-second-telephone.png" width="240" alt="比第一支電話更重要的發明？第二支電話"></a><br><a href="../memes/m0560.md">比第一支電話更重要的發明？第二支電話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0569.md"><img src="../images/m0569-aikido-book-mechanics.png" width="240" alt="為了理解合氣道買了本武術書"></a><br><a href="../memes/m0569.md">為了理解合氣道買了本武術書</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0586.md"><img src="../images/m0586-seventy-percent-water-disguise.png" width="240" alt="每十個人有七個是水偽裝的"></a><br><a href="../memes/m0586.md">每十個人有七個是水偽裝的</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0587.md"><img src="../images/m0587-physicists-vegas-no-gambling.png" width="240" alt="物理學家讓拉斯維加斯損失慘重"></a><br><a href="../memes/m0587.md">物理學家讓拉斯維加斯損失慘重</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0592.md"><img src="../images/m0592-electrons-equal-electrons.png" width="240" alt="原子中的電子數和哪個相同？"></a><br><a href="../memes/m0592.md">原子中的電子數和哪個相同？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

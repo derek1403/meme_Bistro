@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 152 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 154 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（52）
+## ★（53）
 
 <table>
 <tr>
@@ -96,6 +96,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0575.md"><img src="../images/m0575-inverse-function-woman-cat.png" width="240" alt="f(x) 與 f⁻¹(x)"></a><br><a href="../memes/m0575.md">f(x) 與 f⁻¹(x)</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0584.md"><img src="../images/m0584-assume-x-one-third.png" width="240" alt="假設 x = 1/3，欸幹假設對了"></a><br><a href="../memes/m0584.md">假設 x = 1/3，欸幹假設對了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -204,7 +205,7 @@
 </tr>
 </table>
 
-## ★★★（31）
+## ★★★（32）
 
 <table>
 <tr>
@@ -259,6 +260,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0571.md"><img src="../images/m0571-solve-quadratic-galois-theory.png" width="240" alt="怎麼解 3x² − x = 8？先考慮伽羅瓦群"></a><br><a href="../memes/m0571.md">怎麼解 3x² − x = 8？先考慮伽羅瓦群</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0585.md"><img src="../images/m0585-eevee-matrix-decompositions.png" width="240" alt="矩陣 A 的進化型"></a><br><a href="../memes/m0585.md">矩陣 A 的進化型</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

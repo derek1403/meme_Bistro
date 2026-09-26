@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 45 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 47 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（8）
 
@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（36）
+## ⚠️ 需斟酌（38）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -392,6 +392,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0581.md"><img src="../images/m0581-grandpa-dying-leave-at-14.png" width="240" alt="你可以 14:00 再走嗎？"></a><br><a href="../memes/m0581.md">你可以 14:00 再走嗎？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>您是史密斯中校的夫人嗎？ — ⚠️ 死亡（陣亡）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0588.md"><img src="../images/m0588-mrs-smith-lieutenant-colonel.png" width="240" alt="您是史密斯中校的夫人嗎？"></a><br><a href="../memes/m0588.md">您是史密斯中校的夫人嗎？</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>所有生物都是不同種類的戀屍癖 — ⚠️ 屍體（噁心）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0591.md"><img src="../images/m0591-all-creatures-corpse-fetish.png" width="240" alt="所有生物都是不同種類的戀屍癖"></a><br><a href="../memes/m0591.md">所有生物都是不同種類的戀屍癖</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

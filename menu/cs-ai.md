@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 100 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 101 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（62）
 
@@ -115,7 +115,7 @@
 </tr>
 </table>
 
-## ★★（27）
+## ★★（28）
 
 <table>
 <tr>
@@ -162,6 +162,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0451.md"><img src="../images/m0451-digital-infrastructure-cloudflare.png" width="240" alt="所有現代數位基礎建設（2025 版）"></a><br><a href="../memes/m0451.md">所有現代數位基礎建設（2025 版）</a><br><sub>👀🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0521.md"><img src="../images/m0521-linux-from-scratch-for-babies.png" width="240" alt="Linux From Scratch for Babies"></a><br><a href="../memes/m0521.md">Linux From Scratch for Babies</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0561.md"><img src="../images/m0561-witches-java-cpp-python.png" width="240" alt="疊在一起飛的魔女們"></a><br><a href="../memes/m0561.md">疊在一起飛的魔女們</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0590.md"><img src="../images/m0590-http-200-error-500.png" width="240" alt="HTTP 200 回傳 error 500"></a><br><a href="../memes/m0590.md">HTTP 200 回傳 error 500</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

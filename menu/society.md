@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 26 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 30 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（4）
 
@@ -27,7 +27,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（21）
+## ⚠️ 需斟酌（25）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -236,6 +236,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0335.md"><img src="../images/m0335-funeral-director-ceramics.png" width="240" alt="我有幾件陶藝作品可以一起燒嗎？"></a><br><a href="../memes/m0335.md">我有幾件陶藝作品可以一起燒嗎？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>羅馬不是一天造成的，廣島卻是一天毀滅的 — ⚠️ 戰爭（原子彈）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0353.md"><img src="../images/m0353-rome-not-built-in-a-day-hiroshima.png" width="240" alt="羅馬不是一天造成的，廣島卻是一天毀滅的"></a><br><a href="../memes/m0353.md">羅馬不是一天造成的，廣島卻是一天毀滅的</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>12 小時了，你的文章還沒被刪 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0357.md"><img src="../images/m0357-post-not-deleted-difference.png" width="240" alt="12 小時了，你的文章還沒被刪"></a><br><a href="../memes/m0357.md">12 小時了，你的文章還沒被刪</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>老娘沒有癌症 — ⚠️ 疾病</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0361.md"><img src="../images/m0361-not-cancer-bald.png" width="240" alt="老娘沒有癌症"></a><br><a href="../memes/m0361.md">老娘沒有癌症</a><br><sub>👀🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>那天僵掉的人不只有你 — ⚠️ 死亡＋性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0364.md"><img src="../images/m0364-funeral-both-stiff.png" width="240" alt="那天僵掉的人不只有你"></a><br><a href="../memes/m0364.md">那天僵掉的人不只有你</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

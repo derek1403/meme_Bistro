@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 72 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 80 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（37）
+## ★（42）
 
 <table>
 <tr>
@@ -71,10 +71,17 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0343.md"><img src="../images/m0343-eyes-open-looking-nowhere.png" width="240" alt="擦屁股時眼睛睜開卻沒在看任何地方"></a><br><a href="../memes/m0343.md">擦屁股時眼睛睜開卻沒在看任何地方</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0351.md"><img src="../images/m0351-touhou-dodge-rain.png" width="240" alt="為什麼一滴雨都淋不到你？我有玩東方"></a><br><a href="../memes/m0351.md">為什麼一滴雨都淋不到你？我有玩東方</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0352.md"><img src="../images/m0352-sad-kitten-wet-paint-bench.png" width="240" alt="坐下來，我慢慢和你說"></a><br><a href="../memes/m0352.md">坐下來，我慢慢和你說</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0354.md"><img src="../images/m0354-mcdonalds-japan-nugget-cat.png" width="240" alt="麥當勞日本：？？？"></a><br><a href="../memes/m0354.md">麥當勞日本：？？？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0359.md"><img src="../images/m0359-delivery-note-no-effort.png" width="240" alt="不想努力的話可以送上樓"></a><br><a href="../memes/m0359.md">不想努力的話可以送上樓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0363.md"><img src="../images/m0363-coworker-fired-for-what-i-taught.png" width="240" alt="同事因為我教他的事被開除了"></a><br><a href="../memes/m0363.md">同事因為我教他的事被開除了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（18）
+## ★★（20）
 
 <table>
 <tr>
@@ -107,9 +114,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0303.md"><img src="../images/m0303-kaguya-hotline.png" width="240" alt="遇到困難請撥打"></a><br><a href="../memes/m0303.md">遇到困難請撥打</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0312.md"><img src="../images/m0312-sato-toshiyuki-ugly-faces.jpg" width="240" alt="這 3 個扭曲臉都是同一個動畫師畫的"></a><br><a href="../memes/m0312.md">這 3 個扭曲臉都是同一個動畫師畫的</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0355.md"><img src="../images/m0355-currency-wars-unreasonable.png" width="240" alt="那些貨幣戰爭不合理的事"></a><br><a href="../memes/m0355.md">那些貨幣戰爭不合理的事</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0358.md"><img src="../images/m0358-real-science-popularization-vtuber.png" width="240" alt="我說真正的科普"></a><br><a href="../memes/m0358.md">我說真正的科普</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（17）
+## ⚠️ 需斟酌（18）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -278,6 +289,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0330.md"><img src="../images/m0330-gem-hole-houseki-no-kuni.png" width="240" alt="寶石之穴"></a><br><a href="../memes/m0330.md">寶石之穴</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我像是 A 片裡睡著的丈夫 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0360.md"><img src="../images/m0360-sleeping-husband-in-av.png" width="240" alt="我像是 A 片裡睡著的丈夫"></a><br><a href="../memes/m0360.md">我像是 A 片裡睡著的丈夫</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

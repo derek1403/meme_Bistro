@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 100 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（29）
+## ★（30）
 
 <table>
 <tr>
@@ -57,10 +57,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0328.md"><img src="../images/m0328-lim-baozi-mantou.png" width="240" alt="lim 包子 = 饅頭（餡 → 0）"></a><br><a href="../memes/m0328.md">lim 包子 = 饅頭（餡 → 0）</a><br><sub>🔤👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0337.md"><img src="../images/m0337-infinite-rice-refill-series.png" width="240" alt="續飯無限次的店員"></a><br><a href="../memes/m0337.md">續飯無限次的店員</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0344.md"><img src="../images/m0344-diameter-radius-difference.png" width="240" alt="直徑和半徑差多少？一個半徑"></a><br><a href="../memes/m0344.md">直徑和半徑差多少？一個半徑</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（39）
+## ★★（40）
 
 <table>
 <tr>
@@ -128,9 +129,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0336.md"><img src="../images/m0336-probability-is-linear-algebra.png" width="240" alt="機率論其實就是線性代數？"></a><br><a href="../memes/m0336.md">機率論其實就是線性代數？</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0339.md"><img src="../images/m0339-spongebob-formula-levels.png" width="240" alt="一次到五次方程公式"></a><br><a href="../memes/m0339.md">一次到五次方程公式</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0366.md"><img src="../images/m0366-love-limit-abs-x-over-x.png" width="240" alt="我對你的愛就像 lim |x|/x"></a><br><a href="../memes/m0366.md">我對你的愛就像 lim |x|/x</a><br><sub>🧠🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ★★★（22）
+## ★★★（23）
 
 <table>
 <tr>
@@ -170,10 +174,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0329.md"><img src="../images/m0329-real-math-clock.png" width="240" alt="數學系真正會興奮的數學時鐘"></a><br><a href="../memes/m0329.md">數學系真正會興奮的數學時鐘</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0349.md"><img src="../images/m0349-set-theory-factory-shape-sorter.png" width="240" alt="集合論工廠的一天"></a><br><a href="../memes/m0349.md">集合論工廠的一天</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（6）
+## ⚠️ 需斟酌（7）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -232,6 +237,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0333.md"><img src="../images/m0333-doesnt-know-universal-algebra.png" width="240" alt="這傢伙不懂泛代數！"></a><br><a href="../memes/m0333.md">這傢伙不懂泛代數！</a><br><sub>🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>看到方程式就開始說希臘話 — ⚠️ 戰爭</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0362.md"><img src="../images/m0362-see-x-start-speaking.png" width="240" alt="看到方程式就開始說希臘話"></a><br><a href="../memes/m0362.md">看到方程式就開始說希臘話</a><br><sub>👀🔥 ★★</sub></td>
 </tr>
 </table>
 

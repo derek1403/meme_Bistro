@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 37 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 39 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（15）
+## ★（16）
 
 <table>
 <tr>
@@ -34,9 +34,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0340.md"><img src="../images/m0340-periodic-table-abundance.png" width="240" alt="依地表豐度畫的週期表"></a><br><a href="../memes/m0340.md">依地表豐度畫的週期表</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0342.md"><img src="../images/m0342-universe-is-anxious-dark-energy.png" width="240" alt="所以宇宙跟我們一樣焦慮"></a><br><a href="../memes/m0342.md">所以宇宙跟我們一樣焦慮</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0365.md"><img src="../images/m0365-drug-or-pokemon-quiz.png" width="240" alt="藥名還是寶可夢？"></a><br><a href="../memes/m0365.md">藥名還是寶可夢？</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（18）
+## ★★（19）
 
 <table>
 <tr>
@@ -68,6 +71,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0305.md"><img src="../images/m0305-kelvin-rejected-paper.png" width="240" alt="20°C ± 5°C 被拒稿，293.15 K ± 5 K 就接受了"></a><br><a href="../memes/m0305.md">20°C ± 5°C 被拒稿，293.15 K ± 5 K 就接受了</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0325.md"><img src="../images/m0325-mercator-vs-true-size.png" width="240" alt="麥卡托投影 vs 真實尺寸"></a><br><a href="../memes/m0325.md">麥卡托投影 vs 真實尺寸</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0332.md"><img src="../images/m0332-zee-heaviside-physicist-not-mathematician.png" width="240" alt="我們是堂堂物理學家，不是斤斤計較的數學家"></a><br><a href="../memes/m0332.md">我們是堂堂物理學家，不是斤斤計較的數學家</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0347.md"><img src="../images/m0347-physics-professor-quotes.png" width="240" alt="物理系教授語錄"></a><br><a href="../memes/m0347.md">物理系教授語錄</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

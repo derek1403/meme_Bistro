@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 18 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 21 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（13）
+## ★（16）
 
 <table>
 <tr>
@@ -31,6 +31,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0295.md"><img src="../images/m0295-build-your-own-gpu-research.png" width="240" alt="沒錢買設備，就自己做才叫開創性"></a><br><a href="../memes/m0295.md">沒錢買設備，就自己做才叫開創性</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0345.md"><img src="../images/m0345-pdf-4-heartbeat.png" width="240" alt="心動過一次的人怎麼可能只心動一次"></a><br><a href="../memes/m0345.md">心動過一次的人怎麼可能只心動一次</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0348.md"><img src="../images/m0348-nobody-has-done-this-loop.png" width="240" alt="耶！這沒人做過 vs 幹！這沒人做過"></a><br><a href="../memes/m0348.md">耶！這沒人做過 vs 幹！這沒人做過</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0356.md"><img src="../images/m0356-socrates-dialogue-yes.png" width="240" alt="蘇格拉底的對話內容"></a><br><a href="../memes/m0356.md">蘇格拉底的對話內容</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

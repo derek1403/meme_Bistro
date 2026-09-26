@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0143.md"><img src="../images/m0143-kimetsu-100-times-aniplex.jpg" width="240" alt="鬼滅看了 100 次，隨便丟一張圖我都知道"></a><br><a href="../memes/m0143.md">鬼滅看了 100 次，隨便丟一張圖我都知道</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0344.md"><img src="../images/m0344-diameter-radius-difference.png" width="240" alt="直徑和半徑差多少？一個半徑"></a><br><a href="../memes/m0344.md">直徑和半徑差多少？一個半徑</a><br><sub>🔤👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0286.md"><img src="../images/m0286-miso-soup-exit-poll.png" width="240" alt="出口民調與味噌湯"></a><br><a href="../memes/m0286.md">出口民調與味噌湯</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0123.md"><img src="../images/m0123-von-neumann-ordinal-four.png" width="240" alt="數學家眼中的 4"></a><br><a href="../memes/m0123.md">數學家眼中的 4</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>

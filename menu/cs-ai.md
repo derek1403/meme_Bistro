@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 124 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 126 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（77）
+## ★（79）
 
 <table>
 <tr>
@@ -137,6 +137,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0844.md"><img src="../images/m0844-router-offline-dino-curse.png" width="240" alt="在 WiFi 分享器上放了非常不吉利的東西"></a><br><a href="../memes/m0844.md">在 WiFi 分享器上放了非常不吉利的東西</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0847.md"><img src="../images/m0847-gpt-draw-mom-younger.png" width="240" alt="但媽媽一定要畫年輕一點"></a><br><a href="../memes/m0847.md">但媽媽一定要畫年輕一點</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0861.md"><img src="../images/m0861-python-calendar-2012.png" width="240" alt="用 Python 印出日曆"></a><br><a href="../memes/m0861.md">用 Python 印出日曆</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0870.md"><img src="../images/m0870-cycle-of-life-ai-sun-god.png" width="240" alt="生命的迴圈：AI 與太陽神"></a><br><a href="../memes/m0870.md">生命的迴圈：AI 與太陽神</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

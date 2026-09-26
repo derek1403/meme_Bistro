@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 259 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 267 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（162）
+## ★（169）
 
 <table>
 <tr>
@@ -279,9 +279,22 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0846.md"><img src="../images/m0846-jk-rowling-hermione-harry.png" width="240" alt="J·K·羅琳表示妙麗應該和哈利在一起"></a><br><a href="../memes/m0846.md">J·K·羅琳表示妙麗應該和哈利在一起</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0858.md"><img src="../images/m0858-dog-head-in-starbucks-cup.png" width="240" alt="我還以為杯裡的牛奶灑了"></a><br><a href="../memes/m0858.md">我還以為杯裡的牛奶灑了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0862.md"><img src="../images/m0862-vegetarian-drool-weeding.png" width="240" alt="看到有人在除草會流口水嗎？"></a><br><a href="../memes/m0862.md">看到有人在除草會流口水嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0863.md"><img src="../images/m0863-not-capable-wouldnt-work-here.png" width="240" alt="能力足就不會在你這裡上班"></a><br><a href="../memes/m0863.md">能力足就不會在你這裡上班</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0864.md"><img src="../images/m0864-hamster-power-bank.png" width="240" alt="倉鼠造型行動電源"></a><br><a href="../memes/m0864.md">倉鼠造型行動電源</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0866.md"><img src="../images/m0866-same-idea-different-design.jpg" width="240" alt="同樣的想法，不同的設計"></a><br><a href="../memes/m0866.md">同樣的想法，不同的設計</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0867.md"><img src="../images/m0867-maid-cafe-charizard.jpg" width="240" alt="女僕咖啡廳：想要畫什麼呢？噴火龍"></a><br><a href="../memes/m0867.md">女僕咖啡廳：想要畫什麼呢？噴火龍</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0868.md"><img src="../images/m0868-designer-adds-15cm.png" width="240" alt="我有個不好的習慣：設計方案都加 15 公分"></a><br><a href="../memes/m0868.md">我有個不好的習慣：設計方案都加 15 公分</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0869.md"><img src="../images/m0869-wine-glass-solo-leveling-face.png" width="240" alt="用酒杯變成我獨自升級的主角"></a><br><a href="../memes/m0869.md">用酒杯變成我獨自升級的主角</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（44）
+## ★★（45）
 
 <table>
 <tr>
@@ -357,6 +370,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0843.md"><img src="../images/m0843-pili-huo-ghibli-firecracker.png" width="240" alt="霹靂火：我就送你一支番仔火"></a><br><a href="../memes/m0843.md">霹靂火：我就送你一支番仔火</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0851.md"><img src="../images/m0851-elsword-real-estate-map.png" width="240" alt="艾爾房地產"></a><br><a href="../memes/m0851.md">艾爾房地產</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0860.md"><img src="../images/m0860-cant-find-seat-cafeteria.jpg" width="240" alt="這幅畫名字叫：我在食堂找不到位置"></a><br><a href="../memes/m0860.md">這幅畫名字叫：我在食堂找不到位置</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

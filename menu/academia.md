@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 42 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 44 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（34）
+## ★（35）
 
 <table>
 <tr>
@@ -66,6 +66,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0841.md"><img src="../images/m0841-drawing-class-anime-girl.png" width="240" alt="我畫由我不由你"></a><br><a href="../memes/m0841.md">我畫由我不由你</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0871.md"><img src="../images/m0871-college-lab-dishwasher.png" width="240" alt="去上大學，你才不會變成洗碗工"></a><br><a href="../memes/m0871.md">去上大學，你才不會變成洗碗工</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -82,7 +83,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（4）
+## ⚠️ 需斟酌（5）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -121,6 +122,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0758.md"><img src="../images/m0758-study-hard-math-phd-beggar.jpg" width="240" alt="你不好好讀書就會變成他那樣"></a><br><a href="../memes/m0758.md">你不好好讀書就會變成他那樣</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>解剖室是自己帶屍體嗎？ — ⚠️ 屍體</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0865.md"><img src="../images/m0865-anatomy-bring-your-own-corpse.png" width="240" alt="解剖室是自己帶屍體嗎？"></a><br><a href="../memes/m0865.md">解剖室是自己帶屍體嗎？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 408 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 416 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（270）
+## ★（275）
 
 <table>
 <tr>
@@ -459,9 +459,18 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1100.md"><img src="../images/m1100-bear-sleeping-bag.jpg" width="240" alt="熊形狀的睡袋"></a><br><a href="../memes/m1100.md">熊形狀的睡袋</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1101.md"><img src="../images/m1101-rtx-5090-for-elsword.png" width="240" alt="是時候玩點真正的遊戲了"></a><br><a href="../memes/m1101.md">是時候玩點真正的遊戲了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1104.md"><img src="../images/m1104-simpsons-office-full-meal.jpg" width="240" alt="現在上班根本不用帶飯"></a><br><a href="../memes/m1104.md">現在上班根本不用帶飯</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1106.md"><img src="../images/m1106-eat-night-snack-fat-friend.png" width="240" alt="和胖胖的朋友一起吃宵夜可以降低 95% 的罪惡感"></a><br><a href="../memes/m1106.md">和胖胖的朋友一起吃宵夜可以降低 95% 的罪惡感</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1108.md"><img src="../images/m1108-you-speak-very-loud.png" width="240" alt="對嗆時對方氣勢壓過你：妳講話很大聲耶"></a><br><a href="../memes/m1108.md">對嗆時對方氣勢壓過你：妳講話很大聲耶</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1112.md"><img src="../images/m1112-capybara-fed-four-people.png" width="240" alt="今年憑一己之力養活了四個人"></a><br><a href="../memes/m1112.md">今年憑一己之力養活了四個人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1113.md"><img src="../images/m1113-tainan-bbq-kinder-bueno.png" width="240" alt="台南的烤肉串"></a><br><a href="../memes/m1113.md">台南的烤肉串</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（56）
+## ★★（57）
 
 <table>
 <tr>
@@ -557,10 +566,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1074.md"><img src="../images/m1074-simpsons-monkey-fight-bangdream.png" width="240" alt="邦友鄉民與初華看 MyGO 和 Ave Mujica 打架"></a><br><a href="../memes/m1074.md">邦友鄉民與初華看 MyGO 和 Ave Mujica 打架</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1085.md"><img src="../images/m1085-koishi-excuse-me-waiter.png" width="240" alt="Excuse me！（古明地戀叫服務生）"></a><br><a href="../memes/m1085.md">Excuse me！（古明地戀叫服務生）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1114.md"><img src="../images/m1114-ave-mujica-reaction-uika.png" width="240" alt="是 Nyamuchi！是若葉睦！——誰啊？"></a><br><a href="../memes/m1114.md">是 Nyamuchi！是若葉睦！——誰啊？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（82）
+## ⚠️ 需斟酌（84）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1379,6 +1389,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1097.md"><img src="../images/m1097-brownies-corn-mold.png" width="240" alt="我想我太太不會吃這些布朗尼"></a><br><a href="../memes/m1097.md">我想我太太不會吃這些布朗尼</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我的笑話：讓別人笑 vs 讓別人擔心我的精神狀況 — ⚠️ 心理健康</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1109.md"><img src="../images/m1109-dazai-joke-pour-mental-state.png" width="240" alt="我的笑話：讓別人笑 vs 讓別人擔心我的精神狀況"></a><br><a href="../memes/m1109.md">我的笑話：讓別人笑 vs 讓別人擔心我的精神狀況</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>今天我好像可以暫時先不用死 — ⚠️ 心理健康</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1111.md"><img src="../images/m1111-today-no-need-to-die.png" width="240" alt="今天我好像可以暫時先不用死"></a><br><a href="../memes/m1111.md">今天我好像可以暫時先不用死</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

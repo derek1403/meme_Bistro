@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 102 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 103 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（48）
+## ★（49）
 
 <table>
 <tr>
@@ -88,6 +88,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1092.md"><img src="../images/m1092-salt-bottle-visit-mom-sea.png" width="240" alt="今天帶鹽巴去看他的媽媽"></a><br><a href="../memes/m1092.md">今天帶鹽巴去看他的媽媽</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1093.md"><img src="../images/m1093-light-faster-than-sound-bright.png" width="240" alt="因為光速比音速還快"></a><br><a href="../memes/m1093.md">因為光速比音速還快</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1096.md"><img src="../images/m1096-natural-weaver-fence-grass.png" width="240" alt="天然的編織者"></a><br><a href="../memes/m1096.md">天然的編織者</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1105.md"><img src="../images/m1105-cat-eclipse.png" width="240" alt="你看過貓全食嗎？"></a><br><a href="../memes/m1105.md">你看過貓全食嗎？</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 

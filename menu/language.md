@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 95 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（62）
+## ★（63）
 
 <table>
 <tr>
@@ -112,6 +112,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1008.md"><img src="../images/m1008-curry-rice-duck-too-late.jpg" width="240" alt="來不及了，你的呱哩飯"></a><br><a href="../memes/m1008.md">來不及了，你的呱哩飯</a><br><sub>🔤👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1037.md"><img src="../images/m1037-keanu-effort-day-after-tomorrow.jpg" width="240" alt="後天的努力比什麼都重要"></a><br><a href="../memes/m1037.md">後天的努力比什麼都重要</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1047.md"><img src="../images/m1047-fork-without-holes.png" width="240" alt="沒有洞的叉子叫做叉子"></a><br><a href="../memes/m1047.md">沒有洞的叉子叫做叉子</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 

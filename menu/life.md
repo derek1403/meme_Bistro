@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 369 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 377 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（242）
+## ★（248）
 
 <table>
 <tr>
@@ -412,10 +412,20 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1029.md"><img src="../images/m1029-nokia-3310-break-cave.png" width="240" alt="找到一支 Nokia 3310"></a><br><a href="../memes/m1029.md">找到一支 Nokia 3310</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1034.md"><img src="../images/m1034-cat-paw-hidden-bear.png" width="240" alt="肉球裡面藏了一隻熊熊"></a><br><a href="../memes/m1034.md">肉球裡面藏了一隻熊熊</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1038.md"><img src="../images/m1038-friendship-type-forgot-story.jpg" width="240" alt="友誼類型：我以前是不是說過這個故事？"></a><br><a href="../memes/m1038.md">友誼類型：我以前是不是說過這個故事？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1040.md"><img src="../images/m1040-familymart-3am-crab-rice.jpg" width="240" alt="凌晨三點想吃美味蟹煲的人有福了"></a><br><a href="../memes/m1040.md">凌晨三點想吃美味蟹煲的人有福了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1041.md"><img src="../images/m1041-telescope-see-mom-at-work.jpg" width="240" alt="那也可以看到媽媽嗎？"></a><br><a href="../memes/m1041.md">那也可以看到媽媽嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1043.md"><img src="../images/m1043-cirno-gym-motivation.png" width="240" alt="你們怎麼練得這麼快？"></a><br><a href="../memes/m1043.md">你們怎麼練得這麼快？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1045.md"><img src="../images/m1045-polar-bear-meet-her-dad.png" width="240" alt="第一次去女朋友家時"></a><br><a href="../memes/m1045.md">第一次去女朋友家時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1048.md"><img src="../images/m1048-25-go-see-doctor-alone.jpg" width="240" alt="都幾歲了！你明天自己去看醫生"></a><br><a href="../memes/m1048.md">都幾歲了！你明天自己去看醫生</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（52）
+## ★★（53）
 
 <table>
 <tr>
@@ -505,10 +515,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1032.md"><img src="../images/m1032-shopee-reply-good-song.jpg" width="240" alt="因為春日影是一首好歌"></a><br><a href="../memes/m1032.md">因為春日影是一首好歌</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1044.md"><img src="../images/m1044-chopin-simple-hated-passage.png" width="240" alt="蕭邦：看起來簡單但大家討厭的段落"></a><br><a href="../memes/m1044.md">蕭邦：看起來簡單但大家討厭的段落</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（75）
+## ⚠️ 需斟酌（76）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1257,6 +1268,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1036.md"><img src="../images/m1036-doctor-just-tell-me-pneumonia.jpg" width="240" alt="你就直說吧，醫生"></a><br><a href="../memes/m1036.md">你就直說吧，醫生</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>醒了也不會找我 — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1049.md"><img src="../images/m1049-woke-up-early-dont-wake-next-time.png" width="240" alt="醒了也不會找我"></a><br><a href="../memes/m1049.md">醒了也不會找我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

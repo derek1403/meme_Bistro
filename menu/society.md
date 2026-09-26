@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 76 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 77 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（13）
+## ★（14）
 
 <table>
 <tr>
@@ -31,6 +31,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0978.md"><img src="../images/m0978-history-1896-ended-1895.jpg" width="240" alt="1896 年什麼結束了？1895"></a><br><a href="../memes/m0978.md">1896 年什麼結束了？1895</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1039.md"><img src="../images/m1039-job-hunting-then-vs-now.jpg" width="240" alt="現在找工作 vs 以前找工作"></a><br><a href="../memes/m1039.md">現在找工作 vs 以前找工作</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

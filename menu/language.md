@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 87 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 89 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（56）
+## ★（58）
 
 <table>
 <tr>
@@ -102,6 +102,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0948.md"><img src="../images/m0948-lu-yan-zhi-tong-name.jpg" width="240" alt="陸焰之瞳"></a><br><a href="../memes/m0948.md">陸焰之瞳</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0949.md"><img src="../images/m0949-chocolate-discount-5-to-4.png" width="240" alt="國際巧克力全面 5 折（改成 4 折）"></a><br><a href="../memes/m0949.md">國際巧克力全面 5 折（改成 4 折）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0956.md"><img src="../images/m0956-clam-obvious-pun.png" width="240" alt="蜆而易見"></a><br><a href="../memes/m0956.md">蜆而易見</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0960.md"><img src="../images/m0960-chihuahua-fog-reversed.jpg" width="240" alt="霧吉必反"></a><br><a href="../memes/m0960.md">霧吉必反</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

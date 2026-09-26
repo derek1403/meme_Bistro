@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 202 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 205 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（75）
 
@@ -136,7 +136,7 @@
 </tr>
 </table>
 
-## ★★（77）
+## ★★（78）
 
 <table>
 <tr>
@@ -267,10 +267,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0877.md"><img src="../images/m0877-number-theorist-zero-divisors.png" width="240" alt="數論學家學抽象代數"></a><br><a href="../memes/m0877.md">數論學家學抽象代數</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0945.md"><img src="../images/m0945-chessboard-matrix-multiplication.png" width="240" alt="西洋棋盤 × 一列棋子 = ？"></a><br><a href="../memes/m0945.md">西洋棋盤 × 一列棋子 = ？</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0954.md"><img src="../images/m0954-set-of-empty-set-one-element.png" width="240" alt="{∅} 與 {{∅}} 都只有一個元素"></a><br><a href="../memes/m0954.md">{∅} 與 {{∅}} 都只有一個元素</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（34）
+## ★★★（36）
 
 <table>
 <tr>
@@ -330,6 +331,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0950.md"><img src="../images/m0950-every-ring-z-algebra.png" width="240" alt="每個環都是 ℤ-代數？"></a><br><a href="../memes/m0950.md">每個環都是 ℤ-代數？</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0953.md"><img src="../images/m0953-de-rham-valentine-pairing.png" width="240" alt="我是光滑流形上的 de Rham 上同調"></a><br><a href="../memes/m0953.md">我是光滑流形上的 de Rham 上同調</a><br><sub>🧠🔤 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0955.md"><img src="../images/m0955-killing-vector-anakin.png" width="240" alt="我把它們全殺了：Killing 向量場"></a><br><a href="../memes/m0955.md">我把它們全殺了：Killing 向量場</a><br><sub>🧠🔤 ★★★</sub></td>
 </tr>
 </table>
 

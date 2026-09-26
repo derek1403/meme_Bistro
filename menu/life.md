@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 313 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 317 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（201）
+## ★（205）
 
 <table>
 <tr>
@@ -343,6 +343,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0944.md"><img src="../images/m0944-stop-procrastinating-juice.png" width="240" alt="讓你停止拖延的果汁"></a><br><a href="../memes/m0944.md">讓你停止拖延的果汁</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0946.md"><img src="../images/m0946-lurker-watching-all-screens.jpg" width="240" alt="在群裡不說話也不退群的哥們"></a><br><a href="../memes/m0946.md">在群裡不說話也不退群的哥們</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0947.md"><img src="../images/m0947-new-wooden-barrel-theory.jpg" width="240" alt="新木桶原理：長板多長"></a><br><a href="../memes/m0947.md">新木桶原理：長板多長</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0951.md"><img src="../images/m0951-gave-up-before-reinforce-cards.png" width="240" alt="唉，這次花太多了放棄"></a><br><a href="../memes/m0951.md">唉，這次花太多了放棄</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0952.md"><img src="../images/m0952-fat-is-armor-of-the-soul.png" width="240" alt="脂肪是心靈的盔甲"></a><br><a href="../memes/m0952.md">脂肪是心靈的盔甲</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0957.md"><img src="../images/m0957-fridge-light-midnight-snack.jpg" width="240" alt="如果半夜不能吃東西，冰箱裡為什麼要有燈？"></a><br><a href="../memes/m0957.md">如果半夜不能吃東西，冰箱裡為什麼要有燈？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0958.md"><img src="../images/m0958-rezero-woman-yelling-cat.png" width="240" alt="女人罵貓（Re:Zero 版）"></a><br><a href="../memes/m0958.md">女人罵貓（Re:Zero 版）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

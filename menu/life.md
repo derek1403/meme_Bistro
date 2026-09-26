@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 145 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（79）
+## ★（84）
 
 <table>
 <tr>
@@ -141,6 +141,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0548.md"><img src="../images/m0548-car-seats-balaclava.png" width="240" alt="車子改裝成看起來壞壞的樣子"></a><br><a href="../memes/m0548.md">車子改裝成看起來壞壞的樣子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0551.md"><img src="../images/m0551-in-case-of-broken-glass.png" width="240" alt="玻璃破裂時請使用"></a><br><a href="../memes/m0551.md">玻璃破裂時請使用</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0552.md"><img src="../images/m0552-patrick-licenses.png" width="240" alt="就算是派大星，職場競爭力也比你強"></a><br><a href="../memes/m0552.md">就算是派大星，職場競爭力也比你強</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0554.md"><img src="../images/m0554-traffic-light-chandelier.png" width="240" alt="把爸媽的吊燈換成紅綠燈"></a><br><a href="../memes/m0554.md">把爸媽的吊燈換成紅綠燈</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0557.md"><img src="../images/m0557-fully-charged-kitten.png" width="240" alt="我現在充滿了能量"></a><br><a href="../memes/m0557.md">我現在充滿了能量</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0558.md"><img src="../images/m0558-scratch-back-congo.png" width="240" alt="要抓哪裡？剛果共和國"></a><br><a href="../memes/m0558.md">要抓哪裡？剛果共和國</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

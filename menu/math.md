@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 145 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 147 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（48）
+## ★（49）
 
 <table>
 <tr>
@@ -88,6 +88,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0484.md"><img src="../images/m0484-log-is-10g-mass.png" width="240" alt="那個 10g 是三小，算質量喔？"></a><br><a href="../memes/m0484.md">那個 10g 是三小，算質量喔？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0486.md"><img src="../images/m0486-fibonacci-miles-to-km.png" width="240" alt="用費氏數列換算英里到公里"></a><br><a href="../memes/m0486.md">用費氏數列換算英里到公里</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0526.md"><img src="../images/m0526-ghost-integral-paper-pen.png" width="240" alt="嗚～～～用紙筆算這題"></a><br><a href="../memes/m0526.md">嗚～～～用紙筆算這題</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0550.md"><img src="../images/m0550-sigma-drawing-decay.png" width="240" alt="畫 Σ 的能力 vs 畫的次數"></a><br><a href="../memes/m0550.md">畫 Σ 的能力 vs 畫的次數</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -195,7 +198,7 @@
 </tr>
 </table>
 
-## ★★★（29）
+## ★★★（30）
 
 <table>
 <tr>
@@ -246,6 +249,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0422.md"><img src="../images/m0422-big-o-seasons.png" width="240" alt="𝒪 的四季"></a><br><a href="../memes/m0422.md">𝒪 的四季</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0440.md"><img src="../images/m0440-right-triangle-angle-i.png" width="240" alt="角度是 i 的直角三角形"></a><br><a href="../memes/m0440.md">角度是 i 的直角三角形</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0553.md"><img src="../images/m0553-terminal-object-dating.png" width="240" alt="男生約會很難：範疇裡的終對象"></a><br><a href="../memes/m0553.md">男生約會很難：範疇裡的終對象</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

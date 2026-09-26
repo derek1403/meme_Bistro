@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 90 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 93 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（53）
+## ★（56）
 
 <table>
 <tr>
@@ -97,6 +97,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0540.md"><img src="../images/m0540-backend-frontend-ui-suit.png" width="240" alt="後端、前端與使用者介面"></a><br><a href="../memes/m0540.md">後端、前端與使用者介面</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0547.md"><img src="../images/m0547-astronauts-use-linux-windows.png" width="240" alt="太空人為什麼用 Linux？"></a><br><a href="../memes/m0547.md">太空人為什麼用 Linux？</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0549.md"><img src="../images/m0549-iceberg-told-chatgpt.png" width="240" alt="我告訴 ChatGPT 的"></a><br><a href="../memes/m0549.md">我告訴 ChatGPT 的</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0556.md"><img src="../images/m0556-magic-word-sudo.png" width="240" alt="魔法咒語是什麼？sudo"></a><br><a href="../memes/m0556.md">魔法咒語是什麼？sudo</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0559.md"><img src="../images/m0559-fridge-sudo-apt-get-food.png" width="240" alt="sudo apt-get food"></a><br><a href="../memes/m0559.md">sudo apt-get food</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

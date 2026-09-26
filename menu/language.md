@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 92 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 93 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（60）
+## ★（61）
 
 <table>
 <tr>
@@ -108,6 +108,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0960.md"><img src="../images/m0960-chihuahua-fog-reversed.jpg" width="240" alt="霧吉必反"></a><br><a href="../memes/m0960.md">霧吉必反</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0962.md"><img src="../images/m0962-kitten-roast-celery.png" width="240" alt="我現在就要烤秋芹"></a><br><a href="../memes/m0962.md">我現在就要烤秋芹</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1004.md"><img src="../images/m1004-learn-to-speak-garbage-man.jpg" width="240" alt="學會說話很重要"></a><br><a href="../memes/m1004.md">學會說話很重要</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1008.md"><img src="../images/m1008-curry-rice-duck-too-late.jpg" width="240" alt="來不及了，你的呱哩飯"></a><br><a href="../memes/m1008.md">來不及了，你的呱哩飯</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 

@@ -8,23 +8,23 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1008.md"><img src="../images/m1008-curry-rice-duck-too-late.jpg" width="240" alt="來不及了，你的呱哩飯"></a><br><a href="../memes/m1008.md">來不及了，你的呱哩飯</a><br><sub>🔤👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0273.md"><img src="../images/m0273-suhua-highway-1-9-cars.png" width="240" alt="蘇花公路湧入 1.9 輛車"></a><br><a href="../memes/m0273.md">蘇花公路湧入 1.9 輛車</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0081.md"><img src="../images/m0081-countdown-82-prime.png" width="240" alt="從 82 倒數到 1 竟是質數"></a><br><a href="../memes/m0081.md">從 82 倒數到 1 竟是質數</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0642.md"><img src="../images/m0642-distribution-plushies.png" width="240" alt="常態分布與卡方分布布偶"></a><br><a href="../memes/m0642.md">常態分布與卡方分布布偶</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0642.md"><img src="../images/m0642-distribution-plushies.png" width="240" alt="常態分布與卡方分布布偶"></a><br><a href="../memes/m0642.md">常態分布與卡方分布布偶</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0741.md"><img src="../images/m0741-functions-vs-continuous.png" width="240" alt="揭穿微積分的真相：連續函數佔多少？"></a><br><a href="../memes/m0741.md">揭穿微積分的真相：連續函數佔多少？</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0308.md"><img src="../images/m0308-classical-vs-quantum-doge.png" width="240" alt="古典力學 vs 量子物理"></a><br><a href="../memes/m0308.md">古典力學 vs 量子物理</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0363.md"><img src="../images/m0363-coworker-fired-for-what-i-taught.png" width="240" alt="同事因為我教他的事被開除了"></a><br><a href="../memes/m0363.md">同事因為我教他的事被開除了</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0363.md"><img src="../images/m0363-coworker-fired-for-what-i-taught.png" width="240" alt="同事因為我教他的事被開除了"></a><br><a href="../memes/m0363.md">同事因為我教他的事被開除了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0960.md"><img src="../images/m0960-chihuahua-fog-reversed.jpg" width="240" alt="霧吉必反"></a><br><a href="../memes/m0960.md">霧吉必反</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0007.md"><img src="../images/m0007-password-must-be-unique.png" width="240" alt="密碼必須唯一"></a><br><a href="../memes/m0007.md">密碼必須唯一</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0688.md"><img src="../images/m0688-not-significantly-different-dad.png" width="240" alt="與好爸爸的標準沒有顯著差異"></a><br><a href="../memes/m0688.md">與好爸爸的標準沒有顯著差異</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0688.md"><img src="../images/m0688-not-significantly-different-dad.png" width="240" alt="與好爸爸的標準沒有顯著差異"></a><br><a href="../memes/m0688.md">與好爸爸的標準沒有顯著差異</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0069.md"><img src="../images/m0069-spoiled-on-airplane.png" width="240" alt="在飛機上看超輝被劇透"></a><br><a href="../memes/m0069.md">在飛機上看超輝被劇透</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0782.md"><img src="../images/m0782-eye-chart-ave-mujica.jpg" width="240" alt="視力表裡的 AVE Mujica"></a><br><a href="../memes/m0782.md">視力表裡的 AVE Mujica</a><br><sub>👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0369.md"><img src="../images/m0369-boss-1000-no-change.png" width="240" alt="主管給 1000 說不用找了"></a><br><a href="../memes/m0369.md">主管給 1000 說不用找了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

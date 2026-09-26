@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 354 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（226）
+## ★（232）
 
 <table>
 <tr>
@@ -386,6 +386,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1003.md"><img src="../images/m1003-relative-kid-noisy-cry.png" width="240" alt="親戚小孩在吵：哩洗勒哭喔"></a><br><a href="../memes/m1003.md">親戚小孩在吵：哩洗勒哭喔</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1006.md"><img src="../images/m1006-panorama-long-cat.png" width="240" alt="拍全景照時貓咪起來走走"></a><br><a href="../memes/m1006.md">拍全景照時貓咪起來走走</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1007.md"><img src="../images/m1007-new-year-kids-want-red-envelope.png" width="240" alt="想拿紅包的小孩 vs 根本拿不出紅包的你"></a><br><a href="../memes/m1007.md">想拿紅包的小孩 vs 根本拿不出紅包的你</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1009.md"><img src="../images/m1009-spinach-forest-shrink.png" width="240" alt="剛放進鍋裡的菠菜 vs 炒熟之後的菠菜"></a><br><a href="../memes/m1009.md">剛放進鍋裡的菠菜 vs 炒熟之後的菠菜</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1010.md"><img src="../images/m1010-wash-important-part-soul.png" width="240" alt="你指的是心靈嗎？"></a><br><a href="../memes/m1010.md">你指的是心靈嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1013.md"><img src="../images/m1013-cat-hero-fire-suspect.jpg" width="240" alt="火災時叫醒家人的貓咪英雄"></a><br><a href="../memes/m1013.md">火災時叫醒家人的貓咪英雄</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1014.md"><img src="../images/m1014-taki-i-quit-stupid-team.png" width="240" alt="簡直蠢斃了，我不幹了"></a><br><a href="../memes/m1014.md">簡直蠢斃了，我不幹了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

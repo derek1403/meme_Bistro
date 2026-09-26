@@ -298,3 +298,13 @@
 | meme_260.png | m0254 | m0254-better-to-be-man-list.png |
 | meme_261.png | m0255 | m0255-coulomb-looks-like-newton.png |
 | meme_262.png | m0256 | m0256-goldfish-pond-lie.png |
+
+## 第二批：Discord 匯出（drop/meme/01.zip，進行中）
+
+- 來源：Discrub 匯出的「閒聊區」頻道 HTML（2019-12 → 2026-09），圖片為 Discord CDN 限時連結，已於 2026-09-26 全數下載到 `drop/meme/raw/`（不在 repo 內）。
+- 附件 4,647 個：成功 4,611、404 已刪除 36。
+- 去重（md5＋dHash ≤10）：與第一批重複 259（第一批 256 張全部對上）、內部重複 31。
+- 影片 83 個（mp4/mov/webm）→ `_review/videos/` 待審；非圖片 1。
+- 待處理圖片 4,237 張，依時間新到舊分批處理。
+- 進度檔：`drop/meme/raw/queue.csv`（result 欄）；每張的處理結果記在 `docs/import_discord.tsv`（raw 檔名 → meme id / skip / review / dup）。
+- 判定：聊天／新聞／純教材／真實事件留言 → skip；拿不準 → `_review/`（不進 git，說明在 `_review/README.md`）。

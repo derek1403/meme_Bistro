@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 20 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 24 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（9）
+## ★（10）
 
 <table>
 <tr>
@@ -24,9 +24,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0231.md"><img src="../images/m0231-denominator-molecule.png" width="240" alt="分母和分子的英文沒什麼關係"></a><br><a href="../memes/m0231.md">分母和分子的英文沒什麼關係</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0242.md"><img src="../images/m0242-wagyu-no-wenti.png" width="240" alt="這牛排是溫體牛嗎？排沒有溫體！"></a><br><a href="../memes/m0242.md">這牛排是溫體牛嗎？排沒有溫體！</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0273.md"><img src="../images/m0273-suhua-highway-1-9-cars.png" width="240" alt="蘇花公路湧入 1.9 輛車"></a><br><a href="../memes/m0273.md">蘇花公路湧入 1.9 輛車</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（5）
+## ★★（6）
 
 <table>
 <tr>
@@ -37,10 +40,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0105.md"><img src="../images/m0105-last-stroke-of-death.png" width="240" alt="生的第一筆是死的最後一筆"></a><br><a href="../memes/m0105.md">生的第一筆是死的最後一筆</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0179.md"><img src="../images/m0179-kfc-pull-pull-door.png" width="240" alt="KFC 為啥只寫拉拉？"></a><br><a href="../memes/m0179.md">KFC 為啥只寫拉拉？</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0265.md"><img src="../images/m0265-infinitesimal-analysis-chiang-kai-shek.png" width="240" alt="無限小解析＝∞蔣介石"></a><br><a href="../memes/m0265.md">無限小解析＝∞蔣介石</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（6）
+## ⚠️ 需斟酌（8）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -99,6 +103,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0169.md"><img src="../images/m0169-lawyer-mouth-pun.png" width="240" alt="好可怕，是律師含！"></a><br><a href="../memes/m0169.md">好可怕，是律師含！</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>大勢已去＝大雞雞已經割掉了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0261.md"><img src="../images/m0261-castration-idiom-puns.png" width="240" alt="大勢已去＝大雞雞已經割掉了"></a><br><a href="../memes/m0261.md">大勢已去＝大雞雞已經割掉了</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>「磅」為什麼不翻成「英斤」？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0280.md"><img src="../images/m0280-pound-translated-as-english-jin.png" width="240" alt="「磅」為什麼不翻成「英斤」？"></a><br><a href="../memes/m0280.md">「磅」為什麼不翻成「英斤」？</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

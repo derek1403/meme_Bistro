@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 53 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 61 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（30）
+## ★（34）
 
 <table>
 <tr>
@@ -59,9 +59,17 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0221.md"><img src="../images/m0221-run-as-administrator.png" width="240" alt="Run vs Run as administrator"></a><br><a href="../memes/m0221.md">Run vs Run as administrator</a><br><sub>👀🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0253.md"><img src="../images/m0253-factorial-vs-not-equal.png" width="240" alt="0! = 1 vs 0 != 1"></a><br><a href="../memes/m0253.md">0! = 1 vs 0 != 1</a><br><sub>🔤🧠 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0258.md"><img src="../images/m0258-vim-notepad-excel-c-code.png" width="240" alt="用 Excel 寫 C 語言"></a><br><a href="../memes/m0258.md">用 Excel 寫 C 語言</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0260.md"><img src="../images/m0260-before-after-ai-debugging.png" width="240" alt="AI 之前 vs AI 之後"></a><br><a href="../memes/m0260.md">AI 之前 vs AI 之後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0282.md"><img src="../images/m0282-sorting-algorithm-walks-into-bar.png" width="240" alt="排序演算法走進酒吧"></a><br><a href="../memes/m0282.md">排序演算法走進酒吧</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0288.md"><img src="../images/m0288-crack-framed-data-science.png" width="240" alt="把牆上的裂縫裱框"></a><br><a href="../memes/m0288.md">把牆上的裂縫裱框</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（18）
+## ★★（21）
 
 <table>
 <tr>
@@ -94,9 +102,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0227.md"><img src="../images/m0227-transformer-vs-nan.png" width="240" alt="Transformer vs 一個 NaN"></a><br><a href="../memes/m0227.md">Transformer vs 一個 NaN</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0230.md"><img src="../images/m0230-javascript-semicolon-key.png" width="240" alt="所有人 vs JavaScript 工程師的分號鍵"></a><br><a href="../memes/m0230.md">所有人 vs JavaScript 工程師的分號鍵</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0266.md"><img src="../images/m0266-never-ask-ai-training-data.png" width="240" alt="三大不禮貌的問題"></a><br><a href="../memes/m0266.md">三大不禮貌的問題</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0292.md"><img src="../images/m0292-stop-generational-trauma-error-bars.png" width="240" alt="只有你，才能中止跨世代的創傷"></a><br><a href="../memes/m0292.md">只有你，才能中止跨世代的創傷</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0299.md"><img src="../images/m0299-will-you-be-long-int64.png" width="240" alt="你會待很久（long）嗎？"></a><br><a href="../memes/m0299.md">你會待很久（long）嗎？</a><br><sub>🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（5）
+## ⚠️ 需斟酌（6）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -145,6 +158,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0216.md"><img src="../images/m0216-claude-first-try-addiction.png" width="240" alt="一開始以為只試一次不會怎樣的"></a><br><a href="../memes/m0216.md">一開始以為只試一次不會怎樣的</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>嘿 Doxygen，最近好嗎？ — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0278.md"><img src="../images/m0278-doxygen-call-graph-horror.png" width="240" alt="嘿 Doxygen，最近好嗎？"></a><br><a href="../memes/m0278.md">嘿 Doxygen，最近好嗎？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 28 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 30 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（10）
+## ★（12）
 
 <table>
 <tr>
@@ -26,6 +26,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0251.md"><img src="../images/m0251-error-percent-engineer.png" width="240" alt="誤差 117.7%：宇宙無敵霹靂完美"></a><br><a href="../memes/m0251.md">誤差 117.7%：宇宙無敵霹靂完美</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0275.md"><img src="../images/m0275-nephew-cushion-proton-electron.png" width="240" alt="姪子跟墊子會相互吸引"></a><br><a href="../memes/m0275.md">姪子跟墊子會相互吸引</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0284.md"><img src="../images/m0284-plasma-physics-meow-squared.png" width="240" alt="電漿物理的分母有喵平方"></a><br><a href="../memes/m0284.md">電漿物理的分母有喵平方</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

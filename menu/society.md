@@ -4,14 +4,15 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 18 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 22 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（2）
+## ★（3）
 
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0071.md"><img src="../images/m0071-norway-flag-czech-recursion.png" width="240" alt="挪威國旗 vs 捷克國旗"></a><br><a href="../memes/m0071.md">挪威國旗 vs 捷克國旗</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0245.md"><img src="../images/m0245-happy-education-evolution.png" width="240" alt="快樂教育的演變"></a><br><a href="../memes/m0245.md">快樂教育的演變</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0279.md"><img src="../images/m0279-kinship-chart-can-marry.png" width="240" alt="親屬關係圖：可以 / 不可以"></a><br><a href="../memes/m0279.md">親屬關係圖：可以 / 不可以</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -23,7 +24,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（15）
+## ⚠️ 需斟酌（18）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -172,6 +173,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0247.md"><img src="../images/m0247-trolley-problem-buy-spoon.png" width="240" alt="你手上沒有槓桿，但你有 20 元"></a><br><a href="../memes/m0247.md">你手上沒有槓桿，但你有 20 元</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>川普的 2026 月曆 — ⚠️ 政治（國際時事）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0264.md"><img src="../images/m0264-trump-2026-calendar.jpg" width="240" alt="川普的 2026 月曆"></a><br><a href="../memes/m0264.md">川普的 2026 月曆</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>燒錢又戒不掉的愛好：發射導彈 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0267.md"><img src="../images/m0267-expensive-hobby-missile-launch.png" width="240" alt="燒錢又戒不掉的愛好：發射導彈"></a><br><a href="../memes/m0267.md">燒錢又戒不掉的愛好：發射導彈</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>告訴阿文的老婆，他很愛她 — ⚠️ 死亡（戰場）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0293.md"><img src="../images/m0293-tell-awen-wife-loves-her.png" width="240" alt="告訴阿文的老婆，他很愛她"></a><br><a href="../memes/m0293.md">告訴阿文的老婆，他很愛她</a><br><sub>🔥🔤 ★★</sub></td>
 </tr>
 </table>
 

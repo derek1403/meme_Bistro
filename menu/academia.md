@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 16 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 18 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（11）
+## ★（13）
 
 <table>
 <tr>
@@ -27,6 +27,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0235.md"><img src="../images/m0235-should-have-learned-linear-algebra.png" width="240" alt="如果當初好好學線性代數就好了"></a><br><a href="../memes/m0235.md">如果當初好好學線性代數就好了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0239.md"><img src="../images/m0239-professor-assigns-own-paper.png" width="240" alt="教授把自己的文章納入閱讀書單"></a><br><a href="../memes/m0239.md">教授把自己的文章納入閱讀書單</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0289.md"><img src="../images/m0289-forced-hypnosis-high-school.png" width="240" alt="被成年人引到房間強制催眠"></a><br><a href="../memes/m0289.md">被成年人引到房間強制催眠</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0295.md"><img src="../images/m0295-build-your-own-gpu-research.png" width="240" alt="沒錢買設備，就自己做才叫開創性"></a><br><a href="../memes/m0295.md">沒錢買設備，就自己做才叫開創性</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

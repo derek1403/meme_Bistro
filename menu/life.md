@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 49 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 60 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（26）
+## ★（29）
 
 <table>
 <tr>
@@ -52,10 +52,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0248.md"><img src="../images/m0248-levitated-mass-pressure.png" width="240" alt="生活的壓力，被沙雕網友撐著"></a><br><a href="../memes/m0248.md">生活的壓力，被沙雕網友撐著</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0249.md"><img src="../images/m0249-water-bottles-at-2am.png" width="240" alt="凌晨兩點的水瓶"></a><br><a href="../memes/m0249.md">凌晨兩點的水瓶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0263.md"><img src="../images/m0263-cat-child-support.jpg" width="240" alt="貓的子女撫養費"></a><br><a href="../memes/m0263.md">貓的子女撫養費</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0268.md"><img src="../images/m0268-cats-coke-fanta.png" width="240" alt="可樂貓與芬達貓"></a><br><a href="../memes/m0268.md">可樂貓與芬達貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0274.md"><img src="../images/m0274-so-what-anime-reaction.png" width="240" alt="是又怎樣"></a><br><a href="../memes/m0274.md">是又怎樣</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（11）
+## ★★（16）
 
 <table>
 <tr>
@@ -76,10 +81,19 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0214.md"><img src="../images/m0214-how-to-handle-cats-touhou.png" width="240" alt="教你如何拿捏小貓（學費 2888 元）"></a><br><a href="../memes/m0214.md">教你如何拿捏小貓（學費 2888 元）</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0238.md"><img src="../images/m0238-uika-i-want-to-see-sakiko.png" width="240" alt="當我遇到困難的時候"></a><br><a href="../memes/m0238.md">當我遇到困難的時候</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0257.md"><img src="../images/m0257-reservist-friend-leaves-camp.png" width="240" alt="教召的朋友終於出營區了"></a><br><a href="../memes/m0257.md">教召的朋友終於出營區了</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0259.md"><img src="../images/m0259-we-are-all-mortis.png" width="240" alt="我們都是莫提斯"></a><br><a href="../memes/m0259.md">我們都是莫提斯</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0269.md"><img src="../images/m0269-he-wont-mess-up-isekai.jpg" width="240" alt="他不會搞砸（異世界主角圖鑑）"></a><br><a href="../memes/m0269.md">他不會搞砸（異世界主角圖鑑）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0276.md"><img src="../images/m0276-mygo-cucumber-feast.png" width="240" alt="MyGO 的小黃瓜大餐"></a><br><a href="../memes/m0276.md">MyGO 的小黃瓜大餐</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0298.md"><img src="../images/m0298-kaguya-black-hair-houraisan.png" width="240" alt="超時空輝夜姬我看的是黑毛"></a><br><a href="../memes/m0298.md">超時空輝夜姬我看的是黑毛</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（12）
+## ⚠️ 需斟酌（15）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -198,6 +212,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0256.md"><img src="../images/m0256-goldfish-pond-lie.png" width="240" alt="為了約會蓋了一個金魚池"></a><br><a href="../memes/m0256.md">為了約會蓋了一個金魚池</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>女棋士輸了就要……的影片 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0262.md"><img src="../images/m0262-shogi-av-two-hours.png" width="240" alt="女棋士輸了就要……的影片"></a><br><a href="../memes/m0262.md">女棋士輸了就要……的影片</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>玫瑰不用長高，戀者自會彎腰 — ⚠️ 性暗示（蘿莉控）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0272.md"><img src="../images/m0272-roses-lovers-bend-over.png" width="240" alt="玫瑰不用長高，戀者自會彎腰"></a><br><a href="../memes/m0272.md">玫瑰不用長高，戀者自會彎腰</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>聽最愛的歌對抗憂鬱症的感覺 — ⚠️ 心理健康</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0290.md"><img src="../images/m0290-hippo-capybara-fire-painting.png" width="240" alt="聽最愛的歌對抗憂鬱症的感覺"></a><br><a href="../memes/m0290.md">聽最愛的歌對抗憂鬱症的感覺</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

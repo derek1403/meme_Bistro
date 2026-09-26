@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 72 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 84 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（18）
+## ★（23）
 
 <table>
 <tr>
@@ -39,9 +39,18 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0228.md"><img src="../images/m0228-nature-weird-sequence-mathematicians.png" width="240" alt="大自然出現了沒人在乎的奇怪數列"></a><br><a href="../memes/m0228.md">大自然出現了沒人在乎的奇怪數列</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0229.md"><img src="../images/m0229-3-plus-3-times-3-taiwan.png" width="240" alt="3+3×3 = 12，相信我我是台灣人"></a><br><a href="../memes/m0229.md">3+3×3 = 12，相信我我是台灣人</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0271.md"><img src="../images/m0271-triangle-8-15-asian-education.png" width="240" alt="一張圖證明你受的是亞洲教育"></a><br><a href="../memes/m0271.md">一張圖證明你受的是亞洲教育</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0281.md"><img src="../images/m0281-single-after-32-no-divorce.png" width="240" alt="32 歲還單身，統計上避免了第一次離婚"></a><br><a href="../memes/m0281.md">32 歲還單身，統計上避免了第一次離婚</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0283.md"><img src="../images/m0283-zhi-pronounced-rank.png" width="240" alt="「秩」這個字怎麼唸？rank"></a><br><a href="../memes/m0283.md">「秩」這個字怎麼唸？rank</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0286.md"><img src="../images/m0286-miso-soup-exit-poll.png" width="240" alt="出口民調與味噌湯"></a><br><a href="../memes/m0286.md">出口民調與味噌湯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0294.md"><img src="../images/m0294-i-plus-one-over-i-zero.png" width="240" alt="i + 1/i = 0"></a><br><a href="../memes/m0294.md">i + 1/i = 0</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（32）
+## ★★（36）
 
 <table>
 <tr>
@@ -97,10 +106,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0250.md"><img src="../images/m0250-invertible-matrix-spiderman.png" width="240" alt="A 可逆——蜘蛛人互指"></a><br><a href="../memes/m0250.md">A 可逆——蜘蛛人互指</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0252.md"><img src="../images/m0252-riemann-openclaw-fermat.png" width="240" alt="我是黎曼，OpenClaw 請證明黎曼猜想"></a><br><a href="../memes/m0252.md">我是黎曼，OpenClaw 請證明黎曼猜想</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0270.md"><img src="../images/m0270-bayes-brainwash-student.png" width="240" alt="我現在是貝氏學派了"></a><br><a href="../memes/m0270.md">我現在是貝氏學派了</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0291.md"><img src="../images/m0291-bobobo-factorization.png" width="240" alt="ボボボーボ・ボーボボ 因式分解"></a><br><a href="../memes/m0291.md">ボボボーボ・ボーボボ 因式分解</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0296.md"><img src="../images/m0296-multi-monitor-layout-rotated.png" width="240" alt="我的多螢幕架設有最佳化嗎？"></a><br><a href="../memes/m0296.md">我的多螢幕架設有最佳化嗎？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0297.md"><img src="../images/m0297-rose-det-a-minus-lambda-i.png" width="240" alt="為什麼妹妹叫 Rose？"></a><br><a href="../memes/m0297.md">為什麼妹妹叫 Rose？</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（17）
+## ★★★（20）
 
 <table>
 <tr>
@@ -131,6 +146,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0173.md"><img src="../images/m0173-barber-pde-haircut.png" width="240" alt="理髮師：什麼都不用多說"></a><br><a href="../memes/m0173.md">理髮師：什麼都不用多說</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0184.md"><img src="../images/m0184-uniquely-euclidean-domains.png" width="240" alt="唯一歐幾里得整環？一直都只有 𝕂 和 𝕂[x]"></a><br><a href="../memes/m0184.md">唯一歐幾里得整環？一直都只有 𝕂 和 𝕂[x]</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0277.md"><img src="../images/m0277-cross-product-only-r3-r7.png" width="240" alt="外積只存在於 ℝ³……還有 ℝ⁷"></a><br><a href="../memes/m0277.md">外積只存在於 ℝ³……還有 ℝ⁷</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0285.md"><img src="../images/m0285-a-over-b-plus-c-equals-4.png" width="240" alt="國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4"></a><br><a href="../memes/m0285.md">國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0287.md"><img src="../images/m0287-look-this-is-real-math.png" width="240" alt="看好了，這才是「統計力學」"></a><br><a href="../memes/m0287.md">看好了，這才是「統計力學」</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

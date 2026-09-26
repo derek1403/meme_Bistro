@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（95）
+## ★（96）
 
 <table>
 <tr>
@@ -167,10 +167,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0605.md"><img src="../images/m0605-penguin-butter-skating.png" width="240" alt="可以在平底鍋上滑行的企鵝奶油"></a><br><a href="../memes/m0605.md">可以在平底鍋上滑行的企鵝奶油</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0610.md"><img src="../images/m0610-churchill-is-dead-onion-sandwich.png" width="240" alt="邱吉爾已經過世了，兄弟"></a><br><a href="../memes/m0610.md">邱吉爾已經過世了，兄弟</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0614.md"><img src="../images/m0614-spongebob-washing-dishes.jpg" width="240" alt="不然你們以為我是怎麼洗碗的"></a><br><a href="../memes/m0614.md">不然你們以為我是怎麼洗碗的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（28）
+## ★★（30）
 
 <table>
 <tr>
@@ -220,6 +221,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0495.md"><img src="../images/m0495-black-swan-kafka-would-say.png" width="240" alt="黑塔的話肯定會這麼說的"></a><br><a href="../memes/m0495.md">黑塔的話肯定會這麼說的</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0615.md"><img src="../images/m0615-military-proposal-rest-of-life.jpg" width="240" alt="妳願意將剩餘的人生交給我嗎（國軍版）"></a><br><a href="../memes/m0615.md">妳願意將剩餘的人生交給我嗎（國軍版）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0616.md"><img src="../images/m0616-military-still-re-sign.jpg" width="240" alt="我還是會續簽下去"></a><br><a href="../memes/m0616.md">我還是會續簽下去</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

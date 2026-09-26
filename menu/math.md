@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 160 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（58）
+## ★（59）
 
 <table>
 <tr>
@@ -106,6 +106,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0609.md"><img src="../images/m0609-average-iq-test.png" width="240" alt="最快測智商的方法：講一個平均值"></a><br><a href="../memes/m0609.md">最快測智商的方法：講一個平均值</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0618.md"><img src="../images/m0618-pr99-only-one-percent.png" width="240" alt="PR99 的學生竟然只佔 1%"></a><br><a href="../memes/m0618.md">PR99 的學生竟然只佔 1%</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

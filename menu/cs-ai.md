@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 101 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 102 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（62）
 
@@ -115,7 +115,7 @@
 </tr>
 </table>
 
-## ★★（28）
+## ★★（29）
 
 <table>
 <tr>
@@ -165,6 +165,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0590.md"><img src="../images/m0590-http-200-error-500.png" width="240" alt="HTTP 200 回傳 error 500"></a><br><a href="../memes/m0590.md">HTTP 200 回傳 error 500</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0613.md"><img src="../images/m0613-linkedin-prompt-injection-flan.png" width="240" alt="在 LinkedIn 簡介裡藏提示注入"></a><br><a href="../memes/m0613.md">在 LinkedIn 簡介裡藏提示注入</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

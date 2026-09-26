@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 83 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 90 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（14）
+## ★（17）
 
 <table>
 <tr>
@@ -32,6 +32,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0978.md"><img src="../images/m0978-history-1896-ended-1895.jpg" width="240" alt="1896 年什麼結束了？1895"></a><br><a href="../memes/m0978.md">1896 年什麼結束了？1895</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1039.md"><img src="../images/m1039-job-hunting-then-vs-now.jpg" width="240" alt="現在找工作 vs 以前找工作"></a><br><a href="../memes/m1039.md">現在找工作 vs 以前找工作</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1130.md"><img src="../images/m1130-divorce-lawyer-heaven.png" width="240" alt="我是一位離婚律師耶"></a><br><a href="../memes/m1130.md">我是一位離婚律師耶</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1131.md"><img src="../images/m1131-underwear-global-warming.png" width="240" alt="全球暖化的證據"></a><br><a href="../memes/m1131.md">全球暖化的證據</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1133.md"><img src="../images/m1133-greek-vs-roman-debate.jpg" width="240" alt="哲學辯論的兩種 style：希臘 vs 羅馬"></a><br><a href="../memes/m1133.md">哲學辯論的兩種 style：希臘 vs 羅馬</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -43,7 +48,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（68）
+## ⚠️ 需斟酌（72）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -722,6 +727,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1123.md"><img src="../images/m1123-rat-poison-friend-test.jpg" width="240" alt="怎麼判斷你的朋友是不是老鼠"></a><br><a href="../memes/m1123.md">怎麼判斷你的朋友是不是老鼠</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>大家想像的司法權 vs 實際上的司法權 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1125.md"><img src="../images/m1125-judicial-power-imagination.png" width="240" alt="大家想像的司法權 vs 實際上的司法權"></a><br><a href="../memes/m1125.md">大家想像的司法權 vs 實際上的司法權</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Music connects people — ⚠️ 自殺意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1132.md"><img src="../images/m1132-music-connects-people-hanged.png" width="240" alt="Music connects people"></a><br><a href="../memes/m1132.md">Music connects people</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>拜主機是拜哪位神？鋼鐵機械之神？ — ⚠️ 宗教</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1135.md"><img src="../images/m1135-fujian-worship-engine-room.png" width="240" alt="拜主機是拜哪位神？鋼鐵機械之神？"></a><br><a href="../memes/m1135.md">拜主機是拜哪位神？鋼鐵機械之神？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我給自己準備的 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1136.md"><img src="../images/m1136-custom-anime-urn.png" width="240" alt="我給自己準備的"></a><br><a href="../memes/m1136.md">我給自己準備的</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

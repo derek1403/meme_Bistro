@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 423 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 427 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（282）
+## ★（284）
 
 <table>
 <tr>
@@ -479,6 +479,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1122.md"><img src="../images/m1122-squid-game-bangdream-2017-2025.jpg" width="240" alt="2017 vs 2025（魷魚遊戲 × BanG Dream）"></a><br><a href="../memes/m1122.md">2017 vs 2025（魷魚遊戲 × BanG Dream）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1124.md"><img src="../images/m1124-shiba-enjoy-rent.jpg" width="240" alt="沒辦法，要享受我的房租"></a><br><a href="../memes/m1124.md">沒辦法，要享受我的房租</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1127.md"><img src="../images/m1127-bare-face-costs-money.jpg" width="240" alt="你們男生知道素顏要漂亮要花多少錢嗎"></a><br><a href="../memes/m1127.md">你們男生知道素顏要漂亮要花多少錢嗎</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1129.md"><img src="../images/m1129-corn-wallet-anti-theft.png" width="240" alt="這就是你如何保護自己免受小偷之害"></a><br><a href="../memes/m1129.md">這就是你如何保護自己免受小偷之害</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（57）
@@ -581,7 +585,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（84）
+## ⚠️ 需斟酌（86）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1420,6 +1424,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1111.md"><img src="../images/m1111-today-no-need-to-die.png" width="240" alt="今天我好像可以暫時先不用死"></a><br><a href="../memes/m1111.md">今天我好像可以暫時先不用死</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我覺得我的樂器越來越性感 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1126.md"><img src="../images/m1126-sexy-violin-body.png" width="240" alt="我覺得我的樂器越來越性感"></a><br><a href="../memes/m1126.md">我覺得我的樂器越來越性感</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>一個月偷吃一次還是 97% 的忠誠 — ⚠️ 外遇</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1128.md"><img src="../images/m1128-cheat-once-a-month-97-percent.jpg" width="240" alt="一個月偷吃一次還是 97% 的忠誠"></a><br><a href="../memes/m1128.md">一個月偷吃一次還是 97% 的忠誠</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

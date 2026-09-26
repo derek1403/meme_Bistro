@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 164 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（59）
+## ★（60）
 
 <table>
 <tr>
@@ -107,10 +107,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0609.md"><img src="../images/m0609-average-iq-test.png" width="240" alt="最快測智商的方法：講一個平均值"></a><br><a href="../memes/m0609.md">最快測智商的方法：講一個平均值</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0618.md"><img src="../images/m0618-pr99-only-one-percent.png" width="240" alt="PR99 的學生竟然只佔 1%"></a><br><a href="../memes/m0618.md">PR99 的學生竟然只佔 1%</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0631.md"><img src="../images/m0631-pizza-volume-pi-z-z-a.png" width="240" alt="這就是為何我們叫它 PIZZA"></a><br><a href="../memes/m0631.md">這就是為何我們叫它 PIZZA</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（61）
+## ★★（62）
 
 <table>
 <tr>
@@ -215,6 +216,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0598.md"><img src="../images/m0598-ex-derivative-dy.png" width="240" alt="eˣ：你打不倒我——d/dy 可以"></a><br><a href="../memes/m0598.md">eˣ：你打不倒我——d/dy 可以</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0625.md"><img src="../images/m0625-integral-1-over-x5-plus-1.png" width="240" alt="微積分下學期的學生 vs ∫1/(x⁵+1)dx"></a><br><a href="../memes/m0625.md">微積分下學期的學生 vs ∫1/(x⁵+1)dx</a><br><sub>👀🧠 ★★</sub></td>
 </tr>
 </table>
 
@@ -277,7 +279,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（9）
+## ⚠️ 需斟酌（10）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -366,6 +368,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0485.md"><img src="../images/m0485-sqrt-negative-shit-got-real.png" width="240" alt="(√−shit)² ：shit just got real"></a><br><a href="../memes/m0485.md">(√−shit)² ：shit just got real</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不覺得 sin 跟 cos 很 gay 嗎 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0630.md"><img src="../images/m0630-sin-cos-gay.png" width="240" alt="不覺得 sin 跟 cos 很 gay 嗎"></a><br><a href="../memes/m0630.md">不覺得 sin 跟 cos 很 gay 嗎</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

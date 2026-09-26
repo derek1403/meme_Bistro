@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 166 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（96）
+## ★（98）
 
 <table>
 <tr>
@@ -169,9 +169,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0610.md"><img src="../images/m0610-churchill-is-dead-onion-sandwich.png" width="240" alt="邱吉爾已經過世了，兄弟"></a><br><a href="../memes/m0610.md">邱吉爾已經過世了，兄弟</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0614.md"><img src="../images/m0614-spongebob-washing-dishes.jpg" width="240" alt="不然你們以為我是怎麼洗碗的"></a><br><a href="../memes/m0614.md">不然你們以為我是怎麼洗碗的</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0622.md"><img src="../images/m0622-bad-dream-female-vs-bro.png" width="240" alt="跟女性朋友 vs 跟兄弟講話"></a><br><a href="../memes/m0622.md">跟女性朋友 vs 跟兄弟講話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0624.md"><img src="../images/m0624-cat-whispers-to-dog.png" width="240" alt="我暫時還沒發現牠們弄壞了什麼東西"></a><br><a href="../memes/m0624.md">我暫時還沒發現牠們弄壞了什麼東西</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（30）
+## ★★（32）
 
 <table>
 <tr>
@@ -224,9 +228,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0615.md"><img src="../images/m0615-military-proposal-rest-of-life.jpg" width="240" alt="妳願意將剩餘的人生交給我嗎（國軍版）"></a><br><a href="../memes/m0615.md">妳願意將剩餘的人生交給我嗎（國軍版）</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0616.md"><img src="../images/m0616-military-still-re-sign.jpg" width="240" alt="我還是會續簽下去"></a><br><a href="../memes/m0616.md">我還是會續簽下去</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0626.md"><img src="../images/m0626-saki-chan-army-crawl.png" width="240" alt="戰術動作考核：saki 醬！"></a><br><a href="../memes/m0626.md">戰術動作考核：saki 醬！</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0628.md"><img src="../images/m0628-mygo-mujica-hospital-poster.png" width="240" alt="好朋友生病住院了，急需醫藥費 1780"></a><br><a href="../memes/m0628.md">好朋友生病住院了，急需醫藥費 1780</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（35）
+## ⚠️ 需斟酌（36）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -575,6 +583,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0611.md"><img src="../images/m0611-iphone-air-5-6mm-trick.png" width="240" alt="iPhone Air 的 5.6mm 量法"></a><br><a href="../memes/m0611.md">iPhone Air 的 5.6mm 量法</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>唯一能讓日本人把貼紙貼得亂七八糟的問題 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0621.md"><img src="../images/m0621-japan-sticker-poll-chaos.png" width="240" alt="唯一能讓日本人把貼紙貼得亂七八糟的問題"></a><br><a href="../memes/m0621.md">唯一能讓日本人把貼紙貼得亂七八糟的問題</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

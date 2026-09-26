@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 173 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 176 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（63）
+## ★（64）
 
 <table>
 <tr>
@@ -114,9 +114,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0665.md"><img src="../images/m0665-taylor-expansion-akaza.png" width="240" alt="術式展開：泰勒展開"></a><br><a href="../memes/m0665.md">術式展開：泰勒展開</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0667.md"><img src="../images/m0667-slime-ate-wife-identity.png" width="240" alt="史萊姆吞噬了你的妻子，那牠是誰？"></a><br><a href="../memes/m0667.md">史萊姆吞噬了你的妻子，那牠是誰？</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0680.md"><img src="../images/m0680-dice-balance-1-equals-6.jpg" width="240" alt="數學天才用天平證明 1 = 6"></a><br><a href="../memes/m0680.md">數學天才用天平證明 1 = 6</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（65）
+## ★★（66）
 
 <table>
 <tr>
@@ -227,6 +230,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0653.md"><img src="../images/m0653-recursive-load-bridge-clearance.png" width="240" alt="遞迴載物通過限高 Σ1/2ⁿ 的橋"></a><br><a href="../memes/m0653.md">遞迴載物通過限高 Σ1/2ⁿ 的橋</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0658.md"><img src="../images/m0658-laplace-panik-kalm-panik.png" width="240" alt="拉普拉斯轉換：Panik–Kalm–Panik"></a><br><a href="../memes/m0658.md">拉普拉斯轉換：Panik–Kalm–Panik</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0678.md"><img src="../images/m0678-area-shoelace-spongebob.png" width="240" alt="面積：格林定理 vs 鞋帶公式"></a><br><a href="../memes/m0678.md">面積：格林定理 vs 鞋帶公式</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -290,7 +294,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（12）
+## ⚠️ 需斟酌（13）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -409,6 +413,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0656.md"><img src="../images/m0656-dirichlet-weierstrass-fabius.png" width="240" alt="狄利克雷、魏爾施特拉斯、Fabius 函數"></a><br><a href="../memes/m0656.md">狄利克雷、魏爾施特拉斯、Fabius 函數</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>10! 秒 = 6 週 — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0682.md"><img src="../images/m0682-ten-factorial-six-weeks.png" width="240" alt="10! 秒 = 6 週"></a><br><a href="../memes/m0682.md">10! 秒 = 6 週</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

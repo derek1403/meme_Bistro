@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 184 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 191 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（111）
+## ★（115）
 
 <table>
 <tr>
@@ -194,9 +194,17 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0671.md"><img src="../images/m0671-foxes-laughing-slapping.png" width="240" alt="笑到根本不能呼吸時"></a><br><a href="../memes/m0671.md">笑到根本不能呼吸時</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0674.md"><img src="../images/m0674-3d-sheet-music.png" width="240" alt="你的音樂要更有立體感"></a><br><a href="../memes/m0674.md">你的音樂要更有立體感</a><br><sub>🔤👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0681.md"><img src="../images/m0681-knitted-catnip-cigarette.png" width="240" alt="幫貓織了一根香菸"></a><br><a href="../memes/m0681.md">幫貓織了一根香菸</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0683.md"><img src="../images/m0683-idol-shipping-fee-transport.png" width="240" alt="那是偶像來到你家的交通費"></a><br><a href="../memes/m0683.md">那是偶像來到你家的交通費</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0685.md"><img src="../images/m0685-bunny-typing-slowly.png" width="240" alt="謝謝你，我打字 you dian man"></a><br><a href="../memes/m0685.md">謝謝你，我打字 you dian man</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0687.md"><img src="../images/m0687-dialga-palkia-time-space.png" width="240" alt="對象說我沒給他時間和空間"></a><br><a href="../memes/m0687.md">對象說我沒給他時間和空間</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（33）
+## ★★（35）
 
 <table>
 <tr>
@@ -254,9 +262,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0628.md"><img src="../images/m0628-mygo-mujica-hospital-poster.png" width="240" alt="好朋友生病住院了，急需醫藥費 1780"></a><br><a href="../memes/m0628.md">好朋友生病住院了，急需醫藥費 1780</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0655.md"><img src="../images/m0655-shadowverse-quote-swap.png" width="240" alt="影之詩名台詞改寫"></a><br><a href="../memes/m0655.md">影之詩名台詞改寫</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0677.md"><img src="../images/m0677-grandma-zako-mesugaki.png" width="240" alt="奶奶小時候是什麼樣的？雜魚雜魚♡"></a><br><a href="../memes/m0677.md">奶奶小時候是什麼樣的？雜魚雜魚♡</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0684.md"><img src="../images/m0684-takamatsu-red-light-train.png" width="240" alt="高松＋紅燈＋綠色電車"></a><br><a href="../memes/m0684.md">高松＋紅燈＋綠色電車</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（40）
+## ⚠️ 需斟酌（41）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -655,6 +667,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0673.md"><img src="../images/m0673-brother-in-law-fight.png" width="240" alt="姐夫：是我先動的手"></a><br><a href="../memes/m0673.md">姐夫：是我先動的手</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在客戶家看過最奇怪的事？看到我老婆 — ⚠️ 外遇</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0686.md"><img src="../images/m0686-saw-my-wife-at-client-home.png" width="240" alt="在客戶家看過最奇怪的事？看到我老婆"></a><br><a href="../memes/m0686.md">在客戶家看過最奇怪的事？看到我老婆</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

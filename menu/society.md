@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 53 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 54 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（9）
+## ★（10）
 
 <table>
 <tr>
@@ -23,6 +23,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0518.md"><img src="../images/m0518-womens-rights-1920.png" width="240" alt="女權：1920 年被發明"></a><br><a href="../memes/m0518.md">女權：1920 年被發明</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0570.md"><img src="../images/m0570-alexander-the-ok.png" width="240" alt="亞歷山大大帝 → 亞歷山大還行 → 就只是 Alex"></a><br><a href="../memes/m0570.md">亞歷山大大帝 → 亞歷山大還行 → 就只是 Alex</a><br><sub>🔤👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0629.md"><img src="../images/m0629-mafia-bad-burger-flipper.png" width="240" alt="他就是個翻漢堡的而已"></a><br><a href="../memes/m0629.md">他就是個翻漢堡的而已</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0679.md"><img src="../images/m0679-yes-but-50-50.png" width="240" alt="YES, BUT：50/50"></a><br><a href="../memes/m0679.md">YES, BUT：50/50</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

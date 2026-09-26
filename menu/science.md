@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 69 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 70 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（31）
+## ★（32）
 
 <table>
 <tr>
@@ -61,6 +61,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0661.md"><img src="../images/m0661-mythbusters-vs-misinformation.png" width="240" alt="流言終結者集數 vs 網路假消息"></a><br><a href="../memes/m0661.md">流言終結者集數 vs 網路假消息</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0676.md"><img src="../images/m0676-penguin-birth-continent.png" width="240" alt="出生在各大洲的機率（如果你是企鵝）"></a><br><a href="../memes/m0676.md">出生在各大洲的機率（如果你是企鵝）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

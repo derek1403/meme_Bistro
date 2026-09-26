@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 90 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 92 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（47）
 
@@ -134,7 +134,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（20）
+## ⚠️ 需斟酌（22）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -333,6 +333,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0407.md"><img src="../images/m0407-mcdonalds-114514.png" width="240" alt="麥當勞取餐號碼 114514"></a><br><a href="../memes/m0407.md">麥當勞取餐號碼 114514</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>那邊的女神光是一天就多達 7 次 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0410.md"><img src="../images/m0410-goddess-seven-times-a-day.png" width="240" alt="那邊的女神光是一天就多達 7 次"></a><br><a href="../memes/m0410.md">那邊的女神光是一天就多達 7 次</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>過程請參照中間的神秘代碼 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0411.md"><img src="../images/m0411-process-in-the-codes.png" width="240" alt="過程請參照中間的神秘代碼"></a><br><a href="../memes/m0411.md">過程請參照中間的神秘代碼</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

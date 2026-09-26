@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 307 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 313 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（195）
+## ★（201）
 
 <table>
 <tr>
@@ -333,6 +333,16 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0935.md"><img src="../images/m0935-succulent-becoming-monster.png" width="240" alt="我的多肉越來越不簡單了"></a><br><a href="../memes/m0935.md">我的多肉越來越不簡單了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0937.md"><img src="../images/m0937-king-oyster-mushroom-cosmos.jpg" width="240" alt="杏鮑菇的花語是「宇宙」"></a><br><a href="../memes/m0937.md">杏鮑菇的花語是「宇宙」</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0938.md"><img src="../images/m0938-mbti-nt-thinking-sheep.png" width="240" alt="NT 型的思考方式"></a><br><a href="../memes/m0938.md">NT 型的思考方式</a><br><sub>🔤👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0941.md"><img src="../images/m0941-strawberry-chocolate-fried-chicken.jpg" width="240" alt="草莓巧克力炸雞"></a><br><a href="../memes/m0941.md">草莓巧克力炸雞</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0942.md"><img src="../images/m0942-good-cat-good-human.jpg" width="240" alt="乖貓、乖人"></a><br><a href="../memes/m0942.md">乖貓、乖人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0943.md"><img src="../images/m0943-tortoise-baby-as-hat.png" width="240" alt="140 歲的陸龜把 5 歲兒子當帽子戴"></a><br><a href="../memes/m0943.md">140 歲的陸龜把 5 歲兒子當帽子戴</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0944.md"><img src="../images/m0944-stop-procrastinating-juice.png" width="240" alt="讓你停止拖延的果汁"></a><br><a href="../memes/m0944.md">讓你停止拖延的果汁</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0946.md"><img src="../images/m0946-lurker-watching-all-screens.jpg" width="240" alt="在群裡不說話也不退群的哥們"></a><br><a href="../memes/m0946.md">在群裡不說話也不退群的哥們</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0947.md"><img src="../images/m0947-new-wooden-barrel-theory.jpg" width="240" alt="新木桶原理：長板多長"></a><br><a href="../memes/m0947.md">新木桶原理：長板多長</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

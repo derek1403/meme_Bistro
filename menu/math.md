@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 200 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 202 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（75）
 
@@ -136,7 +136,7 @@
 </tr>
 </table>
 
-## ★★（76）
+## ★★（77）
 
 <table>
 <tr>
@@ -266,10 +266,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0877.md"><img src="../images/m0877-number-theorist-zero-divisors.png" width="240" alt="數論學家學抽象代數"></a><br><a href="../memes/m0877.md">數論學家學抽象代數</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0945.md"><img src="../images/m0945-chessboard-matrix-multiplication.png" width="240" alt="西洋棋盤 × 一列棋子 = ？"></a><br><a href="../memes/m0945.md">西洋棋盤 × 一列棋子 = ？</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（33）
+## ★★★（34）
 
 <table>
 <tr>
@@ -326,6 +327,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0571.md"><img src="../images/m0571-solve-quadratic-galois-theory.png" width="240" alt="怎麼解 3x² − x = 8？先考慮伽羅瓦群"></a><br><a href="../memes/m0571.md">怎麼解 3x² − x = 8？先考慮伽羅瓦群</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0585.md"><img src="../images/m0585-eevee-matrix-decompositions.png" width="240" alt="矩陣 A 的進化型"></a><br><a href="../memes/m0585.md">矩陣 A 的進化型</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0670.md"><img src="../images/m0670-abs-e-ipi-pi-ie-i-epi.png" width="240" alt="|e^{iπ} π^{ie} i^{eπ}| = ？"></a><br><a href="../memes/m0670.md">|e^{iπ} π^{ie} i^{eπ}| = ？</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0950.md"><img src="../images/m0950-every-ring-z-algebra.png" width="240" alt="每個環都是 ℤ-代數？"></a><br><a href="../memes/m0950.md">每個環都是 ℤ-代數？</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

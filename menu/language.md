@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 85 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 87 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（54）
+## ★（56）
 
 <table>
 <tr>
@@ -98,6 +98,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0856.md"><img src="../images/m0856-eel-croc-leopard-hug.png" width="240" alt="鱔有鱔抱、鱷有鱷抱"></a><br><a href="../memes/m0856.md">鱔有鱔抱、鱷有鱷抱</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0890.md"><img src="../images/m0890-no-pen-called-no-harm.png" width="240" alt="沒有筆叫沒有傷害"></a><br><a href="../memes/m0890.md">沒有筆叫沒有傷害</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0905.md"><img src="../images/m0905-delinquent-underdeveloped.png" width="240" alt="好歹我高中也是個不良少年"></a><br><a href="../memes/m0905.md">好歹我高中也是個不良少年</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0948.md"><img src="../images/m0948-lu-yan-zhi-tong-name.jpg" width="240" alt="陸焰之瞳"></a><br><a href="../memes/m0948.md">陸焰之瞳</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0949.md"><img src="../images/m0949-chocolate-discount-5-to-4.png" width="240" alt="國際巧克力全面 5 折（改成 4 折）"></a><br><a href="../memes/m0949.md">國際巧克力全面 5 折（改成 4 折）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

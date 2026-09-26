@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 32 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 34 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（26）
+## ★（27）
 
 <table>
 <tr>
@@ -52,16 +52,20 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0537.md"><img src="../images/m0537-philosophy-superiority-complex.png" width="240" alt="哲學：但我就是比較優越"></a><br><a href="../memes/m0537.md">哲學：但我就是比較優越</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0562.md"><img src="../images/m0562-man-made-horrors-comprehension.png" width="240" alt="研讀這些人造恐怖，直到它們不再超出我的理解"></a><br><a href="../memes/m0562.md">研讀這些人造恐怖，直到它們不再超出我的理解</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0641.md"><img src="../images/m0641-ntu-ee-shake-the-world.png" width="240" alt="能震驚世界的電機系專題"></a><br><a href="../memes/m0641.md">能震驚世界的電機系專題</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（3）
+## ★★（4）
 
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0087.md"><img src="../images/m0087-preskill-lecture-notes-recommend.png" width="240" alt="動畫女孩推薦 Preskill 量子資訊講義"></a><br><a href="../memes/m0087.md">動畫女孩推薦 Preskill 量子資訊講義</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0202.md"><img src="../images/m0202-data-are-vs-data-is.png" width="240" alt="The data are… vs The data is…"></a><br><a href="../memes/m0202.md">The data are… vs The data is…</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0213.md"><img src="../images/m0213-griffiths-solution-manual.png" width="240" alt="讀了哪本書才發現差距"></a><br><a href="../memes/m0213.md">讀了哪本書才發現差距</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0632.md"><img src="../images/m0632-advisor-expectation-exp-log.png" width="240" alt="指導教授的期待 vs 我的進步幅度"></a><br><a href="../memes/m0632.md">指導教授的期待 vs 我的進步幅度</a><br><sub>👀🧠 ★★</sub></td>
 </tr>
 </table>
 

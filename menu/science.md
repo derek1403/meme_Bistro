@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 62 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 63 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（29）
+## ★（30）
 
 <table>
 <tr>
@@ -57,6 +57,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0617.md"><img src="../images/m0617-flat-earth-debunk-globe-stand.png" width="240" alt="地平說不攻自破"></a><br><a href="../memes/m0617.md">地平說不攻自破</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0620.md"><img src="../images/m0620-moldy-bread-science-fair.png" width="240" alt="發霉麵包拿下科展第二名"></a><br><a href="../memes/m0620.md">發霉麵包拿下科展第二名</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0643.md"><img src="../images/m0643-tell-schrodinger-im-alive.png" width="240" alt="告訴薛丁格那傢伙我還活著"></a><br><a href="../memes/m0643.md">告訴薛丁格那傢伙我還活著</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

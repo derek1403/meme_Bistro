@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 164 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 166 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（60）
+## ★（61）
 
 <table>
 <tr>
@@ -109,9 +109,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0618.md"><img src="../images/m0618-pr99-only-one-percent.png" width="240" alt="PR99 的學生竟然只佔 1%"></a><br><a href="../memes/m0618.md">PR99 的學生竟然只佔 1%</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0631.md"><img src="../images/m0631-pizza-volume-pi-z-z-a.png" width="240" alt="這就是為何我們叫它 PIZZA"></a><br><a href="../memes/m0631.md">這就是為何我們叫它 PIZZA</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0642.md"><img src="../images/m0642-distribution-plushies.png" width="240" alt="常態分布與卡方分布布偶"></a><br><a href="../memes/m0642.md">常態分布與卡方分布布偶</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（62）
+## ★★（63）
 
 <table>
 <tr>
@@ -217,6 +220,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0598.md"><img src="../images/m0598-ex-derivative-dy.png" width="240" alt="eˣ：你打不倒我——d/dy 可以"></a><br><a href="../memes/m0598.md">eˣ：你打不倒我——d/dy 可以</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0625.md"><img src="../images/m0625-integral-1-over-x5-plus-1.png" width="240" alt="微積分下學期的學生 vs ∫1/(x⁵+1)dx"></a><br><a href="../memes/m0625.md">微積分下學期的學生 vs ∫1/(x⁵+1)dx</a><br><sub>👀🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0636.md"><img src="../images/m0636-vectors-2-times-3-equals-6.png" width="240" alt="如果 2、3、6 都是向量……"></a><br><a href="../memes/m0636.md">如果 2、3、6 都是向量……</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

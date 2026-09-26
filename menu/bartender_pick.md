@@ -8,23 +8,23 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0555.md"><img src="../images/m0555-font-matters-find-you.png" width="240" alt="字體的重要性"></a><br><a href="../memes/m0555.md">字體的重要性</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0072.md"><img src="../images/m0072-claude-test-deploy-meetings.png" width="240" alt="可以順便測試、部署、開會嗎？"></a><br><a href="../memes/m0072.md">可以順便測試、部署、開會嗎？</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0370.md"><img src="../images/m0370-lantern-sakiko-never-fun.png" width="240" alt="燈會花燈：從來不覺得逛燈會開心過"></a><br><a href="../memes/m0370.md">燈會花燈：從來不覺得逛燈會開心過</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0148.md"><img src="../images/m0148-viral-math-ambiguous-notation.png" width="240" alt="新的爆紅數學題"></a><br><a href="../memes/m0148.md">新的爆紅數學題</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0041.md"><img src="../images/m0041-adhd-introvert-with-ai.png" width="240" alt="具 ADHD 的內向者（有 AI 助力）"></a><br><a href="../memes/m0041.md">具 ADHD 的內向者（有 AI 助力）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0470.md"><img src="../images/m0470-one-third-0-333333.png" width="240" alt="三分之一 = o.333333"></a><br><a href="../memes/m0470.md">三分之一 = o.333333</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0019.md"><img src="../images/m0019-gpt-vs-navier-stokes.png" width="240" alt="GPT 打完 NS 方程，Hodge 慌了"></a><br><a href="../memes/m0019.md">GPT 打完 NS 方程，Hodge 慌了</a><br><sub>🧠 ★★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0229.md"><img src="../images/m0229-3-plus-3-times-3-taiwan.png" width="240" alt="3+3×3 = 12，相信我我是台灣人"></a><br><a href="../memes/m0229.md">3+3×3 = 12，相信我我是台灣人</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0136.md"><img src="../images/m0136-tilde-gentle-person-similar.png" width="240" alt="會打「～」的人肯定很溫柔"></a><br><a href="../memes/m0136.md">會打「～」的人肯定很溫柔</a><br><sub>🔤👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0269.md"><img src="../images/m0269-he-wont-mess-up-isekai.jpg" width="240" alt="他不會搞砸（異世界主角圖鑑）"></a><br><a href="../memes/m0269.md">他不會搞砸（異世界主角圖鑑）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0074.md"><img src="../images/m0074-mathematician-doing-research.png" width="240" alt="數學家的所謂「進行研究」"></a><br><a href="../memes/m0074.md">數學家的所謂「進行研究」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0616.md"><img src="../images/m0616-military-still-re-sign.jpg" width="240" alt="我還是會續簽下去"></a><br><a href="../memes/m0616.md">我還是會續簽下去</a><br><sub>👀 ★★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0500.md"><img src="../images/m0500-desktop-full-of-galgames.png" width="240" alt="滿滿視覺小說的桌面"></a><br><a href="../memes/m0500.md">滿滿視覺小說的桌面</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0039.md"><img src="../images/m0039-phenolphthalein-red-ink.png" width="240" alt="讓酚酞變紅的溶液都是鹼性？"></a><br><a href="../memes/m0039.md">讓酚酞變紅的溶液都是鹼性？</a><br><sub>👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0304.md"><img src="../images/m0304-yuri-anime-overdose-happy.png" width="240" alt="我真的可以這麼幸福嗎？"></a><br><a href="../memes/m0304.md">我真的可以這麼幸福嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0028.md"><img src="../images/m0028-sudo-open-your-eyes.png" width="240" alt="sudo 打開你的眼睛"></a><br><a href="../memes/m0028.md">sudo 打開你的眼睛</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0004.md"><img src="../images/m0004-gauss-bonnet-powerpuff.png" width="240" alt="高斯–博內定理是怎麼煉成的"></a><br><a href="../memes/m0004.md">高斯–博內定理是怎麼煉成的</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0434.md"><img src="../images/m0434-boss-bracket-actions.png" width="240" alt="主管的括號動作太長了"></a><br><a href="../memes/m0434.md">主管的括號動作太長了</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0594.md"><img src="../images/m0594-orange-cat-paw-face-reaction.png" width="240" alt="橘貓推開灰貓的臉"></a><br><a href="../memes/m0594.md">橘貓推開灰貓的臉</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0527.md"><img src="../images/m0527-girl-3-plus-4-abelian-group.png" width="240" alt="3+4 等於 4+3，因為阿貝爾群"></a><br><a href="../memes/m0527.md">3+4 等於 4+3，因為阿貝爾群</a><br><sub>🧠👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0012.md"><img src="../images/m0012-cursed-rows-columns.png" width="240" alt="被詛咒的行與列"></a><br><a href="../memes/m0012.md">被詛咒的行與列</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0285.md"><img src="../images/m0285-a-over-b-plus-c-equals-4.png" width="240" alt="國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4"></a><br><a href="../memes/m0285.md">國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0577.md"><img src="../images/m0577-finding-vulnerabilities-tornado.png" width="240" alt="他們在找真愛，我在找漏洞"></a><br><a href="../memes/m0577.md">他們在找真愛，我在找漏洞</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0249.md"><img src="../images/m0249-water-bottles-at-2am.png" width="240" alt="凌晨兩點的水瓶"></a><br><a href="../memes/m0249.md">凌晨兩點的水瓶</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

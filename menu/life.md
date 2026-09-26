@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 166 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 172 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（98）
+## ★（102）
 
 <table>
 <tr>
@@ -172,6 +172,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0622.md"><img src="../images/m0622-bad-dream-female-vs-bro.png" width="240" alt="跟女性朋友 vs 跟兄弟講話"></a><br><a href="../memes/m0622.md">跟女性朋友 vs 跟兄弟講話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0624.md"><img src="../images/m0624-cat-whispers-to-dog.png" width="240" alt="我暫時還沒發現牠們弄壞了什麼東西"></a><br><a href="../memes/m0624.md">我暫時還沒發現牠們弄壞了什麼東西</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0633.md"><img src="../images/m0633-i-am-the-manager.png" width="240" alt="我就是經理，有什麼能幫您的嗎？"></a><br><a href="../memes/m0633.md">我就是經理，有什麼能幫您的嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0635.md"><img src="../images/m0635-kid-sharing-black-cat.png" width="240" alt="小孩分享他們的生活時"></a><br><a href="../memes/m0635.md">小孩分享他們的生活時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0637.md"><img src="../images/m0637-cat-grammar-error-meow.png" width="240" alt="文法錯誤百出的喵喵聲"></a><br><a href="../memes/m0637.md">文法錯誤百出的喵喵聲</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0639.md"><img src="../images/m0639-iphone-aa-battery-case.jpg" width="240" alt="可以換三號電池的 iPhone"></a><br><a href="../memes/m0639.md">可以換三號電池的 iPhone</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -234,7 +240,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（36）
+## ⚠️ 需斟酌（38）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -593,6 +599,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0621.md"><img src="../images/m0621-japan-sticker-poll-chaos.png" width="240" alt="唯一能讓日本人把貼紙貼得亂七八糟的問題"></a><br><a href="../memes/m0621.md">唯一能讓日本人把貼紙貼得亂七八糟的問題</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我去跟護理長確認一下喔 — ⚠️ 性騷擾</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0634.md"><img src="../images/m0634-nurse-head-ask-what-you-want.png" width="240" alt="我去跟護理長確認一下喔"></a><br><a href="../memes/m0634.md">我去跟護理長確認一下喔</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>10 秒內找到皮卡丘 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0638.md"><img src="../images/m0638-find-giant-pikachu.png" width="240" alt="10 秒內找到皮卡丘"></a><br><a href="../memes/m0638.md">10 秒內找到皮卡丘</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

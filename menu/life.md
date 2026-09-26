@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 86 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 88 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（45）
+## ★（46）
 
 <table>
 <tr>
@@ -84,6 +84,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0388.md"><img src="../images/m0388-electricity-bill-lottery-car.png" width="240" alt="拿電費買抽獎券，隔天門口真的停了一台車"></a><br><a href="../memes/m0388.md">拿電費買抽獎券，隔天門口真的停了一台車</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0389.md"><img src="../images/m0389-clown-sacrificed-for-company.png" width="240" alt="我犧牲一切換來一個會毫不猶豫解雇我的公司"></a><br><a href="../memes/m0389.md">我犧牲一切換來一個會毫不猶豫解雇我的公司</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0397.md"><img src="../images/m0397-couple-holding-hands-glue-remover.png" width="240" alt="結帳也不放手的情侶"></a><br><a href="../memes/m0397.md">結帳也不放手的情侶</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（23）
@@ -130,7 +133,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（18）
+## ⚠️ 需斟酌（19）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -309,6 +312,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0360.md"><img src="../images/m0360-sleeping-husband-in-av.png" width="240" alt="我像是 A 片裡睡著的丈夫"></a><br><a href="../memes/m0360.md">我像是 A 片裡睡著的丈夫</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我現在只想好好大幹一場 — ⚠️ 輕微性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0390.md"><img src="../images/m0390-just-want-to-fight-hard.png" width="240" alt="我現在只想好好大幹一場"></a><br><a href="../memes/m0390.md">我現在只想好好大幹一場</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

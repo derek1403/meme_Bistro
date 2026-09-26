@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（33）
+## ★（36）
 
 <table>
 <tr>
@@ -64,9 +64,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0378.md"><img src="../images/m0378-integral-devil-evil.png" width="240" alt="∫ devil = evil"></a><br><a href="../memes/m0378.md">∫ devil = evil</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0380.md"><img src="../images/m0380-chairman-luo-bi-da.png" width="240" alt="理事長羅必達"></a><br><a href="../memes/m0380.md">理事長羅必達</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0391.md"><img src="../images/m0391-exam-missing-formulas.png" width="240" alt="這是我的期末考卷，誰可以幫幫我"></a><br><a href="../memes/m0391.md">這是我的期末考卷，誰可以幫幫我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0393.md"><img src="../images/m0393-dont-care-about-your-pi-nion.png" width="240" alt="I don't care about your π-nion"></a><br><a href="../memes/m0393.md">I don't care about your π-nion</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0394.md"><img src="../images/m0394-cream-younger-3-years.png" width="240" alt="保養品塗了年輕三歲，二歲兒直接消失"></a><br><a href="../memes/m0394.md">保養品塗了年輕三歲，二歲兒直接消失</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（41）
+## ★★（42）
 
 <table>
 <tr>
@@ -137,10 +142,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0366.md"><img src="../images/m0366-love-limit-abs-x-over-x.png" width="240" alt="我對你的愛就像 lim |x|/x"></a><br><a href="../memes/m0366.md">我對你的愛就像 lim |x|/x</a><br><sub>🧠🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0384.md"><img src="../images/m0384-bourbaki-toddlers-isomorphism.png" width="240" alt="Bourbaki 與幼兒的共同點"></a><br><a href="../memes/m0384.md">Bourbaki 與幼兒的共同點</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0398.md"><img src="../images/m0398-immigration-banach-space.png" width="240" alt="入境審查被問 Banach 空間的定義"></a><br><a href="../memes/m0398.md">入境審查被問 Banach 空間的定義</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（26）
+## ★★★（27）
 
 <table>
 <tr>
@@ -186,6 +192,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0379.md"><img src="../images/m0379-tensor-product-coend.png" width="240" alt="張量積其實就是餘端？"></a><br><a href="../memes/m0379.md">張量積其實就是餘端？</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0382.md"><img src="../images/m0382-tensor-decategorified-multiprofunctor.png" width="240" alt="張量是去範疇化的多重 profunctor"></a><br><a href="../memes/m0382.md">張量是去範疇化的多重 profunctor</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0396.md"><img src="../images/m0396-cycle-index-a-bit-difficult.png" width="240" alt="可以看出，雖然有點難"></a><br><a href="../memes/m0396.md">可以看出，雖然有點難</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

@@ -20,11 +20,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0039.md"><img src="../images/m0039-phenolphthalein-red-ink.png" width="240" alt="讓酚酞變紅的溶液都是鹼性？"></a><br><a href="../memes/m0039.md">讓酚酞變紅的溶液都是鹼性？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0304.md"><img src="../images/m0304-yuri-anime-overdose-happy.png" width="240" alt="我真的可以這麼幸福嗎？"></a><br><a href="../memes/m0304.md">我真的可以這麼幸福嗎？</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0012.md"><img src="../images/m0012-cursed-rows-columns.png" width="240" alt="被詛咒的行與列"></a><br><a href="../memes/m0012.md">被詛咒的行與列</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0527.md"><img src="../images/m0527-girl-3-plus-4-abelian-group.png" width="240" alt="3+4 等於 4+3，因為阿貝爾群"></a><br><a href="../memes/m0527.md">3+4 等於 4+3，因為阿貝爾群</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0012.md"><img src="../images/m0012-cursed-rows-columns.png" width="240" alt="被詛咒的行與列"></a><br><a href="../memes/m0012.md">被詛咒的行與列</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0002.md"><img src="../images/m0002-math-teacher-joke-coset.png" width="240" alt="數學老師講了一個笑話"></a><br><a href="../memes/m0002.md">數學老師講了一個笑話</a><br><sub>🧠🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0214.md"><img src="../images/m0214-how-to-handle-cats-touhou.png" width="240" alt="教你如何拿捏小貓（學費 2888 元）"></a><br><a href="../memes/m0214.md">教你如何拿捏小貓（學費 2888 元）</a><br><sub>👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0143.md"><img src="../images/m0143-kimetsu-100-times-aniplex.jpg" width="240" alt="鬼滅看了 100 次，隨便丟一張圖我都知道"></a><br><a href="../memes/m0143.md">鬼滅看了 100 次，隨便丟一張圖我都知道</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

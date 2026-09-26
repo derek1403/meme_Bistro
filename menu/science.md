@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 49 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 50 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（19）
+## ★（20）
 
 <table>
 <tr>
@@ -41,6 +41,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0438.md"><img src="../images/m0438-sodium-chloride-cat-pat.png" width="240" alt="鈉摸氯貓"></a><br><a href="../memes/m0438.md">鈉摸氯貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0534.md"><img src="../images/m0534-define-hot-star-trek.png" width="240" alt="電腦：請定義「熱」"></a><br><a href="../memes/m0534.md">電腦：請定義「熱」</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

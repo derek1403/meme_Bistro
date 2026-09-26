@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 142 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 144 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（48）
 
@@ -91,7 +91,7 @@
 </tr>
 </table>
 
-## ★★（56）
+## ★★（58）
 
 <table>
 <tr>
@@ -187,6 +187,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0487.md"><img src="../images/m0487-estimate-pi-three-ways.png" width="240" alt="幾何、微積分、機率估算 π"></a><br><a href="../memes/m0487.md">幾何、微積分、機率估算 π</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0508.md"><img src="../images/m0508-sqrt-1-minus-7-25-squared.png" width="240" alt="√(1−(7/25)²) 的四種算法"></a><br><a href="../memes/m0508.md">√(1−(7/25)²) 的四種算法</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0527.md"><img src="../images/m0527-girl-3-plus-4-abelian-group.png" width="240" alt="3+4 等於 4+3，因為阿貝爾群"></a><br><a href="../memes/m0527.md">3+4 等於 4+3，因為阿貝爾群</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0538.md"><img src="../images/m0538-real-complex-quaternion-octonion.png" width="240" alt="實數 → 八元數：一路失去性質"></a><br><a href="../memes/m0538.md">實數 → 八元數：一路失去性質</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

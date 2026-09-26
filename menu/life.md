@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 130 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（70）
+## ★（75）
 
 <table>
 <tr>
@@ -126,6 +126,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0522.md"><img src="../images/m0522-cure-trypophobia-gold.png" width="240" alt="如何快速治癒密集恐懼症"></a><br><a href="../memes/m0522.md">如何快速治癒密集恐懼症</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0529.md"><img src="../images/m0529-whale-shark-grater.png" width="240" alt="鯨鯊造型刨絲器"></a><br><a href="../memes/m0529.md">鯨鯊造型刨絲器</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0531.md"><img src="../images/m0531-refresh-feed-lost-funny-video.png" width="240" alt="不小心刷新，最好笑的影片就不見了"></a><br><a href="../memes/m0531.md">不小心刷新，最好笑的影片就不見了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0532.md"><img src="../images/m0532-asteroid-1-2-percent-gacha.png" width="240" alt="1.2% 機率撞地球：手遊玩家完蛋了"></a><br><a href="../memes/m0532.md">1.2% 機率撞地球：手遊玩家完蛋了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0533.md"><img src="../images/m0533-talking-to-others-vs-myself.png" width="240" alt="跟別人說話 vs 跟自己說話"></a><br><a href="../memes/m0533.md">跟別人說話 vs 跟自己說話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0536.md"><img src="../images/m0536-risky-joke-pill-bottle.png" width="240" alt="那個會毀掉友情或讓我們無敵的冒險笑話"></a><br><a href="../memes/m0536.md">那個會毀掉友情或讓我們無敵的冒險笑話</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -182,7 +189,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（32）
+## ⚠️ 需斟酌（33）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -501,6 +508,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0523.md"><img src="../images/m0523-reddit-bird-poop-window.png" width="240" alt="我就知道那不是鳥屎"></a><br><a href="../memes/m0523.md">我就知道那不是鳥屎</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>虛構的，是女朋友而已嗎？ — ⚠️ 驚悚（虛構人物）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0530.md"><img src="../images/m0530-imaginary-wife-imaginary-friend.png" width="240" alt="虛構的，是女朋友而已嗎？"></a><br><a href="../memes/m0530.md">虛構的，是女朋友而已嗎？</a><br><sub>👀🔥 ★</sub></td>
 </tr>
 </table>
 

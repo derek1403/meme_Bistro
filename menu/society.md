@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 41 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 42 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（7）
 
@@ -32,7 +32,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（33）
+## ⚠️ 需斟酌（34）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -361,6 +361,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0501.md"><img src="../images/m0501-dark-alley-not-following-you.png" width="240" alt="我沒有要跟蹤妳"></a><br><a href="../memes/m0501.md">我沒有要跟蹤妳</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>最治癒的社交帖：最後他們都死了 — ⚠️ 死亡（兒童）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0535.md"><img src="../images/m0535-twin-blood-donation-all-died.png" width="240" alt="最治癒的社交帖：最後他們都死了"></a><br><a href="../memes/m0535.md">最治癒的社交帖：最後他們都死了</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

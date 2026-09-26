@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 47 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 48 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（21）
+## ★（22）
 
 <table>
 <tr>
@@ -43,6 +43,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0478.md"><img src="../images/m0478-mom-pregnant-brother-or-sister.png" width="240" alt="我要當哥哥還是姐姐？"></a><br><a href="../memes/m0478.md">我要當哥哥還是姐姐？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0489.md"><img src="../images/m0489-baseball-has-baseball-bat.png" width="240" alt="棒球是最棒的項目"></a><br><a href="../memes/m0489.md">棒球是最棒的項目</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0491.md"><img src="../images/m0491-homo-sapiens-in-taiwan.png" width="240" alt="安全回到 HOMO"></a><br><a href="../memes/m0491.md">安全回到 HOMO</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0528.md"><img src="../images/m0528-am-i-a-joke-to-you.png" width="240" alt="Am I a joke to you?"></a><br><a href="../memes/m0528.md">Am I a joke to you?</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

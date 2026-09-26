@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 90 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 91 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（17）
 
@@ -48,7 +48,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（72）
+## ⚠️ 需斟酌（73）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -767,6 +767,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1136.md"><img src="../images/m1136-custom-anime-urn.png" width="240" alt="我給自己準備的"></a><br><a href="../memes/m1136.md">我給自己準備的</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我殺了這頭牛，因為牠正在吃你們的食物 — ⚠️ 動物屠宰</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1143.md"><img src="../images/m1143-vegetarian-killed-cow.png" width="240" alt="我殺了這頭牛，因為牠正在吃你們的食物"></a><br><a href="../memes/m1143.md">我殺了這頭牛，因為牠正在吃你們的食物</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

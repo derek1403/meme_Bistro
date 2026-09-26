@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 50 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 51 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（39）
+## ★（40）
 
 <table>
 <tr>
@@ -73,6 +73,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1075.md"><img src="../images/m1075-group-member-i-dont-know.png" width="240" alt="你的大學報告分組隊友 be like"></a><br><a href="../memes/m1075.md">你的大學報告分組隊友 be like</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1087.md"><img src="../images/m1087-chance-essay-full-score.png" width="240" alt="「機會是什麼？是 chance」拿了 18 分"></a><br><a href="../memes/m1087.md">「機會是什麼？是 chance」拿了 18 分</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1107.md"><img src="../images/m1107-chair-in-sofa-blank.png" width="240" alt="當你不知道答案，但又不想空白"></a><br><a href="../memes/m1107.md">當你不知道答案，但又不想空白</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1137.md"><img src="../images/m1137-exam-relax-library-behind.png" width="240" alt="越到緊張的時候越要放鬆"></a><br><a href="../memes/m1137.md">越到緊張的時候越要放鬆</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

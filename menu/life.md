@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 427 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 433 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（284）
+## ★（290）
 
 <table>
 <tr>
@@ -482,6 +482,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1127.md"><img src="../images/m1127-bare-face-costs-money.jpg" width="240" alt="你們男生知道素顏要漂亮要花多少錢嗎"></a><br><a href="../memes/m1127.md">你們男生知道素顏要漂亮要花多少錢嗎</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1129.md"><img src="../images/m1129-corn-wallet-anti-theft.png" width="240" alt="這就是你如何保護自己免受小偷之害"></a><br><a href="../memes/m1129.md">這就是你如何保護自己免受小偷之害</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1138.md"><img src="../images/m1138-hammer-cane-self-solve.png" width="240" alt="當沒有人想要幫你，所以你自己想辦法解決"></a><br><a href="../memes/m1138.md">當沒有人想要幫你，所以你自己想辦法解決</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1139.md"><img src="../images/m1139-bro-you-changed-girlfriend.png" width="240" alt="兄弟，你變了"></a><br><a href="../memes/m1139.md">兄弟，你變了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1140.md"><img src="../images/m1140-now-is-time-to-reclaim.png" width="240" alt="現在正是復權的時刻"></a><br><a href="../memes/m1140.md">現在正是復權的時刻</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1141.md"><img src="../images/m1141-glasses-fox-ears-pliers.png" width="240" alt="戴上眼鏡：狐狸耳朵其實是尖嘴鉗"></a><br><a href="../memes/m1141.md">戴上眼鏡：狐狸耳朵其實是尖嘴鉗</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1146.md"><img src="../images/m1146-ancient-as-forest-baby.png" width="240" alt="我和森林一樣古老"></a><br><a href="../memes/m1146.md">我和森林一樣古老</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1147.md"><img src="../images/m1147-flat-french-horn.png" width="240" alt="今天的法國號聽起來好扁平"></a><br><a href="../memes/m1147.md">今天的法國號聽起來好扁平</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 

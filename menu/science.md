@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 104 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 105 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（49）
+## ★（50）
 
 <table>
 <tr>
@@ -91,6 +91,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1105.md"><img src="../images/m1105-cat-eclipse.png" width="240" alt="你看過貓全食嗎？"></a><br><a href="../memes/m1105.md">你看過貓全食嗎？</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1142.md"><img src="../images/m1142-earth-new-year-new-path.png" width="240" alt="新的一年，全新的我！"></a><br><a href="../memes/m1142.md">新的一年，全新的我！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

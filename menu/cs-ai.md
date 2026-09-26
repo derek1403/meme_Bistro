@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 143 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（90）
+## ★（93）
 
 <table>
 <tr>
@@ -158,6 +158,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0926.md"><img src="../images/m0926-thermodynamics-three-ai-answers.png" width="240" alt="三個 AI 給出三種不同算法"></a><br><a href="../memes/m0926.md">三個 AI 給出三種不同算法</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0977.md"><img src="../images/m0977-chatgpt-pick-number-dont-talk.jpg" width="240" alt="我能重選一次嗎？50"></a><br><a href="../memes/m0977.md">我能重選一次嗎？50</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1012.md"><img src="../images/m1012-improvise-adapt-overcome-adapters.png" width="240" alt="Improvise. Adapt. Adapt. Adapt… Overcome."></a><br><a href="../memes/m1012.md">Improvise. Adapt. Adapt. Adapt… Overcome.</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1016.md"><img src="../images/m1016-hey-babe-hello-world.png" width="240" alt="When coding is life"></a><br><a href="../memes/m1016.md">When coding is life</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1019.md"><img src="../images/m1019-study-pc-rtx-5080.png" width="240" alt="他讀書要用的電腦"></a><br><a href="../memes/m1019.md">他讀書要用的電腦</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1021.md"><img src="../images/m1021-cheap-vs-expensive-gaming-mouse.jpg" width="240" alt="便宜的遊戲滑鼠 vs 昂貴的遊戲滑鼠"></a><br><a href="../memes/m1021.md">便宜的遊戲滑鼠 vs 昂貴的遊戲滑鼠</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

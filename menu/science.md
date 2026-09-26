@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 97 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 98 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（43）
+## ★（44）
 
 <table>
 <tr>
@@ -81,6 +81,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0959.md"><img src="../images/m0959-ladle-box-off-table.png" width="240" alt="用湯勺把盒子放到桌外"></a><br><a href="../memes/m0959.md">用湯勺把盒子放到桌外</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1024.md"><img src="../images/m1024-planetary-alignment-reality.png" width="240" alt="你以為的行星連珠 vs 實際上的行星連珠"></a><br><a href="../memes/m1024.md">你以為的行星連珠 vs 實際上的行星連珠</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

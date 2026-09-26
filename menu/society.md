@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 75 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 76 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（13）
 
@@ -42,7 +42,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（61）
+## ⚠️ 需斟酌（62）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -651,6 +651,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0988.md"><img src="../images/m0988-firecracker-sewer-condom-ad.png" width="240" alt="保險套廣告？預防勝於治療"></a><br><a href="../memes/m0988.md">保險套廣告？預防勝於治療</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>誰說器官不能合法買賣 — ⚠️ 器官（反諷）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1017.md"><img src="../images/m1017-organ-trade-legal-boss.jpg" width="240" alt="誰說器官不能合法買賣"></a><br><a href="../memes/m1017.md">誰說器官不能合法買賣</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

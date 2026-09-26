@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 354 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 360 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（232）
+## ★（238）
 
 <table>
 <tr>
@@ -396,6 +396,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1014.md"><img src="../images/m1014-taki-i-quit-stupid-team.png" width="240" alt="簡直蠢斃了，我不幹了"></a><br><a href="../memes/m1014.md">簡直蠢斃了，我不幹了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1015.md"><img src="../images/m1015-mutsumi-no-need-to-shout.png" width="240" alt="你不需要這樣吼叫，豐川祥子"></a><br><a href="../memes/m1015.md">你不需要這樣吼叫，豐川祥子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1018.md"><img src="../images/m1018-new-year-9-billion-apps.jpg" width="240" alt="快過年了，這裡 90 多億你們拿去分"></a><br><a href="../memes/m1018.md">快過年了，這裡 90 多億你們拿去分</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1020.md"><img src="../images/m1020-penguin-baby-will-do-anything.png" width="240" alt="只要是我能做的，我什麼都願意做"></a><br><a href="../memes/m1020.md">只要是我能做的，我什麼都願意做</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1022.md"><img src="../images/m1022-20-years-ago-console-ps2.png" width="240" alt="你以為二十年前的遊戲機長這樣"></a><br><a href="../memes/m1022.md">你以為二十年前的遊戲機長這樣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1023.md"><img src="../images/m1023-harp-cello-inventory-full.png" width="240" alt="格子到上限又不想放棄裝備"></a><br><a href="../memes/m1023.md">格子到上限又不想放棄裝備</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1025.md"><img src="../images/m1025-three-kingdoms-warriors-cheer.jpg" width="240" alt="美女們登場 vs 美男子登場"></a><br><a href="../memes/m1025.md">美女們登場 vs 美男子登場</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

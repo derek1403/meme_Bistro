@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 83 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 84 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（52）
+## ★（53）
 
 <table>
 <tr>
@@ -96,6 +96,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0856.md"><img src="../images/m0856-eel-croc-leopard-hug.png" width="240" alt="鱔有鱔抱、鱷有鱷抱"></a><br><a href="../memes/m0856.md">鱔有鱔抱、鱷有鱷抱</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0890.md"><img src="../images/m0890-no-pen-called-no-harm.png" width="240" alt="沒有筆叫沒有傷害"></a><br><a href="../memes/m0890.md">沒有筆叫沒有傷害</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

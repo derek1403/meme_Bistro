@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 273 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 282 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（172）
+## ★（177）
 
 <table>
 <tr>
@@ -296,6 +296,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0879.md"><img src="../images/m0879-asian-parents-color-c.png" width="240" alt="亞洲父母聽到你要去上色彩分 C"></a><br><a href="../memes/m0879.md">亞洲父母聽到你要去上色彩分 C</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0884.md"><img src="../images/m0884-god-what-did-you-give-memes.jpg" width="240" alt="你為這個世界付出了什麼？分享梗圖"></a><br><a href="../memes/m0884.md">你為這個世界付出了什麼？分享梗圖</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0886.md"><img src="../images/m0886-fender-guitar-power-chord.png" width="240" alt="90% 學吉他的人一年內放棄"></a><br><a href="../memes/m0886.md">90% 學吉他的人一年內放棄</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0887.md"><img src="../images/m0887-auntie-be-her-dad.png" width="240" alt="當不了她老公，當她爸也可以"></a><br><a href="../memes/m0887.md">當不了她老公，當她爸也可以</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0888.md"><img src="../images/m0888-mom-only-34.png" width="240" alt="知道為什麼我才 34 嗎？"></a><br><a href="../memes/m0888.md">知道為什麼我才 34 嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0894.md"><img src="../images/m0894-parking-bbq-twerk.png" width="240" alt="邊烤肉邊跳電臀舞的人專屬停車位"></a><br><a href="../memes/m0894.md">邊烤肉邊跳電臀舞的人專屬停車位</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -382,7 +389,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（55）
+## ⚠️ 需斟酌（59）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -931,6 +938,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0876.md"><img src="../images/m0876-uncle-saved-your-life.png" width="240" alt="他的命是叔叔救的"></a><br><a href="../memes/m0876.md">他的命是叔叔救的</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你那邊大嗎？大概 17 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0885.md"><img src="../images/m0885-earthquake-magnitude-17.png" width="240" alt="你那邊大嗎？大概 17"></a><br><a href="../memes/m0885.md">你那邊大嗎？大概 17</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>美人魚用海星當胸罩 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0889.md"><img src="../images/m0889-starfish-bra-mermaid.png" width="240" alt="美人魚用海星當胸罩"></a><br><a href="../memes/m0889.md">美人魚用海星當胸罩</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>妳是不是有在賣？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0891.md"><img src="../images/m0891-are-you-selling-part-time.png" width="240" alt="妳是不是有在賣？"></a><br><a href="../memes/m0891.md">妳是不是有在賣？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>孕婦停車位（烤肉版） — ⚠️ 身材</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0895.md"><img src="../images/m0895-parking-bbq-big-guy.png" width="240" alt="孕婦停車位（烤肉版）"></a><br><a href="../memes/m0895.md">孕婦停車位（烤肉版）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

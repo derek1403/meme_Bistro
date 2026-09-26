@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 67 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 68 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（11）
 
@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（55）
+## ⚠️ 需斟酌（56）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -587,6 +587,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0840.md"><img src="../images/m0840-god-creation-group-chat.jpg" width="240" alt="上帝的創造物群組"></a><br><a href="../memes/m0840.md">上帝的創造物群組</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我還以為是有人抽煙呢 — ⚠️ 災難</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0853.md"><img src="../images/m0853-plane-on-fire-not-smoking.png" width="240" alt="我還以為是有人抽煙呢"></a><br><a href="../memes/m0853.md">我還以為是有人抽煙呢</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

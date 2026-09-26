@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 83 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 85 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（37）
 
@@ -74,7 +74,7 @@
 </tr>
 </table>
 
-## ★★（32）
+## ★★（33）
 
 <table>
 <tr>
@@ -130,6 +130,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0806.md"><img src="../images/m0806-einstein-newton-pascal-hide-seek.png" width="240" alt="找到你了牛頓——不，我是帕斯卡"></a><br><a href="../memes/m0806.md">找到你了牛頓——不，我是帕斯卡</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0808.md"><img src="../images/m0808-cosmological-constant-panik.png" width="240" alt="宇宙學常數：Panik–Kalm–Panik"></a><br><a href="../memes/m0808.md">宇宙學常數：Panik–Kalm–Panik</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0857.md"><img src="../images/m0857-kirchhoff-exam-cover.png" width="240" alt="當你百思不得其解時：為什麼不用克希荷夫！"></a><br><a href="../memes/m0857.md">當你百思不得其解時：為什麼不用克希荷夫！</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
@@ -142,7 +143,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（12）
+## ⚠️ 需斟酌（13）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -261,6 +262,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0829.md"><img src="../images/m0829-gender-phase-diagram.png" width="240" alt="性別相圖"></a><br><a href="../memes/m0829.md">性別相圖</a><br><sub>🔤👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我和女生握手，我的血球：走啊 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0854.md"><img src="../images/m0854-red-blood-cells-go-down.png" width="240" alt="我和女生握手，我的血球：走啊"></a><br><a href="../memes/m0854.md">我和女生握手，我的血球：走啊</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

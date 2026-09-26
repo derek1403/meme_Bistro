@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 255 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 259 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（161）
+## ★（162）
 
 <table>
 <tr>
@@ -277,10 +277,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0832.md"><img src="../images/m0832-barilla-spotify-playlist-timer.jpg" width="240" alt="Barilla 義大利麵的 Spotify 計時歌單"></a><br><a href="../memes/m0832.md">Barilla 義大利麵的 Spotify 計時歌單</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0846.md"><img src="../images/m0846-jk-rowling-hermione-harry.png" width="240" alt="J·K·羅琳表示妙麗應該和哈利在一起"></a><br><a href="../memes/m0846.md">J·K·羅琳表示妙麗應該和哈利在一起</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0858.md"><img src="../images/m0858-dog-head-in-starbucks-cup.png" width="240" alt="我還以為杯裡的牛奶灑了"></a><br><a href="../memes/m0858.md">我還以為杯裡的牛奶灑了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（43）
+## ★★（44）
 
 <table>
 <tr>
@@ -355,10 +356,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0843.md"><img src="../images/m0843-pili-huo-ghibli-firecracker.png" width="240" alt="霹靂火：我就送你一支番仔火"></a><br><a href="../memes/m0843.md">霹靂火：我就送你一支番仔火</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0851.md"><img src="../images/m0851-elsword-real-estate-map.png" width="240" alt="艾爾房地產"></a><br><a href="../memes/m0851.md">艾爾房地產</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（51）
+## ⚠️ 需斟酌（53）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -867,6 +869,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0826.md"><img src="../images/m0826-car-seat-cooling-pump.png" width="240" alt="車內水冷系統設計圖"></a><br><a href="../memes/m0826.md">車內水冷系統設計圖</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>偉大的鳥媽媽餵食蚱蜢給小鳥吃 — ⚠️ 動物捕食</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0849.md"><img src="../images/m0849-bird-mom-grasshopper-kids.png" width="240" alt="偉大的鳥媽媽餵食蚱蜢給小鳥吃"></a><br><a href="../memes/m0849.md">偉大的鳥媽媽餵食蚱蜢給小鳥吃</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>切辣椒時小孩揉眼睛 — ⚠️ 兒童受傷（辣椒）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0855.md"><img src="../images/m0855-kid-chili-eye-rub.png" width="240" alt="切辣椒時小孩揉眼睛"></a><br><a href="../memes/m0855.md">切辣椒時小孩揉眼睛</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

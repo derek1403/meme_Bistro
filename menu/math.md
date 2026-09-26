@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 195 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 199 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（72）
+## ★（75）
 
 <table>
 <tr>
@@ -129,9 +129,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0784.md"><img src="../images/m0784-square-root-cat.png" width="240" alt="Cat 與 √Cat"></a><br><a href="../memes/m0784.md">Cat 與 √Cat</a><br><sub>🔤👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0787.md"><img src="../images/m0787-head-swirl-two-plus-one.jpg" width="240" alt="2 + 1 = 頭上的髮旋"></a><br><a href="../memes/m0787.md">2 + 1 = 頭上的髮旋</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0848.md"><img src="../images/m0848-sphere-in-triangle-factory.png" width="240" alt="一個球體？出現在三角形工廠？"></a><br><a href="../memes/m0848.md">一個球體？出現在三角形工廠？</a><br><sub>👀🧠 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0850.md"><img src="../images/m0850-desmos-anime-girl.png" width="240" alt="用 Desmos 函數畫動漫女孩"></a><br><a href="../memes/m0850.md">用 Desmos 函數畫動漫女孩</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0859.md"><img src="../images/m0859-delta-x-lick-lemon-dx.png" width="240" alt="Δx 舔檸檬，dx 不舔"></a><br><a href="../memes/m0859.md">Δx 舔檸檬，dx 不舔</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（74）
+## ★★（75）
 
 <table>
 <tr>
@@ -257,6 +262,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0828.md"><img src="../images/m0828-zero-over-zero-cake.png" width="240" alt="大家一起切 0 這塊蛋糕，除了 0÷0"></a><br><a href="../memes/m0828.md">大家一起切 0 這塊蛋糕，除了 0÷0</a><br><sub>👀🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0836.md"><img src="../images/m0836-normal-trinity-diagram.png" width="240" alt="「Normal」的三位一體"></a><br><a href="../memes/m0836.md">「Normal」的三位一體</a><br><sub>🔤🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0852.md"><img src="../images/m0852-real-rational-cats-sandwich.png" width="240" alt="實數夾著有理數"></a><br><a href="../memes/m0852.md">實數夾著有理數</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

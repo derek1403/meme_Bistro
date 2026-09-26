@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 85 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 86 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（50）
+## ★（51）
 
 <table>
 <tr>
@@ -92,6 +92,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0502.md"><img src="../images/m0502-502-bad-gateway-router.png" width="240" alt="502 Bad Gateway"></a><br><a href="../memes/m0502.md">502 Bad Gateway</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0503.md"><img src="../images/m0503-ai-demo-vs-production.png" width="240" alt="AI 在 demo vs AI 在正式環境"></a><br><a href="../memes/m0503.md">AI 在 demo vs AI 在正式環境</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0514.md"><img src="../images/m0514-terminal-alias-ls-typos.png" width="240" alt="終端機使用者：精準打字大師？"></a><br><a href="../memes/m0514.md">終端機使用者：精準打字大師？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

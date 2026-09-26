@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 125 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（61）
+## ★（67）
 
 <table>
 <tr>
@@ -111,6 +111,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0505.md"><img src="../images/m0505-weekend-study-plan-ten-minutes.png" width="240" alt="假日讀書計劃"></a><br><a href="../memes/m0505.md">假日讀書計劃</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0506.md"><img src="../images/m0506-goodnight-reply-years-later.png" width="240" alt="你隔了一年才回我晚安"></a><br><a href="../memes/m0506.md">你隔了一年才回我晚安</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0507.md"><img src="../images/m0507-skip-tutorial-mahjong-maze.png" width="240" alt="跳過新手教學直接開玩"></a><br><a href="../memes/m0507.md">跳過新手教學直接開玩</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0510.md"><img src="../images/m0510-megastarmie-230cm.jpg" width="240" alt="身高比較：歐爾麥特、AFO、因陀羅、超級寶石海星"></a><br><a href="../memes/m0510.md">身高比較：歐爾麥特、AFO、因陀羅、超級寶石海星</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0511.md"><img src="../images/m0511-bro-irl-vs-online-cosplay.png" width="240" alt="Bro in real life vs Bro online"></a><br><a href="../memes/m0511.md">Bro in real life vs Bro online</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0512.md"><img src="../images/m0512-minion-pizza-daughter-cried.png" width="240" alt="我女兒要哭了啦"></a><br><a href="../memes/m0512.md">我女兒要哭了啦</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0513.md"><img src="../images/m0513-astigmatism-mug-wall.png" width="240" alt="有散光的人看到的世界"></a><br><a href="../memes/m0513.md">有散光的人看到的世界</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

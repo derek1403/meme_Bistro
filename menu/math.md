@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（45）
+## ★（47）
 
 <table>
 <tr>
@@ -84,9 +84,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0459.md"><img src="../images/m0459-sqrt3-mathematician.png" width="240" alt="√3 就是 √3"></a><br><a href="../memes/m0459.md">√3 就是 √3</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0479.md"><img src="../images/m0479-factorial-40320-pretty-old.png" width="240" alt="你 12 歲不是 8 歲，40320 很老了"></a><br><a href="../memes/m0479.md">你 12 歲不是 8 歲，40320 很老了</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0484.md"><img src="../images/m0484-log-is-10g-mass.png" width="240" alt="那個 10g 是三小，算質量喔？"></a><br><a href="../memes/m0484.md">那個 10g 是三小，算質量喔？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0486.md"><img src="../images/m0486-fibonacci-miles-to-km.png" width="240" alt="用費氏數列換算英里到公里"></a><br><a href="../memes/m0486.md">用費氏數列換算英里到公里</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（54）
+## ★★（55）
 
 <table>
 <tr>
@@ -179,6 +183,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0472.md"><img src="../images/m0472-ramanujan-where-ideas-come.png" width="240" alt="拉馬努金是怎麼發想出那些理論的？"></a><br><a href="../memes/m0472.md">拉馬努金是怎麼發想出那些理論的？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0482.md"><img src="../images/m0482-construct-real-numbers-incredibles.png" width="240" alt="數系構造：到實數就變黑了"></a><br><a href="../memes/m0482.md">數系構造：到實數就變黑了</a><br><sub>🧠 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0487.md"><img src="../images/m0487-estimate-pi-three-ways.png" width="240" alt="幾何、微積分、機率估算 π"></a><br><a href="../memes/m0487.md">幾何、微積分、機率估算 π</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
 </table>
 
 ## ★★★（29）
@@ -235,7 +242,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（8）
+## ⚠️ 需斟酌（9）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -314,6 +321,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0439.md"><img src="../images/m0439-red-eyes-unsolved-integral.png" width="240" alt="你是因為解不出那個積分才哭的吧"></a><br><a href="../memes/m0439.md">你是因為解不出那個積分才哭的吧</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>(√−shit)² ：shit just got real — ⚠️ 粗口</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0485.md"><img src="../images/m0485-sqrt-negative-shit-got-real.png" width="240" alt="(√−shit)² ：shit just got real"></a><br><a href="../memes/m0485.md">(√−shit)² ：shit just got real</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 43 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 46 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（19）
+## ★（21）
 
 <table>
 <tr>
@@ -41,6 +41,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0478.md"><img src="../images/m0478-mom-pregnant-brother-or-sister.png" width="240" alt="我要當哥哥還是姐姐？"></a><br><a href="../memes/m0478.md">我要當哥哥還是姐姐？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0489.md"><img src="../images/m0489-baseball-has-baseball-bat.png" width="240" alt="棒球是最棒的項目"></a><br><a href="../memes/m0489.md">棒球是最棒的項目</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0491.md"><img src="../images/m0491-homo-sapiens-in-taiwan.png" width="240" alt="安全回到 HOMO"></a><br><a href="../memes/m0491.md">安全回到 HOMO</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -63,7 +65,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（16）
+## ⚠️ 需斟酌（17）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -222,6 +224,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0431.md"><img src="../images/m0431-crab-stick-fish-stick.png" width="240" alt="蟹肉棒為什麼不叫雜魚肉棒"></a><br><a href="../memes/m0431.md">蟹肉棒為什麼不叫雜魚肉棒</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>會計學擋下了美工刀 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0483.md"><img src="../images/m0483-accounting-book-blocks-knife.png" width="240" alt="會計學擋下了美工刀"></a><br><a href="../memes/m0483.md">會計學擋下了美工刀</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

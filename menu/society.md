@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 38 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 39 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（6）
 
@@ -29,7 +29,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（31）
+## ⚠️ 需斟酌（32）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -338,6 +338,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0474.md"><img src="../images/m0474-thai-cave-diagram-color.png" width="240" alt="你要做山洞剖面圖至少換個顏色吧"></a><br><a href="../memes/m0474.md">你要做山洞剖面圖至少換個顏色吧</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>1846 年以前負責麻醉的護士 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0488.md"><img src="../images/m0488-war-hammer-mary-anesthetist.png" width="240" alt="1846 年以前負責麻醉的護士"></a><br><a href="../memes/m0488.md">1846 年以前負責麻醉的護士</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 114 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（56）
+## ★（57）
 
 <table>
 <tr>
@@ -102,6 +102,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0473.md"><img src="../images/m0473-boba-last-sip-practice.png" width="240" alt="喝完珍奶配速有問題，可恥"></a><br><a href="../memes/m0473.md">喝完珍奶配速有問題，可恥</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0480.md"><img src="../images/m0480-glass-half-amphoreus.png" width="240" alt="悲觀、樂觀，和翁法羅斯的人看半杯水"></a><br><a href="../memes/m0480.md">悲觀、樂觀，和翁法羅斯的人看半杯水</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0493.md"><img src="../images/m0493-time-travel-t1-finals.png" width="240" alt="從 2050 穿越回來：T1 進決賽了"></a><br><a href="../memes/m0493.md">從 2050 穿越回來：T1 進決賽了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -155,7 +156,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（29）
+## ⚠️ 需斟酌（30）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -444,6 +445,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0477.md"><img src="../images/m0477-pill-guild-war-only.png" width="240" alt="吃下這個藥你就滿腦子只想打公會戰"></a><br><a href="../memes/m0477.md">吃下這個藥你就滿腦子只想打公會戰</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我們兩個人都沒有變 — ⚠️ 戀童暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0490.md"><img src="../images/m0490-she-likes-rich-i-like-18.png" width="240" alt="我們兩個人都沒有變"></a><br><a href="../memes/m0490.md">我們兩個人都沒有變</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

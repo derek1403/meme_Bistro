@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（85）
+## ★（88）
 
 <table>
 <tr>
@@ -151,6 +151,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0915.md"><img src="../images/m0915-job-failed-successfully-cake.png" width="240" alt="Job failed successfully"></a><br><a href="../memes/m0915.md">Job failed successfully</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0922.md"><img src="../images/m0922-single-player-always-online-hell.png" width="240" alt="發明單人遊戲必須全程連線的人"></a><br><a href="../memes/m0922.md">發明單人遊戲必須全程連線的人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0923.md"><img src="../images/m0923-bug-your-code-japanese.png" width="240" alt="日文的 Bug 與你的 Code"></a><br><a href="../memes/m0923.md">日文的 Bug 與你的 Code</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0926.md"><img src="../images/m0926-thermodynamics-three-ai-answers.png" width="240" alt="三個 AI 給出三種不同算法"></a><br><a href="../memes/m0926.md">三個 AI 給出三種不同算法</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

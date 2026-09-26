@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 291 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 297 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（181）
+## ★（187）
 
 <table>
 <tr>
@@ -311,6 +311,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0913.md"><img src="../images/m0913-elbow-nvidia-logo.png" width="240" alt="一個注定要被 NVIDIA 玩的手肘"></a><br><a href="../memes/m0913.md">一個注定要被 NVIDIA 玩的手肘</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0918.md"><img src="../images/m0918-airpods-polar-bear-cub.png" width="240" alt="你不見的 AirPods 我幫你找到了"></a><br><a href="../memes/m0918.md">你不見的 AirPods 我幫你找到了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0919.md"><img src="../images/m0919-red-velvet-shoes-turn-yourself-in.png" width="240" alt="我不懂時尚，但我建議你趕緊去自首"></a><br><a href="../memes/m0919.md">我不懂時尚，但我建議你趕緊去自首</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0921.md"><img src="../images/m0921-monster-hunter-wilds-missing.png" width="240" alt="魔物獵人荒野：尋人啟事"></a><br><a href="../memes/m0921.md">魔物獵人荒野：尋人啟事</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0924.md"><img src="../images/m0924-crying-cant-solve-problem.png" width="240" alt="哭不能解決問題"></a><br><a href="../memes/m0924.md">哭不能解決問題</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0925.md"><img src="../images/m0925-laptop-on-back-music.png" width="240" alt="手機在充電，但我不能沒有音樂"></a><br><a href="../memes/m0925.md">手機在充電，但我不能沒有音樂</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0928.md"><img src="../images/m0928-husky-among-wolves.png" width="240" alt="哈士奇：這隻狼把我當同類了"></a><br><a href="../memes/m0928.md">哈士奇：這隻狼把我當同類了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 115 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（69）
+## ★（70）
 
 <table>
 <tr>
@@ -124,9 +124,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0729.md"><img src="../images/m0729-pandas-600mb-csv.png" width="240" alt="把 600MB CSV 塞進 Pandas"></a><br><a href="../memes/m0729.md">把 600MB CSV 塞進 Pandas</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0733.md"><img src="../images/m0733-segfault-scientific-advancement.png" width="240" alt="被 Segfault 吃掉的科學進展"></a><br><a href="../memes/m0733.md">被 Segfault 吃掉的科學進展</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0746.md"><img src="../images/m0746-apes-together-strong-password.png" width="240" alt="猩猩，在一起，強大"></a><br><a href="../memes/m0746.md">猩猩，在一起，強大</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（32）
+## ★★（34）
 
 <table>
 <tr>
@@ -182,6 +185,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0710.md"><img src="../images/m0710-oop-touch-meme.png" width="240" alt="OOP 觸碰許可圖"></a><br><a href="../memes/m0710.md">OOP 觸碰許可圖</a><br><sub>👀🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0736.md"><img src="../images/m0736-probably-approximately-correct.png" width="240" alt="期末前一晚狂讀一學期的內容"></a><br><a href="../memes/m0736.md">期末前一晚狂讀一學期的內容</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0749.md"><img src="../images/m0749-doubao-ai-sakiko-mask.jpg" width="240" alt="豆包：圖中的人是豐川祥子"></a><br><a href="../memes/m0749.md">豆包：圖中的人是豐川祥子</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0750.md"><img src="../images/m0750-genai-ouroboros-problem.png" width="240" alt="他在想的是 GenAI 銜尾蛇問題"></a><br><a href="../memes/m0750.md">他在想的是 GenAI 銜尾蛇問題</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

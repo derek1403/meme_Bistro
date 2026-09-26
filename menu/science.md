@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 75 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 76 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（33）
+## ★（34）
 
 <table>
 <tr>
@@ -63,6 +63,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0661.md"><img src="../images/m0661-mythbusters-vs-misinformation.png" width="240" alt="流言終結者集數 vs 網路假消息"></a><br><a href="../memes/m0661.md">流言終結者集數 vs 網路假消息</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0676.md"><img src="../images/m0676-penguin-birth-continent.png" width="240" alt="出生在各大洲的機率（如果你是企鵝）"></a><br><a href="../memes/m0676.md">出生在各大洲的機率（如果你是企鵝）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0713.md"><img src="../images/m0713-light-is-tiring-to-live.jpg" width="240" alt="光是活著就很累"></a><br><a href="../memes/m0713.md">光是活著就很累</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0743.md"><img src="../images/m0743-fire-shadow-hokage.jpg" width="240" alt="為什麼看不見火的影子？"></a><br><a href="../memes/m0743.md">為什麼看不見火的影子？</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

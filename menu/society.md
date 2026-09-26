@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 58 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 59 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（10）
 
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（47）
+## ⚠️ 需斟酌（48）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -506,6 +506,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0738.md"><img src="../images/m0738-archery-zoo-bbq-signs.jpg" width="240" alt="射箭 → 小動物樂園 → 戶外燒烤區"></a><br><a href="../memes/m0738.md">射箭 → 小動物樂園 → 戶外燒烤區</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>作為上帝最虔誠的孩子，你該怎麼做？ — ⚠️ 宗教</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0747.md"><img src="../images/m0747-gods-child-found-wallet.jpg" width="240" alt="作為上帝最虔誠的孩子，你該怎麼做？"></a><br><a href="../memes/m0747.md">作為上帝最虔誠的孩子，你該怎麼做？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

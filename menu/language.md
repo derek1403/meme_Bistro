@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 97 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 99 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（64）
+## ★（65）
 
 <table>
 <tr>
@@ -116,6 +116,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1071.md"><img src="../images/m1071-li-huang-xing-trust-me.png" width="240" alt="我辦事：李晃興"></a><br><a href="../memes/m1071.md">我辦事：李晃興</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1073.md"><img src="../images/m1073-monkey-dragon-throat-pain.png" width="240" alt="我屬猴你屬龍，我們在一起會喉嚨痛"></a><br><a href="../memes/m1073.md">我屬猴你屬龍，我們在一起會喉嚨痛</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -142,7 +143,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（23）
+## ⚠️ 需斟酌（24）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -371,6 +372,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1035.md"><img src="../images/m1035-avocado-lolita-milk.jpg" width="240" alt="呃蘿莉為啥不能吃"></a><br><a href="../memes/m1035.md">呃蘿莉為啥不能吃</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>可老闆我們賣的是塑膠懶 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1072.md"><img src="../images/m1072-animal-testing-plastic-lazy.png" width="240" alt="可老闆我們賣的是塑膠懶"></a><br><a href="../memes/m1072.md">可老闆我們賣的是塑膠懶</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

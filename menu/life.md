@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 394 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 400 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（261）
+## ★（266）
 
 <table>
 <tr>
@@ -444,9 +444,18 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1067.md"><img src="../images/m1067-spongebob-3-minute-study-motivation.png" width="240" alt="看完感動電影決定開始努力讀書"></a><br><a href="../memes/m1067.md">看完感動電影決定開始努力讀書</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1069.md"><img src="../images/m1069-late-for-date-cats.png" width="240" alt="約會遲到的時候"></a><br><a href="../memes/m1069.md">約會遲到的時候</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1076.md"><img src="../images/m1076-drink-free-food-critic.png" width="240" alt="我可是美食評鑑家大前田長五郎老師耶"></a><br><a href="../memes/m1076.md">我可是美食評鑑家大前田長五郎老師耶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1078.md"><img src="../images/m1078-poor-and-unhappy-diagnosis.png" width="240" alt="又窮又不開心"></a><br><a href="../memes/m1078.md">又窮又不開心</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1079.md"><img src="../images/m1079-toothpick-salt-shaker.png" width="240" alt="靠北……牙籤罐不是胡椒罐"></a><br><a href="../memes/m1079.md">靠北……牙籤罐不是胡椒罐</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1080.md"><img src="../images/m1080-double-bass-liquor-cabinet.png" width="240" alt="音樂家：我都把靈感收藏在樂器裡"></a><br><a href="../memes/m1080.md">音樂家：我都把靈感收藏在樂器裡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1081.md"><img src="../images/m1081-tempo-90-000092.png" width="240" alt="作曲家：我對速度的要求是很精準的"></a><br><a href="../memes/m1081.md">作曲家：我對速度的要求是很精準的</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（54）
+## ★★（55）
 
 <table>
 <tr>
@@ -538,6 +547,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1032.md"><img src="../images/m1032-shopee-reply-good-song.jpg" width="240" alt="因為春日影是一首好歌"></a><br><a href="../memes/m1032.md">因為春日影是一首好歌</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1044.md"><img src="../images/m1044-chopin-simple-hated-passage.png" width="240" alt="蕭邦：看起來簡單但大家討厭的段落"></a><br><a href="../memes/m1044.md">蕭邦：看起來簡單但大家討厭的段落</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1059.md"><img src="../images/m1059-pet-translator-interesting-woman.png" width="240" alt="寵物翻譯師：她說有趣的女人"></a><br><a href="../memes/m1059.md">寵物翻譯師：她說有趣的女人</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1074.md"><img src="../images/m1074-simpsons-monkey-fight-bangdream.png" width="240" alt="邦友鄉民與初華看 MyGO 和 Ave Mujica 打架"></a><br><a href="../memes/m1074.md">邦友鄉民與初華看 MyGO 和 Ave Mujica 打架</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

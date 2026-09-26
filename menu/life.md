@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 253 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 255 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（160）
+## ★（161）
 
 <table>
 <tr>
@@ -276,10 +276,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0832.md"><img src="../images/m0832-barilla-spotify-playlist-timer.jpg" width="240" alt="Barilla 義大利麵的 Spotify 計時歌單"></a><br><a href="../memes/m0832.md">Barilla 義大利麵的 Spotify 計時歌單</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0846.md"><img src="../images/m0846-jk-rowling-hermione-harry.png" width="240" alt="J·K·羅琳表示妙麗應該和哈利在一起"></a><br><a href="../memes/m0846.md">J·K·羅琳表示妙麗應該和哈利在一起</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（42）
+## ★★（43）
 
 <table>
 <tr>
@@ -351,6 +352,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0817.md"><img src="../images/m0817-destiny-community-mygo.png" width="240" alt="要不要成為命運共同體"></a><br><a href="../memes/m0817.md">要不要成為命運共同體</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0821.md"><img src="../images/m0821-madoka-vs-mujica-roles.png" width="240" alt="苦苦掙扎的女主一號、無法戰勝的天災"></a><br><a href="../memes/m0821.md">苦苦掙扎的女主一號、無法戰勝的天災</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0834.md"><img src="../images/m0834-dog-bad-apple-silhouette.png" width="240" alt="我家狗背後有 bad apple"></a><br><a href="../memes/m0834.md">我家狗背後有 bad apple</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0843.md"><img src="../images/m0843-pili-huo-ghibli-firecracker.png" width="240" alt="霹靂火：我就送你一支番仔火"></a><br><a href="../memes/m0843.md">霹靂火：我就送你一支番仔火</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

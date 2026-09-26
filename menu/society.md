@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 64 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 67 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（11）
 
@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（52）
+## ⚠️ 需斟酌（55）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -557,6 +557,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0824.md"><img src="../images/m0824-hotdog-water-ice-vegan.png" width="240" alt="用熱狗水做冰塊給素食客人"></a><br><a href="../memes/m0824.md">用熱狗水做冰塊給素食客人</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>早上醒來發現老公已經硬硬的 — ⚠️ 死亡＋性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0837.md"><img src="../images/m0837-husband-already-hard.png" width="240" alt="早上醒來發現老公已經硬硬的"></a><br><a href="../memes/m0837.md">早上醒來發現老公已經硬硬的</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>60 人刺殺凱撒，只有 23 處刀傷 — ⚠️ 暴力（歷史）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0839.md"><img src="../images/m0839-caesar-60-conspirators-23-wounds.jpg" width="240" alt="60 人刺殺凱撒，只有 23 處刀傷"></a><br><a href="../memes/m0839.md">60 人刺殺凱撒，只有 23 處刀傷</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>上帝的創造物群組 — ⚠️ 宗教＋種族屠殺</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0840.md"><img src="../images/m0840-god-creation-group-chat.jpg" width="240" alt="上帝的創造物群組"></a><br><a href="../memes/m0840.md">上帝的創造物群組</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 121 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 124 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（75）
+## ★（77）
 
 <table>
 <tr>
@@ -134,6 +134,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0805.md"><img src="../images/m0805-polite-to-chatgpt-just-in-case.png" width="240" alt="對 ChatGPT 說「請」，以防萬一"></a><br><a href="../memes/m0805.md">對 ChatGPT 說「請」，以防萬一</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0835.md"><img src="../images/m0835-two-types-brace-style.png" width="240" alt="世上有兩種人（大括號版）"></a><br><a href="../memes/m0835.md">世上有兩種人（大括號版）</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0844.md"><img src="../images/m0844-router-offline-dino-curse.png" width="240" alt="在 WiFi 分享器上放了非常不吉利的東西"></a><br><a href="../memes/m0844.md">在 WiFi 分享器上放了非常不吉利的東西</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0847.md"><img src="../images/m0847-gpt-draw-mom-younger.png" width="240" alt="但媽媽一定要畫年輕一點"></a><br><a href="../memes/m0847.md">但媽媽一定要畫年輕一點</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（34）
@@ -199,7 +203,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（12）
+## ⚠️ 需斟酌（13）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -318,6 +322,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0772.md"><img src="../images/m0772-zhu-mie-jiu-zu-family-zero.png" width="240" alt="誅滅九族 = family = 0"></a><br><a href="../memes/m0772.md">誅滅九族 = family = 0</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我的 GPT 很地獄：跟爸爸去爬山 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0842.md"><img src="../images/m0842-gpt-ghibli-father-tomb.png" width="240" alt="我的 GPT 很地獄：跟爸爸去爬山"></a><br><a href="../memes/m0842.md">我的 GPT 很地獄：跟爸爸去爬山</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

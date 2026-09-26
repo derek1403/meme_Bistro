@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 195 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（72）
 
@@ -131,7 +131,7 @@
 </tr>
 </table>
 
-## ★★（73）
+## ★★（74）
 
 <table>
 <tr>
@@ -256,6 +256,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0828.md"><img src="../images/m0828-zero-over-zero-cake.png" width="240" alt="大家一起切 0 這塊蛋糕，除了 0÷0"></a><br><a href="../memes/m0828.md">大家一起切 0 這塊蛋糕，除了 0÷0</a><br><sub>👀🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0836.md"><img src="../images/m0836-normal-trinity-diagram.png" width="240" alt="「Normal」的三位一體"></a><br><a href="../memes/m0836.md">「Normal」的三位一體</a><br><sub>🔤🧠 ★★</sub></td>
 </tr>
 </table>
 

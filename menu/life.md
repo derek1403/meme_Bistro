@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 195 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 201 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（118）
+## ★（122）
 
 <table>
 <tr>
@@ -206,6 +206,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0707.md"><img src="../images/m0707-ugly-man-warrior-its-me.png" width="240" alt="天哪這根本就是我"></a><br><a href="../memes/m0707.md">天哪這根本就是我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0708.md"><img src="../images/m0708-same-outfit-spongebob-light.jpg" width="240" alt="海綿寶寶、夜神月、梓川咲太、牧瀨紅莉栖穿的衣服都一樣"></a><br><a href="../memes/m0708.md">海綿寶寶、夜神月、梓川咲太、牧瀨紅莉栖穿的衣服都一樣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0712.md"><img src="../images/m0712-chiikawa-sleep-in-save-meal.jpg" width="240" alt="我賴床是因為能省一餐是一餐"></a><br><a href="../memes/m0712.md">我賴床是因為能省一餐是一餐</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0714.md"><img src="../images/m0714-definitely-not-lolicon.png" width="240" alt="但我絕對不是蘿莉控"></a><br><a href="../memes/m0714.md">但我絕對不是蘿莉控</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0715.md"><img src="../images/m0715-sakamoto-days-cutout-kick.png" width="240" alt="被坂本日常的看板踢了一腳"></a><br><a href="../memes/m0715.md">被坂本日常的看板踢了一腳</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -273,7 +279,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（42）
+## ⚠️ 需斟酌（44）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -692,6 +698,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0697.md"><img src="../images/m0697-dairy-prevents-death-assassin.png" width="240" alt="乳製品可以預防各種原因引發的死亡"></a><br><a href="../memes/m0697.md">乳製品可以預防各種原因引發的死亡</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>異世界轉生卡車司機的工作日常 — ⚠️ 死亡（車禍）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0709.md"><img src="../images/m0709-isekai-truck-driver-goddess.png" width="240" alt="異世界轉生卡車司機的工作日常"></a><br><a href="../memes/m0709.md">異世界轉生卡車司機的工作日常</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這是整部劇最寫實的部分了 — ⚠️ 藥物暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0711.md"><img src="../images/m0711-gquuuuuux-shuji-realistic.jpg" width="240" alt="這是整部劇最寫實的部分了"></a><br><a href="../memes/m0711.md">這是整部劇最寫實的部分了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

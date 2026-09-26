@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 416 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 423 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（275）
+## ★（282）
 
 <table>
 <tr>
@@ -467,6 +467,17 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1112.md"><img src="../images/m1112-capybara-fed-four-people.png" width="240" alt="今年憑一己之力養活了四個人"></a><br><a href="../memes/m1112.md">今年憑一己之力養活了四個人</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1113.md"><img src="../images/m1113-tainan-bbq-kinder-bueno.png" width="240" alt="台南的烤肉串"></a><br><a href="../memes/m1113.md">台南的烤肉串</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1115.md"><img src="../images/m1115-bocchi-date-at-my-home.png" width="240" alt="那……要在我家約會？"></a><br><a href="../memes/m1115.md">那……要在我家約會？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1116.md"><img src="../images/m1116-work-a-year-afford-coffee.png" width="240" alt="辛苦工作了一年，我終於有能力買這杯咖啡"></a><br><a href="../memes/m1116.md">辛苦工作了一年，我終於有能力買這杯咖啡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1117.md"><img src="../images/m1117-loopy-cocoa-expectation.jpg" width="240" alt="露比熱可可：包裝 vs 實際"></a><br><a href="../memes/m1117.md">露比熱可可：包裝 vs 實際</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1118.md"><img src="../images/m1118-fake-spilled-miso-soup.png" width="240" alt="打翻的味噌湯（其實是手機架）"></a><br><a href="../memes/m1118.md">打翻的味噌湯（其實是手機架）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1121.md"><img src="../images/m1121-cat-not-on-purpose-book.png" width="240" alt="我看你就是故意的"></a><br><a href="../memes/m1121.md">我看你就是故意的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1122.md"><img src="../images/m1122-squid-game-bangdream-2017-2025.jpg" width="240" alt="2017 vs 2025（魷魚遊戲 × BanG Dream）"></a><br><a href="../memes/m1122.md">2017 vs 2025（魷魚遊戲 × BanG Dream）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1124.md"><img src="../images/m1124-shiba-enjoy-rent.jpg" width="240" alt="沒辦法，要享受我的房租"></a><br><a href="../memes/m1124.md">沒辦法，要享受我的房租</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

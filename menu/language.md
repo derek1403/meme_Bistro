@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 102 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 103 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（68）
+## ★（69）
 
 <table>
 <tr>
@@ -122,6 +122,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1095.md"><img src="../images/m1095-no-shower-vietnamese.jpg" width="240" alt="越久不洗澡，你就會越南文"></a><br><a href="../memes/m1095.md">越久不洗澡，你就會越南文</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1102.md"><img src="../images/m1102-squid-game-mosquito-coil.jpg" width="240" alt="韓國魷魚遊戲，台灣鱷魚遊戲"></a><br><a href="../memes/m1102.md">韓國魷魚遊戲，台灣鱷魚遊戲</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1120.md"><img src="../images/m1120-washing-machine-man.png" width="240" alt="洗衣機男是什麼鬼？"></a><br><a href="../memes/m1120.md">洗衣機男是什麼鬼？</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

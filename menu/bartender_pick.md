@@ -25,6 +25,6 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0214.md"><img src="../images/m0214-how-to-handle-cats-touhou.png" width="240" alt="教你如何拿捏小貓（學費 2888 元）"></a><br><a href="../memes/m0214.md">教你如何拿捏小貓（學費 2888 元）</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0143.md"><img src="../images/m0143-kimetsu-100-times-aniplex.jpg" width="240" alt="鬼滅看了 100 次，隨便丟一張圖我都知道"></a><br><a href="../memes/m0143.md">鬼滅看了 100 次，隨便丟一張圖我都知道</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0344.md"><img src="../images/m0344-diameter-radius-difference.png" width="240" alt="直徑和半徑差多少？一個半徑"></a><br><a href="../memes/m0344.md">直徑和半徑差多少？一個半徑</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0408.md"><img src="../images/m0408-2026-sum-of-zero-powers.png" width="240" alt="2026 = 1⁰ + 2⁰ + … + 2026⁰"></a><br><a href="../memes/m0408.md">2026 = 1⁰ + 2⁰ + … + 2026⁰</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 88 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 90 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（46）
+## ★（47）
 
 <table>
 <tr>
@@ -86,6 +86,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0397.md"><img src="../images/m0397-couple-holding-hands-glue-remover.png" width="240" alt="結帳也不放手的情侶"></a><br><a href="../memes/m0397.md">結帳也不放手的情侶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0403.md"><img src="../images/m0403-company-christmas-party-two-people.png" width="240" alt="只有兩個員工的公司聖誕派對"></a><br><a href="../memes/m0403.md">只有兩個員工的公司聖誕派對</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -133,7 +134,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（19）
+## ⚠️ 需斟酌（20）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -322,6 +323,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0390.md"><img src="../images/m0390-just-want-to-fight-hard.png" width="240" alt="我現在只想好好大幹一場"></a><br><a href="../memes/m0390.md">我現在只想好好大幹一場</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>麥當勞取餐號碼 114514 — ⚠️ 網路惡搞梗（淫夢）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0407.md"><img src="../images/m0407-mcdonalds-114514.png" width="240" alt="麥當勞取餐號碼 114514"></a><br><a href="../memes/m0407.md">麥當勞取餐號碼 114514</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

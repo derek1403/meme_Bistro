@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 117 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（36）
+## ★（40）
 
 <table>
 <tr>
@@ -69,9 +69,17 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0393.md"><img src="../images/m0393-dont-care-about-your-pi-nion.png" width="240" alt="I don't care about your π-nion"></a><br><a href="../memes/m0393.md">I don't care about your π-nion</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0394.md"><img src="../images/m0394-cream-younger-3-years.png" width="240" alt="保養品塗了年輕三歲，二歲兒直接消失"></a><br><a href="../memes/m0394.md">保養品塗了年輕三歲，二歲兒直接消失</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0401.md"><img src="../images/m0401-proof-in-textbook-obvious.png" width="240" alt="教授：證明在課本裡"></a><br><a href="../memes/m0401.md">教授：證明在課本裡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0402.md"><img src="../images/m0402-respect-opinion-9-squared-18.png" width="240" alt="你要尊重別人的意見：9² = 18"></a><br><a href="../memes/m0402.md">你要尊重別人的意見：9² = 18</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0404.md"><img src="../images/m0404-salty-tangyuan-topology.png" width="240" alt="泡麵算不算一種鹹湯圓？"></a><br><a href="../memes/m0404.md">泡麵算不算一種鹹湯圓？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0408.md"><img src="../images/m0408-2026-sum-of-zero-powers.png" width="240" alt="2026 = 1⁰ + 2⁰ + … + 2026⁰"></a><br><a href="../memes/m0408.md">2026 = 1⁰ + 2⁰ + … + 2026⁰</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（42）
+## ★★（43）
 
 <table>
 <tr>
@@ -143,6 +151,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0366.md"><img src="../images/m0366-love-limit-abs-x-over-x.png" width="240" alt="我對你的愛就像 lim |x|/x"></a><br><a href="../memes/m0366.md">我對你的愛就像 lim |x|/x</a><br><sub>🧠🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0384.md"><img src="../images/m0384-bourbaki-toddlers-isomorphism.png" width="240" alt="Bourbaki 與幼兒的共同點"></a><br><a href="../memes/m0384.md">Bourbaki 與幼兒的共同點</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0398.md"><img src="../images/m0398-immigration-banach-space.png" width="240" alt="入境審查被問 Banach 空間的定義"></a><br><a href="../memes/m0398.md">入境審查被問 Banach 空間的定義</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0400.md"><img src="../images/m0400-matrix-is-array-of-numbers.png" width="240" alt="真懂和真不懂的都是 A，半懂的才是 B"></a><br><a href="../memes/m0400.md">真懂和真不懂的都是 A，半懂的才是 B</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

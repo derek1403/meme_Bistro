@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 42 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 43 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（16）
+## ★（17）
 
 <table>
 <tr>
@@ -36,6 +36,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0365.md"><img src="../images/m0365-drug-or-pokemon-quiz.png" width="240" alt="藥名還是寶可夢？"></a><br><a href="../memes/m0365.md">藥名還是寶可夢？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0406.md"><img src="../images/m0406-water-9km-h2o-50m.png" width="240" alt="化學沒及格的人"></a><br><a href="../memes/m0406.md">化學沒及格的人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

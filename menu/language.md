@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 93 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 95 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（61）
+## ★（62）
 
 <table>
 <tr>
@@ -111,6 +111,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1008.md"><img src="../images/m1008-curry-rice-duck-too-late.jpg" width="240" alt="來不及了，你的呱哩飯"></a><br><a href="../memes/m1008.md">來不及了，你的呱哩飯</a><br><sub>🔤👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1037.md"><img src="../images/m1037-keanu-effort-day-after-tomorrow.jpg" width="240" alt="後天的努力比什麼都重要"></a><br><a href="../memes/m1037.md">後天的努力比什麼都重要</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -137,7 +138,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（22）
+## ⚠️ 需斟酌（23）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -356,6 +357,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0985.md"><img src="../images/m0985-four-heavy-industries-puns.jpg" width="240" alt="本群四大重工業"></a><br><a href="../memes/m0985.md">本群四大重工業</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>呃蘿莉為啥不能吃 — ⚠️ 蘿莉控暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1035.md"><img src="../images/m1035-avocado-lolita-milk.jpg" width="240" alt="呃蘿莉為啥不能吃"></a><br><a href="../memes/m1035.md">呃蘿莉為啥不能吃</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

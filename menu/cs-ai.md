@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 143 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 144 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（93）
+## ★（94）
 
 <table>
 <tr>
@@ -163,6 +163,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1016.md"><img src="../images/m1016-hey-babe-hello-world.png" width="240" alt="When coding is life"></a><br><a href="../memes/m1016.md">When coding is life</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1019.md"><img src="../images/m1019-study-pc-rtx-5080.png" width="240" alt="他讀書要用的電腦"></a><br><a href="../memes/m1019.md">他讀書要用的電腦</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1021.md"><img src="../images/m1021-cheap-vs-expensive-gaming-mouse.jpg" width="240" alt="便宜的遊戲滑鼠 vs 昂貴的遊戲滑鼠"></a><br><a href="../memes/m1021.md">便宜的遊戲滑鼠 vs 昂貴的遊戲滑鼠</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1026.md"><img src="../images/m1026-wrapper-class-pug.png" width="240" alt="加上第 15 層 wrapper class 的程式碼"></a><br><a href="../memes/m1026.md">加上第 15 層 wrapper class 的程式碼</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 360 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 369 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（238）
+## ★（242）
 
 <table>
 <tr>
@@ -406,10 +406,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1025.md"><img src="../images/m1025-three-kingdoms-warriors-cheer.jpg" width="240" alt="美女們登場 vs 美男子登場"></a><br><a href="../memes/m1025.md">美女們登場 vs 美男子登場</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1027.md"><img src="../images/m1027-four-lies-of-friends.png" width="240" alt="朋友的四大謊言"></a><br><a href="../memes/m1027.md">朋友的四大謊言</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1028.md"><img src="../images/m1028-chair-broken-illusion.jpg" width="240" alt="還以為椅子壞了"></a><br><a href="../memes/m1028.md">還以為椅子壞了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1029.md"><img src="../images/m1029-nokia-3310-break-cave.png" width="240" alt="找到一支 Nokia 3310"></a><br><a href="../memes/m1029.md">找到一支 Nokia 3310</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1034.md"><img src="../images/m1034-cat-paw-hidden-bear.png" width="240" alt="肉球裡面藏了一隻熊熊"></a><br><a href="../memes/m1034.md">肉球裡面藏了一隻熊熊</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（50）
+## ★★（52）
 
 <table>
 <tr>
@@ -495,10 +501,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0971.md"><img src="../images/m0971-sakiko-grandpa-bought-mcdonalds.png" width="240" alt="不小心把整個麥當勞買下來了"></a><br><a href="../memes/m0971.md">不小心把整個麥當勞買下來了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0997.md"><img src="../images/m0997-new-year-couplet-anon.png" width="240" alt="千早愛音春聯：是又怎樣"></a><br><a href="../memes/m0997.md">千早愛音春聯：是又怎樣</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1031.md"><img src="../images/m1031-shopee-haruhikage-couplet.jpg" width="240" alt="蝦皮推薦一款應景的春聯"></a><br><a href="../memes/m1031.md">蝦皮推薦一款應景的春聯</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1032.md"><img src="../images/m1032-shopee-reply-good-song.jpg" width="240" alt="因為春日影是一首好歌"></a><br><a href="../memes/m1032.md">因為春日影是一首好歌</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（72）
+## ⚠️ 需斟酌（75）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1217,6 +1227,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1005.md"><img src="../images/m1005-cooking-unborn-child-egg.jpg" width="240" alt="把她未出生的孩子打碎倒進母親的屍塊裡"></a><br><a href="../memes/m1005.md">把她未出生的孩子打碎倒進母親的屍塊裡</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這麼晚沒睡覺，除了打電動還能打什麼 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1030.md"><img src="../images/m1030-late-night-what-else-to-play.png" width="240" alt="這麼晚沒睡覺，除了打電動還能打什麼"></a><br><a href="../memes/m1030.md">這麼晚沒睡覺，除了打電動還能打什麼</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>用第一版噴火龍卡復活 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1033.md"><img src="../images/m1033-charizard-card-resurrection.png" width="240" alt="用第一版噴火龍卡復活"></a><br><a href="../memes/m1033.md">用第一版噴火龍卡復活</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你就直說吧，醫生 — ⚠️ 自我否定（黑色幽默）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1036.md"><img src="../images/m1036-doctor-just-tell-me-pneumonia.jpg" width="240" alt="你就直說吧，醫生"></a><br><a href="../memes/m1036.md">你就直說吧，醫生</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 131 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（44）
 
@@ -85,7 +85,7 @@
 </tr>
 </table>
 
-## ★★（50）
+## ★★（52）
 
 <table>
 <tr>
@@ -171,6 +171,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0454.md"><img src="../images/m0454-not-chosen-is-chosen-binomial.png" width="240" alt="沒被選上，就是被選上"></a><br><a href="../memes/m0454.md">沒被選上，就是被選上</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0463.md"><img src="../images/m0463-ai-straight-route-great-circle.png" width="240" alt="AI 規劃了更直達的航線"></a><br><a href="../memes/m0463.md">AI 規劃了更直達的航線</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0464.md"><img src="../images/m0464-matrix-multiply-elementwise.png" width="240" alt="他發現了（逐元素相乘）"></a><br><a href="../memes/m0464.md">他發現了（逐元素相乘）</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0467.md"><img src="../images/m0467-spongebob-infinity-norm.png" width="240" alt="‖x‖∞ = 1 與 ‖x‖₂ = 1 的海綿寶寶"></a><br><a href="../memes/m0467.md">‖x‖∞ = 1 與 ‖x‖₂ = 1 的海綿寶寶</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

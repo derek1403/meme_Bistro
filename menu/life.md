@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 105 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（54）
 
@@ -101,7 +101,7 @@
 </tr>
 </table>
 
-## ★★（24）
+## ★★（25）
 
 <table>
 <tr>
@@ -144,9 +144,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0372.md"><img src="../images/m0372-lantern-one-lifetime.png" width="240" alt="燈會花燈：是一輩子喔？一輩子"></a><br><a href="../memes/m0372.md">燈會花燈：是一輩子喔？一輩子</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0425.md"><img src="../images/m0425-wedding-menu-meme-names.jpg" width="240" alt="陳鄭府喜宴菜單"></a><br><a href="../memes/m0425.md">陳鄭府喜宴菜單</a><br><sub>🔤👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0468.md"><img src="../images/m0468-zandar-curiosity.png" width="240" alt="贊達爾：拯救宇宙靠自制力，宇宙危險靠好奇心"></a><br><a href="../memes/m0468.md">贊達爾：拯救宇宙靠自制力，宇宙危險靠好奇心</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（27）
+## ⚠️ 需斟酌（28）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -415,6 +418,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0461.md"><img src="../images/m0461-flandre-silhouette-plugs.png" width="240" alt="這個掛了一大串肛塞的是誰？"></a><br><a href="../memes/m0461.md">這個掛了一大串肛塞的是誰？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>昔漣教鐵墓讀「愛」 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0469.md"><img src="../images/m0469-cyrene-teaches-love.png" width="240" alt="昔漣教鐵墓讀「愛」"></a><br><a href="../memes/m0469.md">昔漣教鐵墓讀「愛」</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

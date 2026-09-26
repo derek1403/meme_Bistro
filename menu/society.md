@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 36 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 37 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（5）
+## ★（6）
 
 <table>
 <tr>
@@ -17,6 +17,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0310.md"><img src="../images/m0310-baby-stroller-jaywalking-offender.png" width="240" alt="涉嫌違法人員（嬰兒）"></a><br><a href="../memes/m0310.md">涉嫌違法人員（嬰兒）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0373.md"><img src="../images/m0373-named-after-you-salad.png" width="240" alt="用你的名字命名了一份沙拉"></a><br><a href="../memes/m0373.md">用你的名字命名了一份沙拉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0466.md"><img src="../images/m0466-chicken-immigrate-taiwan.png" width="240" alt="雞為什麼要移民？"></a><br><a href="../memes/m0466.md">雞為什麼要移民？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

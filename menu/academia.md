@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 25 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 26 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（20）
+## ★（21）
 
 <table>
 <tr>
@@ -42,6 +42,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0432.md"><img src="../images/m0432-simulation-despair-cycle.png" width="240" alt="找到解法 → 我超猛 → 一堆 error → 毫無進展"></a><br><a href="../memes/m0432.md">找到解法 → 我超猛 → 一堆 error → 毫無進展</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0462.md"><img src="../images/m0462-dumb-phd-student-prompt.png" width="240" alt="我是一名智力低下的博士生"></a><br><a href="../memes/m0462.md">我是一名智力低下的博士生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0465.md"><img src="../images/m0465-physics-book-tears-of-joy.png" width="240" alt="最後一本讓你哭的書"></a><br><a href="../memes/m0465.md">最後一本讓你哭的書</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

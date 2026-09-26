@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 41 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 42 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（17）
+## ★（18）
 
 <table>
 <tr>
@@ -37,6 +37,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0448.md"><img src="../images/m0448-zhu-zhi-wu-tui-qin-shi.png" width="240" alt="職業名稱有「師」的都會被 AI 取代"></a><br><a href="../memes/m0448.md">職業名稱有「師」的都會被 AI 取代</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0458.md"><img src="../images/m0458-love-one-wave-three-discount.png" width="240" alt="你的戀愛一波三折——好便宜"></a><br><a href="../memes/m0458.md">你的戀愛一波三折——好便宜</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0470.md"><img src="../images/m0470-one-third-0-333333.png" width="240" alt="三分之一 = o.333333"></a><br><a href="../memes/m0470.md">三分之一 = o.333333</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

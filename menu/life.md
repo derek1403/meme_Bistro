@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 230 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 233 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（145）
+## ★（148）
 
 <table>
 <tr>
@@ -251,6 +251,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0789.md"><img src="../images/m0789-three-stages-of-hunger.jpg" width="240" alt="空腹的三階段"></a><br><a href="../memes/m0789.md">空腹的三階段</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0798.md"><img src="../images/m0798-real-life-doraemon-cat.png" width="240" alt="真實版哆啦 A 夢"></a><br><a href="../memes/m0798.md">真實版哆啦 A 夢</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0799.md"><img src="../images/m0799-bangdream-squatting-poster.png" width="240" alt="為什麼右邊這個要褲子脫了一半拉屎？"></a><br><a href="../memes/m0799.md">為什麼右邊這個要褲子脫了一半拉屎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0802.md"><img src="../images/m0802-cat-butt-print-toast.png" width="240" alt="你的樂壓吐司好了，快給我吃掉"></a><br><a href="../memes/m0802.md">你的樂壓吐司好了，快給我吃掉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

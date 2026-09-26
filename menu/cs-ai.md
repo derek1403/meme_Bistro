@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 117 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（71）
+## ★（73）
 
 <table>
 <tr>
@@ -127,6 +127,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0746.md"><img src="../images/m0746-apes-together-strong-password.png" width="240" alt="猩猩，在一起，強大"></a><br><a href="../memes/m0746.md">猩猩，在一起，強大</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0762.md"><img src="../images/m0762-mom-cant-find-chrome.png" width="240" alt="媽媽找不到 Google Chrome，所以我這樣做"></a><br><a href="../memes/m0762.md">媽媽找不到 Google Chrome，所以我這樣做</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0796.md"><img src="../images/m0796-stupid-excel-bar-chart.png" width="240" alt="又一天，又一張蠢 Excel 圖"></a><br><a href="../memes/m0796.md">又一天，又一張蠢 Excel 圖</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0804.md"><img src="../images/m0804-offline-dino-jump-cactus.png" width="240" alt="沒有網際網路連線"></a><br><a href="../memes/m0804.md">沒有網際網路連線</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

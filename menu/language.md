@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 72 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 78 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（43）
+## ★（49）
 
 <table>
 <tr>
@@ -81,6 +81,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0792.md"><img src="../images/m0792-translate-idioms-cosplay-pig.jpg" width="240" alt="請翻譯下列詞語：扮豬吃老虎"></a><br><a href="../memes/m0792.md">請翻譯下列詞語：扮豬吃老虎</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0794.md"><img src="../images/m0794-chou-shu-la-stinky-tofu.png" width="240" alt="臭蜀辣你好！"></a><br><a href="../memes/m0794.md">臭蜀辣你好！</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0795.md"><img src="../images/m0795-bears-b-perspective.png" width="240" alt="Bears 與 B"></a><br><a href="../memes/m0795.md">Bears 與 B</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0797.md"><img src="../images/m0797-single-30-years-confession.jpg" width="240" alt="單身 30 年，今天被告白了"></a><br><a href="../memes/m0797.md">單身 30 年，今天被告白了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0800.md"><img src="../images/m0800-you-pipe-too-much-truck.png" width="240" alt="你管太多了"></a><br><a href="../memes/m0800.md">你管太多了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0801.md"><img src="../images/m0801-rice-cooker-overflow.png" width="240" alt="是我冒飯了"></a><br><a href="../memes/m0801.md">是我冒飯了</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0803.md"><img src="../images/m0803-canadian-us-bolida-bee.png" width="240" alt="Canadian Bee、US Bee、保力達 Bee"></a><br><a href="../memes/m0803.md">Canadian Bee、US Bee、保力達 Bee</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

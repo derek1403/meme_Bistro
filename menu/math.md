@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 123 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 125 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（40）
 
@@ -164,7 +164,7 @@
 </tr>
 </table>
 
-## ★★★（28）
+## ★★★（29）
 
 <table>
 <tr>
@@ -214,10 +214,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0422.md"><img src="../images/m0422-big-o-seasons.png" width="240" alt="𝒪 的四季"></a><br><a href="../memes/m0422.md">𝒪 的四季</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0440.md"><img src="../images/m0440-right-triangle-angle-i.png" width="240" alt="角度是 i 的直角三角形"></a><br><a href="../memes/m0440.md">角度是 i 的直角三角形</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（7）
+## ⚠️ 需斟酌（8）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -286,6 +287,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0362.md"><img src="../images/m0362-see-x-start-speaking.png" width="240" alt="看到方程式就開始說希臘話"></a><br><a href="../memes/m0362.md">看到方程式就開始說希臘話</a><br><sub>👀🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你是因為解不出那個積分才哭的吧 — ⚠️ 毒品</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0439.md"><img src="../images/m0439-red-eyes-unsolved-integral.png" width="240" alt="你是因為解不出那個積分才哭的吧"></a><br><a href="../memes/m0439.md">你是因為解不出那個積分才哭的吧</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

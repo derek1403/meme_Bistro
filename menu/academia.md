@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 23 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 24 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（18）
+## ★（19）
 
 <table>
 <tr>
@@ -38,6 +38,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0356.md"><img src="../images/m0356-socrates-dialogue-yes.png" width="240" alt="蘇格拉底的對話內容"></a><br><a href="../memes/m0356.md">蘇格拉底的對話內容</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0399.md"><img src="../images/m0399-squidward-finished-thesis.png" width="240" alt="通宵爆肝總算在死線前把論文寫好"></a><br><a href="../memes/m0399.md">通宵爆肝總算在死線前把論文寫好</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0417.md"><img src="../images/m0417-research-process-mona-lisa.png" width="240" alt="學術研究的流程（蒙娜麗莎版）"></a><br><a href="../memes/m0417.md">學術研究的流程（蒙娜麗莎版）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0432.md"><img src="../images/m0432-simulation-despair-cycle.png" width="240" alt="找到解法 → 我超猛 → 一堆 error → 毫無進展"></a><br><a href="../memes/m0432.md">找到解法 → 我超猛 → 一堆 error → 毫無進展</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 97 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 99 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（50）
+## ★（52）
 
 <table>
 <tr>
@@ -92,6 +92,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0419.md"><img src="../images/m0419-guild-sold-tacit-understanding.png" width="240" alt="公會已經賣出去了，這就是默契精湛"></a><br><a href="../memes/m0419.md">公會已經賣出去了，這就是默契精湛</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0427.md"><img src="../images/m0427-crow-fun-is-subjective.png" width="240" alt="Fun is subjective"></a><br><a href="../memes/m0427.md">Fun is subjective</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0434.md"><img src="../images/m0434-boss-bracket-actions.png" width="240" alt="主管的括號動作太長了"></a><br><a href="../memes/m0434.md">主管的括號動作太長了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0437.md"><img src="../images/m0437-magic-8-ball-airport-security.png" width="240" alt="機場安檢的魔術八號球"></a><br><a href="../memes/m0437.md">機場安檢的魔術八號球</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

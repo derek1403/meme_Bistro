@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 33 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 35 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（5）
 
@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（27）
+## ⚠️ 需斟酌（29）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -297,6 +297,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0426.md"><img src="../images/m0426-onlyfans-tax-proud-dad.png" width="240" alt="女兒開了 OnlyFans，我好驕傲"></a><br><a href="../memes/m0426.md">女兒開了 OnlyFans，我好驕傲</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>中了兩百萬、朋友重病，你會剩下什麼 — ⚠️ 死亡＋器官買賣</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0433.md"><img src="../images/m0433-lottery-satan-angel-god-me.png" width="240" alt="中了兩百萬、朋友重病，你會剩下什麼"></a><br><a href="../memes/m0433.md">中了兩百萬、朋友重病，你會剩下什麼</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>器官拆開來很貴，合在一起每小時 190 元 — ⚠️ 低薪／器官（反諷）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0436.md"><img src="../images/m0436-organs-expensive-190-per-hour.png" width="240" alt="器官拆開來很貴，合在一起每小時 190 元"></a><br><a href="../memes/m0436.md">器官拆開來很貴，合在一起每小時 190 元</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

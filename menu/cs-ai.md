@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 71 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 74 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（40）
+## ★（42）
 
 <table>
 <tr>
@@ -76,6 +76,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0415.md"><img src="../images/m0415-taiwanese-talk-like-chatgpt.png" width="240" alt="台灣人講話很像 ChatGPT？"></a><br><a href="../memes/m0415.md">台灣人講話很像 ChatGPT？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0441.md"><img src="../images/m0441-variable-name-vs-iterator-i.png" width="240" alt="取變數名 vs 取迴圈變數名"></a><br><a href="../memes/m0441.md">取變數名 vs 取迴圈變數名</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0442.md"><img src="../images/m0442-native-language-java.png" width="240" alt="我的母語是 JAVA"></a><br><a href="../memes/m0442.md">我的母語是 JAVA</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -124,7 +126,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（7）
+## ⚠️ 需斟酌（8）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -193,6 +195,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0409.md"><img src="../images/m0409-prayer-wheel-hard-drive-ddos.png" width="240" alt="硬碟轉經輪算 DDoS 攻擊"></a><br><a href="../memes/m0409.md">硬碟轉經輪算 DDoS 攻擊</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>1.02 拍位元網速是什麼概念？ — ⚠️ 性話題</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0435.md"><img src="../images/m0435-6g-petabit-speed.png" width="240" alt="1.02 拍位元網速是什麼概念？"></a><br><a href="../memes/m0435.md">1.02 拍位元網速是什麼概念？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

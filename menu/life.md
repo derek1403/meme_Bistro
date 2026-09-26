@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 439 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 445 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（293）
+## ★（298）
 
 <table>
 <tr>
@@ -497,6 +497,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1154.md"><img src="../images/m1154-boss-bonus-resignation.png" width="240" alt="員工拿完 Bonus 後一個一個丟信辭職"></a><br><a href="../memes/m1154.md">員工拿完 Bonus 後一個一個丟信辭職</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1156.md"><img src="../images/m1156-chiikawa-friends-hope-success.jpg" width="240" alt="真正的朋友會由衷希望對方成功"></a><br><a href="../memes/m1156.md">真正的朋友會由衷希望對方成功</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1158.md"><img src="../images/m1158-leaf-no-crunch-krabs.png" width="240" alt="故意踩落葉卻沒有卡滋卡滋聲"></a><br><a href="../memes/m1158.md">故意踩落葉卻沒有卡滋卡滋聲</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1159.md"><img src="../images/m1159-friend-sends-too-many-memes.png" width="240" alt="下班後還要加班看廢片"></a><br><a href="../memes/m1159.md">下班後還要加班看廢片</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1162.md"><img src="../images/m1162-brave-and-cunning-pushed-water.png" width="240" alt="妳也不想想沒風沒浪怎麼會掉到水裡"></a><br><a href="../memes/m1162.md">妳也不想想沒風沒浪怎麼會掉到水裡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1163.md"><img src="../images/m1163-sister-gift-box-spongebob.png" width="240" alt="我今年買不起禮物，所以我送你這個箱子"></a><br><a href="../memes/m1163.md">我今年買不起禮物，所以我送你這個箱子</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1165.md"><img src="../images/m1165-introvert-ketchup-warmup.png" width="240" alt="內向人向服務員多要一包番茄醬前的熱身"></a><br><a href="../memes/m1165.md">內向人向服務員多要一包番茄醬前的熱身</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -600,7 +609,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（89）
+## ⚠️ 需斟酌（90）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1489,6 +1498,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1157.md"><img src="../images/m1157-teacher-remote-please-dont-touch.png" width="240" alt="老師，你剛掉教室的"></a><br><a href="../memes/m1157.md">老師，你剛掉教室的</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>打擾一下，你有沒有看到我的…… — ⚠️ 動物（食用）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1161.md"><img src="../images/m1161-chicken-have-you-seen-my.png" width="240" alt="打擾一下，你有沒有看到我的……"></a><br><a href="../memes/m1161.md">打擾一下，你有沒有看到我的……</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 213 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 215 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（78）
+## ★（79）
 
 <table>
 <tr>
@@ -138,6 +138,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0965.md"><img src="../images/m0965-vegetable-price-equation-aunt.png" width="240" alt="賣菜阿姨說一共是……"></a><br><a href="../memes/m0965.md">賣菜阿姨說一共是……</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0967.md"><img src="../images/m0967-multiplication-symbols-spongebob.png" width="240" alt="乘法符號的三種境界"></a><br><a href="../memes/m0967.md">乘法符號的三種境界</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1098.md"><img src="../images/m1098-guess-who-dog-15.png" width="240" alt="猜一猜我是誰：我是狗"></a><br><a href="../memes/m1098.md">猜一猜我是誰：我是狗</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1160.md"><img src="../images/m1160-math-genius-hurdle-backflip.png" width="240" alt="那位學霸的解題思路"></a><br><a href="../memes/m1160.md">那位學霸的解題思路</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -284,7 +287,7 @@
 </tr>
 </table>
 
-## ★★★（37）
+## ★★★（38）
 
 <table>
 <tr>
@@ -349,6 +352,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1110.md"><img src="../images/m1110-say-jarvis-category-theory.png" width="240" alt="Say Jarvis：範疇論佔滿大腦"></a><br><a href="../memes/m1110.md">Say Jarvis：範疇論佔滿大腦</a><br><sub>🧠👀 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1166.md"><img src="../images/m1166-oppenheimer-tensor-product-rule.png" width="240" alt="乘積法則 vs 張量的共變導數"></a><br><a href="../memes/m1166.md">乘積法則 vs 張量的共變導數</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

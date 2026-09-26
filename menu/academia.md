@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 52 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 53 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（41）
+## ★（42）
 
 <table>
 <tr>
@@ -77,6 +77,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1137.md"><img src="../images/m1137-exam-relax-library-behind.png" width="240" alt="越到緊張的時候越要放鬆"></a><br><a href="../memes/m1137.md">越到緊張的時候越要放鬆</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1155.md"><img src="../images/m1155-mit-statistics-new-year-asleep.png" width="240" alt="跨年夜播 MIT 統計課，新年前你就睡著了"></a><br><a href="../memes/m1155.md">跨年夜播 MIT 統計課，新年前你就睡著了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1164.md"><img src="../images/m1164-injury-vs-essay.png" width="240" alt="我實際受的傷 vs 我在作文裡寫的"></a><br><a href="../memes/m1164.md">我實際受的傷 vs 我在作文裡寫的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

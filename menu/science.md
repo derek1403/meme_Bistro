@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 46 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 47 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（19）
 
@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-## ★★（19）
+## ★★（20）
 
 <table>
 <tr>
@@ -79,6 +79,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0347.md"><img src="../images/m0347-physics-professor-quotes.png" width="240" alt="物理系教授語錄"></a><br><a href="../memes/m0347.md">物理系教授語錄</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0471.md"><img src="../images/m0471-cyrene-cycle-gravitational-wave.png" width="240" alt="昔漣的輪迴 vs 重力波訊號"></a><br><a href="../memes/m0471.md">昔漣的輪迴 vs 重力波訊號</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（54）
+## ★（56）
 
 <table>
 <tr>
@@ -99,9 +99,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0452.md"><img src="../images/m0452-kid-pity-yawning-uncle.png" width="240" alt="小孩：「可憐」"></a><br><a href="../memes/m0452.md">小孩：「可憐」</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0453.md"><img src="../images/m0453-deleted-elden-ring-save.png" width="240" alt="我刪掉了男友的艾爾登法環存檔"></a><br><a href="../memes/m0453.md">我刪掉了男友的艾爾登法環存檔</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0473.md"><img src="../images/m0473-boba-last-sip-practice.png" width="240" alt="喝完珍奶配速有問題，可恥"></a><br><a href="../memes/m0473.md">喝完珍奶配速有問題，可恥</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0480.md"><img src="../images/m0480-glass-half-amphoreus.png" width="240" alt="悲觀、樂觀，和翁法羅斯的人看半杯水"></a><br><a href="../memes/m0480.md">悲觀、樂觀，和翁法羅斯的人看半杯水</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（25）
+## ★★（27）
 
 <table>
 <tr>
@@ -146,10 +150,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0468.md"><img src="../images/m0468-zandar-curiosity.png" width="240" alt="贊達爾：拯救宇宙靠自制力，宇宙危險靠好奇心"></a><br><a href="../memes/m0468.md">贊達爾：拯救宇宙靠自制力，宇宙危險靠好奇心</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0475.md"><img src="../images/m0475-amphoreus-final-battle-crowd.png" width="240" alt="你以為的翁法羅斯大決戰"></a><br><a href="../memes/m0475.md">你以為的翁法羅斯大決戰</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0476.md"><img src="../images/m0476-mydei-phainon-black-actor.png" width="240" alt="這不終將升起的烈陽嗎？"></a><br><a href="../memes/m0476.md">這不終將升起的烈陽嗎？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（28）
+## ⚠️ 需斟酌（29）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -428,6 +434,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0469.md"><img src="../images/m0469-cyrene-teaches-love.png" width="240" alt="昔漣教鐵墓讀「愛」"></a><br><a href="../memes/m0469.md">昔漣教鐵墓讀「愛」</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>吃下這個藥你就滿腦子只想打公會戰 — ⚠️ 性暗示（漫畫格式）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0477.md"><img src="../images/m0477-pill-guild-war-only.png" width="240" alt="吃下這個藥你就滿腦子只想打公會戰"></a><br><a href="../memes/m0477.md">吃下這個藥你就滿腦子只想打公會戰</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

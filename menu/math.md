@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（44）
+## ★（45）
 
 <table>
 <tr>
@@ -82,10 +82,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0457.md"><img src="../images/m0457-normal-vector-to-plane.png" width="240" alt="朋友問平面的法向量長怎樣"></a><br><a href="../memes/m0457.md">朋友問平面的法向量長怎樣</a><br><sub>🔤👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0459.md"><img src="../images/m0459-sqrt3-mathematician.png" width="240" alt="√3 就是 √3"></a><br><a href="../memes/m0459.md">√3 就是 √3</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0479.md"><img src="../images/m0479-factorial-40320-pretty-old.png" width="240" alt="你 12 歲不是 8 歲，40320 很老了"></a><br><a href="../memes/m0479.md">你 12 歲不是 8 歲，40320 很老了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（52）
+## ★★（54）
 
 <table>
 <tr>
@@ -175,6 +176,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0467.md"><img src="../images/m0467-spongebob-infinity-norm.png" width="240" alt="‖x‖∞ = 1 與 ‖x‖₂ = 1 的海綿寶寶"></a><br><a href="../memes/m0467.md">‖x‖∞ = 1 與 ‖x‖₂ = 1 的海綿寶寶</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0472.md"><img src="../images/m0472-ramanujan-where-ideas-come.png" width="240" alt="拉馬努金是怎麼發想出那些理論的？"></a><br><a href="../memes/m0472.md">拉馬努金是怎麼發想出那些理論的？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0482.md"><img src="../images/m0482-construct-real-numbers-incredibles.png" width="240" alt="數系構造：到實數就變黑了"></a><br><a href="../memes/m0482.md">數系構造：到實數就變黑了</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

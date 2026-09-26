@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 79 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 80 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（44）
+## ★（45）
 
 <table>
 <tr>
@@ -82,6 +82,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0447.md"><img src="../images/m0447-flirting-cloudflare-crash.png" width="240" alt="我的撩妹技巧：Cloudflare 當機好扯喔"></a><br><a href="../memes/m0447.md">我的撩妹技巧：Cloudflare 當機好扯喔</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0450.md"><img src="../images/m0450-cloudflare-death-loop.png" width="240" alt="真正的死循環"></a><br><a href="../memes/m0450.md">真正的死循環</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0481.md"><img src="../images/m0481-permission-denied-i-own-you.png" width="240" alt="你沒有權限編輯此檔案"></a><br><a href="../memes/m0481.md">你沒有權限編輯此檔案</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

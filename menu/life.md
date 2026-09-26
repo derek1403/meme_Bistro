@@ -1,0 +1,205 @@
+<!-- 此檔由 tools/build_menu.py 自動生成，請勿手動修改 -->
+
+# 🍺 日常與生活
+
+[⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
+
+共 49 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+
+## ★（26）
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0014.md"><img src="../images/m0014-telepathic-grin.png" width="240" alt="心電感應的奸笑"></a><br><a href="../memes/m0014.md">心電感應的奸笑</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0025.md"><img src="../images/m0025-you-just-listed-my-fetish.png" width="240" alt="你把我的 XP 說一遍幹什麼"></a><br><a href="../memes/m0025.md">你把我的 XP 說一遍幹什麼</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0034.md"><img src="../images/m0034-eating-with-yuri-anime.png" width="240" alt="吃飯配百合番"></a><br><a href="../memes/m0034.md">吃飯配百合番</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0053.md"><img src="../images/m0053-summer-vacation-plan.png" width="240" alt="自律孩子的暑假規劃表"></a><br><a href="../memes/m0053.md">自律孩子的暑假規劃表</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0060.md"><img src="../images/m0060-scary-bell-pepper-faces.png" width="240" alt="切開的青椒都在尖叫"></a><br><a href="../memes/m0060.md">切開的青椒都在尖叫</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0090.md"><img src="../images/m0090-typhoon-i-tried-my-best.png" width="240" alt="颱風：我盡力了"></a><br><a href="../memes/m0090.md">颱風：我盡力了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0092.md"><img src="../images/m0092-shiba-shirt-recursion.png" width="240" alt="柴犬 T 恤的遞迴"></a><br><a href="../memes/m0092.md">柴犬 T 恤的遞迴</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0103.md"><img src="../images/m0103-jellyfish-launch-button.png" width="240" alt="水母發射按鈕"></a><br><a href="../memes/m0103.md">水母發射按鈕</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0111.md"><img src="../images/m0111-funny-fat-friend-study.png" width="240" alt="死黨群中配備一個搞笑的胖子"></a><br><a href="../memes/m0111.md">死黨群中配備一個搞笑的胖子</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0114.md"><img src="../images/m0114-glasgow-ufo-spongebob.png" width="240" alt="格拉斯哥上空的不明飛行物"></a><br><a href="../memes/m0114.md">格拉斯哥上空的不明飛行物</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0124.md"><img src="../images/m0124-how-much-procrastination-vtuber.png" width="240" alt="你有多能拖？我還沒出道但做了 3 個 V 皮"></a><br><a href="../memes/m0124.md">你有多能拖？我還沒出道但做了 3 個 V 皮</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0131.md"><img src="../images/m0131-before-becoming-great-circle.png" width="240" alt="在成為出色的自己之前"></a><br><a href="../memes/m0131.md">在成為出色的自己之前</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0142.md"><img src="../images/m0142-whale-in-amazon-jungle.png" width="240" alt="在亞馬遜叢林發現座頭鯨屍體"></a><br><a href="../memes/m0142.md">在亞馬遜叢林發現座頭鯨屍體</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0143.md"><img src="../images/m0143-kimetsu-100-times-aniplex.jpg" width="240" alt="鬼滅看了 100 次，隨便丟一張圖我都知道"></a><br><a href="../memes/m0143.md">鬼滅看了 100 次，隨便丟一張圖我都知道</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0147.md"><img src="../images/m0147-we-never-ordered-fried-rice.png" width="240" alt="我們根本沒點炒飯"></a><br><a href="../memes/m0147.md">我們根本沒點炒飯</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0155.md"><img src="../images/m0155-shame-corner-spongebob.png" width="240" alt="羞恥角落"></a><br><a href="../memes/m0155.md">羞恥角落</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0156.md"><img src="../images/m0156-krabby-patty-no-love.png" width="240" alt="這個美味蟹堡裡面沒有愛"></a><br><a href="../memes/m0156.md">這個美味蟹堡裡面沒有愛</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0166.md"><img src="../images/m0166-love-note-pass-forward.png" width="240" alt="看屁哦，往前傳"></a><br><a href="../memes/m0166.md">看屁哦，往前傳</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0172.md"><img src="../images/m0172-military-interrupts-holiday-mood.png" width="240" alt="培養休假情緒被中斷施法"></a><br><a href="../memes/m0172.md">培養休假情緒被中斷施法</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0185.md"><img src="../images/m0185-yuri-tastes-good.png" width="240" alt="百合很好吃"></a><br><a href="../memes/m0185.md">百合很好吃</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0224.md"><img src="../images/m0224-crater-lake-transparent.png" width="240" alt="如果火山口湖的水完全透明"></a><br><a href="../memes/m0224.md">如果火山口湖的水完全透明</a><br><sub>🔤👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0225.md"><img src="../images/m0225-dont-wake-sleeping-person.png" width="240" alt="看男人愛不愛你，把他吵醒就知道"></a><br><a href="../memes/m0225.md">看男人愛不愛你，把他吵醒就知道</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0232.md"><img src="../images/m0232-loofah-matcha-cake.png" width="240" alt="菜瓜布抹茶蛋糕"></a><br><a href="../memes/m0232.md">菜瓜布抹茶蛋糕</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0240.md"><img src="../images/m0240-adult-rated-topics-reactions.png" width="240" alt="深夜的成人限制級話題"></a><br><a href="../memes/m0240.md">深夜的成人限制級話題</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0248.md"><img src="../images/m0248-levitated-mass-pressure.png" width="240" alt="生活的壓力，被沙雕網友撐著"></a><br><a href="../memes/m0248.md">生活的壓力，被沙雕網友撐著</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0249.md"><img src="../images/m0249-water-bottles-at-2am.png" width="240" alt="凌晨兩點的水瓶"></a><br><a href="../memes/m0249.md">凌晨兩點的水瓶</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+## ★★（11）
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0040.md"><img src="../images/m0040-made-in-abyss-invite.jpg" width="240" alt="朋友邀你去看這部可愛的動畫"></a><br><a href="../memes/m0040.md">朋友邀你去看這部可愛的動畫</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0050.md"><img src="../images/m0050-mbti-nt-kings-debate.png" width="240" alt="辯論一小時後的 MBTI 棋盤"></a><br><a href="../memes/m0050.md">辯論一小時後的 MBTI 棋盤</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0058.md"><img src="../images/m0058-first-idol-ave-mujica.png" width="240" alt="國中生第一次追星推薦 Ave Mujica"></a><br><a href="../memes/m0058.md">國中生第一次追星推薦 Ave Mujica</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0069.md"><img src="../images/m0069-spoiled-on-airplane.png" width="240" alt="在飛機上看超輝被劇透"></a><br><a href="../memes/m0069.md">在飛機上看超輝被劇透</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0106.md"><img src="../images/m0106-rip-stupid-im-with-stupid.png" width="240" alt="R.I.P. Stupid / I'm with Stupid"></a><br><a href="../memes/m0106.md">R.I.P. Stupid / I'm with Stupid</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0121.md"><img src="../images/m0121-mujica-mygo-mugo.png" width="240" alt="Mujica! Mygo! ?Mugo?!"></a><br><a href="../memes/m0121.md">Mujica! Mygo! ?Mugo?!</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0186.md"><img src="../images/m0186-yachiyo-sings-every-era.png" width="240" alt="八千代全世代都會唱"></a><br><a href="../memes/m0186.md">八千代全世代都會唱</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0188.md"><img src="../images/m0188-souls-message-no-qualification.png" width="240" alt="前有不得了的東西，但你沒資格"></a><br><a href="../memes/m0188.md">前有不得了的東西，但你沒資格</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0199.md"><img src="../images/m0199-mokou-kaguya-through-wall.png" width="240" alt="撞穿牆壁的兩人"></a><br><a href="../memes/m0199.md">撞穿牆壁的兩人</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0214.md"><img src="../images/m0214-how-to-handle-cats-touhou.png" width="240" alt="教你如何拿捏小貓（學費 2888 元）"></a><br><a href="../memes/m0214.md">教你如何拿捏小貓（學費 2888 元）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0238.md"><img src="../images/m0238-uika-i-want-to-see-sakiko.png" width="240" alt="當我遇到困難的時候"></a><br><a href="../memes/m0238.md">當我遇到困難的時候</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+## ⚠️ 需斟酌（12）
+
+> 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
+
+<details><summary>你有什麼想了解我的嗎？ — ⚠️ 露骨性內容</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0036.md"><img src="../images/m0036-can-you-drink-pee.png" width="240" alt="你有什麼想了解我的嗎？"></a><br><a href="../memes/m0036.md">你有什麼想了解我的嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>「我買千戀萬花了」的高端說法 — ⚠️ 露骨性內容（日文台詞）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0077.md"><img src="../images/m0077-senren-banka-rephrase.png" width="240" alt="「我買千戀萬花了」的高端說法"></a><br><a href="../memes/m0077.md">「我買千戀萬花了」的高端說法</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>把色慾轉換成電力的手環 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0112.md"><img src="../images/m0112-lust-to-electricity-bracelet.png" width="240" alt="把色慾轉換成電力的手環"></a><br><a href="../memes/m0112.md">把色慾轉換成電力的手環</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>把心給了她（最佳留言版） — ⚠️ 性話題（粗俗留言）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0113.md"><img src="../images/m0113-gave-her-my-heart-comment.png" width="240" alt="把心給了她（最佳留言版）"></a><br><a href="../memes/m0113.md">把心給了她（最佳留言版）</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你想吃什麼？都可以呀 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0122.md"><img src="../images/m0122-hungry-whatever-is-fine.png" width="240" alt="你想吃什麼？都可以呀"></a><br><a href="../memes/m0122.md">你想吃什麼？都可以呀</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>一道萬里長城正在保護著你 — ⚠️ 身材</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0135.md"><img src="../images/m0135-great-wall-protects-cheating.png" width="240" alt="一道萬里長城正在保護著你"></a><br><a href="../memes/m0135.md">一道萬里長城正在保護著你</a><br><sub>👀🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>模仿不良漫畫——斷掉了呢 — ⚠️ 受傷（骨折）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0144.md"><img src="../images/m0144-delinquent-manga-broken-bone.png" width="240" alt="模仿不良漫畫——斷掉了呢"></a><br><a href="../memes/m0144.md">模仿不良漫畫——斷掉了呢</a><br><sub>👀🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>是誰說這是那個表情的啦 — ⚠️ 露骨性內容</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0174.md"><img src="../images/m0174-jojo-roots-crystal-reaction.png" width="240" alt="是誰說這是那個表情的啦"></a><br><a href="../memes/m0174.md">是誰說這是那個表情的啦</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>花了二十年才搞懂這兩個小孩想幹嘛 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0183.md"><img src="../images/m0183-spongebob-snow-sculpture-kids.png" width="240" alt="花了二十年才搞懂這兩個小孩想幹嘛"></a><br><a href="../memes/m0183.md">花了二十年才搞懂這兩個小孩想幹嘛</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如果我變成蚊子 — ⚠️ 輕微性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0191.md"><img src="../images/m0191-mosquito-blood-boyfriend.png" width="240" alt="如果我變成蚊子"></a><br><a href="../memes/m0191.md">如果我變成蚊子</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>生為男人真好的事 vs 想生為女人的事 — ⚠️ 露骨性內容</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0254.md"><img src="../images/m0254-better-to-be-man-list.png" width="240" alt="生為男人真好的事 vs 想生為女人的事"></a><br><a href="../memes/m0254.md">生為男人真好的事 vs 想生為女人的事</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>為了約會蓋了一個金魚池 — ⚠️ 性話題</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0256.md"><img src="../images/m0256-goldfish-pond-lie.png" width="240" alt="為了約會蓋了一個金魚池"></a><br><a href="../memes/m0256.md">為了約會蓋了一個金魚池</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+

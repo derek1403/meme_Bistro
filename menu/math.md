@@ -1,0 +1,190 @@
+<!-- 此檔由 tools/build_menu.py 自動生成，請勿手動修改 -->
+
+# 🧮 數學
+
+[⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
+
+共 72 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+
+## ★（18）
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0024.md"><img src="../images/m0024-365-divisible-by-73.png" width="240" alt="365 可以被 73 整除"></a><br><a href="../memes/m0024.md">365 可以被 73 整除</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0029.md"><img src="../images/m0029-absolute-positive-feedback.png" width="240" alt="我比較喜歡正面回饋"></a><br><a href="../memes/m0029.md">我比較喜歡正面回饋</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0038.md"><img src="../images/m0038-derivative-of-constant.png" width="240" alt="f′(x) = ?（察覺之前與之後）"></a><br><a href="../memes/m0038.md">f′(x) = ?（察覺之前與之後）</a><br><sub>🧠👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0075.md"><img src="../images/m0075-2020-days-since-2020.png" width="240" alt="距離 2020 已經 2020 天"></a><br><a href="../memes/m0075.md">距離 2020 已經 2020 天</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0081.md"><img src="../images/m0081-countdown-82-prime.png" width="240" alt="從 82 倒數到 1 竟是質數"></a><br><a href="../memes/m0081.md">從 82 倒數到 1 竟是質數</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0133.md"><img src="../images/m0133-multiply-age-by-i-four-times.png" width="240" alt="年齡乘 i 四次"></a><br><a href="../memes/m0133.md">年齡乘 i 四次</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0148.md"><img src="../images/m0148-viral-math-ambiguous-notation.png" width="240" alt="新的爆紅數學題"></a><br><a href="../memes/m0148.md">新的爆紅數學題</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0152.md"><img src="../images/m0152-its-twelve-then.png" width="240" alt="那就是 12 吧"></a><br><a href="../memes/m0152.md">那就是 12 吧</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0154.md"><img src="../images/m0154-when-x-equals-y-x-is-y.png" width="240" alt="當 x = y 時，x = y"></a><br><a href="../memes/m0154.md">當 x = y 時，x = y</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0160.md"><img src="../images/m0160-matrix-2x3-usb.png" width="240" alt="每當我遇到矩陣時"></a><br><a href="../memes/m0160.md">每當我遇到矩陣時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0165.md"><img src="../images/m0165-baby-doubled-extrapolation.png" width="240" alt="3 個月大的兒子已經變兩倍大"></a><br><a href="../memes/m0165.md">3 個月大的兒子已經變兩倍大</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0168.md"><img src="../images/m0168-pregnancy-test-cardioid.png" width="240" alt="驗孕棒顯示一堆曲線"></a><br><a href="../memes/m0168.md">驗孕棒顯示一堆曲線</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0187.md"><img src="../images/m0187-population-after-decimal-point.png" width="240" alt="就連小數點以下的人口數我都知道"></a><br><a href="../memes/m0187.md">就連小數點以下的人口數我都知道</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0217.md"><img src="../images/m0217-count-eggs-multiply-source.png" width="240" alt="你他X的什麼來源？這是數學"></a><br><a href="../memes/m0217.md">你他X的什麼來源？這是數學</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0218.md"><img src="../images/m0218-projection-dog-flattened.png" width="240" alt="(x, y, z) ↦ (x, y, 0)"></a><br><a href="../memes/m0218.md">(x, y, z) ↦ (x, y, 0)</a><br><sub>👀🧠 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0220.md"><img src="../images/m0220-small-face-abstract-differential.png" width="240" alt="想談小顏、抽象、微分、沒行情的小眾男"></a><br><a href="../memes/m0220.md">想談小顏、抽象、微分、沒行情的小眾男</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0228.md"><img src="../images/m0228-nature-weird-sequence-mathematicians.png" width="240" alt="大自然出現了沒人在乎的奇怪數列"></a><br><a href="../memes/m0228.md">大自然出現了沒人在乎的奇怪數列</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0229.md"><img src="../images/m0229-3-plus-3-times-3-taiwan.png" width="240" alt="3+3×3 = 12，相信我我是台灣人"></a><br><a href="../memes/m0229.md">3+3×3 = 12，相信我我是台灣人</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+## ★★（32）
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0001.md"><img src="../images/m0001-discriminant-stay-positive.png" width="240" alt="生活就像判別式"></a><br><a href="../memes/m0001.md">生活就像判別式</a><br><sub>🧠🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0002.md"><img src="../images/m0002-math-teacher-joke-coset.png" width="240" alt="數學老師講了一個笑話"></a><br><a href="../memes/m0002.md">數學老師講了一個笑話</a><br><sub>🧠🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0031.md"><img src="../images/m0031-drunk-math-notation.png" width="240" alt="數學沒有模糊地帶（除了符號）"></a><br><a href="../memes/m0031.md">數學沒有模糊地帶（除了符號）</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0043.md"><img src="../images/m0043-math-then-vs-now.png" width="240" alt="以前的數學 vs 現在的數學"></a><br><a href="../memes/m0043.md">以前的數學 vs 現在的數學</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0052.md"><img src="../images/m0052-lhospital-kermit.png" width="240" alt="L'Hospital 登場"></a><br><a href="../memes/m0052.md">L'Hospital 登場</a><br><sub>🧠🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0055.md"><img src="../images/m0055-mathematician-quotes-yuri.png" width="240" alt="名人格言錄（數學家版）"></a><br><a href="../memes/m0055.md">名人格言錄（數學家版）</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0056.md"><img src="../images/m0056-wrong-fumo-no-math.png" width="240" alt="是我 fumo 選錯了嗎"></a><br><a href="../memes/m0056.md">是我 fumo 選錯了嗎</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0059.md"><img src="../images/m0059-integral-sin-dx-engineer.png" width="240" alt="∫sin(dx) 的工程師解法"></a><br><a href="../memes/m0059.md">∫sin(dx) 的工程師解法</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0082.md"><img src="../images/m0082-integral-ex-de.png" width="240" alt="「你要尊重別人的意見」"></a><br><a href="../memes/m0082.md">「你要尊重別人的意見」</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0088.md"><img src="../images/m0088-ring-abelian-group-monoid.png" width="240" alt="環＝交換群 × 么半群"></a><br><a href="../memes/m0088.md">環＝交換群 × 么半群</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0100.md"><img src="../images/m0100-topologist-smoking.png" width="240" alt="拓樸學家抽菸會怎麼拿"></a><br><a href="../memes/m0100.md">拓樸學家抽菸會怎麼拿</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0116.md"><img src="../images/m0116-contour-integral-in-novel.png" width="240" alt="突然出現的封閉積分符號"></a><br><a href="../memes/m0116.md">突然出現的封閉積分符號</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0117.md"><img src="../images/m0117-page-fold-linear-programming.png" width="240" alt="像線性規劃一般的摺痕"></a><br><a href="../memes/m0117.md">像線性規劃一般的摺痕</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0118.md"><img src="../images/m0118-topologist-same-picture.png" width="240" alt="拓樸學家：這兩張圖一樣"></a><br><a href="../memes/m0118.md">拓樸學家：這兩張圖一樣</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0123.md"><img src="../images/m0123-von-neumann-ordinal-four.png" width="240" alt="數學家眼中的 4"></a><br><a href="../memes/m0123.md">數學家眼中的 4</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0134.md"><img src="../images/m0134-hilbert-godel-wet-concrete.png" width="240" alt="希爾伯特鋪水泥，哥德爾是貓"></a><br><a href="../memes/m0134.md">希爾伯特鋪水泥，哥德爾是貓</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0136.md"><img src="../images/m0136-tilde-gentle-person-similar.png" width="240" alt="會打「～」的人肯定很溫柔"></a><br><a href="../memes/m0136.md">會打「～」的人肯定很溫柔</a><br><sub>🔤👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0149.md"><img src="../images/m0149-imaginary-parents-real-number.png" width="240" alt="爸媽都是虛數，你卻只是個實數"></a><br><a href="../memes/m0149.md">爸媽都是虛數，你卻只是個實數</a><br><sub>🔤🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0158.md"><img src="../images/m0158-cos-sin-tan-tiger-board-game.png" width="240" alt="虎視眈眈：cos-sin-tan²"></a><br><a href="../memes/m0158.md">虎視眈眈：cos-sin-tan²</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0163.md"><img src="../images/m0163-power-of-a-point-chopsticks.png" width="240" alt="圓冪定理筷子"></a><br><a href="../memes/m0163.md">圓冪定理筷子</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0164.md"><img src="../images/m0164-tennis-ball-orbit-linear-fit.png" width="240" alt="我的網球明天就會進入衛星軌道"></a><br><a href="../memes/m0164.md">我的網球明天就會進入衛星軌道</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0178.md"><img src="../images/m0178-floating-mug-topologist.png" width="240" alt="接招吧，拓樸學家"></a><br><a href="../memes/m0178.md">接招吧，拓樸學家</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0180.md"><img src="../images/m0180-japan-phillips-curve-japan.png" width="240" alt="日本的菲力普曲線長得像日本"></a><br><a href="../memes/m0180.md">日本的菲力普曲線長得像日本</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0181.md"><img src="../images/m0181-2-union-3-equals-3.png" width="240" alt="2 ∪ 3 = 3"></a><br><a href="../memes/m0181.md">2 ∪ 3 = 3</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0189.md"><img src="../images/m0189-freshman-sum-finite-field.png" width="240" alt="1/5 + 1/6 = 2/11 在什麼有限體成立？"></a><br><a href="../memes/m0189.md">1/5 + 1/6 = 2/11 在什麼有限體成立？</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0208.md"><img src="../images/m0208-i-am-your-normal-vector.png" width="240" alt="我是你的法向量啦！"></a><br><a href="../memes/m0208.md">我是你的法向量啦！</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0212.md"><img src="../images/m0212-exclamation-taylor-series-cute.png" width="240" alt="打字會加「!」的人都很可愛"></a><br><a href="../memes/m0212.md">打字會加「!」的人都很可愛</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0223.md"><img src="../images/m0223-change-thinking-statistician.png" width="240" alt="改變你的思考方式（統計學家版）"></a><br><a href="../memes/m0223.md">改變你的思考方式（統計學家版）</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0236.md"><img src="../images/m0236-sinx-over-x-galaxy-brain.png" width="240" alt="求 lim sin(x)/x 的四種境界"></a><br><a href="../memes/m0236.md">求 lim sin(x)/x 的四種境界</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0237.md"><img src="../images/m0237-iff-ww3-girlfriend.png" width="240" alt="我沒有說「若且唯若」"></a><br><a href="../memes/m0237.md">我沒有說「若且唯若」</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0250.md"><img src="../images/m0250-invertible-matrix-spiderman.png" width="240" alt="A 可逆——蜘蛛人互指"></a><br><a href="../memes/m0250.md">A 可逆——蜘蛛人互指</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0252.md"><img src="../images/m0252-riemann-openclaw-fermat.png" width="240" alt="我是黎曼，OpenClaw 請證明黎曼猜想"></a><br><a href="../memes/m0252.md">我是黎曼，OpenClaw 請證明黎曼猜想</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+</table>
+
+## ★★★（17）
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0003.md"><img src="../images/m0003-unsettled-tom-continuum-hypothesis.png" width="240" alt="不安的湯姆與連續統假設"></a><br><a href="../memes/m0003.md">不安的湯姆與連續統假設</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0004.md"><img src="../images/m0004-gauss-bonnet-powerpuff.png" width="240" alt="高斯–博內定理是怎麼煉成的"></a><br><a href="../memes/m0004.md">高斯–博內定理是怎麼煉成的</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0019.md"><img src="../images/m0019-gpt-vs-navier-stokes.png" width="240" alt="GPT 打完 NS 方程，Hodge 慌了"></a><br><a href="../memes/m0019.md">GPT 打完 NS 方程，Hodge 慌了</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0037.md"><img src="../images/m0037-proof-obvious-spinor.png" width="240" alt="證明：顯然"></a><br><a href="../memes/m0037.md">證明：顯然</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0044.md"><img src="../images/m0044-number-systems-beyond-octonions.png" width="240" alt="數系的套娃：從實數到 Voudons"></a><br><a href="../memes/m0044.md">數系的套娃：從實數到 Voudons</a><br><sub>🧠👀 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0067.md"><img src="../images/m0067-jacobian-conjecture-almost-surely.png" width="240" alt="雅可比猜想幾乎肯定是對的"></a><br><a href="../memes/m0067.md">雅可比猜想幾乎肯定是對的</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0078.md"><img src="../images/m0078-group-is-groupoid-joke.png" width="240" alt="Joke 1.1：群是只有一個物件的群胚"></a><br><a href="../memes/m0078.md">Joke 1.1：群是只有一個物件的群胚</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0080.md"><img src="../images/m0080-x4-plus-1-factorization-cat.png" width="240" alt="x⁴+1 在 ℚ[i][x] 裡不能分解？"></a><br><a href="../memes/m0080.md">x⁴+1 在 ℚ[i][x] 裡不能分解？</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0084.md"><img src="../images/m0084-seven-factors-eisenstein.png" width="240" alt="7 是質數，所以不能分解？"></a><br><a href="../memes/m0084.md">7 是質數，所以不能分解？</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0086.md"><img src="../images/m0086-cube-age-square-two-years-ago.png" width="240" alt="今年立方數歲，兩年前平方數歲"></a><br><a href="../memes/m0086.md">今年立方數歲，兩年前平方數歲</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0098.md"><img src="../images/m0098-think-of-a-number-ordinal.png" width="240" alt="心裡想一個數字（理科人版）"></a><br><a href="../memes/m0098.md">心裡想一個數字（理科人版）</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0102.md"><img src="../images/m0102-direct-integral-upgrade.png" width="240" alt="直和 → 直積分：升級按鈕"></a><br><a href="../memes/m0102.md">直和 → 直積分：升級按鈕</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0107.md"><img src="../images/m0107-save-dollars-owe-one-twelfth.png" width="240" alt="存錢小撇步：最後你會欠 1/12 元"></a><br><a href="../memes/m0107.md">存錢小撇步：最後你會欠 1/12 元</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0126.md"><img src="../images/m0126-density-theorem-unmasked.png" width="240" alt="揭開稠密性定理的面具"></a><br><a href="../memes/m0126.md">揭開稠密性定理的面具</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0150.md"><img src="../images/m0150-topologist-donut-torus.png" width="240" alt="拓樸學家選甜甜圈"></a><br><a href="../memes/m0150.md">拓樸學家選甜甜圈</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0173.md"><img src="../images/m0173-barber-pde-haircut.png" width="240" alt="理髮師：什麼都不用多說"></a><br><a href="../memes/m0173.md">理髮師：什麼都不用多說</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0184.md"><img src="../images/m0184-uniquely-euclidean-domains.png" width="240" alt="唯一歐幾里得整環？一直都只有 𝕂 和 𝕂[x]"></a><br><a href="../memes/m0184.md">唯一歐幾里得整環？一直都只有 𝕂 和 𝕂[x]</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+</table>
+
+## ⚠️ 需斟酌（5）
+
+> 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
+
+<details><summary>貝氏派、狗、Tina Belcher 文氏圖 — ⚠️ 輕微性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0013.md"><img src="../images/m0013-bayesians-dogs-tina-venn.png" width="240" alt="貝氏派、狗、Tina Belcher 文氏圖"></a><br><a href="../memes/m0013.md">貝氏派、狗、Tina Belcher 文氏圖</a><br><sub>🔤🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>推導三維球座標下的拉普拉斯算子 — ⚠️ 輕微性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0026.md"><img src="../images/m0026-laplacian-spherical-coordinates.png" width="240" alt="推導三維球座標下的拉普拉斯算子"></a><br><a href="../memes/m0026.md">推導三維球座標下的拉普拉斯算子</a><br><sub>🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>數學系女友 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0127.md"><img src="../images/m0127-mathematics-gf.png" width="240" alt="數學系女友"></a><br><a href="../memes/m0127.md">數學系女友</a><br><sub>🔤🧠 ★★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>荷姆茲海峽是閉開集 — ⚠️ 政治（國際情勢）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0204.md"><img src="../images/m0204-strait-of-hormuz-clopen.png" width="240" alt="荷姆茲海峽是閉開集"></a><br><a href="../memes/m0204.md">荷姆茲海峽是閉開集</a><br><sub>🧠🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我丟內褲給他，他還在講 Zariski 拓樸 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0219.md"><img src="../images/m0219-zariski-topology-hint.png" width="240" alt="我丟內褲給他，他還在講 Zariski 拓樸"></a><br><a href="../memes/m0219.md">我丟內褲給他，他還在講 Zariski 拓樸</a><br><sub>👀🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+

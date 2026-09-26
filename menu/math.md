@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 185 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 187 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（68）
 
@@ -125,7 +125,7 @@
 </tr>
 </table>
 
-## ★★（70）
+## ★★（71）
 
 <table>
 <tr>
@@ -245,6 +245,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0741.md"><img src="../images/m0741-functions-vs-continuous.png" width="240" alt="揭穿微積分的真相：連續函數佔多少？"></a><br><a href="../memes/m0741.md">揭穿微積分的真相：連續函數佔多少？</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0752.md"><img src="../images/m0752-i-love-curls-stokes.png" width="240" alt="I love curls — me too"></a><br><a href="../memes/m0752.md">I love curls — me too</a><br><sub>🔤🧠 ★★</sub></td>
 </tr>
 </table>
 
@@ -308,7 +309,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（14）
+## ⚠️ 需斟酌（15）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -447,6 +448,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0732.md"><img src="../images/m0732-ways-to-measure-distance.png" width="240" alt="測量距離的各種方法"></a><br><a href="../memes/m0732.md">測量距離的各種方法</a><br><sub>👀🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>日本人的蛋蛋持有數量統計圖 — ⚠️ 輕微性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0751.md"><img src="../images/m0751-japan-testicle-median.png" width="240" alt="日本人的蛋蛋持有數量統計圖"></a><br><a href="../memes/m0751.md">日本人的蛋蛋持有數量統計圖</a><br><sub>👀🧠 ★★</sub></td>
 </tr>
 </table>
 

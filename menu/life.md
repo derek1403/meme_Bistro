@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 92 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 94 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（47）
+## ★（49）
 
 <table>
 <tr>
@@ -87,6 +87,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0397.md"><img src="../images/m0397-couple-holding-hands-glue-remover.png" width="240" alt="結帳也不放手的情侶"></a><br><a href="../memes/m0397.md">結帳也不放手的情侶</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0403.md"><img src="../images/m0403-company-christmas-party-two-people.png" width="240" alt="只有兩個員工的公司聖誕派對"></a><br><a href="../memes/m0403.md">只有兩個員工的公司聖誕派對</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0412.md"><img src="../images/m0412-drum-kit-birthday-gift-revenge.png" width="240" alt="送一整套兒童樂器當生日禮物"></a><br><a href="../memes/m0412.md">送一整套兒童樂器當生日禮物</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0419.md"><img src="../images/m0419-guild-sold-tacit-understanding.png" width="240" alt="公會已經賣出去了，這就是默契精湛"></a><br><a href="../memes/m0419.md">公會已經賣出去了，這就是默契精湛</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

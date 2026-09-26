@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 117 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（40）
 
@@ -79,7 +79,7 @@
 </tr>
 </table>
 
-## ★★（43）
+## ★★（48）
 
 <table>
 <tr>
@@ -154,6 +154,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0400.md"><img src="../images/m0400-matrix-is-array-of-numbers.png" width="240" alt="真懂和真不懂的都是 A，半懂的才是 B"></a><br><a href="../memes/m0400.md">真懂和真不懂的都是 A，半懂的才是 B</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0413.md"><img src="../images/m0413-strong-pigeon-hole-principle.png" width="240" alt="鴿籠原理 → 強鴿籠原理 → 強鴿-籠原理"></a><br><a href="../memes/m0413.md">鴿籠原理 → 強鴿籠原理 → 強鴿-籠原理</a><br><sub>🔤🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0414.md"><img src="../images/m0414-no-one-absolutely-no-one.png" width="240" alt="No one vs Absolutely no one"></a><br><a href="../memes/m0414.md">No one vs Absolutely no one</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0418.md"><img src="../images/m0418-integration-by-parts-determinant.png" width="240" alt="分部積分＝行列式？是這樣沒錯，但不是這樣"></a><br><a href="../memes/m0418.md">分部積分＝行列式？是這樣沒錯，但不是這樣</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0420.md"><img src="../images/m0420-russell-set-of-all-memes.png" width="240" alt="羅素：所有迷因的集合"></a><br><a href="../memes/m0420.md">羅素：所有迷因的集合</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0421.md"><img src="../images/m0421-grimm-fairy-tales-greens-function.png" width="240" alt="從讀格林童話到讀格林函數"></a><br><a href="../memes/m0421.md">從讀格林童話到讀格林函數</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

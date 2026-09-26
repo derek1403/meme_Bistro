@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 70 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 71 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（39）
+## ★（40）
 
 <table>
 <tr>
@@ -73,6 +73,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0341.md"><img src="../images/m0341-plug-mouse-back-of-computer.png" width="240" alt="把新滑鼠插到電腦後面"></a><br><a href="../memes/m0341.md">把新滑鼠插到電腦後面</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0346.md"><img src="../images/m0346-python-quant-trading-ad.png" width="240" alt="1 元學量化交易，誰也不敢瞧不起你"></a><br><a href="../memes/m0346.md">1 元學量化交易，誰也不敢瞧不起你</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0405.md"><img src="../images/m0405-my-project-giant-sword-pc.png" width="240" alt="我的專案 vs 我的電腦"></a><br><a href="../memes/m0405.md">我的專案 vs 我的電腦</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0415.md"><img src="../images/m0415-taiwanese-talk-like-chatgpt.png" width="240" alt="台灣人講話很像 ChatGPT？"></a><br><a href="../memes/m0415.md">台灣人講話很像 ChatGPT？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

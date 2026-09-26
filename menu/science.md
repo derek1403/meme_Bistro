@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 43 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 44 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（17）
 
@@ -86,7 +86,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（6）
+## ⚠️ 需斟酌（7）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -145,6 +145,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0392.md"><img src="../images/m0392-gold-ion-kim-jong-un.png" width="240" alt="Auⁿ⁺ 念成「金正恩」"></a><br><a href="../memes/m0392.md">Auⁿ⁺ 念成「金正恩」</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>主要成分是矽酸鹽的麻藥 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0416.md"><img src="../images/m0416-silicate-anesthetic-brick.png" width="240" alt="主要成分是矽酸鹽的麻藥"></a><br><a href="../memes/m0416.md">主要成分是矽酸鹽的麻藥</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

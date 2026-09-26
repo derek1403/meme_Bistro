@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 191 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 193 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（115）
+## ★（116）
 
 <table>
 <tr>
@@ -201,6 +201,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0687.md"><img src="../images/m0687-dialga-palkia-time-space.png" width="240" alt="對象說我沒給他時間和空間"></a><br><a href="../memes/m0687.md">對象說我沒給他時間和空間</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0694.md"><img src="../images/m0694-cat-free-will-muscle-arms.png" width="240" alt="意識到我有自由意志，可以幫貓做手臂"></a><br><a href="../memes/m0694.md">意識到我有自由意志，可以幫貓做手臂</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -268,7 +269,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（41）
+## ⚠️ 需斟酌（42）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -677,6 +678,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0686.md"><img src="../images/m0686-saw-my-wife-at-client-home.png" width="240" alt="在客戶家看過最奇怪的事？看到我老婆"></a><br><a href="../memes/m0686.md">在客戶家看過最奇怪的事？看到我老婆</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>乳製品可以預防各種原因引發的死亡 — ⚠️ 暴力（虛構）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0697.md"><img src="../images/m0697-dairy-prevents-death-assassin.png" width="240" alt="乳製品可以預防各種原因引發的死亡"></a><br><a href="../memes/m0697.md">乳製品可以預防各種原因引發的死亡</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0285.md"><img src="../images/m0285-a-over-b-plus-c-equals-4.png" width="240" alt="國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4"></a><br><a href="../memes/m0285.md">國中數學題：a/(b+c)+b/(a+c)+c/(a+b)=4</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0698.md"><img src="../images/m0698-quadratic-formula-giant-spoon.png" width="240" alt="用公式解解 x² − 1 = 0"></a><br><a href="../memes/m0698.md">用公式解解 x² − 1 = 0</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0577.md"><img src="../images/m0577-finding-vulnerabilities-tornado.png" width="240" alt="他們在找真愛，我在找漏洞"></a><br><a href="../memes/m0577.md">他們在找真愛，我在找漏洞</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0249.md"><img src="../images/m0249-water-bottles-at-2am.png" width="240" alt="凌晨兩點的水瓶"></a><br><a href="../memes/m0249.md">凌晨兩點的水瓶</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 54 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 55 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（10）
 
@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（43）
+## ⚠️ 需斟酌（44）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -466,6 +466,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0666.md"><img src="../images/m0666-general-peeks-at-sandiao.png" width="240" alt="將軍：我來看看你們在幹什麼"></a><br><a href="../memes/m0666.md">將軍：我來看看你們在幹什麼</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你有辱唐不耐症喔 — ⚠️ 身心障礙</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0692.md"><img src="../images/m0692-down-syndrome-tang-intolerance.png" width="240" alt="你有辱唐不耐症喔"></a><br><a href="../memes/m0692.md">你有辱唐不耐症喔</a><br><sub>🔤🔥 ★</sub></td>
 </tr>
 </table>
 

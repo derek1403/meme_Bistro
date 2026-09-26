@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 176 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 180 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（64）
+## ★（66）
 
 <table>
 <tr>
@@ -116,10 +116,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0680.md"><img src="../images/m0680-dice-balance-1-equals-6.jpg" width="240" alt="數學天才用天平證明 1 = 6"></a><br><a href="../memes/m0680.md">數學天才用天平證明 1 = 6</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0695.md"><img src="../images/m0695-pain-scale-pi.png" width="240" alt="痛苦指數 1 到 10，你是多少？π"></a><br><a href="../memes/m0695.md">痛苦指數 1 到 10，你是多少？π</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0698.md"><img src="../images/m0698-quadratic-formula-giant-spoon.png" width="240" alt="用公式解解 x² − 1 = 0"></a><br><a href="../memes/m0698.md">用公式解解 x² − 1 = 0</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（66）
+## ★★（68）
 
 <table>
 <tr>
@@ -231,6 +233,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0653.md"><img src="../images/m0653-recursive-load-bridge-clearance.png" width="240" alt="遞迴載物通過限高 Σ1/2ⁿ 的橋"></a><br><a href="../memes/m0653.md">遞迴載物通過限高 Σ1/2ⁿ 的橋</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0658.md"><img src="../images/m0658-laplace-panik-kalm-panik.png" width="240" alt="拉普拉斯轉換：Panik–Kalm–Panik"></a><br><a href="../memes/m0658.md">拉普拉斯轉換：Panik–Kalm–Panik</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0678.md"><img src="../images/m0678-area-shoelace-spongebob.png" width="240" alt="面積：格林定理 vs 鞋帶公式"></a><br><a href="../memes/m0678.md">面積：格林定理 vs 鞋帶公式</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0688.md"><img src="../images/m0688-not-significantly-different-dad.png" width="240" alt="與好爸爸的標準沒有顯著差異"></a><br><a href="../memes/m0688.md">與好爸爸的標準沒有顯著差異</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0689.md"><img src="../images/m0689-odd-product-equals-zero.png" width="240" alt="1·3·5·7·… = 0"></a><br><a href="../memes/m0689.md">1·3·5·7·… = 0</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 53 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 56 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（27）
+## ★（28）
 
 <table>
 <tr>
@@ -54,6 +54,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0612.md"><img src="../images/m0612-why-read-books-sunset.png" width="240" alt="人為什麼要讀書"></a><br><a href="../memes/m0612.md">人為什麼要讀書</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0672.md"><img src="../images/m0672-crocodile-every-tuesday.png" width="240" alt="什麼動物會在每個星期二出現？"></a><br><a href="../memes/m0672.md">什麼動物會在每個星期二出現？</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0691.md"><img src="../images/m0691-socrates-kant-scooby.png" width="240" alt="To be is to do — Do be do be do"></a><br><a href="../memes/m0691.md">To be is to do — Do be do be do</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（9）
@@ -76,7 +79,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（17）
+## ⚠️ 需斟酌（19）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -245,6 +248,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0483.md"><img src="../images/m0483-accounting-book-blocks-knife.png" width="240" alt="會計學擋下了美工刀"></a><br><a href="../memes/m0483.md">會計學擋下了美工刀</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>日本不可能放棄漢字的原因 — ⚠️ 露骨性內容</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0690.md"><img src="../images/m0690-kounai-shasei-taikai.png" width="240" alt="日本不可能放棄漢字的原因"></a><br><a href="../memes/m0690.md">日本不可能放棄漢字的原因</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>孔子其實是前凸後翹的大姐姐 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0693.md"><img src="../images/m0693-confucius-juru.png" width="240" alt="孔子其實是前凸後翹的大姐姐"></a><br><a href="../memes/m0693.md">孔子其實是前凸後翹的大姐姐</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

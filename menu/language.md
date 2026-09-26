@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 63 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 65 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（35）
+## ★（36）
 
 <table>
 <tr>
@@ -67,10 +67,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0728.md"><img src="../images/m0728-adult-code-words.png" width="240" alt="成年人黑話"></a><br><a href="../memes/m0728.md">成年人黑話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0757.md"><img src="../images/m0757-520-work-overtime-no-rest.jpg" width="240" alt="520 是什麼？5 天工作 2 天加班 0 天休息"></a><br><a href="../memes/m0757.md">520 是什麼？5 天工作 2 天加班 0 天休息</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0768.md"><img src="../images/m0768-baklava-bakmagma.png" width="240" alt="Baklava 和 Bakmagma"></a><br><a href="../memes/m0768.md">Baklava 和 Bakmagma</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（9）
+## ★★（10）
 
 <table>
 <tr>
@@ -87,6 +88,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0381.md"><img src="../images/m0381-sparkle-reversed-huohua.png" width="240" alt="花火倒過來是火花"></a><br><a href="../memes/m0381.md">花火倒過來是火花</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0387.md"><img src="../images/m0387-linear-mandarin-five-elements.png" width="240" alt="線性中文：金木水火土外積"></a><br><a href="../memes/m0387.md">線性中文：金木水火土外積</a><br><sub>👀🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0517.md"><img src="../images/m0517-legendary-suzuki-densetsu.png" width="240" alt="傳說中的鈴木先生"></a><br><a href="../memes/m0517.md">傳說中的鈴木先生</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0771.md"><img src="../images/m0771-japanese-taiwanese-chat.png" width="240" alt="用日文打台語"></a><br><a href="../memes/m0771.md">用日文打台語</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

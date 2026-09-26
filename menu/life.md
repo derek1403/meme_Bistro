@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 220 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 224 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（138）
+## ★（141）
 
 <table>
 <tr>
@@ -239,6 +239,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0759.md"><img src="../images/m0759-relatives-dont-know-where-to-start.png" width="240" alt="親戚們完全不知該從誰下手"></a><br><a href="../memes/m0759.md">親戚們完全不知該從誰下手</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0760.md"><img src="../images/m0760-bbc-dog-long-hp-bar.png" width="240" alt="這隻狗的血條也太長了吧"></a><br><a href="../memes/m0760.md">這隻狗的血條也太長了吧</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0763.md"><img src="../images/m0763-cat-cannot-be-rectangle.jpg" width="240" alt="貓貓不可能是方形ㄉ"></a><br><a href="../memes/m0763.md">貓貓不可能是方形ㄉ</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0766.md"><img src="../images/m0766-breech-birth-wear-mom.png" width="240" alt="冷知識：腳先出來的話"></a><br><a href="../memes/m0766.md">冷知識：腳先出來的話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0769.md"><img src="../images/m0769-scooter-shadow-dog-rider.png" width="240" alt="機車上的影子是狗在騎車"></a><br><a href="../memes/m0769.md">機車上的影子是狗在騎車</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（37）
@@ -309,7 +314,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（45）
+## ⚠️ 需斟酌（46）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -758,6 +763,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0727.md"><img src="../images/m0727-ubereats-follow-the-beams.png" width="240" alt="外送找不到我家，那就跟著光束走"></a><br><a href="../memes/m0727.md">外送找不到我家，那就跟著光束走</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當鳴人要你再借力量給他 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0764.md"><img src="../images/m0764-naruto-kurama-hinata.jpg" width="240" alt="當鳴人要你再借力量給他"></a><br><a href="../memes/m0764.md">當鳴人要你再借力量給他</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 115 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 117 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（70）
+## ★（71）
 
 <table>
 <tr>
@@ -126,6 +126,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0746.md"><img src="../images/m0746-apes-together-strong-password.png" width="240" alt="猩猩，在一起，強大"></a><br><a href="../memes/m0746.md">猩猩，在一起，強大</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0762.md"><img src="../images/m0762-mom-cant-find-chrome.png" width="240" alt="媽媽找不到 Google Chrome，所以我這樣做"></a><br><a href="../memes/m0762.md">媽媽找不到 Google Chrome，所以我這樣做</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -192,7 +193,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（11）
+## ⚠️ 需斟酌（12）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -301,6 +302,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0546.md"><img src="../images/m0546-deepseek-thinking-user-angry.png" width="240" alt="我操，用戶徹底怒了"></a><br><a href="../memes/m0546.md">我操，用戶徹底怒了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>誅滅九族 = family = 0 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0772.md"><img src="../images/m0772-zhu-mie-jiu-zu-family-zero.png" width="240" alt="誅滅九族 = family = 0"></a><br><a href="../memes/m0772.md">誅滅九族 = family = 0</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

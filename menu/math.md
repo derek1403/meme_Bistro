@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 187 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 189 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（68）
+## ★（69）
 
 <table>
 <tr>
@@ -122,10 +122,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0701.md"><img src="../images/m0701-iphone-function-graphs.png" width="240" alt="iPhone X、iPhone Y、iPhone Y = sin X"></a><br><a href="../memes/m0701.md">iPhone X、iPhone Y、iPhone Y = sin X</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0723.md"><img src="../images/m0723-favorite-color-integral-black.png" width="240" alt="你喜歡什麼顏色？這問題蠢斃了"></a><br><a href="../memes/m0723.md">你喜歡什麼顏色？這問題蠢斃了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0767.md"><img src="../images/m0767-get-along-shirt-math-engineers.png" width="240" alt="數學家與工程師的和好 T 恤"></a><br><a href="../memes/m0767.md">數學家與工程師的和好 T 恤</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（71）
+## ★★（72）
 
 <table>
 <tr>
@@ -246,6 +247,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0741.md"><img src="../images/m0741-functions-vs-continuous.png" width="240" alt="揭穿微積分的真相：連續函數佔多少？"></a><br><a href="../memes/m0741.md">揭穿微積分的真相：連續函數佔多少？</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0752.md"><img src="../images/m0752-i-love-curls-stokes.png" width="240" alt="I love curls — me too"></a><br><a href="../memes/m0752.md">I love curls — me too</a><br><sub>🔤🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0765.md"><img src="../images/m0765-cantor-all-reals-moon.png" width="240" alt="所有實數 vs 康托的對角線論證"></a><br><a href="../memes/m0765.md">所有實數 vs 康托的對角線論證</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

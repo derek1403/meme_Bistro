@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 484 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 492 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（329）
+## ★（335）
 
 <table>
 <tr>
@@ -557,6 +557,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1229.md"><img src="../images/m1229-bear-example-of-failure.png" width="240" alt="誰能舉一個失敗的例子？"></a><br><a href="../memes/m1229.md">誰能舉一個失敗的例子？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1230.md"><img src="../images/m1230-bicycle-pizza-cutter-calories.png" width="240" alt="去弄一輛自行車去砍掉那些卡路里"></a><br><a href="../memes/m1230.md">去弄一輛自行車去砍掉那些卡路里</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1232.md"><img src="../images/m1232-go-out-3-seconds-later.png" width="240" alt="天氣好想出門 vs 出門 3 秒後的我"></a><br><a href="../memes/m1232.md">天氣好想出門 vs 出門 3 秒後的我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1234.md"><img src="../images/m1234-mom-no-3am-come-home-4am.png" width="240" alt="不准再給我凌晨三點才回家"></a><br><a href="../memes/m1234.md">不准再給我凌晨三點才回家</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1236.md"><img src="../images/m1236-friends-before-after-close.png" width="240" alt="一開始不認識的朋友 vs 漸漸熟了之後"></a><br><a href="../memes/m1236.md">一開始不認識的朋友 vs 漸漸熟了之後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1239.md"><img src="../images/m1239-squidward-10-vs-25.png" width="240" alt="10 歲的我：才不想變成章魚哥"></a><br><a href="../memes/m1239.md">10 歲的我：才不想變成章魚哥</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1240.md"><img src="../images/m1240-cat-paw-oreo.png" width="240" alt="貓掌奧利奧"></a><br><a href="../memes/m1240.md">貓掌奧利奧</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1241.md"><img src="../images/m1241-applause-late-sleep-early-rise.png" width="240" alt="來點掌聲給那些晚睡又能很早起床的人"></a><br><a href="../memes/m1241.md">來點掌聲給那些晚睡又能很早起床的人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -668,7 +678,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（94）
+## ⚠️ 需斟酌（96）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1607,6 +1617,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1222.md"><img src="../images/m1222-santa-end-endless-suffering.png" width="240" alt="親愛的聖誕老公公：我想要結束無盡的苦痛"></a><br><a href="../memes/m1222.md">親愛的聖誕老公公：我想要結束無盡的苦痛</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>燈，妳是怎麼讓飲料出來的？ — ⚠️ 排泄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1233.md"><img src="../images/m1233-tomori-penguin-drink.png" width="240" alt="燈，妳是怎麼讓飲料出來的？"></a><br><a href="../memes/m1233.md">燈，妳是怎麼讓飲料出來的？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>櫃檯出了點小差錯，這是你的冰咖啡 — ⚠️ 死亡暗示（雪人融化）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1238.md"><img src="../images/m1238-snowman-iced-coffee.png" width="240" alt="櫃檯出了點小差錯，這是你的冰咖啡"></a><br><a href="../memes/m1238.md">櫃檯出了點小差錯，這是你的冰咖啡</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

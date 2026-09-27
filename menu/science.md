@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 109 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 110 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（51）
 
@@ -175,7 +175,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（17）
+## ⚠️ 需斟酌（18）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -344,6 +344,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1228.md"><img src="../images/m1228-glacier-pulled-out-in-time.png" width="240" alt="你：有及時拔出來嗎？他：有啊"></a><br><a href="../memes/m1228.md">你：有及時拔出來嗎？他：有啊</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>沒有身體的摩擦，哪來愛情的火花 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1237.md"><img src="../images/m1237-no-friction-no-spark.png" width="240" alt="沒有身體的摩擦，哪來愛情的火花"></a><br><a href="../memes/m1237.md">沒有身體的摩擦，哪來愛情的火花</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 724 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 728 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（498）
+## ★（501）
 
 <table>
 <tr>
@@ -839,6 +839,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1633.md"><img src="../images/m1633-devils-fingers-king-crab.png" width="240" alt="英國驚見「惡魔手指」紅色真菌——已購買，孩子很愛吃"></a><br><a href="../memes/m1633.md">英國驚見「惡魔手指」紅色真菌——已購買，孩子很愛吃</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1634.md"><img src="../images/m1634-steak-doneness-legendary.png" width="240" alt="牛排熟度：Rare → Well Done → Congratulation → Epic → Legendary"></a><br><a href="../memes/m1634.md">牛排熟度：Rare → Well Done → Congratulation → Epic → Legendary</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1637.md"><img src="../images/m1637-apple-bite-oxidized-chiikawa.jpg" width="240" alt="剛咬了蘋果一口 vs 放著兩秒不理他之後"></a><br><a href="../memes/m1637.md">剛咬了蘋果一口 vs 放著兩秒不理他之後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1639.md"><img src="../images/m1639-ex-dumped-six-wedding-invite.png" width="240" alt="我都甩了六個了——我下個月結婚，想邀請妳來參加"></a><br><a href="../memes/m1639.md">我都甩了六個了——我下個月結婚，想邀請妳來參加</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1644.md"><img src="../images/m1644-elsword-no-ed-travel.png" width="240" alt="當你連旅費都不剩的時候"></a><br><a href="../memes/m1644.md">當你連旅費都不剩的時候</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（68）
@@ -960,7 +965,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（158）
+## ⚠️ 需斟酌（159）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2539,6 +2544,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1626.md"><img src="../images/m1626-wife-turn-volume-down.png" width="240" alt="老婆，可以幫我把音量轉小聲一點嗎？——好窩"></a><br><a href="../memes/m1626.md">老婆，可以幫我把音量轉小聲一點嗎？——好窩</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>吉伊卡哇充電線保護套：兄弟拉珠 — ⚠️ 性暗示（配文）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1636.md"><img src="../images/m1636-chiikawa-cable-bite-chain.png" width="240" alt="吉伊卡哇充電線保護套：兄弟拉珠"></a><br><a href="../memes/m1636.md">吉伊卡哇充電線保護套：兄弟拉珠</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 169 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 170 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（109）
+## ★（110）
 
 <table>
 <tr>
@@ -191,6 +191,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1577.md"><img src="../images/m1577-rog-motherboard-anime-girl.png" width="240" alt="主機板背面印著動漫美少女"></a><br><a href="../memes/m1577.md">主機板背面印著動漫美少女</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1638.md"><img src="../images/m1638-time-efficient-scammer.png" width="240" alt="Just send me the virus link"></a><br><a href="../memes/m1638.md">Just send me the virus link</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

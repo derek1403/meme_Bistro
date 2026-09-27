@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 173 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 175 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（116）
+## ★（118）
 
 <table>
 <tr>
@@ -202,6 +202,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1620.md"><img src="../images/m1620-cabbage-cant-play-with-others.png" width="240" alt="難道菜就不能跟別人一起玩ㄇ"></a><br><a href="../memes/m1620.md">難道菜就不能跟別人一起玩ㄇ</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1621.md"><img src="../images/m1621-joke-by-sea-tsunami.png" width="240" alt="為何不能在海邊說笑話？——因為會引發海嘯"></a><br><a href="../memes/m1621.md">為何不能在海邊說笑話？——因為會引發海嘯</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1640.md"><img src="../images/m1640-mcdonalds-castle-prison.jpg" width="240" alt="麥當牢：用於關押信仰瘋狂星期四的肯德基信徒"></a><br><a href="../memes/m1640.md">麥當牢：用於關押信仰瘋狂星期四的肯德基信徒</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1646.md"><img src="../images/m1646-edison-never-said-give-up.jpg" width="240" alt="愛迪生一生中從未說過「放棄」二字——因為他不會中文"></a><br><a href="../memes/m1646.md">愛迪生一生中從未說過「放棄」二字——因為他不會中文</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

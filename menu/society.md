@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 123 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 124 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（29）
 
@@ -60,7 +60,7 @@
 </tr>
 </table>
 
-## ★★（7）
+## ★★（8）
 
 <table>
 <tr>
@@ -75,6 +75,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1410.md"><img src="../images/m1410-taiwan-fans-praying-premier12.jpg" width="240" alt="台灣人太可愛了！感謝美國哈哈哈哈"></a><br><a href="../memes/m1410.md">台灣人太可愛了！感謝美國哈哈哈哈</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1641.md"><img src="../images/m1641-elevator-stocks-green-faces.jpg" width="240" alt="能不能別在電梯裡面看股票"></a><br><a href="../memes/m1641.md">能不能別在電梯裡面看股票</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

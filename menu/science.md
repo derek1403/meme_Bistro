@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 135 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（60）
 
@@ -203,7 +203,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（27）
+## ⚠️ 需斟酌（28）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -472,6 +472,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1627.md"><img src="../images/m1627-miscalculation-1945-trinity.png" width="240" alt="當你在 21 世紀算錯數學 vs 當你在 1945 年算錯數學"></a><br><a href="../memes/m1627.md">當你在 21 世紀算錯數學 vs 當你在 1945 年算錯數學</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>第一次和外星人接觸——他抓了我妻子的乳頭 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1643.md"><img src="../images/m1643-first-contact-alien-nipple.png" width="240" alt="第一次和外星人接觸——他抓了我妻子的乳頭"></a><br><a href="../memes/m1643.md">第一次和外星人接觸——他抓了我妻子的乳頭</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

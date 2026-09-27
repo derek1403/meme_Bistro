@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 153 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 154 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（43）
 
@@ -84,7 +84,7 @@
 </tr>
 </table>
 
-## ★★（13）
+## ★★（14）
 
 <table>
 <tr>
@@ -109,6 +109,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1954.md"><img src="../images/m1954-concord-wiki-vandalized.jpg" width="240" alt="星鳴特攻：第一人稱垃圾英雄射擊遊戲"></a><br><a href="../memes/m1954.md">星鳴特攻：第一人稱垃圾英雄射擊遊戲</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1966.md"><img src="../images/m1966-stamped-sang-ate-judge-believed.jpg" width="240" alt="你有多猛？——我蓋過章、唱過歌、吃過飯，但我說不知情，法官就相信了"></a><br><a href="../memes/m1966.md">你有多猛？——我蓋過章、唱過歌、吃過飯，但我說不知情，法官就相信了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

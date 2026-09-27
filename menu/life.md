@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 584 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 589 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（394）
+## ★（399）
 
 <table>
 <tr>
@@ -666,6 +666,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1385.md"><img src="../images/m1385-say-sorry-ready-for-marriage.png" width="240" alt="Dad, I want to marry——Say sorry."></a><br><a href="../memes/m1385.md">Dad, I want to marry——Say sorry.</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1388.md"><img src="../images/m1388-last-therapy-now-therapist.jpg" width="240" alt="今天是我最後一次接受心理治療"></a><br><a href="../memes/m1388.md">今天是我最後一次接受心理治療</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1390.md"><img src="../images/m1390-watching-game-streams.png" width="240" alt="為什麼要看別人玩遊戲？"></a><br><a href="../memes/m1390.md">為什麼要看別人玩遊戲？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1391.md"><img src="../images/m1391-replace-bad-habits-sleep.jpg" width="240" alt="替換掉你的壞習慣：睡大覺"></a><br><a href="../memes/m1391.md">替換掉你的壞習慣：睡大覺</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1393.md"><img src="../images/m1393-asuka-human-history-timeline.png" width="240" alt="人類歷史上的大事件：火、車輪、明日香登場"></a><br><a href="../memes/m1393.md">人類歷史上的大事件：火、車輪、明日香登場</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1394.md"><img src="../images/m1394-best-group-selfie-underwater.png" width="240" alt="最佳團體自拍獎得主是……"></a><br><a href="../memes/m1394.md">最佳團體自拍獎得主是……</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

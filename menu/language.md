@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 137 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（89）
+## ★（90）
 
 <table>
 <tr>
@@ -157,6 +157,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1366.md"><img src="../images/m1366-justice-arrives-by-motorcycle.jpg" width="240" alt="正義可能會遲到，但一定會騎著摩托車前來"></a><br><a href="../memes/m1366.md">正義可能會遲到，但一定會騎著摩托車前來</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1372.md"><img src="../images/m1372-dine-in-write-correct.png" width="240" alt="到底誰會在內用寫對啦"></a><br><a href="../memes/m1372.md">到底誰會在內用寫對啦</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1387.md"><img src="../images/m1387-i-like-bad-girls-cant-do-anything.png" width="240" alt="我喜歡壞女孩——但我真的每件事都做不好"></a><br><a href="../memes/m1387.md">我喜歡壞女孩——但我真的每件事都做不好</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

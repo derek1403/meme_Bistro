@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 268 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 276 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（188）
+## ★（194）
 
 <table>
 <tr>
@@ -322,10 +322,20 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2308.md"><img src="../images/m2308-fever-virus-mining-bitcoin.png" width="240" alt="當你身體受到感染時體溫會升高，是因為病毒正在用你的身體挖比特幣"></a><br><a href="../memes/m2308.md">當你身體受到感染時體溫會升高，是因為病毒正在用你的身體挖比特幣</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2310.md"><img src="../images/m2310-youtube-adblock-detector-job.png" width="240" alt="我在幫 YouTube 偵測廣告攔截器——你有 10 秒鐘離開我家"></a><br><a href="../memes/m2310.md">我在幫 YouTube 偵測廣告攔截器——你有 10 秒鐘離開我家</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2333.md"><img src="../images/m2333-las-vegas-sphere-windows-update.png" width="240" alt="拉斯維加斯巨球：Working on updates 82%"></a><br><a href="../memes/m2333.md">拉斯維加斯巨球：Working on updates 82%</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2338.md"><img src="../images/m2338-ai-replace-photographers-hands.png" width="240" alt="大家說 AI 會取代攝影師——AI 接下工作後的握手照"></a><br><a href="../memes/m2338.md">大家說 AI 會取代攝影師——AI 接下工作後的握手照</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2344.md"><img src="../images/m2344-python-is-for-babies.png" width="240" alt="為什麼沒有給寶寶用的 Python？——因為 Python 本來就是給寶寶用的"></a><br><a href="../memes/m2344.md">為什麼沒有給寶寶用的 Python？——因為 Python 本來就是給寶寶用的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2346.md"><img src="../images/m2346-vending-machine-slot-404.png" width="240" alt="Mom：Why are you laughing?——Me：you wouldn't get it"></a><br><a href="../memes/m2346.md">Mom：Why are you laughing?——Me：you wouldn't get it</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2347.md"><img src="../images/m2347-delete-one-line-css-chicken.png" width="240" alt="I just deleted 1 line of CSS code——Result"></a><br><a href="../memes/m2347.md">I just deleted 1 line of CSS code——Result</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2350.md"><img src="../images/m2350-full-stack-burger.png" width="240" alt="The Full-Stack 漢堡"></a><br><a href="../memes/m2350.md">The Full-Stack 漢堡</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（60）
+## ★★（61）
 
 <table>
 <tr>
@@ -428,9 +438,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2215.md"><img src="../images/m2215-crowdstrike-patch-first-day.png" width="240" alt="我到職第一天就把 patch 推上 production——在 CrowdStrike"></a><br><a href="../memes/m2215.md">我到職第一天就把 patch 推上 production——在 CrowdStrike</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2273.md"><img src="../images/m2273-html-unplugged-controller.png" width="240" alt="PHP、JavaScript、HTML 一起打電動——HTML 的手把根本沒插"></a><br><a href="../memes/m2273.md">PHP、JavaScript、HTML 一起打電動——HTML 的手把根本沒插</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2343.md"><img src="../images/m2343-brute-force-protection-sick.png" width="240" alt="brute-force attack protection——Sick bastard!"></a><br><a href="../memes/m2343.md">brute-force attack protection——Sick bastard!</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（20）
+## ⚠️ 需斟酌（21）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -629,6 +642,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2136.md"><img src="../images/m2136-finding-porn-2001-2021.png" width="240" alt="2001、2011、2021 年的屁孩找 A 片"></a><br><a href="../memes/m2136.md">2001、2011、2021 年的屁孩找 A 片</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在 C++ 裡，friend 可以存取 private parts — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2340.md"><img src="../images/m2340-cpp-friends-private-parts.png" width="240" alt="在 C++ 裡，friend 可以存取 private parts"></a><br><a href="../memes/m2340.md">在 C++ 裡，friend 可以存取 private parts</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

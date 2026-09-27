@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1096 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1102 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（793）
+## ★（799）
 
 <table>
 <tr>
@@ -1331,6 +1331,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2331.md"><img src="../images/m2331-oreo-dumbbells-decision.png" width="240" alt="看來有人在這做了一個重要決定"></a><br><a href="../memes/m2331.md">看來有人在這做了一個重要決定</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2336.md"><img src="../images/m2336-vegan-ice-cream-ice.png" width="240" alt="新！100% 素食冰淇淋：無糖、無蛋、無牛乳、無卡路里"></a><br><a href="../memes/m2336.md">新！100% 素食冰淇淋：無糖、無蛋、無牛乳、無卡路里</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2341.md"><img src="../images/m2341-too-lazy-to-assemble-table.png" width="240" alt="你有多懶？——不用組裝它，箱子也能當桌子"></a><br><a href="../memes/m2341.md">你有多懶？——不用組裝它，箱子也能當桌子</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2342.md"><img src="../images/m2342-ribbon-stairs-insurance.png" width="240" alt="我總共買了五份保險——設計師：知道了"></a><br><a href="../memes/m2342.md">我總共買了五份保險——設計師：知道了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2345.md"><img src="../images/m2345-waited-for-reason-to-delete.png" width="240" alt="你知道我等這句話等了多久嗎？——我一直想刪你，但找不到理由"></a><br><a href="../memes/m2345.md">你知道我等這句話等了多久嗎？——我一直想刪你，但找不到理由</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2349.md"><img src="../images/m2349-boss-task-mailbox.png" width="240" alt="你的部門人力 vs 老闆交辦的工作"></a><br><a href="../memes/m2349.md">你的部門人力 vs 老闆交辦的工作</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2353.md"><img src="../images/m2353-age-35-box-of-cables.png" width="240" alt="35 歲的你應該有一大箱不知道是什麼的線"></a><br><a href="../memes/m2353.md">35 歲的你應該有一大箱不知道是什麼的線</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 284 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 290 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（90）
+## ★（91）
 
 <table>
 <tr>
@@ -159,9 +159,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2261.md"><img src="../images/m2261-angle-a-homesick.png" width="240" alt="證：表達 ∠A 的思鄉之情"></a><br><a href="../memes/m2261.md">證：表達 ∠A 的思鄉之情</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2312.md"><img src="../images/m2312-ddx-ex-unchanged.png" width="240" alt="d/dx 打 eˣ——打完還是 eˣ"></a><br><a href="../memes/m2312.md">d/dx 打 eˣ——打完還是 eˣ</a><br><sub>🧠 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2337.md"><img src="../images/m2337-ddx-throws-ex-comes-back.png" width="240" alt="d/dx 把 eˣ 趕出去——eˣ 又回來了"></a><br><a href="../memes/m2337.md">d/dx 把 eˣ 趕出去——eˣ 又回來了</a><br><sub>🧠 ★</sub></td>
+</tr>
 </table>
 
-## ★★（127）
+## ★★（130）
 
 <table>
 <tr>
@@ -376,10 +379,15 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2326.md"><img src="../images/m2326-elliptic-curve-not-elliptical.png" width="240" alt="然後你說它們叫橢圓曲線，儘管它們事實上顯然不橢圓"></a><br><a href="../memes/m2326.md">然後你說它們叫橢圓曲線，儘管它們事實上顯然不橢圓</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2332.md"><img src="../images/m2332-linear-regression-qr-split.png" width="240" alt="Linear Regression：把 A 劈成 Q 和 R"></a><br><a href="../memes/m2332.md">Linear Regression：把 A 劈成 Q 和 R</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2339.md"><img src="../images/m2339-ramanujan-revealed-in-dream.png" width="240" alt="Source?——It was revealed to me in a dream"></a><br><a href="../memes/m2339.md">Source?——It was revealed to me in a dream</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2351.md"><img src="../images/m2351-4d-creature-rotates-me.png" width="240" alt="3 維生物旋轉 2 維生物覺得好好玩——然後 4 維生物出現了"></a><br><a href="../memes/m2351.md">3 維生物旋轉 2 維生物覺得好好玩——然後 4 維生物出現了</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（43）
+## ★★★（44）
 
 <table>
 <tr>
@@ -454,10 +462,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1754.md"><img src="../images/m1754-hilbert-space-factory-l-infinity.png" width="240" alt="ℓ^∞?? in the Hilbert space factory?? how queer!!"></a><br><a href="../memes/m1754.md">ℓ^∞?? in the Hilbert space factory?? how queer!!</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2352.md"><img src="../images/m2352-sheaf-definitions-weaker.png" width="240" alt="Sheaf 的三種定義：越抽象的越弱"></a><br><a href="../memes/m2352.md">Sheaf 的三種定義：越抽象的越弱</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（24）
+## ⚠️ 需斟酌（25）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -696,6 +705,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2256.md"><img src="../images/m2256-urinal-parabola-high.png" width="240" alt="廁所牆上高高掛著一個小便斗——拋物線告訴你是給誰用的"></a><br><a href="../memes/m2256.md">廁所牆上高高掛著一個小便斗——拋物線告訴你是給誰用的</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Is that a hierarchical prior in your pocket, or are you just glad to see me? — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2335.md"><img src="../images/m2335-bayesian-prior-in-your-pocket.png" width="240" alt="Is that a hierarchical prior in your pocket, or are you just glad to see me?"></a><br><a href="../memes/m2335.md">Is that a hierarchical prior in your pocket, or are you just glad to see me?</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

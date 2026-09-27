@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 188 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 189 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（47）
+## ★（48）
 
 <table>
 <tr>
@@ -87,6 +87,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2225.md"><img src="../images/m2225-sachima-construction.png" width="240" alt="除了豆腐渣工程外，還有沙琪瑪工程"></a><br><a href="../memes/m2225.md">除了豆腐渣工程外，還有沙琪瑪工程</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2260.md"><img src="../images/m2260-unisex-toilet-all-icons.png" width="240" alt="Unisex Toilet：連 Android、蝙蝠俠、美人魚和外星人都能用"></a><br><a href="../memes/m2260.md">Unisex Toilet：連 Android、蝙蝠俠、美人魚和外星人都能用</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2334.md"><img src="../images/m2334-mcdonalds-stock-m-shape.png" width="240" alt="麥當勞股價走勢畫出了自己的 M"></a><br><a href="../memes/m2334.md">麥當勞股價走勢畫出了自己的 M</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

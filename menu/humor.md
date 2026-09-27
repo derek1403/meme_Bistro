@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（236）](#hardcore)
-- [👀 直觀（1720）](#intuitive)
-- [🔤 諧音／文字梗（329）](#pun)
+- [🧠 硬核（242）](#hardcore)
+- [👀 直觀（1735）](#intuitive)
+- [🔤 諧音／文字梗（330）](#pun)
 - [🔥 地獄梗（191）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（236）
+## 🧠 硬核（242）
 
 要有學科背景才笑得出來
 
@@ -251,10 +251,16 @@
 - 🧮 [《數學原理》第 362 頁：由此命題可知 1 + 1 = 2](../memes/m2316.md) ★★
 - 🧮 [爸比在哪裡？媽咪在哪裡？——非凸函數的全域最佳化在哪裡？](../memes/m2321.md) ★★
 - 🧮 [然後你說它們叫橢圓曲線，儘管它們事實上顯然不橢圓](../memes/m2326.md) ★★
+- 🧮 [Linear Regression：把 A 劈成 Q 和 R](../memes/m2332.md) ★★
+- 🧮 [Is that a hierarchical prior in your pocket, or are you just glad to see me?](../memes/m2335.md) ★★ ⚠️ 性暗示
+- 🧮 [d/dx 把 eˣ 趕出去——eˣ 又回來了](../memes/m2337.md) ★
+- 🧮 [Source?——It was revealed to me in a dream](../memes/m2339.md) ★★
+- 🧮 [3 維生物旋轉 2 維生物覺得好好玩——然後 4 維生物出現了](../memes/m2351.md) ★★
+- 🧮 [Sheaf 的三種定義：越抽象的越弱](../memes/m2352.md) ★★★
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1720）
+## 👀 直觀（1735）
 
 看圖就懂
 
@@ -1978,10 +1984,25 @@
 - 🍺 [小孩畫的大象被做成真的](../memes/m2329.md) ★
 - 🌍 [受到挫折——我決定畢業／長期停止活動](../memes/m2330.md) ★★
 - 🍺 [看來有人在這做了一個重要決定](../memes/m2331.md) ★
+- 💻 [拉斯維加斯巨球：Working on updates 82%](../memes/m2333.md) ★
+- 🌍 [麥當勞股價走勢畫出了自己的 M](../memes/m2334.md) ★
+- 🍺 [新！100% 素食冰淇淋：無糖、無蛋、無牛乳、無卡路里](../memes/m2336.md) ★
+- 💻 [大家說 AI 會取代攝影師——AI 接下工作後的握手照](../memes/m2338.md) ★
+- 🍺 [你有多懶？——不用組裝它，箱子也能當桌子](../memes/m2341.md) ★
+- 🍺 [我總共買了五份保險——設計師：知道了](../memes/m2342.md) ★
+- 💻 [brute-force attack protection——Sick bastard!](../memes/m2343.md) ★★
+- 💻 [為什麼沒有給寶寶用的 Python？——因為 Python 本來就是給寶寶用的](../memes/m2344.md) ★
+- 🍺 [你知道我等這句話等了多久嗎？——我一直想刪你，但找不到理由](../memes/m2345.md) ★
+- 💻 [Mom：Why are you laughing?——Me：you wouldn't get it](../memes/m2346.md) ★
+- 💻 [I just deleted 1 line of CSS code——Result](../memes/m2347.md) ★
+- 🗣️ [君はいくつ見つけられるかな？——你被多少找到？](../memes/m2348.md) ★
+- 🍺 [你的部門人力 vs 老闆交辦的工作](../memes/m2349.md) ★
+- 💻 [The Full-Stack 漢堡](../memes/m2350.md) ★
+- 🍺 [35 歲的你應該有一大箱不知道是什麼的線](../memes/m2353.md) ★
 
 <a id="pun"></a>
 
-## 🔤 諧音／文字梗（329）
+## 🔤 諧音／文字梗（330）
 
 雙關、諧音、字面意思
 
@@ -2314,6 +2335,7 @@
 - 🗣️ [舞龍經費有限，只好改用水龍頭](../memes/m2276.md) ★
 - 🔬 [媽你看！我成績是四氟化碳！——你媽：氟鈾碳鉀](../memes/m2320.md) ★★ ⚠️ 粗話
 - 🗣️ [分手了還能做朋友嗎？太卑微了——應該說分手了還能做嗎朋友](../memes/m2324.md) ★ ⚠️ 性暗示
+- 💻 [在 C++ 裡，friend 可以存取 private parts](../memes/m2340.md) ★★ ⚠️ 性暗示
 
 <a id="dark"></a>
 

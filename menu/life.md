@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 553 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 561 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（373）
+## ★（377）
 
 <table>
 <tr>
@@ -631,6 +631,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1340.md"><img src="../images/m1340-fast-furious-gearbox.png" width="240" alt="一般的手排車 vs 玩命關頭的手排車"></a><br><a href="../memes/m1340.md">一般的手排車 vs 玩命關頭的手排車</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1342.md"><img src="../images/m1342-tattoo-lifetime-unlike-marriage.png" width="240" alt="刺青刺下去就是一輩子——不像你的婚姻"></a><br><a href="../memes/m1342.md">刺青刺下去就是一輩子——不像你的婚姻</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1343.md"><img src="../images/m1343-rotate-manhole-covers.png" width="240" alt="轉動這兩個人孔蓋就能解鎖下一個房間"></a><br><a href="../memes/m1343.md">轉動這兩個人孔蓋就能解鎖下一個房間</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1344.md"><img src="../images/m1344-hot-cold-shower-shared.png" width="240" alt="洗澡水忽冷忽熱，就是有人在與你共用"></a><br><a href="../memes/m1344.md">洗澡水忽冷忽熱，就是有人在與你共用</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1346.md"><img src="../images/m1346-cat-pear-doge-apple.png" width="240" alt="貓梨與柴犬蘋果"></a><br><a href="../memes/m1346.md">貓梨與柴犬蘋果</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -744,7 +750,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（117）
+## ⚠️ 需斟酌（121）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1913,6 +1919,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1339.md"><img src="../images/m1339-penguin-flight-school.png" width="240" alt="企鵝上了飛行學校"></a><br><a href="../memes/m1339.md">企鵝上了飛行學校</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>小八的表情跟某部影片一模一樣 — ⚠️ 性暗示（成人影片截圖）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1345.md"><img src="../images/m1345-hachiware-mirrors-video.jpg" width="240" alt="小八的表情跟某部影片一模一樣"></a><br><a href="../memes/m1345.md">小八的表情跟某部影片一模一樣</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>生活冥冥中會有些暗示 — ⚠️ 自殺暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1347.md"><img src="../images/m1347-keys-shadow-hanging.png" width="240" alt="生活冥冥中會有些暗示"></a><br><a href="../memes/m1347.md">生活冥冥中會有些暗示</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>對手從 ICU 醒來發現醫生還是她 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1348.md"><img src="../images/m1348-doctor-ufc-icu.jpg" width="240" alt="對手從 ICU 醒來發現醫生還是她"></a><br><a href="../memes/m1348.md">對手從 ICU 醒來發現醫生還是她</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>入冬了，想給你買一條圍巾 — ⚠️ 自殺暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1352.md"><img src="../images/m1352-winter-scarf-noose.jpg" width="240" alt="入冬了，想給你買一條圍巾"></a><br><a href="../memes/m1352.md">入冬了，想給你買一條圍巾</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

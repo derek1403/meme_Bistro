@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 114 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 115 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（53）
 
@@ -183,7 +183,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（18）
+## ⚠️ 需斟酌（19）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -362,6 +362,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1237.md"><img src="../images/m1237-no-friction-no-spark.png" width="240" alt="沒有身體的摩擦，哪來愛情的火花"></a><br><a href="../memes/m1237.md">沒有身體的摩擦，哪來愛情的火花</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>放鬆音樂：鳥叫聲合輯 — ⚠️ 動物死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1350.md"><img src="../images/m1350-birdsong-relaxing-music.png" width="240" alt="放鬆音樂：鳥叫聲合輯"></a><br><a href="../memes/m1350.md">放鬆音樂：鳥叫聲合輯</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

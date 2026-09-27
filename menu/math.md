@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 223 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 224 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（81）
 
@@ -146,7 +146,7 @@
 </tr>
 </table>
 
-## ★★（85）
+## ★★（86）
 
 <table>
 <tr>
@@ -291,6 +291,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1284.md"><img src="../images/m1284-sum-of-cubes-2025.png" width="240" alt="1³ + 2³ + … + 9³ = 2025"></a><br><a href="../memes/m1284.md">1³ + 2³ + … + 9³ = 2025</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1349.md"><img src="../images/m1349-right-triangle-8-15-17.png" width="240" alt="在路上遇到直角三角形：8、15、17"></a><br><a href="../memes/m1349.md">在路上遇到直角三角形：8、15、17</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

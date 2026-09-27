@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 155 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 156 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（102）
+## ★（103）
 
 <table>
 <tr>
@@ -178,6 +178,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1182.md"><img src="../images/m1182-recursion-under-bed.png" width="240" alt="爸！我的床底下有一個遞迴！"></a><br><a href="../memes/m1182.md">爸！我的床底下有一個遞迴！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1210.md"><img src="../images/m1210-youtube-loading-ads-vs-video.png" width="240" alt="YouTube 載入廣告 vs 載入影片"></a><br><a href="../memes/m1210.md">YouTube 載入廣告 vs 載入影片</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1336.md"><img src="../images/m1336-sleep-pets-relationship-cs.png" width="240" alt="People with pets / in relationship / CS engineer"></a><br><a href="../memes/m1336.md">People with pets / in relationship / CS engineer</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1341.md"><img src="../images/m1341-os-surveillance-reactions.png" width="240" alt="微軟、谷歌、蘋果、Linux：你們竟然在監控？"></a><br><a href="../memes/m1341.md">微軟、谷歌、蘋果、Linux：你們竟然在監控？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

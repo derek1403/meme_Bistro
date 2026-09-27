@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 142 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（37）
+## ★（38）
 
 <table>
 <tr>
@@ -71,6 +71,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1712.md"><img src="../images/m1712-company-profit-shareholders-pizza.png" width="240" alt="當一家公司獲利時：股東 vs 核心員工"></a><br><a href="../memes/m1712.md">當一家公司獲利時：股東 vs 核心員工</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1789.md"><img src="../images/m1789-scalper-vs-investor-house.png" width="240" alt="我買了一個高需求的限量商品，以更高價格出售，所以我是一個……"></a><br><a href="../memes/m1789.md">我買了一個高需求的限量商品，以更高價格出售，所以我是一個……</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -98,7 +99,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（92）
+## ⚠️ 需斟酌（93）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1017,6 +1018,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1727.md"><img src="../images/m1727-teacher-seating-rivals.png" width="240" alt="老師：給你們安排的座位挺好的呀"></a><br><a href="../memes/m1727.md">老師：給你們安排的座位挺好的呀</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>紙紮全家，附地契 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1784.md"><img src="../images/m1784-paper-familymart-offering.png" width="240" alt="紙紮全家，附地契"></a><br><a href="../memes/m1784.md">紙紮全家，附地契</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

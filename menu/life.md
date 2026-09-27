@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 799 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 806 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（550）
+## ★（555）
 
 <table>
 <tr>
@@ -926,6 +926,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1780.md"><img src="../images/m1780-fancy-kitchen-vs-grandma.png" width="240" alt="花百萬裝修的高級廚房 vs 阿嬤的老廚房"></a><br><a href="../memes/m1780.md">花百萬裝修的高級廚房 vs 阿嬤的老廚房</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1781.md"><img src="../images/m1781-introvert-work-calendar.png" width="240" alt="內向仔的工作行事曆"></a><br><a href="../memes/m1781.md">內向仔的工作行事曆</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1782.md"><img src="../images/m1782-not-bad-at-social-no-interest.jpg" width="240" alt="其實不是我不擅長交際，主要是沒興趣認識你"></a><br><a href="../memes/m1782.md">其實不是我不擅長交際，主要是沒興趣認識你</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1786.md"><img src="../images/m1786-mika-eat-me-didnt-cook.jpg" width="240" alt="先吃飯？先洗澡？還是先吃我？——先吃飯吧——我沒做☆"></a><br><a href="../memes/m1786.md">先吃飯？先洗澡？還是先吃我？——先吃飯吧——我沒做☆</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1787.md"><img src="../images/m1787-mom-stop-kebab-game.jpg" width="240" alt="再不睡覺，做你那爛餅子手機給你砸了"></a><br><a href="../memes/m1787.md">再不睡覺，做你那爛餅子手機給你砸了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1790.md"><img src="../images/m1790-bird-in-rain-streetlight.png" width="240" alt="大雨中停在電線上的鳥"></a><br><a href="../memes/m1790.md">大雨中停在電線上的鳥</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1054,7 +1061,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（177）
+## ⚠️ 需斟酌（179）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2823,6 +2830,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1773.md"><img src="../images/m1773-barcode-scars-carrier.jpg" width="240" alt="有會員載具嗎？——原來是條碼啊"></a><br><a href="../memes/m1773.md">有會員載具嗎？——原來是條碼啊</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>誰更失望？發現野獸不是福瑞的貝兒，還是發現木蘭不是男人的李翔？ — ⚠️ 戀屍暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1783.md"><img src="../images/m1783-who-more-disappointed-belle-shang.png" width="240" alt="誰更失望？發現野獸不是福瑞的貝兒，還是發現木蘭不是男人的李翔？"></a><br><a href="../memes/m1783.md">誰更失望？發現野獸不是福瑞的貝兒，還是發現木蘭不是男人的李翔？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>騙你的，我家裡根本沒有會後空翻的貓 — ⚠️ 持槍威脅／酒精</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1788.md"><img src="../images/m1788-backflip-cat-vodka-gun.jpg" width="240" alt="騙你的，我家裡根本沒有會後空翻的貓"></a><br><a href="../memes/m1788.md">騙你的，我家裡根本沒有會後空翻的貓</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 569 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 576 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（382）
+## ★（387）
 
 <table>
 <tr>
@@ -646,10 +646,17 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1361.md"><img src="../images/m1361-extremely-long-combination-lock.png" width="240" alt="超長密碼鎖"></a><br><a href="../memes/m1361.md">超長密碼鎖</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1365.md"><img src="../images/m1365-middle-east-fish.png" width="240" alt="以防各位還沒有看過中東魚"></a><br><a href="../memes/m1365.md">以防各位還沒有看過中東魚</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1367.md"><img src="../images/m1367-pet-decides-heaven-or-hell.jpg" width="240" alt="你的寵物將決定你去天堂還是地獄"></a><br><a href="../memes/m1367.md">你的寵物將決定你去天堂還是地獄</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1368.md"><img src="../images/m1368-spilled-drink-silhouette.png" width="240" alt="打翻的飲料在紙上暈出一個人形"></a><br><a href="../memes/m1368.md">打翻的飲料在紙上暈出一個人形</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1369.md"><img src="../images/m1369-atm-dad-family-costume.png" width="240" alt="這是我見過最貼近現實的家庭套裝"></a><br><a href="../memes/m1369.md">這是我見過最貼近現實的家庭套裝</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1373.md"><img src="../images/m1373-coworker-photo-behind-clock.png" width="240" alt="前同事離職時在公司各角落放自己的照片"></a><br><a href="../memes/m1373.md">前同事離職時在公司各角落放自己的照片</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（63）
+## ★★（65）
 
 <table>
 <tr>
@@ -756,6 +763,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1224.md"><img src="../images/m1224-dark-souls-2-christmas.png" width="240" alt="聖誕禮物是黑暗靈魂 2"></a><br><a href="../memes/m1224.md">聖誕禮物是黑暗靈魂 2</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1291.md"><img src="../images/m1291-bad-apple-moon-phases.png" width="240" alt="Bad Apple!! 月相版"></a><br><a href="../memes/m1291.md">Bad Apple!! 月相版</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1297.md"><img src="../images/m1297-orin-cat-cafe-card.png" width="240" alt="阿燐發現了貓咖啡廳的名片"></a><br><a href="../memes/m1297.md">阿燐發現了貓咖啡廳的名片</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1371.md"><img src="../images/m1371-drama-soyo-line.png" width="240" alt="你要我做什麼我都願意"></a><br><a href="../memes/m1371.md">你要我做什麼我都願意</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1374.md"><img src="../images/m1374-anime-trio-hydra.jpg" width="240" alt="2016–2024 動畫三人組與三頭龍"></a><br><a href="../memes/m1374.md">2016–2024 動畫三人組與三頭龍</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

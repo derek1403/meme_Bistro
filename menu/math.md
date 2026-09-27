@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 271 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 273 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（88）
+## ★（89）
 
 <table>
 <tr>
@@ -156,6 +156,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2207.md"><img src="../images/m2207-inverse-function-cat-fish.png" width="240" alt="F(x) 與 F⁻¹(x)：貓吃魚，魚吃貓"></a><br><a href="../memes/m2207.md">F(x) 與 F⁻¹(x)：貓吃魚，魚吃貓</a><br><sub>🧠 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2261.md"><img src="../images/m2261-angle-a-homesick.png" width="240" alt="證：表達 ∠A 的思鄉之情"></a><br><a href="../memes/m2261.md">證：表達 ∠A 的思鄉之情</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -437,7 +438,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（23）
+## ⚠️ 需斟酌（24）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -666,6 +667,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1810.md"><img src="../images/m1810-trolley-infinite-loop.png" width="240" alt="電車難題：1+1+1+… 人 vs 無限輪迴的 100 人"></a><br><a href="../memes/m1810.md">電車難題：1+1+1+… 人 vs 無限輪迴的 100 人</a><br><sub>🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>廁所牆上高高掛著一個小便斗——拋物線告訴你是給誰用的 — ⚠️ 粗俗</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2256.md"><img src="../images/m2256-urinal-parabola-high.png" width="240" alt="廁所牆上高高掛著一個小便斗——拋物線告訴你是給誰用的"></a><br><a href="../memes/m2256.md">廁所牆上高高掛著一個小便斗——拋物線告訴你是給誰用的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

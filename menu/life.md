@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1059 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1072 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（762）
+## ★（771）
 
 <table>
 <tr>
@@ -1279,9 +1279,24 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2246.md"><img src="../images/m2246-wizard-frog-potion.png" width="240" alt="要我把你變回人類嗎？——決不，青蛙的生活太酷了"></a><br><a href="../memes/m2246.md">要我把你變回人類嗎？——決不，青蛙的生活太酷了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2249.md"><img src="../images/m2249-legs-baked-baguette.png" width="240" alt="天氣好熱，腳都被烤熟了"></a><br><a href="../memes/m2249.md">天氣好熱，腳都被烤熟了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2251.md"><img src="../images/m2251-seatbelt-over-wifes-mouth.png" width="240" alt="如果安全帶有這樣的設計，至少可以減少 60% 的車禍"></a><br><a href="../memes/m2251.md">如果安全帶有這樣的設計，至少可以減少 60% 的車禍</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2253.md"><img src="../images/m2253-can-choir.png" width="240" alt="罐罐合唱團"></a><br><a href="../memes/m2253.md">罐罐合唱團</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2255.md"><img src="../images/m2255-earth-throws-away-feelings.png" width="240" alt="如何生活：收集感受、滾成球、丟掉它"></a><br><a href="../memes/m2255.md">如何生活：收集感受、滾成球、丟掉它</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2257.md"><img src="../images/m2257-give-up-interview-plank.png" width="240" alt="我決定放棄面試，然後跟著這位兄弟看看等下會發生什麼事"></a><br><a href="../memes/m2257.md">我決定放棄面試，然後跟著這位兄弟看看等下會發生什麼事</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2259.md"><img src="../images/m2259-goldfish-dies-grandma-100.png" width="240" alt="奶奶說好人英年早逝——她是一位健康的百歲老人"></a><br><a href="../memes/m2259.md">奶奶說好人英年早逝——她是一位健康的百歲老人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2262.md"><img src="../images/m2262-plane-window-osint.png" width="240" alt="飛機與飛機餅乾——下面是林口，看機翼是 787，所以是長榮 BR191"></a><br><a href="../memes/m2262.md">飛機與飛機餅乾——下面是林口，看機翼是 787，所以是長榮 BR191</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2264.md"><img src="../images/m2264-usagi-card-eating-food.png" width="240" alt="烏薩奇壓克力卡放在食物前面，看起來就像在偷吃"></a><br><a href="../memes/m2264.md">烏薩奇壓克力卡放在食物前面，看起來就像在偷吃</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2267.md"><img src="../images/m2267-john-decides-to-sleep.png" width="240" alt="約翰明天有 3 篇論文、2 個考試還要洗碗——約翰決定睡覺"></a><br><a href="../memes/m2267.md">約翰明天有 3 篇論文、2 個考試還要洗碗——約翰決定睡覺</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2268.md"><img src="../images/m2268-usagi-card-eating-ramen.png" width="240" alt="Chiikawa_fans 壓克力卡：烏薩奇在吃你的拉麵"></a><br><a href="../memes/m2268.md">Chiikawa_fans 壓克力卡：烏薩奇在吃你的拉麵</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（86）
+## ★★（87）
 
 <table>
 <tr>
@@ -1427,10 +1442,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2120.md"><img src="../images/m2120-screen-window-truck.png" width="240" alt="天哪我的紗窗壞了——什麼壞了？"></a><br><a href="../memes/m2120.md">天哪我的紗窗壞了——什麼壞了？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2227.md"><img src="../images/m2227-squirrel-typhoon-day-off.png" width="240" alt="全國停電 76,328 戶——終於輪到我放颱風假了"></a><br><a href="../memes/m2227.md">全國停電 76,328 戶——終於輪到我放颱風假了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2254.md"><img src="../images/m2254-nara-deer-shikanoko-dance.png" width="240" alt="奈良公園迷惑報道：最近好多傻佬喺我面前跳舞"></a><br><a href="../memes/m2254.md">奈良公園迷惑報道：最近好多傻佬喺我面前跳舞</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（211）
+## ⚠️ 需斟酌（214）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3539,6 +3555,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2156.md"><img src="../images/m2156-kindergarten-flower-photo-graves.png" width="240" alt="老師說這樣子才能知道是誰種的花"></a><br><a href="../memes/m2156.md">老師說這樣子才能知道是誰種的花</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>119 請問你有什麼狀況？——呃阿阿阿阿阿阿 — ⚠️ 粗俗暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2263.md"><img src="../images/m2263-chair-broken-119.png" width="240" alt="119 請問你有什麼狀況？——呃阿阿阿阿阿阿"></a><br><a href="../memes/m2263.md">119 請問你有什麼狀況？——呃阿阿阿阿阿阿</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在醫院上班很奇怪：快樂、傷心、屁眼 — ⚠️ 粗俗</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2265.md"><img src="../images/m2265-hospital-happy-sad-butt.png" width="240" alt="在醫院上班很奇怪：快樂、傷心、屁眼"></a><br><a href="../memes/m2265.md">在醫院上班很奇怪：快樂、傷心、屁眼</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>This is Bear——You need protein——Bear becomes an omnivore — ⚠️ 動物被吃</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2266.md"><img src="../images/m2266-bear-needs-protein.png" width="240" alt="This is Bear——You need protein——Bear becomes an omnivore"></a><br><a href="../memes/m2266.md">This is Bear——You need protein——Bear becomes an omnivore</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

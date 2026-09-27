@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 251 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 253 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（172）
+## ★（174）
 
 <table>
 <tr>
@@ -296,6 +296,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2248.md"><img src="../images/m2248-captcha-motorcycle-taxi.png" width="240" alt="Select all squares with motorcycles——那騎士算不算？"></a><br><a href="../memes/m2248.md">Select all squares with motorcycles——那騎士算不算？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2252.md"><img src="../images/m2252-turn-off-pc-windows-update.png" width="240" alt="Me：Turn off PC——Windows Update："></a><br><a href="../memes/m2252.md">Me：Turn off PC——Windows Update：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2270.md"><img src="../images/m2270-netflix-dad-install-updates.png" width="240" alt="把「Dad」改名成「Install Windows Updates Now」"></a><br><a href="../memes/m2270.md">把「Dad」改名成「Install Windows Updates Now」</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 907 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 911 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（624）
+## ★（627）
 
 <table>
 <tr>
@@ -1049,9 +1049,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1974.md"><img src="../images/m1974-boss-heals-once-how-dare-you.jpg" width="240" alt="玩家治療自己 500 次，Boss 治療自己一次——How dare you!"></a><br><a href="../memes/m1974.md">玩家治療自己 500 次，Boss 治療自己一次——How dare you!</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1976.md"><img src="../images/m1976-flowers-only-for-ancestors.png" width="240" alt="常常送我花，這樣是喜歡我嗎？——不然只有拜祖先會買花"></a><br><a href="../memes/m1976.md">常常送我花，這樣是喜歡我嗎？——不然只有拜祖先會買花</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1980.md"><img src="../images/m1980-ancestors-guide-me.jpg" width="240" alt="我的先祖們，請引導我該怎麼辦吧"></a><br><a href="../memes/m1980.md">我的先祖們，請引導我該怎麼辦吧</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1981.md"><img src="../images/m1981-hello-peter-primary-teacher.png" width="240" alt="I don't think he will recognise me——Hello, Peter"></a><br><a href="../memes/m1981.md">I don't think he will recognise me——Hello, Peter</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1982.md"><img src="../images/m1982-dating-both-pregnant.png" width="240" alt="用你的理解來解釋這張圖——他們兩個都懷孕了"></a><br><a href="../memes/m1982.md">用你的理解來解釋這張圖——他們兩個都懷孕了</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（79）
+## ★★（80）
 
 <table>
 <tr>
@@ -1186,6 +1191,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1977.md"><img src="../images/m1977-neuvillette-hot-spring-dont-drink.jpg" width="240" alt="Hot spring water!!——DON'T DRINK!!!"></a><br><a href="../memes/m1977.md">Hot spring water!!——DON'T DRINK!!!</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1978.md"><img src="../images/m1978-genshin-regions-terrain-chart.jpg" width="240" alt="原神各地區地形示意圖"></a><br><a href="../memes/m1978.md">原神各地區地形示意圖</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

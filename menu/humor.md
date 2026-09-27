@@ -5,7 +5,7 @@
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
 - [🧠 硬核（208）](#hardcore)
-- [👀 直觀（1445）](#intuitive)
+- [👀 直觀（1450）](#intuitive)
 - [🔤 諧音／文字梗（300）](#pun)
 - [🔥 地獄梗（169）](#dark)
 
@@ -226,7 +226,7 @@
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1445）
+## 👀 直觀（1450）
 
 看圖就懂
 
@@ -1675,6 +1675,11 @@
 - 🍺 [各種避孕方法的效率：沒有對象的你 1551%](../memes/m1975.md) ★ ⚠️ 性暗示
 - 🍺 [常常送我花，這樣是喜歡我嗎？——不然只有拜祖先會買花](../memes/m1976.md) ★
 - 🍺 [Hot spring water!!——DON'T DRINK!!!](../memes/m1977.md) ★★
+- 🍺 [原神各地區地形示意圖](../memes/m1978.md) ★★
+- 🌍 [命運有三次轉折點——稻盛和夫](../memes/m1979.md) ★★
+- 🍺 [我的先祖們，請引導我該怎麼辦吧](../memes/m1980.md) ★
+- 🍺 [I don't think he will recognise me——Hello, Peter](../memes/m1981.md) ★
+- 🍺 [用你的理解來解釋這張圖——他們兩個都懷孕了](../memes/m1982.md) ★
 
 <a id="pun"></a>
 

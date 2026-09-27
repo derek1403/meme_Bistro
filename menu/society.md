@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 190 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 193 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（48）
+## ★（50）
 
 <table>
 <tr>
@@ -89,6 +89,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2260.md"><img src="../images/m2260-unisex-toilet-all-icons.png" width="240" alt="Unisex Toilet：連 Android、蝙蝠俠、美人魚和外星人都能用"></a><br><a href="../memes/m2260.md">Unisex Toilet：連 Android、蝙蝠俠、美人魚和外星人都能用</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2334.md"><img src="../images/m2334-mcdonalds-stock-m-shape.png" width="240" alt="麥當勞股價走勢畫出了自己的 M"></a><br><a href="../memes/m2334.md">麥當勞股價走勢畫出了自己的 M</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2381.md"><img src="../images/m2381-guarding-bench-wet-paint.png" width="240" alt="This is how traditions are born——油漆還沒乾嗎？"></a><br><a href="../memes/m2381.md">This is how traditions are born——油漆還沒乾嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2385.md"><img src="../images/m2385-tool-person-reverse-logic.png" width="240" alt="她把你當工具人，滿足了你當舔狗的慾望——那她才是你的工具人"></a><br><a href="../memes/m2385.md">她把你當工具人，滿足了你當舔狗的慾望——那她才是你的工具人</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（22）
@@ -134,7 +138,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（120）
+## ⚠️ 需斟酌（121）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1333,6 +1337,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2363.md"><img src="../images/m2363-humans-smartest-nude-photos.png" width="240" alt="人類是最聰明的物種——你們禁止同伴裸露，然後每天上網找同伴裸照"></a><br><a href="../memes/m2363.md">人類是最聰明的物種——你們禁止同伴裸露，然後每天上網找同伴裸照</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>單身朋友說：不要因為水果上面的傷痕就嫌棄它 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2369.md"><img src="../images/m2369-single-friend-fruit-holes.png" width="240" alt="單身朋友說：不要因為水果上面的傷痕就嫌棄它"></a><br><a href="../memes/m2369.md">單身朋友說：不要因為水果上面的傷痕就嫌棄它</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

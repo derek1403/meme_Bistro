@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1115 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（801）
+## ★（808）
 
 <table>
 <tr>
@@ -1344,6 +1344,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2365.md"><img src="../images/m2365-grass-grew-into-cone.png" width="240" alt="拿走三角錐後，草長成了三角錐的形狀"></a><br><a href="../memes/m2365.md">拿走三角錐後，草長成了三角錐的形狀</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2367.md"><img src="../images/m2367-dino-dad-turtle-stuck.png" width="240" alt="爸？——我好像被卡住了"></a><br><a href="../memes/m2367.md">爸？——我好像被卡住了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2371.md"><img src="../images/m2371-straw-lid-fiddle.png" width="240" alt="當我把吸管在飲料杯蓋上拉進拉出"></a><br><a href="../memes/m2371.md">當我把吸管在飲料杯蓋上拉進拉出</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2374.md"><img src="../images/m2374-searching-screenshot-shoes.png" width="240" alt="Me searching for an important screenshot I took a few days ago"></a><br><a href="../memes/m2374.md">Me searching for an important screenshot I took a few days ago</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2376.md"><img src="../images/m2376-furby-not-angry-on-fire.png" width="240" alt="當我說「我沒在生氣啦」"></a><br><a href="../memes/m2376.md">當我說「我沒在生氣啦」</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2383.md"><img src="../images/m2383-half-price-mirror-reflection.png" width="240" alt="半價爽耶！——伸手一撞，是鏡子"></a><br><a href="../memes/m2383.md">半價爽耶！——伸手一撞，是鏡子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2386.md"><img src="../images/m2386-laptop-correct-position-le-me.png" width="240" alt="Correct and incorrect position for using laptop——le me"></a><br><a href="../memes/m2386.md">Correct and incorrect position for using laptop——le me</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2387.md"><img src="../images/m2387-dog-sorry-parked-on-bowl.png" width="240" alt="抱歉……停車時沒有看到你的碗……"></a><br><a href="../memes/m2387.md">抱歉……停車時沒有看到你的碗……</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2388.md"><img src="../images/m2388-body-70-percent-water.png" width="240" alt="這杯水好好喝——原來你喜歡我，畢竟我身體 70% 都是水做的"></a><br><a href="../memes/m2388.md">這杯水好好喝——原來你喜歡我，畢竟我身體 70% 都是水做的</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（88）
@@ -1499,7 +1512,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（218）
+## ⚠️ 需斟酌（219）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3678,6 +3691,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2356.md"><img src="../images/m2356-manga-artist-draw-more-men.png" width="240" alt="喜歡畫妹子而成為瑟琴漫畫家——發現需要畫的漢子遠比妹子多"></a><br><a href="../memes/m2356.md">喜歡畫妹子而成為瑟琴漫畫家——發現需要畫的漢子遠比妹子多</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>用冰淇淋騙孩子吃藥——冰淇淋有毒，這是解毒藥 — ⚠️ 恐嚇兒童</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2378.md"><img src="../images/m2378-ice-cream-poison-antidote.png" width="240" alt="用冰淇淋騙孩子吃藥——冰淇淋有毒，這是解毒藥"></a><br><a href="../memes/m2378.md">用冰淇淋騙孩子吃藥——冰淇淋有毒，這是解毒藥</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

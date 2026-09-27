@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（244）](#hardcore)
-- [👀 直觀（1746）](#intuitive)
-- [🔤 諧音／文字梗（331）](#pun)
-- [🔥 地獄梗（191）](#dark)
+- [🧠 硬核（246）](#hardcore)
+- [👀 直觀（1764）](#intuitive)
+- [🔤 諧音／文字梗（332）](#pun)
+- [🔥 地獄梗（192）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（244）
+## 🧠 硬核（246）
 
 要有學科背景才笑得出來
 
@@ -259,10 +259,12 @@
 - 🧮 [Sheaf 的三種定義：越抽象寫得越短](../memes/m2352.md) ★★★
 - 🧮 [n 階、整數階、實數階、複數階、多項式階導數](../memes/m2354.md) ★★
 - 🧮 [25 個圓、36 個圓，合理——49 個圓：WHAT THE…](../memes/m2358.md) ★★
+- 🧮 [Large σ vs Small σ](../memes/m2368.md) ★★
+- 🎓 [諾貝爾獎得主 Parisi：會議報名人數 N(t) = c·ln[T*/(T*−t)]](../memes/m2382.md) ★★
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1746）
+## 👀 直觀（1764）
 
 看圖就懂
 
@@ -2012,10 +2014,28 @@
 - 🍺 [拿走三角錐後，草長成了三角錐的形狀](../memes/m2365.md) ★
 - 🍺 [幻想鄉衛生組織：新的年齡劃分標準](../memes/m2366.md) ★★
 - 🍺 [爸？——我好像被卡住了](../memes/m2367.md) ★
+- 🌍 [單身朋友說：不要因為水果上面的傷痕就嫌棄它](../memes/m2369.md) ★ ⚠️ 性暗示
+- 💻 [Happy 25th birthday, Linux! 蛋糕自己編譯](../memes/m2370.md) ★
+- 🍺 [當我把吸管在飲料杯蓋上拉進拉出](../memes/m2371.md) ★
+- 💻 [不會寫程式的工程師 🤝 不會設計的設計師：WordPress](../memes/m2372.md) ★
+- 💻 [algorithm（名詞）：程式設計師不想解釋自己做了什麼時用的詞](../memes/m2373.md) ★
+- 🍺 [Me searching for an important screenshot I took a few days ago](../memes/m2374.md) ★
+- 🗣️ [緩光臨、鳥～蕭什麼、報思～幫嗯上菜、寫光您](../memes/m2375.md) ★
+- 🍺 [當我說「我沒在生氣啦」](../memes/m2376.md) ★
+- 💻 [Microsoft 把 Copilot 放進 Excel——Febuary、Maruary、Apruary](../memes/m2377.md) ★
+- 💻 [When I realize semicolon is missing——coming from toilet](../memes/m2379.md) ★
+- 🌍 [This is how traditions are born——油漆還沒乾嗎？](../memes/m2381.md) ★
+- 🍺 [半價爽耶！——伸手一撞，是鏡子](../memes/m2383.md) ★
+- 💻 [Do you want to see more posts like this?——Show more](../memes/m2384.md) ★
+- 🌍 [她把你當工具人，滿足了你當舔狗的慾望——那她才是你的工具人](../memes/m2385.md) ★
+- 🍺 [Correct and incorrect position for using laptop——le me](../memes/m2386.md) ★
+- 🍺 [抱歉……停車時沒有看到你的碗……](../memes/m2387.md) ★
+- 🍺 [這杯水好好喝——原來你喜歡我，畢竟我身體 70% 都是水做的](../memes/m2388.md) ★
+- 💻 [Coding chair vs Debugging chair](../memes/m2389.md) ★
 
 <a id="pun"></a>
 
-## 🔤 諧音／文字梗（331）
+## 🔤 諧音／文字梗（332）
 
 雙關、諧音、字面意思
 
@@ -2350,10 +2370,11 @@
 - 🗣️ [分手了還能做朋友嗎？太卑微了——應該說分手了還能做嗎朋友](../memes/m2324.md) ★ ⚠️ 性暗示
 - 💻 [在 C++ 裡，friend 可以存取 private parts](../memes/m2340.md) ★★ ⚠️ 性暗示
 - 🗣️ [密碼要 8 個字元（characters）加一個 Capital](../memes/m2360.md) ★★
+- 🗣️ [年輕時的人生：我說了算——現在的人生：算了](../memes/m2380.md) ★
 
 <a id="dark"></a>
 
-## 🔥 地獄梗（191）
+## 🔥 地獄梗（192）
 
 拿敏感題材開玩笑，請斟酌
 
@@ -2548,4 +2569,5 @@
 - 🍺 [骷髏們的恐怖片：一隻狗叼著一根骨頭](../memes/m2286.md) ★ ⚠️ 骷髏
 - 🍺 [午餐時間！——午餐時間！](../memes/m2315.md) ★ ⚠️ 血腥
 - 🌍 [Why did you become a pilot?——To overcome my biggest fear: dying alone](../memes/m2328.md) ★ ⚠️ 空難、死亡
+- 🍺 [用冰淇淋騙孩子吃藥——冰淇淋有毒，這是解毒藥](../memes/m2378.md) ★ ⚠️ 恐嚇兒童
 

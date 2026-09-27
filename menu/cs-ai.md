@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 280 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 287 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（198）
+## ★（205）
 
 <table>
 <tr>
@@ -338,6 +338,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2359.md"><img src="../images/m2359-install-25-year-old-program.png" width="240" alt="Mac 裝不了 5 年前的程式、Windows 能裝 25 年前的——Linux：早就裝好了"></a><br><a href="../memes/m2359.md">Mac 裝不了 5 年前的程式、Windows 能裝 25 年前的——Linux：早就裝好了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2362.md"><img src="../images/m2362-spiral-print-hardcode.png" width="240" alt="從中心順時針印出 1 到 25 的螺旋——print 五行搞定"></a><br><a href="../memes/m2362.md">從中心順時針印出 1 到 25 的螺旋——print 五行搞定</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2364.md"><img src="../images/m2364-tester-vs-users-bridge.png" width="240" alt="Tester 在橋上跳來跳去都沒事——Users 開坦克過去"></a><br><a href="../memes/m2364.md">Tester 在橋上跳來跳去都沒事——Users 開坦克過去</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2370.md"><img src="../images/m2370-linux-birthday-compile-cake.png" width="240" alt="Happy 25th birthday, Linux! 蛋糕自己編譯"></a><br><a href="../memes/m2370.md">Happy 25th birthday, Linux! 蛋糕自己編譯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2372.md"><img src="../images/m2372-engineers-designers-wordpress.png" width="240" alt="不會寫程式的工程師 🤝 不會設計的設計師：WordPress"></a><br><a href="../memes/m2372.md">不會寫程式的工程師 🤝 不會設計的設計師：WordPress</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2373.md"><img src="../images/m2373-algorithm-definition-dont-explain.png" width="240" alt="algorithm（名詞）：程式設計師不想解釋自己做了什麼時用的詞"></a><br><a href="../memes/m2373.md">algorithm（名詞）：程式設計師不想解釋自己做了什麼時用的詞</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2377.md"><img src="../images/m2377-copilot-excel-febuary.png" width="240" alt="Microsoft 把 Copilot 放進 Excel——Febuary、Maruary、Apruary"></a><br><a href="../memes/m2377.md">Microsoft 把 Copilot 放進 Excel——Febuary、Maruary、Apruary</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2379.md"><img src="../images/m2379-semicolon-missing-from-toilet.png" width="240" alt="When I realize semicolon is missing——coming from toilet"></a><br><a href="../memes/m2379.md">When I realize semicolon is missing——coming from toilet</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2384.md"><img src="../images/m2384-doge-show-more-posts.png" width="240" alt="Do you want to see more posts like this?——Show more"></a><br><a href="../memes/m2384.md">Do you want to see more posts like this?——Show more</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2389.md"><img src="../images/m2389-coding-chair-debugging-chair.png" width="240" alt="Coding chair vs Debugging chair"></a><br><a href="../memes/m2389.md">Coding chair vs Debugging chair</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

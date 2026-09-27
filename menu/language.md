@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 256 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 258 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（168）
+## ★（170）
 
 <table>
 <tr>
@@ -288,6 +288,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2230.md"><img src="../images/m2230-large-bubble-tea-dabei.png" width="240" alt="我要一個大杯珍奶——好的，大悲珍奶"></a><br><a href="../memes/m2230.md">我要一個大杯珍奶——好的，大悲珍奶</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2276.md"><img src="../images/m2276-dragon-dance-faucet-head.png" width="240" alt="舞龍經費有限，只好改用水龍頭"></a><br><a href="../memes/m2276.md">舞龍經費有限，只好改用水龍頭</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2348.md"><img src="../images/m2348-conan-translation-found-how-many.png" width="240" alt="君はいくつ見つけられるかな？——你被多少找到？"></a><br><a href="../memes/m2348.md">君はいくつ見つけられるかな？——你被多少找到？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2375.md"><img src="../images/m2375-restaurant-staff-slurred-greetings.png" width="240" alt="緩光臨、鳥～蕭什麼、報思～幫嗯上菜、寫光您"></a><br><a href="../memes/m2375.md">緩光臨、鳥～蕭什麼、報思～幫嗯上菜、寫光您</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2380.md"><img src="../images/m2380-i-decide-vs-forget-it.png" width="240" alt="年輕時的人生：我說了算——現在的人生：算了"></a><br><a href="../memes/m2380.md">年輕時的人生：我說了算——現在的人生：算了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 82 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 83 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（64）
 
@@ -119,7 +119,7 @@
 </tr>
 </table>
 
-## ★★（9）
+## ★★（10）
 
 <table>
 <tr>
@@ -136,6 +136,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1469.md"><img src="../images/m1469-grad-school-research-forever.png" width="240" alt="念研究所前的我：我和教授約好要做一輩子研究了"></a><br><a href="../memes/m1469.md">念研究所前的我：我和教授約好要做一輩子研究了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1635.md"><img src="../images/m1635-statistical-test-flowchart-llms.png" width="240" alt="選擇統計檢定流程圖（LLM 版）"></a><br><a href="../memes/m1635.md">選擇統計檢定流程圖（LLM 版）</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1886.md"><img src="../images/m1886-generational-trauma-uncertainty.png" width="240" alt="打破世代創傷：別忘了誤差傳播——儘管忽略模型不確定性吧"></a><br><a href="../memes/m1886.md">打破世代創傷：別忘了誤差傳播——儘管忽略模型不確定性吧</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2382.md"><img src="../images/m2382-parisi-deadline-registration-log.png" width="240" alt="諾貝爾獎得主 Parisi：會議報名人數 N(t) = c·ln[T*/(T*−t)]"></a><br><a href="../memes/m2382.md">諾貝爾獎得主 Parisi：會議報名人數 N(t) = c·ln[T*/(T*−t)]</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

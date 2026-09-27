@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 792 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 799 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（544）
+## ★（550）
 
 <table>
 <tr>
@@ -916,6 +916,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1766.md"><img src="../images/m1766-everything-on-track.png" width="240" alt="還行，一切都在軌道上——軌道"></a><br><a href="../memes/m1766.md">還行，一切都在軌道上——軌道</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1771.md"><img src="../images/m1771-mayflower-tiny-paper-outlet.jpg" width="240" alt="五月花出紙口"></a><br><a href="../memes/m1771.md">五月花出紙口</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1772.md"><img src="../images/m1772-carrot-crying-no-money.jpg" width="240" alt="你怎麼哭了？——我沒有錢"></a><br><a href="../memes/m1772.md">你怎麼哭了？——我沒有錢</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1776.md"><img src="../images/m1776-transported-into-manhwa-debt.jpg" width="240" alt="穿進漫畫裡了——怎麼是韓漫"></a><br><a href="../memes/m1776.md">穿進漫畫裡了——怎麼是韓漫</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1777.md"><img src="../images/m1777-dog-cookies-cream-icecream.png" width="240" alt="餅乾奶油冰淇淋與斑點狗"></a><br><a href="../memes/m1777.md">餅乾奶油冰淇淋與斑點狗</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1778.md"><img src="../images/m1778-draw-only-good-part.png" width="240" alt="只會畫臉的一部分"></a><br><a href="../memes/m1778.md">只會畫臉的一部分</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1780.md"><img src="../images/m1780-fancy-kitchen-vs-grandma.png" width="240" alt="花百萬裝修的高級廚房 vs 阿嬤的老廚房"></a><br><a href="../memes/m1780.md">花百萬裝修的高級廚房 vs 阿嬤的老廚房</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1044,7 +1054,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（176）
+## ⚠️ 需斟酌（177）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2803,6 +2813,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1762.md"><img src="../images/m1762-no-kiss-no-lewd-pointless.jpg" width="240" alt="你是在想，不接吻也不做色色的事，這樣交往下去根本沒意義，對吧？"></a><br><a href="../memes/m1762.md">你是在想，不接吻也不做色色的事，這樣交往下去根本沒意義，對吧？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>有會員載具嗎？——原來是條碼啊 — ⚠️ 自殘</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1773.md"><img src="../images/m1773-barcode-scars-carrier.jpg" width="240" alt="有會員載具嗎？——原來是條碼啊"></a><br><a href="../memes/m1773.md">有會員載具嗎？——原來是條碼啊</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 190 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 193 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（128）
+## ★（130）
 
 <table>
 <tr>
@@ -222,6 +222,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1722.md"><img src="../images/m1722-fortune-go-south-too-kaobei.jpg" width="240" alt="解籤的說我只要往南發展就會有姻緣——你看，你就是太靠北了"></a><br><a href="../memes/m1722.md">解籤的說我只要往南發展就會有姻緣——你看，你就是太靠北了</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1764.md"><img src="../images/m1764-minus-four-three-fuji.jpg" width="240" alt="第三題答案多少？(-4,3)——富士山"></a><br><a href="../memes/m1764.md">第三題答案多少？(-4,3)——富士山</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1770.md"><img src="../images/m1770-swearing-milk.png" width="240" alt="說髒話牛奶！"></a><br><a href="../memes/m1770.md">說髒話牛奶！</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1775.md"><img src="../images/m1775-amen-a-qian-grape-tree.jpg" width="240" alt="阿門——阿前——一顆葡萄樹"></a><br><a href="../memes/m1775.md">阿門——阿前——一顆葡萄樹</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -258,7 +262,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（46）
+## ⚠️ 需斟酌（47）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -717,6 +721,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1767.md"><img src="../images/m1767-water-8m-third-place.png" width="240" alt="水深 8 米，已經淹死 2 人，你想做第 3 人嗎"></a><br><a href="../memes/m1767.md">水深 8 米，已經淹死 2 人，你想做第 3 人嗎</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>從小便認識，大便情更濃 — ⚠️ 排泄字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1774.md"><img src="../images/m1774-know-since-small-convenience.jpg" width="240" alt="從小便認識，大便情更濃"></a><br><a href="../memes/m1774.md">從小便認識，大便情更濃</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

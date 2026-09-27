@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 182 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 183 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（118）
+## ★（119）
 
 <table>
 <tr>
@@ -206,6 +206,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1750.md"><img src="../images/m1750-robot-lounge-chairs-recursion.png" width="240" alt="躺椅上的機器人一路變小"></a><br><a href="../memes/m1750.md">躺椅上的機器人一路變小</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1779.md"><img src="../images/m1779-word-move-table-road.png" width="240" alt="我輕輕移動一個表格，整個 Word："></a><br><a href="../memes/m1779.md">我輕輕移動一個表格，整個 Word：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

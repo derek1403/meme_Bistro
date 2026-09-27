@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 293 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 296 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（91）
+## ★（92）
 
 <table>
 <tr>
@@ -161,10 +161,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2337.md"><img src="../images/m2337-ddx-throws-ex-comes-back.png" width="240" alt="d/dx 把 eˣ 趕出去——eˣ 又回來了"></a><br><a href="../memes/m2337.md">d/dx 把 eˣ 趕出去——eˣ 又回來了</a><br><sub>🧠 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2406.md"><img src="../images/m2406-touhou-equals-100-percent.png" width="240" alt="Knowledge 96%、Workhard 98%……Touhou = 100%"></a><br><a href="../memes/m2406.md">Knowledge 96%、Workhard 98%……Touhou = 100%</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（133）
+## ★★（135）
 
 <table>
 <tr>
@@ -389,6 +390,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2368.md"><img src="../images/m2368-large-small-sigma-cats.png" width="240" alt="Large σ vs Small σ"></a><br><a href="../memes/m2368.md">Large σ vs Small σ</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2390.md"><img src="../images/m2390-love-generalized-eigenvectors.png" width="240" alt="I love generalized eigenvectors!!! I want to form a basis with them!!!"></a><br><a href="../memes/m2390.md">I love generalized eigenvectors!!! I want to form a basis with them!!!</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2395.md"><img src="../images/m2395-body-machine-pdp-inverse.png" width="240" alt="My body is a machine that turns A into PDP⁻¹"></a><br><a href="../memes/m2395.md">My body is a machine that turns A into PDP⁻¹</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

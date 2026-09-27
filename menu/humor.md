@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（246）](#hardcore)
-- [👀 直觀（1764）](#intuitive)
-- [🔤 諧音／文字梗（332）](#pun)
-- [🔥 地獄梗（192）](#dark)
+- [🧠 硬核（249）](#hardcore)
+- [👀 直觀（1776）](#intuitive)
+- [🔤 諧音／文字梗（334）](#pun)
+- [🔥 地獄梗（193）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（246）
+## 🧠 硬核（249）
 
 要有學科背景才笑得出來
 
@@ -261,10 +261,13 @@
 - 🧮 [25 個圓、36 個圓，合理——49 個圓：WHAT THE…](../memes/m2358.md) ★★
 - 🧮 [Large σ vs Small σ](../memes/m2368.md) ★★
 - 🎓 [諾貝爾獎得主 Parisi：會議報名人數 N(t) = c·ln[T*/(T*−t)]](../memes/m2382.md) ★★
+- 🧮 [I love generalized eigenvectors!!! I want to form a basis with them!!!](../memes/m2390.md) ★★
+- 🧮 [My body is a machine that turns A into PDP⁻¹](../memes/m2395.md) ★★
+- 🔬 [wave-CISK 解釋 MJO「充其量不足，最糟是錯的」——今天很嗆是吧](../memes/m2400.md) ★★★
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1764）
+## 👀 直觀（1776）
 
 看圖就懂
 
@@ -2032,10 +2035,22 @@
 - 🍺 [抱歉……停車時沒有看到你的碗……](../memes/m2387.md) ★
 - 🍺 [這杯水好好喝——原來你喜歡我，畢竟我身體 70% 都是水做的](../memes/m2388.md) ★
 - 💻 [Coding chair vs Debugging chair](../memes/m2389.md) ★
+- 🍺 [成年人的快樂其實很簡單](../memes/m2393.md) ★
+- 💻 [My Matplotlib! I can't see my data without my Matplotlib!](../memes/m2394.md) ★
+- 💻 [我想要 AI 幫我洗衣洗碗，讓我能畫畫寫作——不是反過來](../memes/m2396.md) ★
+- 💻 [I'm hacking the FBI——apt-get install sudo nano](../memes/m2397.md) ★
+- 🍺 [You told me it would stop raining!——I lied](../memes/m2398.md) ★
+- 💻 [Normal People vs Programmer 詞彙對照](../memes/m2401.md) ★
+- 🍺 [我幫人類更快到達目的地——我讓人類準時起床——我就吠](../memes/m2402.md) ★
+- 💻 [Happy IT Day 蛋糕——結尾的 <cake> 沒關好](../memes/m2403.md) ★
+- 🎓 [My paper 與 Reviewer 1, 2, 3, 4 和 Editor](../memes/m2404.md) ★
+- 🍺 [老師：圖片是無法傳遞痛苦的——我：](../memes/m2405.md) ★
+- 🧮 [Knowledge 96%、Workhard 98%……Touhou = 100%](../memes/m2406.md) ★
+- 🗣️ [我絕不會為了五斗米折腰——那六斗米呢？——請問交稿期限是什麼時候？](../memes/m2407.md) ★
 
 <a id="pun"></a>
 
-## 🔤 諧音／文字梗（332）
+## 🔤 諧音／文字梗（334）
 
 雙關、諧音、字面意思
 
@@ -2371,10 +2386,12 @@
 - 💻 [在 C++ 裡，friend 可以存取 private parts](../memes/m2340.md) ★★ ⚠️ 性暗示
 - 🗣️ [密碼要 8 個字元（characters）加一個 Capital](../memes/m2360.md) ★★
 - 🗣️ [年輕時的人生：我說了算——現在的人生：算了](../memes/m2380.md) ★
+- 🗣️ [鑰匙翹翹了](../memes/m2391.md) ★★
+- 🗣️ [房東其實是真珠美人魚吧——品種是增租美人魚](../memes/m2399.md) ★★
 
 <a id="dark"></a>
 
-## 🔥 地獄梗（192）
+## 🔥 地獄梗（193）
 
 拿敏感題材開玩笑，請斟酌
 
@@ -2570,4 +2587,5 @@
 - 🍺 [午餐時間！——午餐時間！](../memes/m2315.md) ★ ⚠️ 血腥
 - 🌍 [Why did you become a pilot?——To overcome my biggest fear: dying alone](../memes/m2328.md) ★ ⚠️ 空難、死亡
 - 🍺 [用冰淇淋騙孩子吃藥——冰淇淋有毒，這是解毒藥](../memes/m2378.md) ★ ⚠️ 恐嚇兒童
+- 🌍 [第一位程式設計師是女性——所以電腦語言才那麼難懂](../memes/m2392.md) ★ ⚠️ 性別歧視玩笑
 

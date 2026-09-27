@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 2389 張。用瀏覽器的 Ctrl+F 搜尋關鍵字最快。
+共 2407 張。用瀏覽器的 Ctrl+F 搜尋關鍵字最快。
 
 | ID | 標題 | 主題 | 笑點 | 難度 | 標籤 |
 |---|---|---|---|---|---|
@@ -2397,3 +2397,21 @@
 | m2387 | [抱歉……停車時沒有看到你的碗……](../memes/m2387.md) | 🍺 日常與生活 | 👀 | ★ | 狗、碗、壓扁、米格魯 |
 | m2388 | [這杯水好好喝——原來你喜歡我，畢竟我身體 70% 都是水做的](../memes/m2388.md) | 🍺 日常與生活 | 👀 | ★ | 自戀、水、搭訕、惡魚池 |
 | m2389 | [Coding chair vs Debugging chair](../memes/m2389.md) | 💻 程式與 AI | 👀 | ★ | debug、馬桶、靈感、廁所 |
+| m2390 | [I love generalized eigenvectors!!! I want to form a basis with them!!!](../memes/m2390.md) | 🧮 數學 | 🧠 | ★★ | 廣義特徵向量、Jordan標準型、基底、海綿寶寶 |
+| m2391 | [鑰匙翹翹了](../memes/m2391.md) | 🗣️ 語言與諧音 | 🔤 | ★★ | 翹翹、翹辮子、鑰匙、雙關 |
+| m2392 | [第一位程式設計師是女性——所以電腦語言才那麼難懂](../memes/m2392.md) ⚠️ 性別歧視玩笑 | 🌍 社會與地獄梗 | 🔥 | ★ | 性別刻板印象、程式設計師、ENIAC、留言 |
+| m2393 | [成年人的快樂其實很簡單](../memes/m2393.md) | 🍺 日常與生活 | 👀 | ★ | 躺平、冷氣、手機、靜音、科米蛙 |
+| m2394 | [My Matplotlib! I can't see my data without my Matplotlib!](../memes/m2394.md) | 💻 程式與 AI | 👀 | ★ | Matplotlib、資料視覺化、史酷比、眼鏡 |
+| m2395 | [My body is a machine that turns A into PDP⁻¹](../memes/m2395.md) | 🧮 數學 | 🧠 | ★★ | 對角化、特徵分解、骷髏健身、MathMatize |
+| m2396 | [我想要 AI 幫我洗衣洗碗，讓我能畫畫寫作——不是反過來](../memes/m2396.md) | 💻 程式與 AI | 👀 | ★ | AI、生成式AI、創作、家事 |
+| m2397 | [I'm hacking the FBI——apt-get install sudo nano](../memes/m2397.md) | 💻 程式與 AI | 👀 | ★ | 駭客、影視、apt-get、Linux、黑客軍團 |
+| m2398 | [You told me it would stop raining!——I lied](../memes/m2398.md) | 🍺 日常與生活 | 👀 | ★ | 天氣預報、下雨、星際大戰、達斯維達 |
+| m2399 | [房東其實是真珠美人魚吧——品種是增租美人魚](../memes/m2399.md) | 🗣️ 語言與諧音 | 🔤 | ★★ | 真珠美人魚、增租、房東、漲房租、諧音 |
+| m2400 | [wave-CISK 解釋 MJO「充其量不足，最糟是錯的」——今天很嗆是吧](../memes/m2400.md) | 🔬 物理與自然科學 | 🧠 | ★★★ | MJO、wave-CISK、熱帶氣象、論文、章魚哥 |
+| m2401 | [Normal People vs Programmer 詞彙對照](../memes/m2401.md) | 💻 程式與 AI | 👀 | ★ | 工程師、術語、0開始、null、對照表 |
+| m2402 | [我幫人類更快到達目的地——我讓人類準時起床——我就吠](../memes/m2402.md) | 🍺 日常與生活 | 👀 | ★ | 狗、馬、雞、寵物、The Square Comics |
+| m2403 | [Happy IT Day 蛋糕——結尾的 <cake> 沒關好](../memes/m2403.md) | 💻 程式與 AI | 👀 | ★ | HTML、標籤、蛋糕、語法錯誤 |
+| m2404 | [My paper 與 Reviewer 1, 2, 3, 4 和 Editor](../memes/m2404.md) | 🎓 學術與研究生活 | 👀 | ★ | 審稿、論文、同儕審查、聽診器 |
+| m2405 | [老師：圖片是無法傳遞痛苦的——我：](../memes/m2405.md) | 🍺 日常與生活 | 👀 | ★ | 動畫、星空、吶喊、反駁 |
+| m2406 | [Knowledge 96%、Workhard 98%……Touhou = 100%](../memes/m2406.md) | 🧮 數學 | 👀 | ★ | 字母加總、勵志文、東方Project、惡搞 |
+| m2407 | [我絕不會為了五斗米折腰——那六斗米呢？——請問交稿期限是什麼時候？](../memes/m2407.md) | 🗣️ 語言與諧音 | 👀 | ★ | 五斗米、陶淵明、畫家、接案、有價碼 |

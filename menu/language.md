@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 258 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 261 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（170）
+## ★（171）
 
 <table>
 <tr>
@@ -292,10 +292,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2375.md"><img src="../images/m2375-restaurant-staff-slurred-greetings.png" width="240" alt="緩光臨、鳥～蕭什麼、報思～幫嗯上菜、寫光您"></a><br><a href="../memes/m2375.md">緩光臨、鳥～蕭什麼、報思～幫嗯上菜、寫光您</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2380.md"><img src="../images/m2380-i-decide-vs-forget-it.png" width="240" alt="年輕時的人生：我說了算——現在的人生：算了"></a><br><a href="../memes/m2380.md">年輕時的人生：我說了算——現在的人生：算了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2407.md"><img src="../images/m2407-six-dou-of-rice-deadline.png" width="240" alt="我絕不會為了五斗米折腰——那六斗米呢？——請問交稿期限是什麼時候？"></a><br><a href="../memes/m2407.md">我絕不會為了五斗米折腰——那六斗米呢？——請問交稿期限是什麼時候？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（25）
+## ★★（27）
 
 <table>
 <tr>
@@ -340,6 +341,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2360.md"><img src="../images/m2360-password-8-characters-capital.png" width="240" alt="密碼要 8 個字元（characters）加一個 Capital"></a><br><a href="../memes/m2360.md">密碼要 8 個字元（characters）加一個 Capital</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2391.md"><img src="../images/m2391-key-bent-qiao-qiao.png" width="240" alt="鑰匙翹翹了"></a><br><a href="../memes/m2391.md">鑰匙翹翹了</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2399.md"><img src="../images/m2399-landlord-rent-increase-mermaid.jpg" width="240" alt="房東其實是真珠美人魚吧——品種是增租美人魚"></a><br><a href="../memes/m2399.md">房東其實是真珠美人魚吧——品種是增租美人魚</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

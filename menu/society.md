@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 193 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（50）
 
@@ -138,7 +138,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（121）
+## ⚠️ 需斟酌（122）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1347,6 +1347,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2369.md"><img src="../images/m2369-single-friend-fruit-holes.png" width="240" alt="單身朋友說：不要因為水果上面的傷痕就嫌棄它"></a><br><a href="../memes/m2369.md">單身朋友說：不要因為水果上面的傷痕就嫌棄它</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>第一位程式設計師是女性——所以電腦語言才那麼難懂 — ⚠️ 性別歧視玩笑</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2392.md"><img src="../images/m2392-first-programmer-woman-comment.png" width="240" alt="第一位程式設計師是女性——所以電腦語言才那麼難懂"></a><br><a href="../memes/m2392.md">第一位程式設計師是女性——所以電腦語言才那麼難懂</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

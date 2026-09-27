@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 83 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 84 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（64）
+## ★（65）
 
 <table>
 <tr>
@@ -116,6 +116,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2361.md"><img src="../images/m2361-what-i-download-vs-read.png" width="240" alt="What I download vs what I read"></a><br><a href="../memes/m2361.md">What I download vs what I read</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2404.md"><img src="../images/m2404-paper-reviewers-stethoscopes.png" width="240" alt="My paper 與 Reviewer 1, 2, 3, 4 和 Editor"></a><br><a href="../memes/m2404.md">My paper 與 Reviewer 1, 2, 3, 4 和 Editor</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

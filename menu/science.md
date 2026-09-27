@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 160 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（71）
 
@@ -224,12 +224,13 @@
 </tr>
 </table>
 
-## ★★★（2）
+## ★★★（3）
 
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0196.md"><img src="../images/m0196-loop-quantum-cosmology-derivative.png" width="240" alt="迴圈量子宇宙學看向別的測度"></a><br><a href="../memes/m0196.md">迴圈量子宇宙學看向別的測度</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0524.md"><img src="../images/m0524-boys-deduct-points-quantum.png" width="240" alt="男生超級扣分的行為（量子力學版）"></a><br><a href="../memes/m0524.md">男生超級扣分的行為（量子力學版）</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2400.md"><img src="../images/m2400-wave-cisk-mjo-squidward.png" width="240" alt="wave-CISK 解釋 MJO「充其量不足，最糟是錯的」——今天很嗆是吧"></a><br><a href="../memes/m2400.md">wave-CISK 解釋 MJO「充其量不足，最糟是錯的」——今天很嗆是吧</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

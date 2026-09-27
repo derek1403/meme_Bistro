@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1115 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（808）
+## ★（812）
 
 <table>
 <tr>
@@ -1356,6 +1356,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2388.md"><img src="../images/m2388-body-70-percent-water.png" width="240" alt="這杯水好好喝——原來你喜歡我，畢竟我身體 70% 都是水做的"></a><br><a href="../memes/m2388.md">這杯水好好喝——原來你喜歡我，畢竟我身體 70% 都是水做的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2393.md"><img src="../images/m2393-adult-happiness-simple.png" width="240" alt="成年人的快樂其實很簡單"></a><br><a href="../memes/m2393.md">成年人的快樂其實很簡單</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2398.md"><img src="../images/m2398-weather-app-i-lied.png" width="240" alt="You told me it would stop raining!——I lied"></a><br><a href="../memes/m2398.md">You told me it would stop raining!——I lied</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2402.md"><img src="../images/m2402-horse-rooster-dog-i-woof.png" width="240" alt="我幫人類更快到達目的地——我讓人類準時起床——我就吠"></a><br><a href="../memes/m2402.md">我幫人類更快到達目的地——我讓人類準時起床——我就吠</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2405.md"><img src="../images/m2405-pictures-cannot-convey-pain.png" width="240" alt="老師：圖片是無法傳遞痛苦的——我："></a><br><a href="../memes/m2405.md">老師：圖片是無法傳遞痛苦的——我：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

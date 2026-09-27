@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 287 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 292 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（205）
+## ★（210）
 
 <table>
 <tr>
@@ -351,6 +351,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2389.md"><img src="../images/m2389-coding-chair-debugging-chair.png" width="240" alt="Coding chair vs Debugging chair"></a><br><a href="../memes/m2389.md">Coding chair vs Debugging chair</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2394.md"><img src="../images/m2394-velma-cant-see-without-matplotlib.png" width="240" alt="My Matplotlib! I can't see my data without my Matplotlib!"></a><br><a href="../memes/m2394.md">My Matplotlib! I can't see my data without my Matplotlib!</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2396.md"><img src="../images/m2396-ai-do-my-laundry-not-art.png" width="240" alt="我想要 AI 幫我洗衣洗碗，讓我能畫畫寫作——不是反過來"></a><br><a href="../memes/m2396.md">我想要 AI 幫我洗衣洗碗，讓我能畫畫寫作——不是反過來</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2397.md"><img src="../images/m2397-mr-robot-hacking-apt-get.png" width="240" alt="I'm hacking the FBI——apt-get install sudo nano"></a><br><a href="../memes/m2397.md">I'm hacking the FBI——apt-get install sudo nano</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2401.md"><img src="../images/m2401-normal-people-vs-programmer.png" width="240" alt="Normal People vs Programmer 詞彙對照"></a><br><a href="../memes/m2401.md">Normal People vs Programmer 詞彙對照</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2403.md"><img src="../images/m2403-html-cake-unclosed-tag.png" width="240" alt="Happy IT Day 蛋糕——結尾的 <cake> 沒關好"></a><br><a href="../memes/m2403.md">Happy IT Day 蛋糕——結尾的 <cake> 沒關好</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

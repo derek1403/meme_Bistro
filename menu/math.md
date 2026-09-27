@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 248 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 250 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -154,7 +154,7 @@
 </tr>
 </table>
 
-## ★★（100）
+## ★★（102）
 
 <table>
 <tr>
@@ -324,6 +324,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1700.md"><img src="../images/m1700-plot-of-1984-google.png" width="240" alt="plot of 1984 → Graph for y=1984"></a><br><a href="../memes/m1700.md">plot of 1984 → Graph for y=1984</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1741.md"><img src="../images/m1741-spiderman-circle-group.png" width="240" alt="蜘蛛人互指：它們都是圓"></a><br><a href="../memes/m1741.md">蜘蛛人互指：它們都是圓</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1743.md"><img src="../images/m1743-d-dx-book-changes-you.png" width="240" alt="Read this. It will change you."></a><br><a href="../memes/m1743.md">Read this. It will change you.</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

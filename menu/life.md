@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 776 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 782 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（532）
+## ★（537）
 
 <table>
 <tr>
@@ -896,6 +896,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1735.md"><img src="../images/m1735-window-seat-no-window.png" width="240" alt="說好的靠窗呢？？"></a><br><a href="../memes/m1735.md">說好的靠窗呢？？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1738.md"><img src="../images/m1738-thinking-other-woman-transformers.png" width="240" alt="他一定又在想別的女人了——變形金剛要買人壽還是汽車保險？"></a><br><a href="../memes/m1738.md">他一定又在想別的女人了——變形金剛要買人壽還是汽車保險？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1739.md"><img src="../images/m1739-game-friends-level-graves.png" width="240" alt="一起玩遊戲的朋友們：LV 115 上線中"></a><br><a href="../memes/m1739.md">一起玩遊戲的朋友們：LV 115 上線中</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1742.md"><img src="../images/m1742-client-replies-3am.jpg" width="240" alt="凌晨三點跟甲方發進度的陰間作息的我——秒回的甲方"></a><br><a href="../memes/m1742.md">凌晨三點跟甲方發進度的陰間作息的我——秒回的甲方</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1745.md"><img src="../images/m1745-bus-brake-smooth-criminal.jpg" width="240" alt="當你準備下車時，公車師傅突然踩了一腳剎車"></a><br><a href="../memes/m1745.md">當你準備下車時，公車師傅突然踩了一腳剎車</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1746.md"><img src="../images/m1746-hot-sauce-gun.jpg" width="240" alt="東泉辣椒醬手槍"></a><br><a href="../memes/m1746.md">東泉辣椒醬手槍</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1023,7 +1030,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（173）
+## ⚠️ 需斟酌（174）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2752,6 +2759,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1734.md"><img src="../images/m1734-no-love-make-love-seven-boxes.png" width="240" alt="沒有愛就做到有愛為止，我帶了七盒"></a><br><a href="../memes/m1734.md">沒有愛就做到有愛為止，我帶了七盒</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>各位，這是安迪媽媽的玩具，我們歡迎他 — ⚠️ 性暗示（情趣用品）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1740.md"><img src="../images/m1740-toy-story-andys-mom-toy.png" width="240" alt="各位，這是安迪媽媽的玩具，我們歡迎他"></a><br><a href="../memes/m1740.md">各位，這是安迪媽媽的玩具，我們歡迎他</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 138 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 139 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（37）
 
@@ -74,7 +74,7 @@
 </tr>
 </table>
 
-## ★★（9）
+## ★★（10）
 
 <table>
 <tr>
@@ -91,6 +91,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1410.md"><img src="../images/m1410-taiwan-fans-praying-premier12.jpg" width="240" alt="台灣人太可愛了！感謝美國哈哈哈哈"></a><br><a href="../memes/m1410.md">台灣人太可愛了！感謝美國哈哈哈哈</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1641.md"><img src="../images/m1641-elevator-stocks-green-faces.jpg" width="240" alt="能不能別在電梯裡面看股票"></a><br><a href="../memes/m1641.md">能不能別在電梯裡面看股票</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1688.md"><img src="../images/m1688-shanthony-you-got-day-off.png" width="240" alt="山陀兒：你們放到假了對吧"></a><br><a href="../memes/m1688.md">山陀兒：你們放到假了對吧</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1744.md"><img src="../images/m1744-ma-huateng-game-clothes-quote.jpg" width="240" alt="遊戲裡的衣服不用洗，貴有貴的大道理——馬化騰"></a><br><a href="../memes/m1744.md">遊戲裡的衣服不用洗，貴有貴的大道理——馬化騰</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

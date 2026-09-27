@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 594 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 602 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（404）
+## ★（408）
 
 <table>
 <tr>
@@ -682,6 +682,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1404.md"><img src="../images/m1404-cheerful-because-bad-memory.jpg" width="240" alt="別人性格開朗的原因 vs 我性格開朗的原因"></a><br><a href="../memes/m1404.md">別人性格開朗的原因 vs 我性格開朗的原因</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1405.md"><img src="../images/m1405-hotdog-stickman-grill-rack.png" width="240" alt="火柴人烤熱狗架"></a><br><a href="../memes/m1405.md">火柴人烤熱狗架</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1411.md"><img src="../images/m1411-uncle-hand-seals-baseball.jpg" width="240" alt="阿北結印教學"></a><br><a href="../memes/m1411.md">阿北結印教學</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1414.md"><img src="../images/m1414-woman-yelling-cat-resting.jpg" width="240" alt="這隻貓到哪去了？！——小貓咪也需要休息！"></a><br><a href="../memes/m1414.md">這隻貓到哪去了？！——小貓咪也需要休息！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1415.md"><img src="../images/m1415-dont-need-heart-just-money.jpg" width="240" alt="你就沒必要跟我掏心掏肺了，直接掏錢就行"></a><br><a href="../memes/m1415.md">你就沒必要跟我掏心掏肺了，直接掏錢就行</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1416.md"><img src="../images/m1416-drink-3kg-water-no-friends.jpg" width="240" alt="每天喝三公斤水就能遠離人際關係的問題"></a><br><a href="../memes/m1416.md">每天喝三公斤水就能遠離人際關係的問題</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -799,7 +805,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（125）
+## ⚠️ 需斟酌（129）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2048,6 +2054,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1382.md"><img src="../images/m1382-best-comforters-most-hurt.jpg" width="240" alt="最擅長安慰別人的人可能受到過最多傷害"></a><br><a href="../memes/m1382.md">最擅長安慰別人的人可能受到過最多傷害</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你看完一整部喜歡的動畫 — ⚠️ 色情暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1407.md"><img src="../images/m1407-finish-anime-google-nhent.png" width="240" alt="當你看完一整部喜歡的動畫"></a><br><a href="../memes/m1407.md">當你看完一整部喜歡的動畫</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>掃這間廁所的人準備要倒楣了 — ⚠️ 如廁</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1409.md"><img src="../images/m1409-urinal-basketball-court.png" width="240" alt="掃這間廁所的人準備要倒楣了"></a><br><a href="../memes/m1409.md">掃這間廁所的人準備要倒楣了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你自慰是因為想瑟瑟，還是需要多巴胺緩解抑鬱？ — ⚠️ 性暗示／憂鬱</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1412.md"><img src="../images/m1412-masturbate-horny-or-dopamine.jpg" width="240" alt="你自慰是因為想瑟瑟，還是需要多巴胺緩解抑鬱？"></a><br><a href="../memes/m1412.md">你自慰是因為想瑟瑟，還是需要多巴胺緩解抑鬱？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>太棒了！免費的箱子！ — ⚠️ 死亡／血腥</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1413.md"><img src="../images/m1413-free-box-trap-stick.png" width="240" alt="太棒了！免費的箱子！"></a><br><a href="../memes/m1413.md">太棒了！免費的箱子！</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

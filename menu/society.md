@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 114 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（24）
 
@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-## ★★（6）
+## ★★（7）
 
 <table>
 <tr>
@@ -64,9 +64,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1380.md"><img src="../images/m1380-jesus-2024th-birthday-cafe.jpg" width="240" alt="耶穌 2024 歲生日咖啡廳"></a><br><a href="../memes/m1380.md">耶穌 2024 歲生日咖啡廳</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1389.md"><img src="../images/m1389-weeds-stickman-politics.png" width="240" alt="你抱怨雜草就跟雜草一樣糟！"></a><br><a href="../memes/m1389.md">你抱怨雜草就跟雜草一樣糟！</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1410.md"><img src="../images/m1410-taiwan-fans-praying-premier12.jpg" width="240" alt="台灣人太可愛了！感謝美國哈哈哈哈"></a><br><a href="../memes/m1410.md">台灣人太可愛了！感謝美國哈哈哈哈</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（82）
+## ⚠️ 需斟酌（83）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -885,6 +888,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1403.md"><img src="../images/m1403-chickens-flee-taiwan.jpg" width="240" alt="海關：你們為什麼要急著離開台灣？"></a><br><a href="../memes/m1403.md">海關：你們為什麼要急著離開台灣？</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>公正廉潔的海關大樓：局長，我們扣了一箱……給您嚐個鮮 — ⚠️ 性暗示／情趣用品／族群刻板印象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1417.md"><img src="../images/m1417-customs-chief-confiscated.jpg" width="240" alt="公正廉潔的海關大樓：局長，我們扣了一箱……給您嚐個鮮"></a><br><a href="../memes/m1417.md">公正廉潔的海關大樓：局長，我們扣了一箱……給您嚐個鮮</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

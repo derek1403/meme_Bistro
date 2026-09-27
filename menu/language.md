@@ -6,7 +6,7 @@
 
 共 146 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（96）
+## ★（95）
 
 <table>
 <tr>
@@ -167,7 +167,6 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1428.md"><img src="../images/m1428-moon-represents-low-salary.jpg" width="240" alt="月亮代表我低薪"></a><br><a href="../memes/m1428.md">月亮代表我低薪</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1448.md"><img src="../images/m1448-cancel-zodiac-oxen-horses.png" width="240" alt="覺得其實可以取消十二生肖了"></a><br><a href="../memes/m1448.md">覺得其實可以取消十二生肖了</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1449.md"><img src="../images/m1449-single-persons-keyboard.png" width="240" alt="A single person's keyboard"></a><br><a href="../memes/m1449.md">A single person's keyboard</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -196,7 +195,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（38）
+## ⚠️ 需斟酌（39）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -575,6 +574,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1436.md"><img src="../images/m1436-dandadan-balls-kinyutang.jpg" width="240" alt="想找回你的蛋蛋？它就藏在台灣一個地方：金玉堂"></a><br><a href="../memes/m1436.md">想找回你的蛋蛋？它就藏在台灣一個地方：金玉堂</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>A single person's keyboard — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1449.md"><img src="../images/m1449-single-persons-keyboard.png" width="240" alt="A single person's keyboard"></a><br><a href="../memes/m1449.md">A single person's keyboard</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

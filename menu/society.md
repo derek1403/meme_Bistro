@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 111 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（24）
 
@@ -66,7 +66,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（81）
+## ⚠️ 需斟酌（82）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -875,6 +875,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1358.md"><img src="../images/m1358-convenience-store-book-go-die.jpg" width="240" alt="以為有錢就了不起的客人，請默默找個地方去死"></a><br><a href="../memes/m1358.md">以為有錢就了不起的客人，請默默找個地方去死</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>海關：你們為什麼要急著離開台灣？ — ⚠️ 動物（食用）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1403.md"><img src="../images/m1403-chickens-flee-taiwan.jpg" width="240" alt="海關：你們為什麼要急著離開台灣？"></a><br><a href="../memes/m1403.md">海關：你們為什麼要急著離開台灣？</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

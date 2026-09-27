@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 589 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 594 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（399）
+## ★（404）
 
 <table>
 <tr>
@@ -673,6 +673,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1391.md"><img src="../images/m1391-replace-bad-habits-sleep.jpg" width="240" alt="替換掉你的壞習慣：睡大覺"></a><br><a href="../memes/m1391.md">替換掉你的壞習慣：睡大覺</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1393.md"><img src="../images/m1393-asuka-human-history-timeline.png" width="240" alt="人類歷史上的大事件：火、車輪、明日香登場"></a><br><a href="../memes/m1393.md">人類歷史上的大事件：火、車輪、明日香登場</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1394.md"><img src="../images/m1394-best-group-selfie-underwater.png" width="240" alt="最佳團體自拍獎得主是……"></a><br><a href="../memes/m1394.md">最佳團體自拍獎得主是……</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1396.md"><img src="../images/m1396-whats-behind-your-ear-job-center.png" width="240" alt="那你耳朵後面是什麼？——就業中心"></a><br><a href="../memes/m1396.md">那你耳朵後面是什麼？——就業中心</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1397.md"><img src="../images/m1397-rich-flex-poor-confused.jpg" width="240" alt="有錢人向我炫富，但我太窮聽不懂"></a><br><a href="../memes/m1397.md">有錢人向我炫富，但我太窮聽不懂</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1398.md"><img src="../images/m1398-bed-is-great.png" width="240" alt="床很棒"></a><br><a href="../memes/m1398.md">床很棒</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1404.md"><img src="../images/m1404-cheerful-because-bad-memory.jpg" width="240" alt="別人性格開朗的原因 vs 我性格開朗的原因"></a><br><a href="../memes/m1404.md">別人性格開朗的原因 vs 我性格開朗的原因</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1405.md"><img src="../images/m1405-hotdog-stickman-grill-rack.png" width="240" alt="火柴人烤熱狗架"></a><br><a href="../memes/m1405.md">火柴人烤熱狗架</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

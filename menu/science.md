@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 116 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 118 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（53）
 
@@ -184,7 +184,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（19）
+## ⚠️ 需斟酌（21）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -373,6 +373,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1350.md"><img src="../images/m1350-birdsong-relaxing-music.png" width="240" alt="放鬆音樂：鳥叫聲合輯"></a><br><a href="../memes/m1350.md">放鬆音樂：鳥叫聲合輯</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我解決了祖父悖論這個問題 — ⚠️ 殺人</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1400.md"><img src="../images/m1400-grandfather-paradox-solved.png" width="240" alt="我解決了祖父悖論這個問題"></a><br><a href="../memes/m1400.md">我解決了祖父悖論這個問題</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>她在 6 歲時被迫吃下同位素鈾-235 — ⚠️ 核輻射／虐待暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1401.md"><img src="../images/m1401-okuu-uranium-235.png" width="240" alt="她在 6 歲時被迫吃下同位素鈾-235"></a><br><a href="../memes/m1401.md">她在 6 歲時被迫吃下同位素鈾-235</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

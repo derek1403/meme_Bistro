@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 137 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（90）
+## ★（92）
 
 <table>
 <tr>
@@ -159,6 +159,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1372.md"><img src="../images/m1372-dine-in-write-correct.png" width="240" alt="到底誰會在內用寫對啦"></a><br><a href="../memes/m1372.md">到底誰會在內用寫對啦</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1387.md"><img src="../images/m1387-i-like-bad-girls-cant-do-anything.png" width="240" alt="我喜歡壞女孩——但我真的每件事都做不好"></a><br><a href="../memes/m1387.md">我喜歡壞女孩——但我真的每件事都做不好</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1402.md"><img src="../images/m1402-original-audio-need-subtitles.jpg" width="240" alt="下載原聲版練聽力——沒有字幕我就聽不見了"></a><br><a href="../memes/m1402.md">下載原聲版練聽力——沒有字幕我就聽不見了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1406.md"><img src="../images/m1406-black-stockings-free-billiards.jpg" width="240" alt="穿黑絲免費打台球"></a><br><a href="../memes/m1406.md">穿黑絲免費打台球</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（11）
@@ -185,7 +189,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（36）
+## ⚠️ 需斟酌（37）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -544,6 +548,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1370.md"><img src="../images/m1370-maneki-neko-chill-guy.png" width="240" alt="沒有蛋蛋，蛋我不在乎——Just a chill guy"></a><br><a href="../memes/m1370.md">沒有蛋蛋，蛋我不在乎——Just a chill guy</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在日中国人 → Fucking Chinese — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1399.md"><img src="../images/m1399-zainichi-chinese-translate.jpg" width="240" alt="在日中国人 → Fucking Chinese"></a><br><a href="../memes/m1399.md">在日中国人 → Fucking Chinese</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

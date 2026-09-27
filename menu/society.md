@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 125 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（29）
+## ★（30）
 
 <table>
 <tr>
@@ -57,10 +57,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1548.md"><img src="../images/m1548-no-laws-zero-crime.png" width="240" alt="世界上如果沒有法律，犯罪率是不是就會變成 0%"></a><br><a href="../memes/m1548.md">世界上如果沒有法律，犯罪率是不是就會變成 0%</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1558.md"><img src="../images/m1558-taiwan-social-hunter-jay.jpg" width="240" alt="今天的台灣網路社群 be like"></a><br><a href="../memes/m1558.md">今天的台灣網路社群 be like</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1692.md"><img src="../images/m1692-typhoon-cant-offend-taiwanese.jpg" width="240" alt="颱風不得罪台灣人還真就是跪著要飯的"></a><br><a href="../memes/m1692.md">颱風不得罪台灣人還真就是跪著要飯的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（8）
+## ★★（9）
 
 <table>
 <tr>
@@ -76,6 +77,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1410.md"><img src="../images/m1410-taiwan-fans-praying-premier12.jpg" width="240" alt="台灣人太可愛了！感謝美國哈哈哈哈"></a><br><a href="../memes/m1410.md">台灣人太可愛了！感謝美國哈哈哈哈</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1641.md"><img src="../images/m1641-elevator-stocks-green-faces.jpg" width="240" alt="能不能別在電梯裡面看股票"></a><br><a href="../memes/m1641.md">能不能別在電梯裡面看股票</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1688.md"><img src="../images/m1688-shanthony-you-got-day-off.png" width="240" alt="山陀兒：你們放到假了對吧"></a><br><a href="../memes/m1688.md">山陀兒：你們放到假了對吧</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

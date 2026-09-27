@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 70 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 71 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（55）
 
@@ -123,7 +123,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（7）
+## ⚠️ 需斟酌（8）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -192,6 +192,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1271.md"><img src="../images/m1271-anime-vs-real-high-school.png" width="240" alt="動漫裡的高中生活 vs 現實裡的高中生活"></a><br><a href="../memes/m1271.md">動漫裡的高中生活 vs 現實裡的高中生活</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>學姐留下來的畫板：小鬼別學美術 — ⚠️ 血跡意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1691.md"><img src="../images/m1691-senior-drawing-board-dont-study-art.png" width="240" alt="學姐留下來的畫板：小鬼別學美術"></a><br><a href="../memes/m1691.md">學姐留下來的畫板：小鬼別學美術</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

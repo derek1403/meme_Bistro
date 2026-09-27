@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 754 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 760 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（520）
+## ★（523）
 
 <table>
 <tr>
@@ -876,6 +876,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1681.md"><img src="../images/m1681-cat-seasons-life.png" width="240" alt="我不是叫你帶調味料嗎？——牠是調味生活的"></a><br><a href="../memes/m1681.md">我不是叫你帶調味料嗎？——牠是調味生活的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1683.md"><img src="../images/m1683-typhoon-help-grannies-cross.png" width="240" alt="颱風來但你平常扶超過 4500 個老奶奶過馬路"></a><br><a href="../memes/m1683.md">颱風來但你平常扶超過 4500 個老奶奶過馬路</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1684.md"><img src="../images/m1684-come-to-work-not-awake.jpg" width="240" alt="你怎麼每天沒睡醒一樣就來上班？——睡醒來上班不就遲到了嗎？"></a><br><a href="../memes/m1684.md">你怎麼每天沒睡醒一樣就來上班？——睡醒來上班不就遲到了嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1687.md"><img src="../images/m1687-taro-milk-hotpot-leave-earth.png" width="240" alt="芋頭牛奶鍋——拿著你的芋頭牛奶火鍋離開地球"></a><br><a href="../memes/m1687.md">芋頭牛奶鍋——拿著你的芋頭牛奶火鍋離開地球</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1002,7 +1007,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（164）
+## ⚠️ 需斟酌（167）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2641,6 +2646,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1663.md"><img src="../images/m1663-ladies-first-cs-habit.png" width="240" alt="為什麼你總是讓我先走？——小時候的習慣啦"></a><br><a href="../memes/m1663.md">為什麼你總是讓我先走？——小時候的習慣啦</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>長的我難受——我說的不是臉 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1689.md"><img src="../images/m1689-online-date-not-face.png" width="240" alt="長的我難受——我說的不是臉"></a><br><a href="../memes/m1689.md">長的我難受——我說的不是臉</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>擁有身高差的情侶真的好可愛 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1690.md"><img src="../images/m1690-height-difference-couple-grave.png" width="240" alt="擁有身高差的情侶真的好可愛"></a><br><a href="../memes/m1690.md">擁有身高差的情侶真的好可愛</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你的大便看著你玩了 30 分鐘的電話 — ⚠️ 排泄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1693.md"><img src="../images/m1693-poop-watches-you-phone.jpg" width="240" alt="你的大便看著你玩了 30 分鐘的電話"></a><br><a href="../memes/m1693.md">你的大便看著你玩了 30 分鐘的電話</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

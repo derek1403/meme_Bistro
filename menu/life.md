@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 854 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 860 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（590）
+## ★（593）
 
 <table>
 <tr>
@@ -992,10 +992,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1884.md"><img src="../images/m1884-cat-job-likes-easy.png" width="240" alt="找工作不一定要找輕鬆的，一定要找自己喜歡的——我喜歡輕鬆的"></a><br><a href="../memes/m1884.md">找工作不一定要找輕鬆的，一定要找自己喜歡的——我喜歡輕鬆的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1892.md"><img src="../images/m1892-ducks-tell-him-work-today.jpg" width="240" alt="他醒了，你跟他說一下吧——今天要上班哦"></a><br><a href="../memes/m1892.md">他醒了，你跟他說一下吧——今天要上班哦</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1900.md"><img src="../images/m1900-girlfriend-nightmare-dirty-dishes.jpg" width="240" alt="東南角有不乾淨的東西——發現是碗沒有洗"></a><br><a href="../memes/m1900.md">東南角有不乾淨的東西——發現是碗沒有洗</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1903.md"><img src="../images/m1903-who-is-2024-year-old.png" width="240" alt="那個 2024 歲的傢伙他媽到底是誰？"></a><br><a href="../memes/m1903.md">那個 2024 歲的傢伙他媽到底是誰？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1905.md"><img src="../images/m1905-senior-knocked-down-boyfriend.png" width="240" alt="學長下次打球小心一點——他很瘦，經不起你這麼撞"></a><br><a href="../memes/m1905.md">學長下次打球小心一點——他很瘦，經不起你這麼撞</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（74）
+## ★★（75）
 
 <table>
 <tr>
@@ -1121,10 +1126,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1843.md"><img src="../images/m1843-yuuka-alice-office-who.png" width="240" alt="等等，我是叫的優香和愛麗絲到我辦公室來，你們是誰？"></a><br><a href="../memes/m1843.md">等等，我是叫的優香和愛麗絲到我辦公室來，你們是誰？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1891.md"><img src="../images/m1891-makeine-4k-8k.png" width="240" alt="啊，是 4K——這就是 8K 的光芒，請查收"></a><br><a href="../memes/m1891.md">啊，是 4K——這就是 8K 的光芒，請查收</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1898.md"><img src="../images/m1898-dragon-companions-pixel.jpg" width="240" alt="龍族角色的龍：長得像鯉魚旗——最後一隻是像素小恐龍"></a><br><a href="../memes/m1898.md">龍族角色的龍：長得像鯉魚旗——最後一隻是像素小恐龍</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（190）
+## ⚠️ 需斟酌（192）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3023,6 +3029,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1876.md"><img src="../images/m1876-football-flying-kick-wheel.jpg" width="240" alt="無敵風火輪"></a><br><a href="../memes/m1876.md">無敵風火輪</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>女僕蛋包飯：萌え萌え vs ころす♡ — ⚠️ 殺意</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1899.md"><img src="../images/m1899-maid-omelette-korosu.jpg" width="240" alt="女僕蛋包飯：萌え萌え vs ころす♡"></a><br><a href="../memes/m1899.md">女僕蛋包飯：萌え萌え vs ころす♡</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>溫水、高粱酒、熱水 — ⚠️ 酒精</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1901.md"><img src="../images/m1901-water-dispenser-sorghum-wine.jpg" width="240" alt="溫水、高粱酒、熱水"></a><br><a href="../memes/m1901.md">溫水、高粱酒、熱水</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

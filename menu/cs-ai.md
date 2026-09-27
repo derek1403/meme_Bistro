@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 198 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（128）
+## ★（131）
 
 <table>
 <tr>
@@ -222,10 +222,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1885.md"><img src="../images/m1885-lock-server-room-before-firing-it.png" width="240" alt="This is why you should lock your server room before firing IT guy"></a><br><a href="../memes/m1885.md">This is why you should lock your server room before firing IT guy</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1887.md"><img src="../images/m1887-iphone-16-youtubers-hammer.png" width="240" alt="iPhone 16 上市——兩天後的 YouTuber"></a><br><a href="../memes/m1887.md">iPhone 16 上市——兩天後的 YouTuber</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1895.md"><img src="../images/m1895-ultimate-pc-watch-youtube.jpg" width="240" alt="Core i9、256GB RAM、RTX 4090——Time to watch YouTube"></a><br><a href="../memes/m1895.md">Core i9、256GB RAM、RTX 4090——Time to watch YouTube</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1896.md"><img src="../images/m1896-new-project-idea-5-minutes.png" width="240" alt="我想到新專案點子時 vs 寫了 5 分鐘之後"></a><br><a href="../memes/m1896.md">我想到新專案點子時 vs 寫了 5 分鐘之後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1904.md"><img src="../images/m1904-wrong-database-soap-pump.png" width="240" alt="When you link your App with the wrong Database"></a><br><a href="../memes/m1904.md">When you link your App with the wrong Database</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（47）
+## ★★（48）
 
 <table>
 <tr>
@@ -306,6 +311,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1723.md"><img src="../images/m1723-calvin-ai-slop-transformer.png" width="240" alt="How do they generate AI slop, Dad?"></a><br><a href="../memes/m1723.md">How do they generate AI slop, Dad?</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1768.md"><img src="../images/m1768-drawer-wont-open-transformer.png" width="240" alt="The "why won't this damn drawer open" starter pack"></a><br><a href="../memes/m1768.md">The "why won't this damn drawer open" starter pack</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1897.md"><img src="../images/m1897-shift-key-meaning.jpg" width="240" alt="Shift 的意思是轉移！——是否啟動相黏鍵？"></a><br><a href="../memes/m1897.md">Shift 的意思是轉移！——是否啟動相黏鍵？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

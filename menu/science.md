@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 149 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（67）
 
@@ -222,7 +222,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（30）
+## ⚠️ 需斟酌（31）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -521,6 +521,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1879.md"><img src="../images/m1879-nuclear-bomb-pizza-distance.jpg" width="240" alt="請問核彈爆炸時，會有一個合適的距離可以將披薩完全烤熟嗎？"></a><br><a href="../memes/m1879.md">請問核彈爆炸時，會有一個合適的距離可以將披薩完全烤熟嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如果魚 emo 的時候抽菸，是這樣抽還是這樣抽 — ⚠️ 吸菸</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1894.md"><img src="../images/m1894-fish-emo-smoking.jpg" width="240" alt="如果魚 emo 的時候抽菸，是這樣抽還是這樣抽"></a><br><a href="../memes/m1894.md">如果魚 emo 的時候抽菸，是這樣抽還是這樣抽</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

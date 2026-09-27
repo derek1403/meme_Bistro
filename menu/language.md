@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 213 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 214 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（144）
 
@@ -251,7 +251,7 @@
 </tr>
 </table>
 
-## ★★（17）
+## ★★（18）
 
 <table>
 <tr>
@@ -282,6 +282,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1769.md"><img src="../images/m1769-fb-name-lin-bei-hen-qiu.png" width="240" alt="Facebook 名字：姓林北，名很秋——不是很秋嗎？"></a><br><a href="../memes/m1769.md">Facebook 名字：姓林北，名很秋——不是很秋嗎？</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1846.md"><img src="../images/m1846-acrostic-read-diagonally.jpg" width="240" alt="藏頭藏尾我都看了——妳當我是朋友的話就斜著看"></a><br><a href="../memes/m1846.md">藏頭藏尾我都看了——妳當我是朋友的話就斜著看</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1902.md"><img src="../images/m1902-birdcage-mahjong-sparrow.jpg" width="240" alt="請勿投喂——鳥籠裡是麻將的「一索」"></a><br><a href="../memes/m1902.md">請勿投喂——鳥籠裡是麻將的「一索」</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 546 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 553 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（368）
+## ★（373）
 
 <table>
 <tr>
@@ -622,6 +622,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1328.md"><img src="../images/m1328-scallion-oil-green-tea.png" width="240" alt="蔥油蒜油顏色有點難分辨欸"></a><br><a href="../memes/m1328.md">蔥油蒜油顏色有點難分辨欸</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1329.md"><img src="../images/m1329-truth-or-dare-ugliest.png" width="240" alt="和聯絡人裡最醜的告白——最醜的都把你拒絕了"></a><br><a href="../memes/m1329.md">和聯絡人裡最醜的告白——最醜的都把你拒絕了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1330.md"><img src="../images/m1330-spongebob-renaissance-painting.png" width="240" alt="海綿寶寶某一集的片段，看起來像文藝復興畫作"></a><br><a href="../memes/m1330.md">海綿寶寶某一集的片段，看起來像文藝復興畫作</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1331.md"><img src="../images/m1331-double-12-wallet-dies.png" width="240" alt="我發誓如果我再亂花錢我就剁手"></a><br><a href="../memes/m1331.md">我發誓如果我再亂花錢我就剁手</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1333.md"><img src="../images/m1333-bird-stirs-snail.png" width="240" alt="Maybe everyone was wrong about you, snail"></a><br><a href="../memes/m1333.md">Maybe everyone was wrong about you, snail</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1337.md"><img src="../images/m1337-joy-of-staying-up.png" width="240" alt="討厭，大家都不懂熬夜的樂趣"></a><br><a href="../memes/m1337.md">討厭，大家都不懂熬夜的樂趣</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1340.md"><img src="../images/m1340-fast-furious-gearbox.png" width="240" alt="一般的手排車 vs 玩命關頭的手排車"></a><br><a href="../memes/m1340.md">一般的手排車 vs 玩命關頭的手排車</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -735,7 +744,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（115）
+## ⚠️ 需斟酌（117）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1884,6 +1893,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1325.md"><img src="../images/m1325-snape-ron-ten-points.png" width="240" alt="笑死，說的好榮恩，葛萊芬多多加十分"></a><br><a href="../memes/m1325.md">笑死，說的好榮恩，葛萊芬多多加十分</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>小姑娘大晚上的，窗戶怎麼不關啊 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1338.md"><img src="../images/m1338-werewolf-wrong-room.png" width="240" alt="小姑娘大晚上的，窗戶怎麼不關啊"></a><br><a href="../memes/m1338.md">小姑娘大晚上的，窗戶怎麼不關啊</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>企鵝上了飛行學校 — ⚠️ 血腥（鳥撞飛機）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1339.md"><img src="../images/m1339-penguin-flight-school.png" width="240" alt="企鵝上了飛行學校"></a><br><a href="../memes/m1339.md">企鵝上了飛行學校</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

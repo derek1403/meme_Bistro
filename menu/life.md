@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 845 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 850 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（584）
+## ★（587）
 
 <table>
 <tr>
@@ -982,6 +982,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1870.md"><img src="../images/m1870-cat-bread-lie-flat.jpg" width="240" alt="未成熟的小麵包，現在只想安安靜靜的躺著"></a><br><a href="../memes/m1870.md">未成熟的小麵包，現在只想安安靜靜的躺著</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1871.md"><img src="../images/m1871-pomelo-dont-like-love.jpg" width="240" alt="謝謝我不喜歡吃柚子——謝謝我好愛吃柚子"></a><br><a href="../memes/m1871.md">謝謝我不喜歡吃柚子——謝謝我好愛吃柚子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1875.md"><img src="../images/m1875-teacher-carries-mom-too.jpg" width="240" alt="老師好強——麻麻也來啊"></a><br><a href="../memes/m1875.md">老師好強——麻麻也來啊</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1878.md"><img src="../images/m1878-hair-tied-back-mickey.jpg" width="240" alt="你把頭髮扎起來很漂亮呀——頭髮扎在腦後的我"></a><br><a href="../memes/m1878.md">你把頭髮扎起來很漂亮呀——頭髮扎在腦後的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1880.md"><img src="../images/m1880-plates-in-drain-grate.jpg" width="240" alt="就算你能融入進去，也不代表這個地方適合你"></a><br><a href="../memes/m1880.md">就算你能融入進去，也不代表這個地方適合你</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1113,7 +1118,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（188）
+## ⚠️ 需斟酌（190）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2992,6 +2997,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1860.md"><img src="../images/m1860-cockroach-ita-bag.jpg" width="240" alt="痛包的新思路，螂來了！"></a><br><a href="../memes/m1860.md">痛包的新思路，螂來了！</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>哭哭吉伊卡哇蛋糕 — ⚠️ 血腥意象（莓果餡）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1874.md"><img src="../images/m1874-chiikawa-crying-cake.jpg" width="240" alt="哭哭吉伊卡哇蛋糕"></a><br><a href="../memes/m1874.md">哭哭吉伊卡哇蛋糕</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>無敵風火輪 — ⚠️ 暴力（運動犯規）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1876.md"><img src="../images/m1876-football-flying-kick-wheel.jpg" width="240" alt="無敵風火輪"></a><br><a href="../memes/m1876.md">無敵風火輪</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

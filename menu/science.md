@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 146 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 148 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（66）
 
@@ -121,7 +121,7 @@
 </tr>
 </table>
 
-## ★★（49）
+## ★★（50）
 
 <table>
 <tr>
@@ -206,6 +206,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1818.md"><img src="../images/m1818-string-theory-no-verify.png" width="240" alt="你要怎麼驗證這個理論？——那就是最精妙之處：我們不驗證"></a><br><a href="../memes/m1818.md">你要怎麼驗證這個理論？——那就是最精妙之處：我們不驗證</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1873.md"><img src="../images/m1873-raptor-arms-curator.png" width="240" alt="館長說迅猛龍的前肢根本不是這樣——您說的對極了"></a><br><a href="../memes/m1873.md">館長說迅猛龍的前肢根本不是這樣——您說的對極了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -218,7 +219,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（29）
+## ⚠️ 需斟酌（30）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -507,6 +508,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1841.md"><img src="../images/m1841-where-do-eyelashes-go.jpg" width="240" alt="睫毛刺到眼睛後不見了，它們跑去哪了呢？"></a><br><a href="../memes/m1841.md">睫毛刺到眼睛後不見了，它們跑去哪了呢？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>請問核彈爆炸時，會有一個合適的距離可以將披薩完全烤熟嗎？ — ⚠️ 核爆</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1879.md"><img src="../images/m1879-nuclear-bomb-pizza-distance.jpg" width="240" alt="請問核彈爆炸時，會有一個合適的距離可以將披薩完全烤熟嗎？"></a><br><a href="../memes/m1879.md">請問核彈爆炸時，會有一個合適的距離可以將披薩完全烤熟嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

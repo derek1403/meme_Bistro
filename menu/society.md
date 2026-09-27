@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 109 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（22）
+## ★（23）
 
 <table>
 <tr>
@@ -46,10 +46,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1335.md"><img src="../images/m1335-pope-teppanyaki.jpg" width="240" alt="無心褻瀆神靈，但畫面真的很像大埔鐵板燒"></a><br><a href="../memes/m1335.md">無心褻瀆神靈，但畫面真的很像大埔鐵板燒</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1376.md"><img src="../images/m1376-stool-christmas-tree.jpg" width="240" alt="小北百貨擺「敷衍耶誕樹」：這很小北！"></a><br><a href="../memes/m1376.md">小北百貨擺「敷衍耶誕樹」：這很小北！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（4）
+## ★★（5）
 
 <table>
 <tr>
@@ -59,6 +60,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1357.md"><img src="../images/m1357-ignore-the-light.png" width="240" alt="那傢伙竟然敢無視燈"></a><br><a href="../memes/m1357.md">那傢伙竟然敢無視燈</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1380.md"><img src="../images/m1380-jesus-2024th-birthday-cafe.jpg" width="240" alt="耶穌 2024 歲生日咖啡廳"></a><br><a href="../memes/m1380.md">耶穌 2024 歲生日咖啡廳</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

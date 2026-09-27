@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 115 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 116 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（53）
 
@@ -100,7 +100,7 @@
 </tr>
 </table>
 
-## ★★（41）
+## ★★（42）
 
 <table>
 <tr>
@@ -171,6 +171,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1255.md"><img src="../images/m1255-dog-licks-wave-equation.png" width="240" alt="schlop schlop：狗在舔波動方程"></a><br><a href="../memes/m1255.md">schlop schlop：狗在舔波動方程</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1308.md"><img src="../images/m1308-painkiller-knocks-doors.png" width="240" alt="為什麼止痛藥知道我哪裡痛？"></a><br><a href="../memes/m1308.md">為什麼止痛藥知道我哪裡痛？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1383.md"><img src="../images/m1383-jeans-pocket-maxwell.png" width="240" alt="牛仔褲小口袋是用來裝馬克士威方程組的"></a><br><a href="../memes/m1383.md">牛仔褲小口袋是用來裝馬克士威方程組的</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

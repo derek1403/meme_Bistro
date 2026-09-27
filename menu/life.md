@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 576 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 584 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（387）
+## ★（394）
 
 <table>
 <tr>
@@ -654,6 +654,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1369.md"><img src="../images/m1369-atm-dad-family-costume.png" width="240" alt="這是我見過最貼近現實的家庭套裝"></a><br><a href="../memes/m1369.md">這是我見過最貼近現實的家庭套裝</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1373.md"><img src="../images/m1373-coworker-photo-behind-clock.png" width="240" alt="前同事離職時在公司各角落放自己的照片"></a><br><a href="../memes/m1373.md">前同事離職時在公司各角落放自己的照片</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1375.md"><img src="../images/m1375-banana-boxing-bruises.jpg" width="240" alt="冷知識：香蕉隔夜出現斑點是因為半夜會舉行拳擊比賽"></a><br><a href="../memes/m1375.md">冷知識：香蕉隔夜出現斑點是因為半夜會舉行拳擊比賽</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1377.md"><img src="../images/m1377-dog-is-ok-beware-owner.jpg" width="240" alt="狗不凶，小心主人"></a><br><a href="../memes/m1377.md">狗不凶，小心主人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1378.md"><img src="../images/m1378-teacher-girlfriend-reveal.jpg" width="240" alt="他女朋友能做到的，你們當老師的能做到嗎？"></a><br><a href="../memes/m1378.md">他女朋友能做到的，你們當老師的能做到嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1379.md"><img src="../images/m1379-reading-too-fast-too-late.jpg" width="240" alt="由於我閱讀速度過快，當我意識到讀了什麼時一切都已來不及"></a><br><a href="../memes/m1379.md">由於我閱讀速度過快，當我意識到讀了什麼時一切都已來不及</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1381.md"><img src="../images/m1381-takenoko-grew-bamboo.jpg" width="240" alt="竹筍之里長成竹子了"></a><br><a href="../memes/m1381.md">竹筍之里長成竹子了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1384.md"><img src="../images/m1384-tone-deaf-friend-sings-well.png" width="240" alt="五音不全的朋友唱情歌不跑調時"></a><br><a href="../memes/m1384.md">五音不全的朋友唱情歌不跑調時</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1385.md"><img src="../images/m1385-say-sorry-ready-for-marriage.png" width="240" alt="Dad, I want to marry——Say sorry."></a><br><a href="../memes/m1385.md">Dad, I want to marry——Say sorry.</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（65）
@@ -770,7 +783,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（124）
+## ⚠️ 需斟酌（125）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2009,6 +2022,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1364.md"><img src="../images/m1364-rooster-cat-cooking-your-wife.png" width="240" alt="他們在煮什麼？你老婆和一些馬鈴薯"></a><br><a href="../memes/m1364.md">他們在煮什麼？你老婆和一些馬鈴薯</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>最擅長安慰別人的人可能受到過最多傷害 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1382.md"><img src="../images/m1382-best-comforters-most-hurt.jpg" width="240" alt="最擅長安慰別人的人可能受到過最多傷害"></a><br><a href="../memes/m1382.md">最擅長安慰別人的人可能受到過最多傷害</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

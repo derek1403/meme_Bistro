@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 769 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 776 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（528）
+## ★（532）
 
 <table>
 <tr>
@@ -889,6 +889,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1710.md"><img src="../images/m1710-sixth-sense-still-picks-scum.png" width="240" alt="女生常說自己的第六感很好——最後還不是選到渣男"></a><br><a href="../memes/m1710.md">女生常說自己的第六感很好——最後還不是選到渣男</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1717.md"><img src="../images/m1717-mosquito-bite-screwdriver.png" width="240" alt="被蚊子咬了的正確做法"></a><br><a href="../memes/m1717.md">被蚊子咬了的正確做法</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1729.md"><img src="../images/m1729-restroom-third-gender-sign.jpg" width="240" alt="廁所標示的第三種人"></a><br><a href="../memes/m1729.md">廁所標示的第三種人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1730.md"><img src="../images/m1730-game-skill-pink-trash.jpg" width="240" alt="我的真實遊戲水平：垃圾 vs 花里胡哨的垃圾"></a><br><a href="../memes/m1730.md">我的真實遊戲水平：垃圾 vs 花里胡哨的垃圾</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1731.md"><img src="../images/m1731-ikea-glass-table-not-assembled.png" width="240" alt="在 IKEA 買了一張玻璃桌，目前還沒組裝"></a><br><a href="../memes/m1731.md">在 IKEA 買了一張玻璃桌，目前還沒組裝</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1735.md"><img src="../images/m1735-window-seat-no-window.png" width="240" alt="說好的靠窗呢？？"></a><br><a href="../memes/m1735.md">說好的靠窗呢？？</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（71）
@@ -1015,7 +1023,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（170）
+## ⚠️ 需斟酌（173）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2714,6 +2722,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1726.md"><img src="../images/m1726-monkey-rope-shock.png" width="240" alt="走鋼索走到一半驚呆的猴子"></a><br><a href="../memes/m1726.md">走鋼索走到一半驚呆的猴子</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>班級動漫現狀 — ⚠️ 性暗示（成人作品名）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1728.md"><img src="../images/m1728-class-anime-status-stairs.png" width="240" alt="班級動漫現狀"></a><br><a href="../memes/m1728.md">班級動漫現狀</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我忘記一部卡通的名字了，裡面有個忍者叫亂太郎 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1733.md"><img src="../images/m1733-forgot-cartoon-ninja-rantaro.png" width="240" alt="我忘記一部卡通的名字了，裡面有個忍者叫亂太郎"></a><br><a href="../memes/m1733.md">我忘記一部卡通的名字了，裡面有個忍者叫亂太郎</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>沒有愛就做到有愛為止，我帶了七盒 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1734.md"><img src="../images/m1734-no-love-make-love-seven-boxes.png" width="240" alt="沒有愛就做到有愛為止，我帶了七盒"></a><br><a href="../memes/m1734.md">沒有愛就做到有愛為止，我帶了七盒</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

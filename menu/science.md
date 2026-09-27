@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 137 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（60）
 
@@ -111,7 +111,7 @@
 </tr>
 </table>
 
-## ★★（46）
+## ★★（47）
 
 <table>
 <tr>
@@ -191,6 +191,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1552.md"><img src="../images/m1552-gender-phase-diagram.png" width="240" alt="性別相圖：Gender Solid、Fluid、Gas、Supercritical"></a><br><a href="../memes/m1552.md">性別相圖：Gender Solid、Fluid、Gas、Supercritical</a><br><sub>🧠🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1737.md"><img src="../images/m1737-typhoon-ai-weather-models.png" width="240" alt="當有人問我颱風會不會來：GraphCast、AIFS、Pangu"></a><br><a href="../memes/m1737.md">當有人問我颱風會不會來：GraphCast、AIFS、Pangu</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

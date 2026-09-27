@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 247 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 248 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -402,7 +402,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（20）
+## ⚠️ 需斟酌（21）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -601,6 +601,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1537.md"><img src="../images/m1537-rick-x-plus-2-rich-kid.png" width="240" alt="女人的心思就像是 X+2=0"></a><br><a href="../memes/m1537.md">女人的心思就像是 X+2=0</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>十字交乘求不出來，於是動用了最純粹的力量 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1736.md"><img src="../images/m1736-quadratic-formula-pure-power.png" width="240" alt="十字交乘求不出來，於是動用了最純粹的力量"></a><br><a href="../memes/m1736.md">十字交乘求不出來，於是動用了最純粹的力量</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

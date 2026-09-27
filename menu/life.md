@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 656 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 663 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（446）
+## ★（451）
 
 <table>
 <tr>
@@ -752,6 +752,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1509.md"><img src="../images/m1509-capybara-forgive-before-sleep.png" width="240" alt="睡前原諒所有的人和事——還是不睡了，原諒不了"></a><br><a href="../memes/m1509.md">睡前原諒所有的人和事——還是不睡了，原諒不了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1513.md"><img src="../images/m1513-no-one-starves-on-my-watch.png" width="240" alt="沒人可以在我手上餓死——外送超人"></a><br><a href="../memes/m1513.md">沒人可以在我手上餓死——外送超人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1514.md"><img src="../images/m1514-bandaid-on-cracked-wall.png" width="240" alt="用一杯咖啡就想撐住只睡四小時就來上班的自己"></a><br><a href="../memes/m1514.md">用一杯咖啡就想撐住只睡四小時就來上班的自己</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1515.md"><img src="../images/m1515-others-vs-my-workflow.png" width="240" alt="我和別人做事的區別"></a><br><a href="../memes/m1515.md">我和別人做事的區別</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1517.md"><img src="../images/m1517-coconut-tracking-system.png" width="240" alt="為什麼這椰子有自動追蹤系統"></a><br><a href="../memes/m1517.md">為什麼這椰子有自動追蹤系統</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1518.md"><img src="../images/m1518-box-wife-seal.png" width="240" alt="以後就這樣發貨了——一輩子包裝"></a><br><a href="../memes/m1518.md">以後就這樣發貨了——一輩子包裝</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1522.md"><img src="../images/m1522-childish-inside-working-age.png" width="240" alt="當你內心還很幼稚卻到了要上班的年紀"></a><br><a href="../memes/m1522.md">當你內心還很幼稚卻到了要上班的年紀</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -873,7 +882,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（143）
+## ⚠️ 需斟酌（145）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2302,6 +2311,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1508.md"><img src="../images/m1508-bad-three-times-a-week.png" width="240" alt="我跟我老公一個禮拜壞壞三次——我以為聊的是你老公"></a><br><a href="../memes/m1508.md">我跟我老公一個禮拜壞壞三次——我以為聊的是你老公</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你不跳出舒適圈，永遠不知道原本有多舒適 — ⚠️ 動物死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1519.md"><img src="../images/m1519-jump-out-comfort-zone-shrimp.png" width="240" alt="你不跳出舒適圈，永遠不知道原本有多舒適"></a><br><a href="../memes/m1519.md">你不跳出舒適圈，永遠不知道原本有多舒適</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>KFC 生巧冰淇淋：廣告 vs 實物 — ⚠️ 排泄聯想</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1521.md"><img src="../images/m1521-kfc-chocolate-cone-expectation.jpg" width="240" alt="KFC 生巧冰淇淋：廣告 vs 實物"></a><br><a href="../memes/m1521.md">KFC 生巧冰淇淋：廣告 vs 實物</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

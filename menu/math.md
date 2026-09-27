@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 237 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（83）
 
@@ -150,7 +150,7 @@
 </tr>
 </table>
 
-## ★★（94）
+## ★★（95）
 
 <table>
 <tr>
@@ -310,6 +310,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1507.md"><img src="../images/m1507-only-know-a-plus-b-squared.png" width="240" alt="學生畢業後：我只知道 (a+b)² = a² + b²"></a><br><a href="../memes/m1507.md">學生畢業後：我只知道 (a+b)² = a² + b²</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1523.md"><img src="../images/m1523-spanish-notation-binomial.png" width="240" alt="Or in Spanish notation: ¡n! / ¡k!¡(n−k)!"></a><br><a href="../memes/m1523.md">Or in Spanish notation: ¡n! / ¡k!¡(n−k)!</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
@@ -386,7 +387,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（18）
+## ⚠️ 需斟酌（19）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -565,6 +566,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1386.md"><img src="../images/m1386-what-mean-attracted-to.png" width="240" alt="What society thinks mean are attracted to"></a><br><a href="../memes/m1386.md">What society thinks mean are attracted to</a><br><sub>🧠🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Don't study maths for this... — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1520.md"><img src="../images/m1520-matlab-boob-surface.png" width="240" alt="Don't study maths for this..."></a><br><a href="../memes/m1520.md">Don't study maths for this...</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

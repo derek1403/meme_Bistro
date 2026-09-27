@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 153 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 154 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（101）
 
@@ -205,7 +205,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（40）
+## ⚠️ 需斟酌（41）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -604,6 +604,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1482.md"><img src="../images/m1482-cat-pull-door-poop.png" width="240" alt="門上寫「拉」"></a><br><a href="../memes/m1482.md">門上寫「拉」</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你知道打什麼炮最爽嗎？——沖脫炮 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1516.md"><img src="../images/m1516-inception-best-cannon.png" width="240" alt="你知道打什麼炮最爽嗎？——沖脫炮"></a><br><a href="../memes/m1516.md">你知道打什麼炮最爽嗎？——沖脫炮</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

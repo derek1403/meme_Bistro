@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 144 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 145 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（65）
 
@@ -217,7 +217,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（28）
+## ⚠️ 需斟酌（29）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -496,6 +496,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1643.md"><img src="../images/m1643-first-contact-alien-nipple.png" width="240" alt="第一次和外星人接觸——他抓了我妻子的乳頭"></a><br><a href="../memes/m1643.md">第一次和外星人接觸——他抓了我妻子的乳頭</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>睫毛刺到眼睛後不見了，它們跑去哪了呢？ — ⚠️ 身體恐怖</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1841.md"><img src="../images/m1841-where-do-eyelashes-go.jpg" width="240" alt="睫毛刺到眼睛後不見了，它們跑去哪了呢？"></a><br><a href="../memes/m1841.md">睫毛刺到眼睛後不見了，它們跑去哪了呢？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

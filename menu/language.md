@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 205 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 207 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（140）
 
@@ -245,7 +245,7 @@
 </tr>
 </table>
 
-## ★★（16）
+## ★★（17）
 
 <table>
 <tr>
@@ -275,10 +275,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1769.md"><img src="../images/m1769-fb-name-lin-bei-hen-qiu.png" width="240" alt="Facebook 名字：姓林北，名很秋——不是很秋嗎？"></a><br><a href="../memes/m1769.md">Facebook 名字：姓林北，名很秋——不是很秋嗎？</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1846.md"><img src="../images/m1846-acrostic-read-diagonally.jpg" width="240" alt="藏頭藏尾我都看了——妳當我是朋友的話就斜著看"></a><br><a href="../memes/m1846.md">藏頭藏尾我都看了——妳當我是朋友的話就斜著看</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（49）
+## ⚠️ 需斟酌（50）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -767,6 +768,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1801.md"><img src="../images/m1801-familymart-outgoing-groove.jpg" width="240" alt="超商微波餐盒邊緣的凹槽是做什麼用的？——凹溝飲（outgoing）"></a><br><a href="../memes/m1801.md">超商微波餐盒邊緣的凹槽是做什麼用的？——凹溝飲（outgoing）</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>一件能表達自責的衣服——死米馬衫 — ⚠️ 切腹意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1838.md"><img src="../images/m1838-self-blame-hoodie-zipper.jpg" width="240" alt="一件能表達自責的衣服——死米馬衫"></a><br><a href="../memes/m1838.md">一件能表達自責的衣服——死米馬衫</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

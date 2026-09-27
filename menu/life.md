@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 827 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 834 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（571）
+## ★（575）
 
 <table>
 <tr>
@@ -961,10 +961,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1834.md"><img src="../images/m1834-mooncake-alignment-chart.jpg" width="240" alt="月餅陣營九宮格"></a><br><a href="../memes/m1834.md">月餅陣營九宮格</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1840.md"><img src="../images/m1840-dog-cat-wrong-box.png" width="240" alt="也許這是個錯的箱子？"></a><br><a href="../memes/m1840.md">也許這是個錯的箱子？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1845.md"><img src="../images/m1845-girls-vs-boys-photoshop.png" width="240" alt="當女生學會修圖 vs 當男生學會修圖"></a><br><a href="../memes/m1845.md">當女生學會修圖 vs 當男生學會修圖</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1847.md"><img src="../images/m1847-eiki-browser-history-judgment.png" width="240" alt="下面將會以你的「瀏覽器記錄」作為審判的依據！"></a><br><a href="../memes/m1847.md">下面將會以你的「瀏覽器記錄」作為審判的依據！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1848.md"><img src="../images/m1848-age-30-cabbage-blanket.png" width="240" alt="15 歲的我：30 歲時要有事業車子房子家庭——30 歲時"></a><br><a href="../memes/m1848.md">15 歲的我：30 歲時要有事業車子房子家庭——30 歲時</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（72）
+## ★★（73）
 
 <table>
 <tr>
@@ -1087,9 +1093,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1716.md"><img src="../images/m1716-yingge-bade-fighting-combo.png" width="240" alt="鶯歌是波動拳？八德是昇龍拳？"></a><br><a href="../memes/m1716.md">鶯歌是波動拳？八德是昇龍拳？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1751.md"><img src="../images/m1751-maidens-prayer-suika.png" width="240" alt="你知道少女的祈禱嗎？——喔我知道啊，是這個對不對"></a><br><a href="../memes/m1751.md">你知道少女的祈禱嗎？——喔我知道啊，是這個對不對</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1843.md"><img src="../images/m1843-yuuka-alice-office-who.png" width="240" alt="等等，我是叫的優香和愛麗絲到我辦公室來，你們是誰？"></a><br><a href="../memes/m1843.md">等等，我是叫的優香和愛麗絲到我辦公室來，你們是誰？</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（184）
+## ⚠️ 需斟酌（186）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2928,6 +2937,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1816.md"><img src="../images/m1816-bbq-scallops-fuck.png" width="240" alt="明天我家烤肉來嗎？——烤肉？"></a><br><a href="../memes/m1816.md">明天我家烤肉來嗎？——烤肉？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>哥哥，人家想要了……——錢 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1837.md"><img src="../images/m1837-gege-want-money.png" width="240" alt="哥哥，人家想要了……——錢"></a><br><a href="../memes/m1837.md">哥哥，人家想要了……——錢</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>剪紙：我要剪破你的皮，剪爛你的肉，剪斷你的骨頭 — ⚠️ 暴力意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1842.md"><img src="../images/m1842-paper-cutting-watermelon-poem.jpg" width="240" alt="剪紙：我要剪破你的皮，剪爛你的肉，剪斷你的骨頭"></a><br><a href="../memes/m1842.md">剪紙：我要剪破你的皮，剪爛你的肉，剪斷你的骨頭</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

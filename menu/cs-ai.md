@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 187 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 188 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（123）
+## ★（124）
 
 <table>
 <tr>
@@ -213,6 +213,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1811.md"><img src="../images/m1811-partner-vs-cpp.png" width="240" alt="男／女朋友 vs C++"></a><br><a href="../memes/m1811.md">男／女朋友 vs C++</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1821.md"><img src="../images/m1821-obfuscated-python-imports.png" width="240" alt="我不希望敵人撿到我的程式碼後可以立刻使用"></a><br><a href="../memes/m1821.md">我不希望敵人撿到我的程式碼後可以立刻使用</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1828.md"><img src="../images/m1828-noahs-ark-windows-11.png" width="240" alt="What the hell is this?（Windows 11）"></a><br><a href="../memes/m1828.md">What the hell is this?（Windows 11）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1839.md"><img src="../images/m1839-caught-two-computer-viruses.png" width="240" alt="我家常常有電腦病毒，剛剛才抓到兩隻"></a><br><a href="../memes/m1839.md">我家常常有電腦病毒，剛剛才抓到兩隻</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

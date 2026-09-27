@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 901 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 907 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（622）
+## ★（624）
 
 <table>
 <tr>
@@ -1046,10 +1046,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1970.md"><img src="../images/m1970-tomato-haters-understand.jpg" width="240" alt="討厭番茄的人絕對懂"></a><br><a href="../memes/m1970.md">討厭番茄的人絕對懂</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1974.md"><img src="../images/m1974-boss-heals-once-how-dare-you.jpg" width="240" alt="玩家治療自己 500 次，Boss 治療自己一次——How dare you!"></a><br><a href="../memes/m1974.md">玩家治療自己 500 次，Boss 治療自己一次——How dare you!</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1976.md"><img src="../images/m1976-flowers-only-for-ancestors.png" width="240" alt="常常送我花，這樣是喜歡我嗎？——不然只有拜祖先會買花"></a><br><a href="../memes/m1976.md">常常送我花，這樣是喜歡我嗎？——不然只有拜祖先會買花</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（77）
+## ★★（79）
 
 <table>
 <tr>
@@ -1180,10 +1182,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1911.md"><img src="../images/m1911-japan-goalkeeper-tea-set.jpg" width="240" alt="昨晚球場上的日本守門員"></a><br><a href="../memes/m1911.md">昨晚球場上的日本守門員</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1942.md"><img src="../images/m1942-hsr-cat-cake-sparkle-baby.jpg" width="240" alt="貓貓糕變更多了——好像有孩子了——是砂金的"></a><br><a href="../memes/m1942.md">貓貓糕變更多了——好像有孩子了——是砂金的</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1973.md"><img src="../images/m1973-mahjong-cosplay-idiots.jpg" width="240" alt="贏智障、輸智障、和局跟智障一樣——人生真難"></a><br><a href="../memes/m1973.md">贏智障、輸智障、和局跟智障一樣——人生真難</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1977.md"><img src="../images/m1977-neuvillette-hot-spring-dont-drink.jpg" width="240" alt="Hot spring water!!——DON'T DRINK!!!"></a><br><a href="../memes/m1977.md">Hot spring water!!——DON'T DRINK!!!</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（202）
+## ⚠️ 需斟酌（204）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3202,6 +3208,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1967.md"><img src="../images/m1967-boothill-and-i-took-this-photo.jpg" width="240" alt="And I took this photo"></a><br><a href="../memes/m1967.md">And I took this photo</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>兄弟們記住：白色的車黑色的屎，黑色的車白色的屎 — ⚠️ 排泄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1972.md"><img src="../images/m1972-pigeons-remember-car-colors.jpg" width="240" alt="兄弟們記住：白色的車黑色的屎，黑色的車白色的屎"></a><br><a href="../memes/m1972.md">兄弟們記住：白色的車黑色的屎，黑色的車白色的屎</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>各種避孕方法的效率：沒有對象的你 1551% — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1975.md"><img src="../images/m1975-contraception-efficiency-single.jpg" width="240" alt="各種避孕方法的效率：沒有對象的你 1551%"></a><br><a href="../memes/m1975.md">各種避孕方法的效率：沒有對象的你 1551%</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

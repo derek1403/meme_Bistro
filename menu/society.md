@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 142 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 144 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（38）
 
@@ -99,7 +99,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（93）
+## ⚠️ 需斟酌（95）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1028,6 +1028,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1784.md"><img src="../images/m1784-paper-familymart-offering.png" width="240" alt="紙紮全家，附地契"></a><br><a href="../memes/m1784.md">紙紮全家，附地契</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>中國人不會下地獄——那最多就叫做搬家 — ⚠️ 政治諷刺</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1802.md"><img src="../images/m1802-chinese-dont-go-to-hell-moving.jpg" width="240" alt="中國人不會下地獄——那最多就叫做搬家"></a><br><a href="../memes/m1802.md">中國人不會下地獄——那最多就叫做搬家</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>所有的蝦子出生時都是公的——就像那些玩推特的男生 — ⚠️ 性別議題嘲諷</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1808.md"><img src="../images/m1808-shrimp-born-male-twitter.jpg" width="240" alt="所有的蝦子出生時都是公的——就像那些玩推特的男生"></a><br><a href="../memes/m1808.md">所有的蝦子出生時都是公的——就像那些玩推特的男生</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

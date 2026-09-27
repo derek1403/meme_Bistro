@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 809 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 816 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（557）
+## ★（562）
 
 <table>
 <tr>
@@ -937,6 +937,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1794.md"><img src="../images/m1794-bakery-doge-bread.png" width="240" alt="麵包店看到這個，請問我該怎麼辦"></a><br><a href="../memes/m1794.md">麵包店看到這個，請問我該怎麼辦</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1798.md"><img src="../images/m1798-no-merge-physical-magic.png" width="240" alt="有沒有計畫合併物理／魔法協同效果？——我們不考慮合併"></a><br><a href="../memes/m1798.md">有沒有計畫合併物理／魔法協同效果？——我們不考慮合併</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1803.md"><img src="../images/m1803-umbrella-trashcan-dbz.jpg" width="240" alt="總感覺這雨傘和垃圾桶會打起來"></a><br><a href="../memes/m1803.md">總感覺這雨傘和垃圾桶會打起來</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1804.md"><img src="../images/m1804-raiden-mcdonalds-burger-block.jpg" width="240" alt="雷電將軍的一刀——被漢堡擋下"></a><br><a href="../memes/m1804.md">雷電將軍的一刀——被漢堡擋下</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1806.md"><img src="../images/m1806-age-35-box-of-cables.jpg" width="240" alt="等你到了 35 歲，你會發現你收藏了一大箱電纜"></a><br><a href="../memes/m1806.md">等你到了 35 歲，你會發現你收藏了一大箱電纜</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1807.md"><img src="../images/m1807-egg-fried-rice-whole-eggs.jpg" width="240" alt="誰教你這樣做「蛋炒飯」的"></a><br><a href="../memes/m1807.md">誰教你這樣做「蛋炒飯」的</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1809.md"><img src="../images/m1809-how-violent-gamers-cut-power.jpg" width="240" alt="現在玩遊戲的人有多暴力——將網吧的電源切斷"></a><br><a href="../memes/m1809.md">現在玩遊戲的人有多暴力——將網吧的電源切斷</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1065,7 +1074,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（180）
+## ⚠️ 需斟酌（182）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2864,6 +2873,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1800.md"><img src="../images/m1800-foreplay-starts-from-interview.png" width="240" alt="他的前戲都從訪問先開始"></a><br><a href="../memes/m1800.md">他的前戲都從訪問先開始</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>沒有人會到死都是處的——生活，操了我們所有人 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1805.md"><img src="../images/m1805-nobody-dies-virgin-life.jpg" width="240" alt="沒有人會到死都是處的——生活，操了我們所有人"></a><br><a href="../memes/m1805.md">沒有人會到死都是處的——生活，操了我們所有人</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>為了你的脊椎健康，買啤酒的時候永遠不要只買一提 — ⚠️ 酒精</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1812.md"><img src="../images/m1812-beer-spine-health.jpg" width="240" alt="為了你的脊椎健康，買啤酒的時候永遠不要只買一提"></a><br><a href="../memes/m1812.md">為了你的脊椎健康，買啤酒的時候永遠不要只買一提</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

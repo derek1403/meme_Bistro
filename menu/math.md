@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 253 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 254 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -410,7 +410,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（22）
+## ⚠️ 需斟酌（23）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -629,6 +629,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1799.md"><img src="../images/m1799-trolley-minus-one-twelfth.png" width="240" alt="Would you switch to kill −1/12 people?"></a><br><a href="../memes/m1799.md">Would you switch to kill −1/12 people?</a><br><sub>🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>電車難題：1+1+1+… 人 vs 無限輪迴的 100 人 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1810.md"><img src="../images/m1810-trolley-infinite-loop.png" width="240" alt="電車難題：1+1+1+… 人 vs 無限輪迴的 100 人"></a><br><a href="../memes/m1810.md">電車難題：1+1+1+… 人 vs 無限輪迴的 100 人</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

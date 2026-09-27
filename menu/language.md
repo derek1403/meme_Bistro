@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 197 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 198 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（133）
 
@@ -267,7 +267,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（48）
+## ⚠️ 需斟酌（49）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -746,6 +746,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1785.md"><img src="../images/m1785-kindergarten-cook-cook-children.jpg" width="240" alt="誠聘幼兒園做飯阿姨：擅長做飯，負責烹製小朋友"></a><br><a href="../memes/m1785.md">誠聘幼兒園做飯阿姨：擅長做飯，負責烹製小朋友</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>超商微波餐盒邊緣的凹槽是做什麼用的？——凹溝飲（outgoing） — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1801.md"><img src="../images/m1801-familymart-outgoing-groove.jpg" width="240" alt="超商微波餐盒邊緣的凹槽是做什麼用的？——凹溝飲（outgoing）"></a><br><a href="../memes/m1801.md">超商微波餐盒邊緣的凹槽是做什麼用的？——凹溝飲（outgoing）</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 214 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 216 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（144）
+## ★（145）
 
 <table>
 <tr>
@@ -249,6 +249,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1888.md"><img src="../images/m1888-period-comfort-le-le-le.png" width="240" alt="來生理期了，你能安慰我一下嗎——了了了了了"></a><br><a href="../memes/m1888.md">來生理期了，你能安慰我一下嗎——了了了了了</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1893.md"><img src="../images/m1893-kiki-sleep-forget-food.jpg" width="240" alt="「廢寢忘食」這四個字拆開來，每一個字都很符合我"></a><br><a href="../memes/m1893.md">「廢寢忘食」這四個字拆開來，每一個字都很符合我</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1909.md"><img src="../images/m1909-attack-chihuahua-counter.jpg" width="240" alt="攻吉他會怎樣嗎？——反吉"></a><br><a href="../memes/m1909.md">攻吉他會怎樣嗎？——反吉</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（18）
@@ -286,7 +289,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（52）
+## ⚠️ 需斟酌（53）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -805,6 +808,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1859.md"><img src="../images/m1859-ointment-scores-belt.png" width="240" alt="藥膏評分：皮癢 100 分"></a><br><a href="../memes/m1859.md">藥膏評分：皮癢 100 分</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我上網搵咗套我推的孩子嚟睇，但點解越睇越唔對路 — ⚠️ 墜樓暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1914.md"><img src="../images/m1914-my-push-kid-hk-drama.jpg" width="240" alt="我上網搵咗套我推的孩子嚟睇，但點解越睇越唔對路"></a><br><a href="../memes/m1914.md">我上網搵咗套我推的孩子嚟睇，但點解越睇越唔對路</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

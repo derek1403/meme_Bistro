@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 860 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 867 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（593）
+## ★（598）
 
 <table>
 <tr>
@@ -997,10 +997,19 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1903.md"><img src="../images/m1903-who-is-2024-year-old.png" width="240" alt="那個 2024 歲的傢伙他媽到底是誰？"></a><br><a href="../memes/m1903.md">那個 2024 歲的傢伙他媽到底是誰？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1905.md"><img src="../images/m1905-senior-knocked-down-boyfriend.png" width="240" alt="學長下次打球小心一點——他很瘦，經不起你這麼撞"></a><br><a href="../memes/m1905.md">學長下次打球小心一點——他很瘦，經不起你這麼撞</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1906.md"><img src="../images/m1906-bright-school-not-for-me.jpg" width="240" alt="學校氛圍很明朗很愉快——但不是很適合我"></a><br><a href="../memes/m1906.md">學校氛圍很明朗很愉快——但不是很適合我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1910.md"><img src="../images/m1910-wukong-my-fate-salary.jpg" width="240" alt="這一世，我命由我不由天——這工資，你說三千就三千"></a><br><a href="../memes/m1910.md">這一世，我命由我不由天——這工資，你說三千就三千</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1912.md"><img src="../images/m1912-salary-28k-emotion-management.png" width="240" alt="在職場上該如何管理好自己的情緒？——你薪水多少？"></a><br><a href="../memes/m1912.md">在職場上該如何管理好自己的情緒？——你薪水多少？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1913.md"><img src="../images/m1913-danny-trejo-grandkids-kids.png" width="240" alt="阿公如何教育自己的孫子 vs 自己的孩子"></a><br><a href="../memes/m1913.md">阿公如何教育自己的孫子 vs 自己的孩子</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1915.md"><img src="../images/m1915-tv-volume-step-function.png" width="240" alt="電視音量該怎麼運作 vs 實際怎麼運作"></a><br><a href="../memes/m1915.md">電視音量該怎麼運作 vs 實際怎麼運作</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（75）
+## ★★（76）
 
 <table>
 <tr>
@@ -1128,9 +1137,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1891.md"><img src="../images/m1891-makeine-4k-8k.png" width="240" alt="啊，是 4K——這就是 8K 的光芒，請查收"></a><br><a href="../memes/m1891.md">啊，是 4K——這就是 8K 的光芒，請查收</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1898.md"><img src="../images/m1898-dragon-companions-pixel.jpg" width="240" alt="龍族角色的龍——最後一隻是像素小龍"></a><br><a href="../memes/m1898.md">龍族角色的龍——最後一隻是像素小龍</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1911.md"><img src="../images/m1911-japan-goalkeeper-tea-set.jpg" width="240" alt="昨晚球場上的日本守門員"></a><br><a href="../memes/m1911.md">昨晚球場上的日本守門員</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（192）
+## ⚠️ 需斟酌（193）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3049,6 +3061,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1901.md"><img src="../images/m1901-water-dispenser-sorghum-wine.jpg" width="240" alt="溫水、高粱酒、熱水"></a><br><a href="../memes/m1901.md">溫水、高粱酒、熱水</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>上班實際上是在賣全身的器官，只是沒有挖出來賣 — ⚠️ 器官買賣意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1907.md"><img src="../images/m1907-skeletor-work-selling-organs.jpg" width="240" alt="上班實際上是在賣全身的器官，只是沒有挖出來賣"></a><br><a href="../memes/m1907.md">上班實際上是在賣全身的器官，只是沒有挖出來賣</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

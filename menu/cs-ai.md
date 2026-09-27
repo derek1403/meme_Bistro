@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 198 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 199 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（131）
 
@@ -230,7 +230,7 @@
 </tr>
 </table>
 
-## ★★（48）
+## ★★（49）
 
 <table>
 <tr>
@@ -312,6 +312,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1723.md"><img src="../images/m1723-calvin-ai-slop-transformer.png" width="240" alt="How do they generate AI slop, Dad?"></a><br><a href="../memes/m1723.md">How do they generate AI slop, Dad?</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1768.md"><img src="../images/m1768-drawer-wont-open-transformer.png" width="240" alt="The "why won't this damn drawer open" starter pack"></a><br><a href="../memes/m1768.md">The "why won't this damn drawer open" starter pack</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1897.md"><img src="../images/m1897-shift-key-meaning.jpg" width="240" alt="Shift 的意思是轉移！——是否啟動相黏鍵？"></a><br><a href="../memes/m1897.md">Shift 的意思是轉移！——是否啟動相黏鍵？</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1908.md"><img src="../images/m1908-soc-analyst-hack-my.png" width="240" alt="I am a SOC Analyst——Can you hack my——I said, SOC Analyst"></a><br><a href="../memes/m1908.md">I am a SOC Analyst——Can you hack my——I said, SOC Analyst</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -1126,7 +1126,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1843.md"><img src="../images/m1843-yuuka-alice-office-who.png" width="240" alt="等等，我是叫的優香和愛麗絲到我辦公室來，你們是誰？"></a><br><a href="../memes/m1843.md">等等，我是叫的優香和愛麗絲到我辦公室來，你們是誰？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1891.md"><img src="../images/m1891-makeine-4k-8k.png" width="240" alt="啊，是 4K——這就是 8K 的光芒，請查收"></a><br><a href="../memes/m1891.md">啊，是 4K——這就是 8K 的光芒，請查收</a><br><sub>👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1898.md"><img src="../images/m1898-dragon-companions-pixel.jpg" width="240" alt="龍族角色的龍：長得像鯉魚旗——最後一隻是像素小恐龍"></a><br><a href="../memes/m1898.md">龍族角色的龍：長得像鯉魚旗——最後一隻是像素小恐龍</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1898.md"><img src="../images/m1898-dragon-companions-pixel.jpg" width="240" alt="龍族角色的龍——最後一隻是像素小龍"></a><br><a href="../memes/m1898.md">龍族角色的龍——最後一隻是像素小龍</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

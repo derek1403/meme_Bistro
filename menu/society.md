@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 137 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（37）
 
@@ -94,7 +94,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（90）
+## ⚠️ 需斟酌（91）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -993,6 +993,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1706.md"><img src="../images/m1706-god-group-chat-history.png" width="240" alt="上帝的創造物（群組）"></a><br><a href="../memes/m1706.md">上帝的創造物（群組）</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>請於今晚 6 點搭乘飛機前往緬甸共度良宵 — ⚠️ 人口販運暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1724.md"><img src="../images/m1724-flight-to-myanmar-night.png" width="240" alt="請於今晚 6 點搭乘飛機前往緬甸共度良宵"></a><br><a href="../memes/m1724.md">請於今晚 6 點搭乘飛機前往緬甸共度良宵</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 765 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 769 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（527）
+## ★（528）
 
 <table>
 <tr>
@@ -887,10 +887,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1703.md"><img src="../images/m1703-cat-duct-taped-wall.png" width="240" alt="被膠帶貼在牆上的貓"></a><br><a href="../memes/m1703.md">被膠帶貼在牆上的貓</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1710.md"><img src="../images/m1710-sixth-sense-still-picks-scum.png" width="240" alt="女生常說自己的第六感很好——最後還不是選到渣男"></a><br><a href="../memes/m1710.md">女生常說自己的第六感很好——最後還不是選到渣男</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1717.md"><img src="../images/m1717-mosquito-bite-screwdriver.png" width="240" alt="被蚊子咬了的正確做法"></a><br><a href="../memes/m1717.md">被蚊子咬了的正確做法</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（70）
+## ★★（71）
 
 <table>
 <tr>
@@ -1010,10 +1011,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1668.md"><img src="../images/m1668-pc-auto-download-touhou.png" width="240" alt="天哪我的電腦在自動下載東方獸王園"></a><br><a href="../memes/m1668.md">天哪我的電腦在自動下載東方獸王園</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1716.md"><img src="../images/m1716-yingge-bade-fighting-combo.png" width="240" alt="鶯歌是波動拳？八德是昇龍拳？"></a><br><a href="../memes/m1716.md">鶯歌是波動拳？八德是昇龍拳？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（168）
+## ⚠️ 需斟酌（170）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2692,6 +2694,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1698.md"><img src="../images/m1698-cherry-blossom-handprint-window.jpg" width="240" alt="外面為何會有櫻花樹呢？——卧槽"></a><br><a href="../memes/m1698.md">外面為何會有櫻花樹呢？——卧槽</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>月都電車難題 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1725.md"><img src="../images/m1725-lunar-capital-trolley-problem.png" width="240" alt="月都電車難題"></a><br><a href="../memes/m1725.md">月都電車難題</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>走鋼索走到一半驚呆的猴子 — ⚠️ 動物生殖器</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1726.md"><img src="../images/m1726-monkey-rope-shock.png" width="240" alt="走鋼索走到一半驚呆的猴子"></a><br><a href="../memes/m1726.md">走鋼索走到一半驚呆的猴子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

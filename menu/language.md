@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 182 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 186 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（124）
+## ★（127）
 
 <table>
 <tr>
@@ -216,6 +216,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1715.md"><img src="../images/m1715-old-people-packages.png" width="240" alt="為什麼寄給老人都是包裹？——因為人老了寄信不好"></a><br><a href="../memes/m1715.md">為什麼寄給老人都是包裹？——因為人老了寄信不好</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1718.md"><img src="../images/m1718-i-dont-car.png" width="240" alt="你的英文很爛——I don't car"></a><br><a href="../memes/m1718.md">你的英文很爛——I don't car</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1720.md"><img src="../images/m1720-quaker-oat-my-pen.png" width="240" alt="桂格大燕 MY PEN"></a><br><a href="../memes/m1720.md">桂格大燕 MY PEN</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1722.md"><img src="../images/m1722-fortune-go-south-too-kaobei.jpg" width="240" alt="解籤的說我只要往南發展就會有姻緣——你看，你就是太靠北了"></a><br><a href="../memes/m1722.md">解籤的說我只要往南發展就會有姻緣——你看，你就是太靠北了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -249,7 +254,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（43）
+## ⚠️ 需斟酌（44）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -678,6 +683,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1617.md"><img src="../images/m1617-gold-medal-taiwan-beer-blur.jpg" width="240" alt="金牌特霧"></a><br><a href="../memes/m1617.md">金牌特霧</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>菜逼的反義詞是肉棒嗎 — ⚠️ 性器官字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1719.md"><img src="../images/m1719-noob-antonym.png" width="240" alt="菜逼的反義詞是肉棒嗎"></a><br><a href="../memes/m1719.md">菜逼的反義詞是肉棒嗎</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

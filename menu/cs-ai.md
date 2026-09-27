@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 177 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 178 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（115）
 
@@ -204,7 +204,7 @@
 </tr>
 </table>
 
-## ★★（45）
+## ★★（46）
 
 <table>
 <tr>
@@ -281,6 +281,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1595.md"><img src="../images/m1595-twitter-block-future.jpg" width="240" alt="原本推特的封鎖 vs 即將到來的封鎖"></a><br><a href="../memes/m1595.md">原本推特的封鎖 vs 即將到來的封鎖</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1631.md"><img src="../images/m1631-gradient-descent-local-minimum.png" width="240" alt="梯度下降卡在局部最小值"></a><br><a href="../memes/m1631.md">梯度下降卡在局部最小值</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1682.md"><img src="../images/m1682-chess-1-error-585-errors.png" width="240" alt="1 error vs 585 errors"></a><br><a href="../memes/m1682.md">1 error vs 585 errors</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1723.md"><img src="../images/m1723-calvin-ai-slop-transformer.png" width="240" alt="How do they generate AI slop, Dad?"></a><br><a href="../memes/m1723.md">How do they generate AI slop, Dad?</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

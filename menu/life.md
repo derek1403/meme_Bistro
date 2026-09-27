@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1015 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1025 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（719）
+## ★（729）
 
 <table>
 <tr>
@@ -1207,6 +1207,22 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2155.md"><img src="../images/m2155-fox-golf-hole-tuned.png" width="240" alt="一次就把樂器調音好的感覺就像"></a><br><a href="../memes/m2155.md">一次就把樂器調音好的感覺就像</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2163.md"><img src="../images/m2163-monks-exorcise-each-other.jpg" width="240" alt="互看不順眼而開始超渡對方"></a><br><a href="../memes/m2163.md">互看不順眼而開始超渡對方</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2169.md"><img src="../images/m2169-call-duration-analysis.png" width="240" alt="通話時間分析：女生打給女生 12:36:32:69:23"></a><br><a href="../memes/m2169.md">通話時間分析：女生打給女生 12:36:32:69:23</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2172.md"><img src="../images/m2172-evergreen-truck-you-honked.png" width="240" alt="你剛叭我？"></a><br><a href="../memes/m2172.md">你剛叭我？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2173.md"><img src="../images/m2173-buff-jesus-high-protein.jpg" width="240" alt="這尊耶穌像超壯，彷彿祂最後的晚餐吃的是高蛋白"></a><br><a href="../memes/m2173.md">這尊耶穌像超壯，彷彿祂最後的晚餐吃的是高蛋白</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2175.md"><img src="../images/m2175-paris-rats-catering-team.png" width="240" alt="巴黎的老鼠跑出來看奧運開幕式——他們是負責運動員餐飲的團隊"></a><br><a href="../memes/m2175.md">巴黎的老鼠跑出來看奧運開幕式——他們是負責運動員餐飲的團隊</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2176.md"><img src="../images/m2176-dinos-surprise-bunting.png" width="240" alt="這應該是裝飾品吧？——驚喜！！"></a><br><a href="../memes/m2176.md">這應該是裝飾品吧？——驚喜！！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2177.md"><img src="../images/m2177-cardboard-cat-mom-says-no.png" width="240" alt="我很喜歡貓咪但我媽不讓我養"></a><br><a href="../memes/m2177.md">我很喜歡貓咪但我媽不讓我養</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2179.md"><img src="../images/m2179-stick-collection-jealous.png" width="240" alt="我通常不會嫉妒其他男人，但這位兄弟的收藏讓我嫉妒心大爆發"></a><br><a href="../memes/m2179.md">我通常不會嫉妒其他男人，但這位兄弟的收藏讓我嫉妒心大爆發</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2182.md"><img src="../images/m2182-airpods-shrimp.png" width="240" alt="昨晚吃燒烤喝多了，早上打開耳機發現……"></a><br><a href="../memes/m2182.md">昨晚吃燒烤喝多了，早上打開耳機發現……</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2184.md"><img src="../images/m2184-fb-spam-posts-54-a-day.png" width="240" alt="我廢文很多喔——一天 54 篇廢文！"></a><br><a href="../memes/m2184.md">我廢文很多喔——一天 54 篇廢文！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2185.md"><img src="../images/m2185-shark-horror-movie-manta.png" width="240" alt="Did you call me?——Let's watch a horror movie!"></a><br><a href="../memes/m2185.md">Did you call me?——Let's watch a horror movie!</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

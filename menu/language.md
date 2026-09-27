@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 241 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 242 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（164）
 
@@ -323,7 +323,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（58）
+## ⚠️ 需斟酌（59）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -902,6 +902,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2147.md"><img src="../images/m2147-yang-wei-fake-sunshine.png" width="240" alt="你的陽光都是裝出來的——所以你陽偽"></a><br><a href="../memes/m2147.md">你的陽光都是裝出來的——所以你陽偽</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>再別康橋：我揮揮衣袖，不帶走一片雲彩——我搭錯飛機，不小心葬身火海 — ⚠️ 死亡、空難</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2168.md"><img src="../images/m2168-xu-zhimo-plane-crash-poem.png" width="240" alt="再別康橋：我揮揮衣袖，不帶走一片雲彩——我搭錯飛機，不小心葬身火海"></a><br><a href="../memes/m2168.md">再別康橋：我揮揮衣袖，不帶走一片雲彩——我搭錯飛機，不小心葬身火海</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

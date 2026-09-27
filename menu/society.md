@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 170 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 174 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（45）
 
@@ -120,7 +120,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（108）
+## ⚠️ 需斟酌（112）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1199,6 +1199,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2165.md"><img src="../images/m2165-pinocchio-lie-to-me.png" width="240" alt="哈囉，匹諾曹——向我說謊！！！"></a><br><a href="../memes/m2165.md">哈囉，匹諾曹——向我說謊！！！</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這就是每次老公都說要幹死我，但我最後都活了下來的原因 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2166.md"><img src="../images/m2166-toothpick-in-pipe-fitting.png" width="240" alt="這就是每次老公都說要幹死我，但我最後都活了下來的原因"></a><br><a href="../memes/m2166.md">這就是每次老公都說要幹死我，但我最後都活了下來的原因</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>火化時牙齒會在高溫下爆裂——禁忌的爆米花 — ⚠️ 死亡、火化</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2170.md"><img src="../images/m2170-cremation-teeth-popcorn.png" width="240" alt="火化時牙齒會在高溫下爆裂——禁忌的爆米花"></a><br><a href="../memes/m2170.md">火化時牙齒會在高溫下爆裂——禁忌的爆米花</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我看動畫——戰後就再也沒聽過日語的隔壁房爺爺： — ⚠️ 戰爭創傷</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2181.md"><img src="../images/m2181-grandpa-hears-japanese-anime.png" width="240" alt="我看動畫——戰後就再也沒聽過日語的隔壁房爺爺："></a><br><a href="../memes/m2181.md">我看動畫——戰後就再也沒聽過日語的隔壁房爺爺：</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>有希的交替：周防有希有 C——長門有希：我也…… — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2183.md"><img src="../images/m2183-yuki-c-cup-alya.jpg" width="240" alt="有希的交替：周防有希有 C——長門有希：我也……"></a><br><a href="../memes/m2183.md">有希的交替：周防有希有 C——長門有希：我也……</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

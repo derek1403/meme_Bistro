@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 240 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（158）
+## ★（162）
 
 <table>
 <tr>
@@ -272,10 +272,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2157.md"><img src="../images/m2157-flashing-rom-successful.png" width="240" alt="When you turn on your device after flashing a new ROM"></a><br><a href="../memes/m2157.md">When you turn on your device after flashing a new ROM</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2162.md"><img src="../images/m2162-snapchat-ai-no-location-mcdonalds.png" width="240" alt="你沒有我的位置資訊？——最近的麥當勞在你家旁邊的 Young St"></a><br><a href="../memes/m2162.md">你沒有我的位置資訊？——最近的麥當勞在你家旁邊的 Young St</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2167.md"><img src="../images/m2167-news-x-formerly-twitter.png" width="240" alt="新聞媒體：X（原名為推特）"></a><br><a href="../memes/m2167.md">新聞媒體：X（原名為推特）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2171.md"><img src="../images/m2171-ai-cat-labeled-dog.png" width="240" alt="90 年代媒體：AI 會在十年內毀掉社會——現在的 AI：狗"></a><br><a href="../memes/m2171.md">90 年代媒體：AI 會在十年內毀掉社會——現在的 AI：狗</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2174.md"><img src="../images/m2174-backend-frontend-fullstack-api.png" width="240" alt="Backend、Front-end、Full Stack Developer 與 API"></a><br><a href="../memes/m2174.md">Backend、Front-end、Full Stack Developer 與 API</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2178.md"><img src="../images/m2178-pc-not-plugged-in-photo-op.png" width="240" alt="政府宣傳照：大家認真打電腦——電腦根本沒插線"></a><br><a href="../memes/m2178.md">政府宣傳照：大家認真打電腦——電腦根本沒插線</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（57）
+## ★★（58）
 
 <table>
 <tr>
@@ -372,6 +378,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2115.md"><img src="../images/m2115-overfit-grandpa-cabbage.png" width="240" alt="你不想落得跟阿公一樣過度擬合吧？——那是一顆高麗菜"></a><br><a href="../memes/m2115.md">你不想落得跟阿公一樣過度擬合吧？——那是一顆高麗菜</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2139.md"><img src="../images/m2139-steam-users-map-boat.png" width="240" alt="Map of Steam users around the world——太平洋中間那一個"></a><br><a href="../memes/m2139.md">Map of Steam users around the world——太平洋中間那一個</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2141.md"><img src="../images/m2141-binary-17th-birthday-candles.png" width="240" alt="Happy 17th Birthday——8 根蠟燭只點 2 根"></a><br><a href="../memes/m2141.md">Happy 17th Birthday——8 根蠟燭只點 2 根</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2180.md"><img src="../images/m2180-chatgpt-eat-a-clock.png" width="240" alt="Have you ever tried to eat a clock?——No.——Okay."></a><br><a href="../memes/m2180.md">Have you ever tried to eat a clock?——No.——Okay.</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

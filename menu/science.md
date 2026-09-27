@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 126 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（55）
+## ★（56）
 
 <table>
 <tr>
@@ -101,6 +101,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1459.md"><img src="../images/m1459-flat-earth-reality-show.png" width="240" alt="我們應該要有個真人秀讓地平論者去尋找世界的邊緣"></a><br><a href="../memes/m1459.md">我們應該要有個真人秀讓地平論者去尋找世界的邊緣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1512.md"><img src="../images/m1512-physics-rep-vs-art-rep.png" width="240" alt="物理課代表看到的 vs 美術課代表看到的"></a><br><a href="../memes/m1512.md">物理課代表看到的 vs 美術課代表看到的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

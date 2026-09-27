@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 650 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 656 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（442）
+## ★（446）
 
 <table>
 <tr>
@@ -746,10 +746,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1503.md"><img src="../images/m1503-doctor-said-go-outdoors.png" width="240" alt="醫生也叫我多去戶外遊玩"></a><br><a href="../memes/m1503.md">醫生也叫我多去戶外遊玩</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1504.md"><img src="../images/m1504-astigmatism-mugs.png" width="240" alt="有散光的人看世界是什麼樣子——一整面馬克杯牆"></a><br><a href="../memes/m1504.md">有散光的人看世界是什麼樣子——一整面馬克杯牆</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1505.md"><img src="../images/m1505-log-out-first.png" width="240" alt="你們慢聊，我先登出了"></a><br><a href="../memes/m1505.md">你們慢聊，我先登出了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1509.md"><img src="../images/m1509-capybara-forgive-before-sleep.png" width="240" alt="睡前原諒所有的人和事——還是不睡了，原諒不了"></a><br><a href="../memes/m1509.md">睡前原諒所有的人和事——還是不睡了，原諒不了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1513.md"><img src="../images/m1513-no-one-starves-on-my-watch.png" width="240" alt="沒人可以在我手上餓死——外送超人"></a><br><a href="../memes/m1513.md">沒人可以在我手上餓死——外送超人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（66）
+## ★★（67）
 
 <table>
 <tr>
@@ -862,9 +868,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1374.md"><img src="../images/m1374-anime-trio-hydra.jpg" width="240" alt="2016–2024 動畫三人組與三頭龍"></a><br><a href="../memes/m1374.md">2016–2024 動畫三人組與三頭龍</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1481.md"><img src="../images/m1481-spock-super-glue.png" width="240" alt="Don't play with Super Glue — Spock"></a><br><a href="../memes/m1481.md">Don't play with Super Glue — Spock</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1510.md"><img src="../images/m1510-hanae-natsuki-nerd-to-teeth-mask.png" width="240" alt="書呆子、因為女孩而改變人生、牙齒面罩、同樣的聲優"></a><br><a href="../memes/m1510.md">書呆子、因為女孩而改變人生、牙齒面罩、同樣的聲優</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（142）
+## ⚠️ 需斟酌（143）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2283,6 +2292,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1501.md"><img src="../images/m1501-pour-drink-rip-delivery.png" width="240" alt="這杯敬你兄弟，願你安息——來自陽間的特快專遞"></a><br><a href="../memes/m1501.md">這杯敬你兄弟，願你安息——來自陽間的特快專遞</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我跟我老公一個禮拜壞壞三次——我以為聊的是你老公 — ⚠️ 性暗示／外遇</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1508.md"><img src="../images/m1508-bad-three-times-a-week.png" width="240" alt="我跟我老公一個禮拜壞壞三次——我以為聊的是你老公"></a><br><a href="../memes/m1508.md">我跟我老公一個禮拜壞壞三次——我以為聊的是你老公</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

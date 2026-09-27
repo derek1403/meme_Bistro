@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 162 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 163 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（106）
+## ★（107）
 
 <table>
 <tr>
@@ -186,6 +186,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1490.md"><img src="../images/m1490-tai-chi-online-lag.png" width="240" alt="太極拳網課突然卡頓"></a><br><a href="../memes/m1490.md">太極拳網課突然卡頓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1511.md"><img src="../images/m1511-rca-adapter-tower.png" width="240" alt="一串疊到天上的 RCA 轉接頭"></a><br><a href="../memes/m1511.md">一串疊到天上的 RCA 轉接頭</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 234 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（83）
 
@@ -150,7 +150,7 @@
 </tr>
 </table>
 
-## ★★（93）
+## ★★（94）
 
 <table>
 <tr>
@@ -307,6 +307,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1457.md"><img src="../images/m1457-ellipse-area-vs-circumference.png" width="240" alt="橢圓面積 A = πab vs 橢圓周長"></a><br><a href="../memes/m1457.md">橢圓面積 A = πab vs 橢圓周長</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1484.md"><img src="../images/m1484-i-love-math-collatz.png" width="240" alt="I love math! — me too!"></a><br><a href="../memes/m1484.md">I love math! — me too!</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1489.md"><img src="../images/m1489-projection-r3-to-r2.png" width="240" alt="T: ℝ³ → ℝ²"></a><br><a href="../memes/m1489.md">T: ℝ³ → ℝ²</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1507.md"><img src="../images/m1507-only-know-a-plus-b-squared.png" width="240" alt="學生畢業後：我只知道 (a+b)² = a² + b²"></a><br><a href="../memes/m1507.md">學生畢業後：我只知道 (a+b)² = a² + b²</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 144 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 146 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（94）
+## ★（96）
 
 <table>
 <tr>
@@ -166,6 +166,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1428.md"><img src="../images/m1428-moon-represents-low-salary.jpg" width="240" alt="月亮代表我低薪"></a><br><a href="../memes/m1428.md">月亮代表我低薪</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1448.md"><img src="../images/m1448-cancel-zodiac-oxen-horses.png" width="240" alt="覺得其實可以取消十二生肖了"></a><br><a href="../memes/m1448.md">覺得其實可以取消十二生肖了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1449.md"><img src="../images/m1449-single-persons-keyboard.png" width="240" alt="A single person's keyboard"></a><br><a href="../memes/m1449.md">A single person's keyboard</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（53）
+## ★（54）
 
 <table>
 <tr>
@@ -97,6 +97,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1311.md"><img src="../images/m1311-gorilla-eye-glasses.png" width="240" alt="大猩猩不喜歡目光接觸，所以遊客要戴這副眼鏡"></a><br><a href="../memes/m1311.md">大猩猩不喜歡目光接觸，所以遊客要戴這副眼鏡</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1319.md"><img src="../images/m1319-ev-diesel-generator.jpg" width="240" alt="電動車正在用柴油發電機充電"></a><br><a href="../memes/m1319.md">電動車正在用柴油發電機充電</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1446.md"><img src="../images/m1446-draw-cells-at-work.png" width="240" alt="請畫出紅血球、白血球、血小板、人體"></a><br><a href="../memes/m1446.md">請畫出紅血球、白血球、血小板、人體</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -184,7 +185,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（22）
+## ⚠️ 需斟酌（24）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -403,6 +404,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1435.md"><img src="../images/m1435-lost-right-brain.jpg" width="240" alt="我在事故中失去了右腦——天啊我無法想像——我也是"></a><br><a href="../memes/m1435.md">我在事故中失去了右腦——天啊我無法想像——我也是</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>義大利酒吧用義大利麵代替吸管——終於有個好吃的食物 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1443.md"><img src="../images/m1443-pasta-straws-tortoise.png" width="240" alt="義大利酒吧用義大利麵代替吸管——終於有個好吃的食物"></a><br><a href="../memes/m1443.md">義大利酒吧用義大利麵代替吸管——終於有個好吃的食物</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>LG 開發全球首款 50% 拉伸率顯示屏 — ⚠️ 性暗示（配文）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1447.md"><img src="../images/m1447-lg-stretchable-display.png" width="240" alt="LG 開發全球首款 50% 拉伸率顯示屏"></a><br><a href="../memes/m1447.md">LG 開發全球首款 50% 拉伸率顯示屏</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

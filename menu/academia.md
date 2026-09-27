@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 59 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 60 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（46）
+## ★（47）
 
 <table>
 <tr>
@@ -86,6 +86,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1334.md"><img src="../images/m1334-review-file-expired.jpg" width="240" alt="複習時間到——文件已過期"></a><br><a href="../memes/m1334.md">複習時間到——文件已過期</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1441.md"><img src="../images/m1441-chemistry-opposite-conclusion.png" width="240" alt="化學系日常：完美地得出跟題目完全相反的結論"></a><br><a href="../memes/m1441.md">化學系日常：完美地得出跟題目完全相反的結論</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

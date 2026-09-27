@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 228 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 230 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（83）
 
@@ -150,7 +150,7 @@
 </tr>
 </table>
 
-## ★★（87）
+## ★★（89）
 
 <table>
 <tr>
@@ -297,6 +297,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1284.md"><img src="../images/m1284-sum-of-cubes-2025.png" width="240" alt="1³ + 2³ + … + 9³ = 2025"></a><br><a href="../memes/m1284.md">1³ + 2³ + … + 9³ = 2025</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1349.md"><img src="../images/m1349-right-triangle-8-15-17.png" width="240" alt="在路上遇到直角三角形：8、15、17"></a><br><a href="../memes/m1349.md">在路上遇到直角三角形：8、15、17</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1408.md"><img src="../images/m1408-abyss-of-mathematics.jpg" width="240" alt="數學的深淵"></a><br><a href="../memes/m1408.md">數學的深淵</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1440.md"><img src="../images/m1440-arctan-same-picture.png" width="240" alt="(3/5, 4/5) 和 (-3/5, -4/5)：Arctan 說是同一張圖"></a><br><a href="../memes/m1440.md">(3/5, 4/5) 和 (-3/5, -4/5)：Arctan 說是同一張圖</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1444.md"><img src="../images/m1444-modelling-child-vs-adult.png" width="240" alt="The modelling you know as a child vs as an adult"></a><br><a href="../memes/m1444.md">The modelling you know as a child vs as an adult</a><br><sub>🧠🔤 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 614 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 618 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（417）
+## ★（421）
 
 <table>
 <tr>
@@ -703,6 +703,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1433.md"><img src="../images/m1433-quit-company-hired-three.png" width="240" alt="公司多請了三個人才補得上你的缺"></a><br><a href="../memes/m1433.md">公司多請了三個人才補得上你的缺</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1434.md"><img src="../images/m1434-beer-can-choir-christmas.png" width="240" alt="太節省連聖誕裝飾都不想買時"></a><br><a href="../memes/m1434.md">太節省連聖誕裝飾都不想買時</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1439.md"><img src="../images/m1439-pig-eats-a-lot-sushi.png" width="240" alt="吃那麼多，他是豬哦？"></a><br><a href="../memes/m1439.md">吃那麼多，他是豬哦？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1442.md"><img src="../images/m1442-lays-truck-fill-chips.png" width="240" alt="把洋芋片裝滿就不會發生這種事"></a><br><a href="../memes/m1442.md">把洋芋片裝滿就不會發生這種事</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1445.md"><img src="../images/m1445-smoke-follows-me.jpg" width="240" alt="你有什麼特殊才藝嗎？——營火的煙永遠飄向我"></a><br><a href="../memes/m1445.md">你有什麼特殊才藝嗎？——營火的煙永遠飄向我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1450.md"><img src="../images/m1450-cat-nine-lives-burger.jpg" width="240" alt="你確定要浪費九條命中的一條在垃圾食品上嗎？"></a><br><a href="../memes/m1450.md">你確定要浪費九條命中的一條在垃圾食品上嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1451.md"><img src="../images/m1451-im-an-adult-now-anime-cry.png" width="240" alt="我現在長大了，我能做到的——看動畫哭爛"></a><br><a href="../memes/m1451.md">我現在長大了，我能做到的——看動畫哭爛</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

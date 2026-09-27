@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 255 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 256 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -154,7 +154,7 @@
 </tr>
 </table>
 
-## ★★（104）
+## ★★（105）
 
 <table>
 <tr>
@@ -330,6 +330,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1757.md"><img src="../images/m1757-maclaurin-vs-taylor-bus.png" width="240" alt="馬克勞林 vs 泰勒"></a><br><a href="../memes/m1757.md">馬克勞林 vs 泰勒</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1844.md"><img src="../images/m1844-engineer-afraid-of-proofs.png" width="240" alt="我是工程師——意思是他害怕證明——令 ε > 0"></a><br><a href="../memes/m1844.md">我是工程師——意思是他害怕證明——令 ε > 0</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1850.md"><img src="../images/m1850-piano-notes-calculus.png" width="240" alt="鋼琴音名 ABCDEFG：數學版"></a><br><a href="../memes/m1850.md">鋼琴音名 ABCDEFG：數學版</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

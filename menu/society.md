@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 144 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 147 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（38）
+## ★（40）
 
 <table>
 <tr>
@@ -72,6 +72,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1712.md"><img src="../images/m1712-company-profit-shareholders-pizza.png" width="240" alt="當一家公司獲利時：股東 vs 核心員工"></a><br><a href="../memes/m1712.md">當一家公司獲利時：股東 vs 核心員工</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1789.md"><img src="../images/m1789-scalper-vs-investor-house.png" width="240" alt="我買了一個高需求的限量商品，以更高價格出售，所以我是一個……"></a><br><a href="../memes/m1789.md">我買了一個高需求的限量商品，以更高價格出售，所以我是一個……</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1853.md"><img src="../images/m1853-same-phone-vs-gacha-power-creep.jpg" width="240" alt="手機每年出一樣的大家搶，角色出得更強卻說倍率崩壞？"></a><br><a href="../memes/m1853.md">手機每年出一樣的大家搶，角色出得更強卻說倍率崩壞？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1854.md"><img src="../images/m1854-bigfoot-nightmare-21st-century.jpg" width="240" alt="我做了一個噩夢：在名為 21 世紀的時代打兩份工，才住得起水泥洞穴"></a><br><a href="../memes/m1854.md">我做了一個噩夢：在名為 21 世紀的時代打兩份工，才住得起水泥洞穴</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -99,7 +103,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（95）
+## ⚠️ 需斟酌（96）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1048,6 +1052,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1808.md"><img src="../images/m1808-shrimp-born-male-twitter.jpg" width="240" alt="所有的蝦子出生時都是公的——就像那些玩推特的男生"></a><br><a href="../memes/m1808.md">所有的蝦子出生時都是公的——就像那些玩推特的男生</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>動權團體「燒烤嬰兒模型」呼籲中秋節別將動物送上烤架 — ⚠️ 嬰兒（模型）燒烤意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1849.md"><img src="../images/m1849-roast-baby-model-animal-rights.png" width="240" alt="動權團體「燒烤嬰兒模型」呼籲中秋節別將動物送上烤架"></a><br><a href="../memes/m1849.md">動權團體「燒烤嬰兒模型」呼籲中秋節別將動物送上烤架</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

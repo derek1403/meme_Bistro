@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 188 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 189 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（124）
 
@@ -303,7 +303,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（17）
+## ⚠️ 需斟酌（18）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -472,6 +472,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1666.md"><img src="../images/m1666-heart-rate-below-5-delete-history.png" width="240" alt="最有用的智慧手機功能：心率低於 5 時刪除所有瀏覽紀錄"></a><br><a href="../memes/m1666.md">最有用的智慧手機功能：心率低於 5 時刪除所有瀏覽紀錄</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>等一下寶貝，有人在臉書說 HTML 不是程式語言 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1852.md"><img src="../images/m1852-html-not-programming-language.png" width="240" alt="等一下寶貝，有人在臉書說 HTML 不是程式語言"></a><br><a href="../memes/m1852.md">等一下寶貝，有人在臉書說 HTML 不是程式語言</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 834 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 838 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（575）
+## ★（577）
 
 <table>
 <tr>
@@ -967,6 +967,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1847.md"><img src="../images/m1847-eiki-browser-history-judgment.png" width="240" alt="下面將會以你的「瀏覽器記錄」作為審判的依據！"></a><br><a href="../memes/m1847.md">下面將會以你的「瀏覽器記錄」作為審判的依據！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1848.md"><img src="../images/m1848-age-30-cabbage-blanket.png" width="240" alt="15 歲的我：30 歲時要有事業車子房子家庭——30 歲時"></a><br><a href="../memes/m1848.md">15 歲的我：30 歲時要有事業車子房子家庭——30 歲時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1855.md"><img src="../images/m1855-boost-noodle-gamer-ramen.png" width="240" alt="袋裝吸入式拉麵：專為玩家設計"></a><br><a href="../memes/m1855.md">袋裝吸入式拉麵：專為玩家設計</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1857.md"><img src="../images/m1857-seal-nightmare-2024.jpg" width="240" alt="你醒啦？你剛剛做噩夢了——但我們是海豹啊"></a><br><a href="../memes/m1857.md">你醒啦？你剛剛做噩夢了——但我們是海豹啊</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1098,7 +1102,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（186）
+## ⚠️ 需斟酌（188）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2957,6 +2961,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1842.md"><img src="../images/m1842-paper-cutting-watermelon-poem.jpg" width="240" alt="剪紙：我要剪破你的皮，剪爛你的肉，剪斷你的骨頭"></a><br><a href="../memes/m1842.md">剪紙：我要剪破你的皮，剪爛你的肉，剪斷你的骨頭</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>主人在嗎？——主人？你也喜歡玩那個？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1858.md"><img src="../images/m1858-master-or-director-typo.jpg" width="240" alt="主人在嗎？——主人？你也喜歡玩那個？"></a><br><a href="../memes/m1858.md">主人在嗎？——主人？你也喜歡玩那個？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>痛包的新思路，螂來了！ — ⚠️ 蟑螂</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1860.md"><img src="../images/m1860-cockroach-ita-bag.jpg" width="240" alt="痛包的新思路，螂來了！"></a><br><a href="../memes/m1860.md">痛包的新思路，螂來了！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

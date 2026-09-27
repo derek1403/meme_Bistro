@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 207 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（140）
+## ★（141）
 
 <table>
 <tr>
@@ -242,6 +242,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1835.md"><img src="../images/m1835-feed-deer-salty.png" width="240" alt="鹿吃那麼鹹喔？"></a><br><a href="../memes/m1835.md">鹿吃那麼鹹喔？</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1836.md"><img src="../images/m1836-gui-xi-lang-plumber.png" width="240" alt="沒有經濟基礎，不能找他們——桂西郎水電行"></a><br><a href="../memes/m1836.md">沒有經濟基礎，不能找他們——桂西郎水電行</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1856.md"><img src="../images/m1856-goose-children-sign.png" width="240" alt="注意鵝童"></a><br><a href="../memes/m1856.md">注意鵝童</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -279,7 +280,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（50）
+## ⚠️ 需斟酌（52）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -778,6 +779,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1838.md"><img src="../images/m1838-self-blame-hoodie-zipper.jpg" width="240" alt="一件能表達自責的衣服——死米馬衫"></a><br><a href="../memes/m1838.md">一件能表達自責的衣服——死米馬衫</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>□ 需要餐具 □ 不需要陽具 — ⚠️ 性器官字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1851.md"><img src="../images/m1851-order-form-no-penis.png" width="240" alt="□ 需要餐具 □ 不需要陽具"></a><br><a href="../memes/m1851.md">□ 需要餐具 □ 不需要陽具</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>藥膏評分：皮癢 100 分 — ⚠️ 體罰暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1859.md"><img src="../images/m1859-ointment-scores-belt.png" width="240" alt="藥膏評分：皮癢 100 分"></a><br><a href="../memes/m1859.md">藥膏評分：皮癢 100 分</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

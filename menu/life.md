@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 526 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 533 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（353）
+## ★（358）
 
 <table>
 <tr>
@@ -597,10 +597,19 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1285.md"><img src="../images/m1285-nutella-spaghetti.png" width="240" alt="義大利人意識到把鳳梨放在披薩上只是個開始"></a><br><a href="../memes/m1285.md">義大利人意識到把鳳梨放在披薩上只是個開始</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1287.md"><img src="../images/m1287-chessboxing-expectation.png" width="240" alt="以為要肉搏，結果在下西洋棋"></a><br><a href="../memes/m1287.md">以為要肉搏，結果在下西洋棋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1294.md"><img src="../images/m1294-how-doctors-text.png" width="240" alt="醫生之間是怎麼傳訊息的"></a><br><a href="../memes/m1294.md">醫生之間是怎麼傳訊息的</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1295.md"><img src="../images/m1295-harold-only-like-cold-joke.png" width="240" alt="那唯一一個幫我按讚的人"></a><br><a href="../memes/m1295.md">那唯一一個幫我按讚的人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1299.md"><img src="../images/m1299-lifespan-being-kept.jpg" width="240" alt="被人包養：壽命 +200%"></a><br><a href="../memes/m1299.md">被人包養：壽命 +200%</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1300.md"><img src="../images/m1300-rude-on-purpose.jpg" width="240" alt="說話難聽我肯定是故意的啊"></a><br><a href="../memes/m1300.md">說話難聽我肯定是故意的啊</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1301.md"><img src="../images/m1301-sleep-paralysis-ghost-overtime.png" width="240" alt="凌晨三點負責鬼壓床的阿飄看到我還在上班"></a><br><a href="../memes/m1301.md">凌晨三點負責鬼壓床的阿飄看到我還在上班</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（62）
+## ★★（63）
 
 <table>
 <tr>
@@ -706,10 +715,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1224.md"><img src="../images/m1224-dark-souls-2-christmas.png" width="240" alt="聖誕禮物是黑暗靈魂 2"></a><br><a href="../memes/m1224.md">聖誕禮物是黑暗靈魂 2</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1291.md"><img src="../images/m1291-bad-apple-moon-phases.png" width="240" alt="Bad Apple!! 月相版"></a><br><a href="../memes/m1291.md">Bad Apple!! 月相版</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1297.md"><img src="../images/m1297-orin-cat-cafe-card.png" width="240" alt="阿燐發現了貓咖啡廳的名片"></a><br><a href="../memes/m1297.md">阿燐發現了貓咖啡廳的名片</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（111）
+## ⚠️ 需斟酌（112）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1818,6 +1828,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1292.md"><img src="../images/m1292-game-buddy-with-benefits.png" width="240" alt="想要一起打遊戲、一起傻逼、還能一起做愛的朋友"></a><br><a href="../memes/m1292.md">想要一起打遊戲、一起傻逼、還能一起做愛的朋友</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>地獄見——我覺得他不會來 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1302.md"><img src="../images/m1302-see-you-in-hell-stood-up.png" width="240" alt="地獄見——我覺得他不會來"></a><br><a href="../memes/m1302.md">地獄見——我覺得他不會來</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

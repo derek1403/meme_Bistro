@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 123 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 126 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（84）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（29）
+## ⚠️ 需斟酌（32）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -463,6 +463,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1293.md"><img src="../images/m1293-arab-poet-114514.png" width="240" alt="一位睿智的阿拉伯詩人曾說過"></a><br><a href="../memes/m1293.md">一位睿智的阿拉伯詩人曾說過</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我今天去醫院看腿了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1296.md"><img src="../images/m1296-hospital-see-legs.png" width="240" alt="我今天去醫院看腿了"></a><br><a href="../memes/m1296.md">我今天去醫院看腿了</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我喜歡蜂蜜，你知道我還喜歡什麼嗎？ — ⚠️ 吃掉朋友</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1298.md"><img src="../images/m1298-pooh-honey-pork-chop.png" width="240" alt="我喜歡蜂蜜，你知道我還喜歡什麼嗎？"></a><br><a href="../memes/m1298.md">我喜歡蜂蜜，你知道我還喜歡什麼嗎？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當一個小女孩到達 16 歲時：Bi- — ⚠️ 貶義字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1305.md"><img src="../images/m1305-bi-sexual-polar-tch.png" width="240" alt="當一個小女孩到達 16 歲時：Bi-"></a><br><a href="../memes/m1305.md">當一個小女孩到達 16 歲時：Bi-</a><br><sub>🔤🔥 ★★</sub></td>
 </tr>
 </table>
 

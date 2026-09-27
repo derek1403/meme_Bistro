@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 221 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 222 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（80）
+## ★（81）
 
 <table>
 <tr>
@@ -142,6 +142,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1160.md"><img src="../images/m1160-math-genius-hurdle-backflip.png" width="240" alt="那位學霸的解題思路"></a><br><a href="../memes/m1160.md">那位學霸的解題思路</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1200.md"><img src="../images/m1200-afraid-60-percent-remaining.png" width="240" alt="那剩下的 60% 呢？"></a><br><a href="../memes/m1200.md">那剩下的 60% 呢？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1303.md"><img src="../images/m1303-kid-vs-adult-arithmetic.png" width="240" alt="小時候的我 vs 長大後的我"></a><br><a href="../memes/m1303.md">小時候的我 vs 長大後的我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

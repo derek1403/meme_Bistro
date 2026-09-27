@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 132 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（34）
+## ★（37）
 
 <table>
 <tr>
@@ -66,6 +66,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1702.md"><img src="../images/m1702-patrick-shanthony-leave-when-ready.png" width="240" alt="沒關係山陀兒，你想走的時候再走吧"></a><br><a href="../memes/m1702.md">沒關係山陀兒，你想走的時候再走吧</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1707.md"><img src="../images/m1707-shanthony-kenting-too-expensive.jpg" width="240" alt="山陀兒已經在那轉一天了，它到底在等什麼？——墾丁太貴，它在猶豫要不要去"></a><br><a href="../memes/m1707.md">山陀兒已經在那轉一天了，它到底在等什麼？——墾丁太貴，它在猶豫要不要去</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1708.md"><img src="../images/m1708-shanthony-scam-message.png" width="240" alt="你好，我是山陀兒，我在墾丁大街買滷味還差 1200 元"></a><br><a href="../memes/m1708.md">你好，我是山陀兒，我在墾丁大街買滷味還差 1200 元</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1712.md"><img src="../images/m1712-company-profit-shareholders-pizza.png" width="240" alt="當一家公司獲利時：股東 vs 核心員工"></a><br><a href="../memes/m1712.md">當一家公司獲利時：股東 vs 核心員工</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -89,7 +94,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（89）
+## ⚠️ 需斟酌（90）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -978,6 +983,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1701.md"><img src="../images/m1701-typhoon-news-meet-mom-ad.png" width="240" alt="尚未宣布是否停班停課——快去結識媽媽"></a><br><a href="../memes/m1701.md">尚未宣布是否停班停課——快去結識媽媽</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>上帝的創造物（群組） — ⚠️ 宗教／大屠殺暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1706.md"><img src="../images/m1706-god-group-chat-history.png" width="240" alt="上帝的創造物（群組）"></a><br><a href="../memes/m1706.md">上帝的創造物（群組）</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

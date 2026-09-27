@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 71 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 72 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（55）
+## ★（56）
 
 <table>
 <tr>
@@ -101,6 +101,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1679.md"><img src="../images/m1679-extreme-sport-homework.jpg" width="240" alt="說一項極限運動——在老師收作業的時候寫作業"></a><br><a href="../memes/m1679.md">說一項極限運動——在老師收作業的時候寫作業</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1714.md"><img src="../images/m1714-amazing-paper-idea-no-time.png" width="240" alt="這會是一篇超棒的論文——如果我有時間寫的話"></a><br><a href="../memes/m1714.md">這會是一篇超棒的論文——如果我有時間寫的話</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

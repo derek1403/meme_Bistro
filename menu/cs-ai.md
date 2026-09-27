@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 173 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 177 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（111）
+## ★（115）
 
 <table>
 <tr>
@@ -193,6 +193,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1577.md"><img src="../images/m1577-rog-motherboard-anime-girl.png" width="240" alt="主機板背面印著動漫美少女"></a><br><a href="../memes/m1577.md">主機板背面印著動漫美少女</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1638.md"><img src="../images/m1638-time-efficient-scammer.png" width="240" alt="Just send me the virus link"></a><br><a href="../memes/m1638.md">Just send me the virus link</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1686.md"><img src="../images/m1686-telegram-whatsapp-deleted-message.png" width="240" alt="請偷偷刪掉我的訊息——各位，他刪了訊息！"></a><br><a href="../memes/m1686.md">請偷偷刪掉我的訊息——各位，他刪了訊息！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1705.md"><img src="../images/m1705-code-works-first-try.png" width="240" alt="When your code works on the first try"></a><br><a href="../memes/m1705.md">When your code works on the first try</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1709.md"><img src="../images/m1709-pen-paper-code-interview.png" width="240" alt="When they give you pen and paper to write code in interview"></a><br><a href="../memes/m1709.md">When they give you pen and paper to write code in interview</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1711.md"><img src="../images/m1711-programmer-1st-vs-last-year.png" width="240" alt="Life of a programmer: 1st Year vs Last Year"></a><br><a href="../memes/m1711.md">Life of a programmer: 1st Year vs Last Year</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1713.md"><img src="../images/m1713-winrar-handbag.png" width="240" alt="WinRAR 包包"></a><br><a href="../memes/m1713.md">WinRAR 包包</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

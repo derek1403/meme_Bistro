@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 159 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（43）
 
@@ -117,7 +117,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（99）
+## ⚠️ 需斟酌（100）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1106,6 +1106,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2033.md"><img src="../images/m2033-son-lost-virginity-cant-sit.jpg" width="240" alt="爸，我破處了！——坐下來會痛"></a><br><a href="../memes/m2033.md">爸，我破處了！——坐下來會痛</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>早上醒來男友已經硬硬的——硬的話走了最少 12 小時 — ⚠️ 死亡、性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2084.md"><img src="../images/m2084-hard-in-morning-12-hours.png" width="240" alt="早上醒來男友已經硬硬的——硬的話走了最少 12 小時"></a><br><a href="../memes/m2084.md">早上醒來男友已經硬硬的——硬的話走了最少 12 小時</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

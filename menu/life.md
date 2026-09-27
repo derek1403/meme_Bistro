@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 950 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 982 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（661）
+## ★（689）
 
 <table>
 <tr>
@@ -1111,10 +1111,56 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2044.md"><img src="../images/m2044-body-mind-8am-8pm.jpg" width="240" alt="早上 8 點的我 vs 晚上 8 點的我"></a><br><a href="../memes/m2044.md">早上 8 點的我 vs 晚上 8 點的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2046.md"><img src="../images/m2046-plague-doctor-hummingbird-feeder.jpg" width="240" alt="終於裝好蜂鳥餵食器——監視器拍到鄰居扮瘟疫醫生"></a><br><a href="../memes/m2046.md">終於裝好蜂鳥餵食器——監視器拍到鄰居扮瘟疫醫生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2047.md"><img src="../images/m2047-gasoline-smell-doge.jpg" width="240" alt="別人愛香氛蠟燭，我愛聞汽油"></a><br><a href="../memes/m2047.md">別人愛香氛蠟燭，我愛聞汽油</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2048.md"><img src="../images/m2048-cat-gang-boss-lifted.jpg" width="240" alt="貓幫頭目被人類像小辛巴一樣舉起來"></a><br><a href="../memes/m2048.md">貓幫頭目被人類像小辛巴一樣舉起來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2049.md"><img src="../images/m2049-maid-truck-driver.jpg" width="240" alt="為了生活開始工作，又不願放棄心中的夢想"></a><br><a href="../memes/m2049.md">為了生活開始工作，又不願放棄心中的夢想</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2050.md"><img src="../images/m2050-rich-second-gen-reverse.jpg" width="240" alt="你又不是富二代——啊我為什麼不是富二代，你不覺得你應該努力一點嗎"></a><br><a href="../memes/m2050.md">你又不是富二代——啊我為什麼不是富二代，你不覺得你應該努力一點嗎</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2051.md"><img src="../images/m2051-mistress-no-girlfriend.jpg" width="240" alt="我當你那麼久的小三，結果你根本沒有女朋友"></a><br><a href="../memes/m2051.md">我當你那麼久的小三，結果你根本沒有女朋友</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2052.md"><img src="../images/m2052-mom-how-much-friend-gift.jpg" width="240" alt="買這些東西花了多少錢？——朋友送的"></a><br><a href="../memes/m2052.md">買這些東西花了多少錢？——朋友送的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2053.md"><img src="../images/m2053-rimuru-king-of-outfits.png" width="240" alt="擅長衣裝的國王"></a><br><a href="../memes/m2053.md">擅長衣裝的國王</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2054.md"><img src="../images/m2054-ayumi-future-black-org.png" width="240" alt="步美長大後領悟唯一的真相：消除柯南的存在"></a><br><a href="../memes/m2054.md">步美長大後領悟唯一的真相：消除柯南的存在</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2055.md"><img src="../images/m2055-face-factory-reset-10pm.jpg" width="240" alt="晚上十點後別打視訊給剛交往的女生——臉已恢復原廠設定"></a><br><a href="../memes/m2055.md">晚上十點後別打視訊給剛交往的女生——臉已恢復原廠設定</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2057.md"><img src="../images/m2057-snake-selfie-stick.png" width="240" alt="我沒帶自拍棒耶——什麼是自拍棒？"></a><br><a href="../memes/m2057.md">我沒帶自拍棒耶——什麼是自拍棒？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2059.md"><img src="../images/m2059-negative-positive-my-life.jpg" width="240" alt="消極的人生、積極的人生、我的人生"></a><br><a href="../memes/m2059.md">消極的人生、積極的人生、我的人生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2061.md"><img src="../images/m2061-new-hire-vs-now.jpg" width="240" alt="剛工作的我 vs 現在的我"></a><br><a href="../memes/m2061.md">剛工作的我 vs 現在的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2062.md"><img src="../images/m2062-new-gear-higher-stats.jpg" width="240" alt="新裝備不適合你的角色，但屬性更高"></a><br><a href="../memes/m2062.md">新裝備不適合你的角色，但屬性更高</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2065.md"><img src="../images/m2065-how-i-use-the-chair.png" width="240" alt="How they advertise the chair vs how I use the chair"></a><br><a href="../memes/m2065.md">How they advertise the chair vs how I use the chair</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2068.md"><img src="../images/m2068-beast-mode-koala-sleep.jpg" width="240" alt="我在床上可是要獸性大發的——像考拉一樣每天睡十幾小時"></a><br><a href="../memes/m2068.md">我在床上可是要獸性大發的——像考拉一樣每天睡十幾小時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2069.md"><img src="../images/m2069-roommate-not-leaving.jpg" width="240" alt="室友帶女友回來——我他媽哪也不去"></a><br><a href="../memes/m2069.md">室友帶女友回來——我他媽哪也不去</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2070.md"><img src="../images/m2070-whole-plane-going-to-japan.jpg" width="240" alt="整台飛機都是去日本的"></a><br><a href="../memes/m2070.md">整台飛機都是去日本的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2071.md"><img src="../images/m2071-beer-elimination-table.jpg" width="240" alt="一杯消除口渴……十杯消除記憶"></a><br><a href="../memes/m2071.md">一杯消除口渴……十杯消除記憶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2074.md"><img src="../images/m2074-dogs-human-lifespan.png" width="240" alt="人類壽命比我們長很多——一定很棒"></a><br><a href="../memes/m2074.md">人類壽命比我們長很多——一定很棒</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2075.md"><img src="../images/m2075-chicken-stress-free.jpg" width="240" alt="雞的成長環境都比你好"></a><br><a href="../memes/m2075.md">雞的成長環境都比你好</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2079.md"><img src="../images/m2079-noodle-broom-hairstyles.png" width="240" alt="泡麵頭與掃把頭"></a><br><a href="../memes/m2079.md">泡麵頭與掃把頭</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2082.md"><img src="../images/m2082-pet-rock-bite-him.jpg" width="240" alt="拿石頭當寵物？小強，咬他！"></a><br><a href="../memes/m2082.md">拿石頭當寵物？小強，咬他！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2083.md"><img src="../images/m2083-pokemon-age-not-evolution.jpg" width="240" alt="寶可夢告訴我們：年紀變大不代表會變強並進化"></a><br><a href="../memes/m2083.md">寶可夢告訴我們：年紀變大不代表會變強並進化</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2086.md"><img src="../images/m2086-cup-lid-straw-head.png" width="240" alt="你今天想要？——吸管直接插爆他的頭"></a><br><a href="../memes/m2086.md">你今天想要？——吸管直接插爆他的頭</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2087.md"><img src="../images/m2087-rejected-cat-keyboard.png" width="240" alt="告白被拒——剛剛是我家的貓踩到鍵盤"></a><br><a href="../memes/m2087.md">告白被拒——剛剛是我家的貓踩到鍵盤</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2091.md"><img src="../images/m2091-sunflowers-face-each-other.png" width="240" alt="向日葵找不到太陽時會朝向彼此"></a><br><a href="../memes/m2091.md">向日葵找不到太陽時會朝向彼此</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2092.md"><img src="../images/m2092-side-quest-bread-flood.png" width="240" alt="想順手做個支線任務，結果一直分裂出更多支線"></a><br><a href="../memes/m2092.md">想順手做個支線任務，結果一直分裂出更多支線</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（80）
+## ★★（83）
 
 <table>
 <tr>
@@ -1250,10 +1296,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1977.md"><img src="../images/m1977-neuvillette-hot-spring-dont-drink.jpg" width="240" alt="Hot spring water!!——DON'T DRINK!!!"></a><br><a href="../memes/m1977.md">Hot spring water!!——DON'T DRINK!!!</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1978.md"><img src="../images/m1978-genshin-regions-terrain-chart.jpg" width="240" alt="原神各地區地形示意圖"></a><br><a href="../memes/m1978.md">原神各地區地形示意圖</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2064.md"><img src="../images/m2064-ketchup-fries-cheating.jpg" width="240" alt="番茄醬包撞見薯條出軌"></a><br><a href="../memes/m2064.md">番茄醬包撞見薯條出軌</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2067.md"><img src="../images/m2067-kurapika-ship-8-years.jpg" width="240" alt="酷拉皮卡在船上見證《咒術迴戰》從連載開始到結束"></a><br><a href="../memes/m2067.md">酷拉皮卡在船上見證《咒術迴戰》從連載開始到結束</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2073.md"><img src="../images/m2073-sakura-im-a-coser.png" width="240" alt="你也是魔法少女嗎？——我是 coser"></a><br><a href="../memes/m2073.md">你也是魔法少女嗎？——我是 coser</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（209）
+## ⚠️ 需斟酌（210）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3342,6 +3393,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2023.md"><img src="../images/m2023-posture-corrector-harness.jpg" width="240" alt="不良駝背姿勢矯正器"></a><br><a href="../memes/m2023.md">不良駝背姿勢矯正器</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>久坐 6 小時猝死風險 +40%——坐 15 小時的我：Heart Attack 怎麼還沒來？ — ⚠️ 猝死、厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2077.md"><img src="../images/m2077-jojo-heart-attack-taking-long.png" width="240" alt="久坐 6 小時猝死風險 +40%——坐 15 小時的我：Heart Attack 怎麼還沒來？"></a><br><a href="../memes/m2077.md">久坐 6 小時猝死風險 +40%——坐 15 小時的我：Heart Attack 怎麼還沒來？</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

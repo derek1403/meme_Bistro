@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 78 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 80 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（60）
+## ★（62）
 
 <table>
 <tr>
@@ -108,6 +108,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1765.md"><img src="../images/m1765-match-colors-grayscale.jpg" width="240" alt="把單詞和相應的顏色搭配起來"></a><br><a href="../memes/m1765.md">把單詞和相應的顏色搭配起來</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1868.md"><img src="../images/m1868-class-rules-talk-without-mouth.jpg" width="240" alt="可以講話，但不可以用嘴巴"></a><br><a href="../memes/m1868.md">可以講話，但不可以用嘴巴</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2045.md"><img src="../images/m2045-doctor-of-philosophy.jpg" width="240" alt="有 doctor 嗎？——我是哲學 doctor：我們都是要死的"></a><br><a href="../memes/m2045.md">有 doctor 嗎？——我是哲學 doctor：我們都是要死的</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2089.md"><img src="../images/m2089-engineer-seen-by-math-physics.png" width="240" alt="數學與物理學科眼中的工程師形象"></a><br><a href="../memes/m2089.md">數學與物理學科眼中的工程師形象</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2090.md"><img src="../images/m2090-it-student-graduation-skeleton.png" width="240" alt="When an IT student completes his graduation"></a><br><a href="../memes/m2090.md">When an IT student completes his graduation</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

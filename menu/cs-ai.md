@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 216 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 221 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（146）
+## ★（150）
 
 <table>
 <tr>
@@ -252,10 +252,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2036.md"><img src="../images/m2036-tom-first-ai-job-loss.png" width="240" alt="Tom was the first guy losing his job because of AI"></a><br><a href="../memes/m2036.md">Tom was the first guy losing his job because of AI</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2038.md"><img src="../images/m2038-laptop-baked-in-oven.jpg" width="240" alt="咖啡灑在筆電上，所以她把電腦放進烤箱烘乾"></a><br><a href="../memes/m2038.md">咖啡灑在筆電上，所以她把電腦放進烤箱烘乾</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2060.md"><img src="../images/m2060-samsung-bulletproof.png" width="240" alt="Apple 有防水手機——Samsung 有防彈手機"></a><br><a href="../memes/m2060.md">Apple 有防水手機——Samsung 有防彈手機</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2076.md"><img src="../images/m2076-programming-memes-flat-curve.png" width="240" alt="Algorithms、DBMS、Programming Memes 的難度曲線"></a><br><a href="../memes/m2076.md">Algorithms、DBMS、Programming Memes 的難度曲線</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2085.md"><img src="../images/m2085-google-hiring-have-your-data.png" width="240" alt="Google Now Hiring——No need to apply, we already have all of your data"></a><br><a href="../memes/m2085.md">Google Now Hiring——No need to apply, we already have all of your data</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2088.md"><img src="../images/m2088-asus-otp-on-screen.png" width="240" alt="We are facing an SMS issue. Please use 910296 as your OTP"></a><br><a href="../memes/m2088.md">We are facing an SMS issue. Please use 910296 as your OTP</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（51）
+## ★★（52）
 
 <table>
 <tr>
@@ -342,6 +348,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1908.md"><img src="../images/m1908-soc-analyst-hack-my.png" width="240" alt="I am a SOC Analyst——Can you hack my——I said, SOC Analyst"></a><br><a href="../memes/m1908.md">I am a SOC Analyst——Can you hack my——I said, SOC Analyst</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1958.md"><img src="../images/m1958-software-capabilities-baby-age.png" width="240" alt="各月齡寶寶的典型軟體能力"></a><br><a href="../memes/m1958.md">各月齡寶寶的典型軟體能力</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1959.md"><img src="../images/m1959-family-mental-illness-sicp-taocp.jpg" width="240" alt="你家族有精神病史嗎？——我有個叔叔會推薦新手讀 SICP 和 TAOCP"></a><br><a href="../memes/m1959.md">你家族有精神病史嗎？——我有個叔叔會推薦新手讀 SICP 和 TAOCP</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2072.md"><img src="../images/m2072-64bit-is-this-x.png" width="240" alt="64 bit computer：x + 1/10¹⁶, is this x?"></a><br><a href="../memes/m2072.md">64 bit computer：x + 1/10¹⁶, is this x?</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

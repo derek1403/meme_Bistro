@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 225 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 231 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（153）
+## ★（157）
 
 <table>
 <tr>
@@ -264,9 +264,17 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2025.md"><img src="../images/m2025-cold-knowledge-cat-nose.jpg" width="240" alt="冷知識：貓咪鼻子冷的時候會這樣睡覺"></a><br><a href="../memes/m2025.md">冷知識：貓咪鼻子冷的時候會這樣睡覺</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2034.md"><img src="../images/m2034-monks-coffee-karma.jpg" width="240" alt="小僧品嚐的不是咖啡而是因果"></a><br><a href="../memes/m2034.md">小僧品嚐的不是咖啡而是因果</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2056.md"><img src="../images/m2056-social-whatever-syndrome.jpg" width="240" alt="誠實字典：社交隨便症"></a><br><a href="../memes/m2056.md">誠實字典：社交隨便症</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2058.md"><img src="../images/m2058-menu-item-suibian.jpg" width="240" alt="菜單上真的有一道「隨便」"></a><br><a href="../memes/m2058.md">菜單上真的有一道「隨便」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2078.md"><img src="../images/m2078-asymptomatic-happiness.png" width="240" alt="說不定我其實是快樂的，只是染上的是無症狀快樂"></a><br><a href="../memes/m2078.md">說不定我其實是快樂的，只是染上的是無症狀快樂</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2080.md"><img src="../images/m2080-78-percent-fake-humans.jpg" width="240" alt="冷知識：100 個人中就有 78 個是偽人"></a><br><a href="../memes/m2080.md">冷知識：100 個人中就有 78 個是偽人</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（18）
+## ★★（19）
 
 <table>
 <tr>
@@ -299,9 +307,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1846.md"><img src="../images/m1846-acrostic-read-diagonally.jpg" width="240" alt="藏頭藏尾我都看了——妳當我是朋友的話就斜著看"></a><br><a href="../memes/m1846.md">藏頭藏尾我都看了——妳當我是朋友的話就斜著看</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1902.md"><img src="../images/m1902-birdcage-mahjong-sparrow.jpg" width="240" alt="請勿投喂——鳥籠裡是麻將的「一索」"></a><br><a href="../memes/m1902.md">請勿投喂——鳥籠裡是麻將的「一索」</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2063.md"><img src="../images/m2063-touhou-wig-color-blind.png" width="240" alt="東方廚大部分都是色盲：紫的假髮、橙的假髮、藍的假髮"></a><br><a href="../memes/m2063.md">東方廚大部分都是色盲：紫的假髮、橙的假髮、藍的假髮</a><br><sub>🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（54）
+## ⚠️ 需斟酌（55）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -840,6 +851,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2020.md"><img src="../images/m2020-not-for-sale-then-free.jpg" width="240" alt="我屁股是非賣品——那我操完不給錢就行了"></a><br><a href="../memes/m2020.md">我屁股是非賣品——那我操完不給錢就行了</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>海是個好東西：心情好可以看，心情不好可以跳，沒錢了還能下 — ⚠️ 自殺、性工作暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2066.md"><img src="../images/m2066-sea-jump-or-go-down.jpg" width="240" alt="海是個好東西：心情好可以看，心情不好可以跳，沒錢了還能下"></a><br><a href="../memes/m2066.md">海是個好東西：心情好可以看，心情不好可以跳，沒錢了還能下</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

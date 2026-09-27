@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 874 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 879 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（605）
+## ★（608）
 
 <table>
 <tr>
@@ -1017,6 +1017,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1923.md"><img src="../images/m1923-gambling-bet-you-regret.png" width="240" alt="你賭博成癮了，我要離開你——我賭你會後悔"></a><br><a href="../memes/m1923.md">你賭博成癮了，我要離開你——我賭你會後悔</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1926.md"><img src="../images/m1926-seals-laughing-cant-breathe.jpg" width="240" alt="和最好的朋友笑到幾乎不能呼吸"></a><br><a href="../memes/m1926.md">和最好的朋友笑到幾乎不能呼吸</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1927.md"><img src="../images/m1927-moomin-was-dragonite.jpg" width="240" alt="我以前是快龍喔"></a><br><a href="../memes/m1927.md">我以前是快龍喔</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1928.md"><img src="../images/m1928-heart-hands-embarrassed-boy.png" width="240" alt="比愛心：他害羞到蹲在樓梯上"></a><br><a href="../memes/m1928.md">比愛心：他害羞到蹲在樓梯上</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1929.md"><img src="../images/m1929-bailu-vs-feixiao-morning.png" width="240" alt="6am 到 1pm 的早晨 vs 6am 到 7am 的早晨"></a><br><a href="../memes/m1929.md">6am 到 1pm 的早晨 vs 6am 到 7am 的早晨</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1153,7 +1158,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（193）
+## ⚠️ 需斟酌（195）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3082,6 +3087,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1907.md"><img src="../images/m1907-skeletor-work-selling-organs.jpg" width="240" alt="上班實際上是在賣全身的器官，只是沒有挖出來賣"></a><br><a href="../memes/m1907.md">上班實際上是在賣全身的器官，只是沒有挖出來賣</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>太鼓達人鼓面遇上按摩棒 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1930.md"><img src="../images/m1930-taiko-drum-massager.png" width="240" alt="太鼓達人鼓面遇上按摩棒"></a><br><a href="../memes/m1930.md">太鼓達人鼓面遇上按摩棒</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>太鼓達人漫畫：連打——ズボッ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1931.md"><img src="../images/m1931-taiko-manga-stick-ahh.png" width="240" alt="太鼓達人漫畫：連打——ズボッ"></a><br><a href="../memes/m1931.md">太鼓達人漫畫：連打——ズボッ</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

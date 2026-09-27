@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 217 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 218 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（146）
+## ★（147）
 
 <table>
 <tr>
@@ -252,6 +252,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1909.md"><img src="../images/m1909-attack-chihuahua-counter.jpg" width="240" alt="攻吉他會怎樣嗎？——反吉"></a><br><a href="../memes/m1909.md">攻吉他會怎樣嗎？——反吉</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1916.md"><img src="../images/m1916-egg-yolk-pastry-chicken-duck.jpg" width="240" alt="吃一顆蛋黃酥就達成慶賀雞鴨的目的了"></a><br><a href="../memes/m1916.md">吃一顆蛋黃酥就達成慶賀雞鴨的目的了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1933.md"><img src="../images/m1933-boardroom-double-pun-guan-yu.png" width="240" alt="我們要怎樣讓梗圖更好笑？——加個雙關語"></a><br><a href="../memes/m1933.md">我們要怎樣讓梗圖更好笑？——加個雙關語</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

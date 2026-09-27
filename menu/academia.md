@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 62 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 64 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（48）
+## ★（50）
 
 <table>
 <tr>
@@ -88,6 +88,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1334.md"><img src="../images/m1334-review-file-expired.jpg" width="240" alt="複習時間到——文件已過期"></a><br><a href="../memes/m1334.md">複習時間到——文件已過期</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1441.md"><img src="../images/m1441-chemistry-opposite-conclusion.png" width="240" alt="化學系日常：完美地得出跟題目完全相反的結論"></a><br><a href="../memes/m1441.md">化學系日常：完美地得出跟題目完全相反的結論</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1506.md"><img src="../images/m1506-degree-plane-stairs.jpg" width="240" alt="拿到學位的我、從大學離開的我、在學校學到的所有東西"></a><br><a href="../memes/m1506.md">拿到學位的我、從大學離開的我、在學校學到的所有東西</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1524.md"><img src="../images/m1524-med-student-highlighting.png" width="240" alt="其他專業學生劃重點 vs 醫學生劃重點"></a><br><a href="../memes/m1524.md">其他專業學生劃重點 vs 醫學生劃重點</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1525.md"><img src="../images/m1525-teacher-student-standoff.png" width="240" alt="你不夠聰明所以無法理解——你不夠聰明所以無法清楚地講解"></a><br><a href="../memes/m1525.md">你不夠聰明所以無法理解——你不夠聰明所以無法清楚地講解</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

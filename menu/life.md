@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 663 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 670 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（451）
+## ★（457）
 
 <table>
 <tr>
@@ -761,6 +761,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1522.md"><img src="../images/m1522-childish-inside-working-age.png" width="240" alt="當你內心還很幼稚卻到了要上班的年紀"></a><br><a href="../memes/m1522.md">當你內心還很幼稚卻到了要上班的年紀</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1526.md"><img src="../images/m1526-halloween-headrest-costume.png" width="240" alt="萬聖節當天我被警察攔下了整整 45 次"></a><br><a href="../memes/m1526.md">萬聖節當天我被警察攔下了整整 45 次</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1527.md"><img src="../images/m1527-jerky-bubble-milk-tea.jpg" width="240" alt="台灣肉乾珍珠奶茶"></a><br><a href="../memes/m1527.md">台灣肉乾珍珠奶茶</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1528.md"><img src="../images/m1528-late-for-class-graduated.jpg" width="240" alt="呀，上課快要遲到了——不對，我已經畢業三年了"></a><br><a href="../memes/m1528.md">呀，上課快要遲到了——不對，我已經畢業三年了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1529.md"><img src="../images/m1529-fried-egg-flip-scrambled.png" width="240" alt="今天吃煎荷包蛋——今天吃炒雞蛋"></a><br><a href="../memes/m1529.md">今天吃煎荷包蛋——今天吃炒雞蛋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1530.md"><img src="../images/m1530-character-creator-then-now.jpg" width="240" alt="以前捏遊戲人物 vs 現在捏遊戲人物"></a><br><a href="../memes/m1530.md">以前捏遊戲人物 vs 現在捏遊戲人物</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1532.md"><img src="../images/m1532-boyfriend-waiting-apology-skeleton.png" width="240" alt="當男朋友跟你吵架等你道歉"></a><br><a href="../memes/m1532.md">當男朋友跟你吵架等你道歉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -882,7 +892,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（145）
+## ⚠️ 需斟酌（146）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2331,6 +2341,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1521.md"><img src="../images/m1521-kfc-chocolate-cone-expectation.jpg" width="240" alt="KFC 生巧冰淇淋：廣告 vs 實物"></a><br><a href="../memes/m1521.md">KFC 生巧冰淇淋：廣告 vs 實物</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>羅丹的沉思者終於找到懂他的人了 — ⚠️ 如廁暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1531.md"><img src="../images/m1531-thinker-toilet-paper.png" width="240" alt="羅丹的沉思者終於找到懂他的人了"></a><br><a href="../memes/m1531.md">羅丹的沉思者終於找到懂他的人了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

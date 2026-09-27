@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 93 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 94 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（17）
 
@@ -48,7 +48,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（75）
+## ⚠️ 需斟酌（76）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -797,6 +797,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1172.md"><img src="../images/m1172-drugs-gambling-porn-link.jpg" width="240" alt="毒，家破人亡！賭，妻離子散！黃，連結發我！"></a><br><a href="../memes/m1172.md">毒，家破人亡！賭，妻離子散！黃，連結發我！</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這高鐵剛經歷了什麼？還敢到對面買橘子啊 — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1181.md"><img src="../images/m1181-hsr-still-buying-oranges.png" width="240" alt="這高鐵剛經歷了什麼？還敢到對面買橘子啊"></a><br><a href="../memes/m1181.md">這高鐵剛經歷了什麼？還敢到對面買橘子啊</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

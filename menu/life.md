@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1089 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1096 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（786）
+## ★（793）
 
 <table>
 <tr>
@@ -1318,6 +1318,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2307.md"><img src="../images/m2307-fat-pig-eating-hotpot.png" width="240" alt="為什麼火鍋有肥牛和肥羊卻沒有肥豬？——因為肥豬正在吃火鍋"></a><br><a href="../memes/m2307.md">為什麼火鍋有肥牛和肥羊卻沒有肥豬？——因為肥豬正在吃火鍋</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2313.md"><img src="../images/m2313-final-final-draft-v20.png" width="240" alt="How it ended vs How it REALLY ended"></a><br><a href="../memes/m2313.md">How it ended vs How it REALLY ended</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2314.md"><img src="../images/m2314-tetris-long-block-vacation.png" width="240" alt="俄羅斯方塊：長條終於來了——不，它在度假"></a><br><a href="../memes/m2314.md">俄羅斯方塊：長條終於來了——不，它在度假</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2318.md"><img src="../images/m2318-sorry-touched-you-master.png" width="240" alt="抱歉偷摸您了，主人"></a><br><a href="../memes/m2318.md">抱歉偷摸您了，主人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2322.md"><img src="../images/m2322-periodic-table-vs-game-roster.png" width="240" alt="背元素週期表哭哭 vs 背遊戲角色開心"></a><br><a href="../memes/m2322.md">背元素週期表哭哭 vs 背遊戲角色開心</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2323.md"><img src="../images/m2323-deer-dangerous-creature.png" width="240" alt="眾所周知，鹿是一種危險的生物"></a><br><a href="../memes/m2323.md">眾所周知，鹿是一種危險的生物</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2325.md"><img src="../images/m2325-freezer-soda-two-days.png" width="240" alt="把飲料放進冷凍庫讓它涼得比較快——兩天後"></a><br><a href="../memes/m2325.md">把飲料放進冷凍庫讓它涼得比較快——兩天後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2327.md"><img src="../images/m2327-cats-desert-litterbox.png" width="240" alt="這裡的廁所真的很大間ㄟ"></a><br><a href="../memes/m2327.md">這裡的廁所真的很大間ㄟ</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2329.md"><img src="../images/m2329-kid-drawing-elephant-real.png" width="240" alt="小孩畫的大象被做成真的"></a><br><a href="../memes/m2329.md">小孩畫的大象被做成真的</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2331.md"><img src="../images/m2331-oreo-dumbbells-decision.png" width="240" alt="看來有人在這做了一個重要決定"></a><br><a href="../memes/m2331.md">看來有人在這做了一個重要決定</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

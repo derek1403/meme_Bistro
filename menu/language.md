@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 253 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 254 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（167）
 
@@ -335,7 +335,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（62）
+## ⚠️ 需斟酌（63）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -954,6 +954,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2216.md"><img src="../images/m2216-why-ww2-longer-than-ww1.png" width="240" alt="提問男生：為什麼二戰比一戰久？——認真回答原子彈"></a><br><a href="../memes/m2216.md">提問男生：為什麼二戰比一戰久？——認真回答原子彈</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>分手了還能做朋友嗎？太卑微了——應該說分手了還能做嗎朋友 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2324.md"><img src="../images/m2324-breakup-still-do-friends.png" width="240" alt="分手了還能做朋友嗎？太卑微了——應該說分手了還能做嗎朋友"></a><br><a href="../memes/m2324.md">分手了還能做朋友嗎？太卑微了——應該說分手了還能做嗎朋友</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

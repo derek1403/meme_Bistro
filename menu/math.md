@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 282 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 284 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（90）
 
@@ -161,7 +161,7 @@
 </tr>
 </table>
 
-## ★★（125）
+## ★★（127）
 
 <table>
 <tr>
@@ -372,6 +372,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2311.md"><img src="../images/m2311-constant-c-abandons-definite.png" width="240" alt="不定積分時 C 跟著你——定積分時 C 搭船走了"></a><br><a href="../memes/m2311.md">不定積分時 C 跟著你——定積分時 C 搭船走了</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2316.md"><img src="../images/m2316-principia-1-plus-1-equals-2.png" width="240" alt="《數學原理》第 362 頁：由此命題可知 1 + 1 = 2"></a><br><a href="../memes/m2316.md">《數學原理》第 362 頁：由此命題可知 1 + 1 = 2</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2321.md"><img src="../images/m2321-where-is-global-optimum-nonconvex.png" width="240" alt="爸比在哪裡？媽咪在哪裡？——非凸函數的全域最佳化在哪裡？"></a><br><a href="../memes/m2321.md">爸比在哪裡？媽咪在哪裡？——非凸函數的全域最佳化在哪裡？</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2326.md"><img src="../images/m2326-elliptic-curve-not-elliptical.png" width="240" alt="然後你說它們叫橢圓曲線，儘管它們事實上顯然不橢圓"></a><br><a href="../memes/m2326.md">然後你說它們叫橢圓曲線，儘管它們事實上顯然不橢圓</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

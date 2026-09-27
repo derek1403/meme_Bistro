@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 159 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 160 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（71）
 
@@ -233,7 +233,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（33）
+## ⚠️ 需斟酌（34）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -562,6 +562,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2101.md"><img src="../images/m2101-tenga-dinosaur-chain.png" width="240" alt="恐龍→原油→聚丙烯→飛機杯：這是不是代表我幹了恐龍"></a><br><a href="../memes/m2101.md">恐龍→原油→聚丙烯→飛機杯：這是不是代表我幹了恐龍</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>媽你看！我成績是四氟化碳！——你媽：氟鈾碳鉀 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2320.md"><img src="../images/m2320-report-card-cf4-fuck.png" width="240" alt="媽你看！我成績是四氟化碳！——你媽：氟鈾碳鉀"></a><br><a href="../memes/m2320.md">媽你看！我成績是四氟化碳！——你媽：氟鈾碳鉀</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

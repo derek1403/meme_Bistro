@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 185 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 188 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（47）
 
@@ -90,7 +90,7 @@
 </tr>
 </table>
 
-## ★★（20）
+## ★★（22）
 
 <table>
 <tr>
@@ -126,10 +126,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2299.md"><img src="../images/m2299-captcha-select-male-anime.png" width="240" alt="請選出所有男性角色的方格"></a><br><a href="../memes/m2299.md">請選出所有男性角色的方格</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2309.md"><img src="../images/m2309-taiwan-traffic-excuse-flowchart.png" width="240" alt="在台灣自己違規如何開脫 V1.1 版"></a><br><a href="../memes/m2309.md">在台灣自己違規如何開脫 V1.1 版</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2319.md"><img src="../images/m2319-spit-drown-dongting-lake.png" width="240" alt="一人吐一口水淹死你們——你們一人一口水喝回去，洞庭湖就不會淹大水了"></a><br><a href="../memes/m2319.md">一人吐一口水淹死你們——你們一人一口水喝回去，洞庭湖就不會淹大水了</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2330.md"><img src="../images/m2330-crow-vtuber-graduate.png" width="240" alt="受到挫折——我決定畢業／長期停止活動"></a><br><a href="../memes/m2330.md">受到挫折——我決定畢業／長期停止活動</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（118）
+## ⚠️ 需斟酌（119）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1308,6 +1312,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2292.md"><img src="../images/m2292-lycoris-recoil-rally-fist.png" width="240" alt="莉可麗絲版的舉拳照"></a><br><a href="../memes/m2292.md">莉可麗絲版的舉拳照</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Why did you become a pilot?——To overcome my biggest fear: dying alone — ⚠️ 空難、死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2328.md"><img src="../images/m2328-pilot-fear-dying-alone.png" width="240" alt="Why did you become a pilot?——To overcome my biggest fear: dying alone"></a><br><a href="../memes/m2328.md">Why did you become a pilot?——To overcome my biggest fear: dying alone</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

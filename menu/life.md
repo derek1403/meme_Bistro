@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 618 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 625 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（421）
+## ★（426）
 
 <table>
 <tr>
@@ -711,6 +711,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1451.md"><img src="../images/m1451-im-an-adult-now-anime-cry.png" width="240" alt="我現在長大了，我能做到的——看動畫哭爛"></a><br><a href="../memes/m1451.md">我現在長大了，我能做到的——看動畫哭爛</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1454.md"><img src="../images/m1454-hit-little-brother-sorry.jpg" width="240" alt="當你在外面打了弟弟"></a><br><a href="../memes/m1454.md">當你在外面打了弟弟</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1455.md"><img src="../images/m1455-aliens-earth-overtime.png" width="240" alt="地球很適合生物生存——這裡的人還要免費加班"></a><br><a href="../memes/m1455.md">地球很適合生物生存——這裡的人還要免費加班</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1456.md"><img src="../images/m1456-not-old-fritter-soft-bread.png" width="240" alt="我沒有成為老油條，依然是任生活揉躪的鬆軟麵包"></a><br><a href="../memes/m1456.md">我沒有成為老油條，依然是任生活揉躪的鬆軟麵包</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1458.md"><img src="../images/m1458-mother-in-law-dog-bowl.jpg" width="240" alt="為什麼你們的狗一直看著我？"></a><br><a href="../memes/m1458.md">為什麼你們的狗一直看著我？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1460.md"><img src="../images/m1460-so-what-anime-lines.png" width="240" alt="是又怎麼樣呢——是又怎樣"></a><br><a href="../memes/m1460.md">是又怎麼樣呢——是又怎樣</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -828,7 +835,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（132）
+## ⚠️ 需斟酌（134）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2147,6 +2154,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1430.md"><img src="../images/m1430-tattoo-insufficient-balance.jpg" width="240" alt="我：*帳戶餘額不足*——正在給我紋身的人"></a><br><a href="../memes/m1430.md">我：*帳戶餘額不足*——正在給我紋身的人</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>媽，家裡那個小女孩是誰？——人太多了就隨便接一個 — ⚠️ 誘拐暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1453.md"><img src="../images/m1453-mom-picked-random-girl.png" width="240" alt="媽，家裡那個小女孩是誰？——人太多了就隨便接一個"></a><br><a href="../memes/m1453.md">媽，家裡那個小女孩是誰？——人太多了就隨便接一個</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>2B：與虹彩六號合作 vs 與劍星合作 — ⚠️ 性感服裝</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1462.md"><img src="../images/m1462-2b-collab-comparison.jpg" width="240" alt="2B：與虹彩六號合作 vs 與劍星合作"></a><br><a href="../memes/m1462.md">2B：與虹彩六號合作 vs 與劍星合作</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

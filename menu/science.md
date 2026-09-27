@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 124 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（54）
+## ★（55）
 
 <table>
 <tr>
@@ -99,9 +99,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1319.md"><img src="../images/m1319-ev-diesel-generator.jpg" width="240" alt="電動車正在用柴油發電機充電"></a><br><a href="../memes/m1319.md">電動車正在用柴油發電機充電</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1446.md"><img src="../images/m1446-draw-cells-at-work.png" width="240" alt="請畫出紅血球、白血球、血小板、人體"></a><br><a href="../memes/m1446.md">請畫出紅血球、白血球、血小板、人體</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1459.md"><img src="../images/m1459-flat-earth-reality-show.png" width="240" alt="我們應該要有個真人秀讓地平論者去尋找世界的邊緣"></a><br><a href="../memes/m1459.md">我們應該要有個真人秀讓地平論者去尋找世界的邊緣</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（42）
+## ★★（43）
 
 <table>
 <tr>
@@ -173,6 +176,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1255.md"><img src="../images/m1255-dog-licks-wave-equation.png" width="240" alt="schlop schlop：狗在舔波動方程"></a><br><a href="../memes/m1255.md">schlop schlop：狗在舔波動方程</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1308.md"><img src="../images/m1308-painkiller-knocks-doors.png" width="240" alt="為什麼止痛藥知道我哪裡痛？"></a><br><a href="../memes/m1308.md">為什麼止痛藥知道我哪裡痛？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1383.md"><img src="../images/m1383-jeans-pocket-maxwell.png" width="240" alt="牛仔褲小口袋是用來裝馬克士威方程組的"></a><br><a href="../memes/m1383.md">牛仔褲小口袋是用來裝馬克士威方程組的</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1463.md"><img src="../images/m1463-light-is-just-living.png" width="240" alt="光是什麼？光是活著就已經拼盡全力"></a><br><a href="../memes/m1463.md">光是什麼？光是活著就已經拼盡全力</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

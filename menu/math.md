@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 230 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 232 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（83）
 
@@ -150,7 +150,7 @@
 </tr>
 </table>
 
-## ★★（89）
+## ★★（91）
 
 <table>
 <tr>
@@ -301,6 +301,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1440.md"><img src="../images/m1440-arctan-same-picture.png" width="240" alt="(3/5, 4/5) 和 (-3/5, -4/5)：Arctan 說是同一張圖"></a><br><a href="../memes/m1440.md">(3/5, 4/5) 和 (-3/5, -4/5)：Arctan 說是同一張圖</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1444.md"><img src="../images/m1444-modelling-child-vs-adult.png" width="240" alt="The modelling you know as a child vs as an adult"></a><br><a href="../memes/m1444.md">The modelling you know as a child vs as an adult</a><br><sub>🧠🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1452.md"><img src="../images/m1452-seal-iff.png" width="240" alt="if and only if → iff"></a><br><a href="../memes/m1452.md">if and only if → iff</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1457.md"><img src="../images/m1457-ellipse-area-vs-circumference.png" width="240" alt="橢圓面積 A = πab vs 橢圓周長"></a><br><a href="../memes/m1457.md">橢圓面積 A = πab vs 橢圓周長</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

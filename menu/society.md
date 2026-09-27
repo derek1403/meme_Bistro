@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 101 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 103 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（21）
 
@@ -46,11 +46,13 @@
 </tr>
 </table>
 
-## ★★（1）
+## ★★（3）
 
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0033.md"><img src="../images/m0033-red-envelope-kfc.png" width="240" alt="路邊紅包不能撿（肯德基版）"></a><br><a href="../memes/m0033.md">路邊紅包不能撿（肯德基版）</a><br><sub>🔤👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1278.md"><img src="../images/m1278-two-kinds-at-work-eva.jpg" width="240" alt="職場上的兩種人：我爸叫我來的"></a><br><a href="../memes/m1278.md">職場上的兩種人：我爸叫我來的</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1280.md"><img src="../images/m1280-shortest-international-bridge.png" width="240" alt="世界上最短的國際橋樑"></a><br><a href="../memes/m1280.md">世界上最短的國際橋樑</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

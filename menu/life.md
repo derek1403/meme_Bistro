@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 514 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 522 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（348）
+## ★（352）
 
 <table>
 <tr>
@@ -589,6 +589,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1274.md"><img src="../images/m1274-mythical-creature-balcony.png" width="240" alt="我一直以為這隻是個神話生物"></a><br><a href="../memes/m1274.md">我一直以為這隻是個神話生物</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1275.md"><img src="../images/m1275-horse-in-pizza-kitchen.png" width="240" alt="披薩店監視器：一匹馬衝進廚房"></a><br><a href="../memes/m1275.md">披薩店監視器：一匹馬衝進廚房</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1276.md"><img src="../images/m1276-friendly-town-people-cold.png" width="240" alt="友善鎮裡什麼都很美好"></a><br><a href="../memes/m1276.md">友善鎮裡什麼都很美好</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1277.md"><img src="../images/m1277-winter-best-partner.jpg" width="240" alt="冬日最佳拍檔：手腳冰涼 + 手腳發燙"></a><br><a href="../memes/m1277.md">冬日最佳拍檔：手腳冰涼 + 手腳發燙</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1282.md"><img src="../images/m1282-third-place-forgot-bike.png" width="240" alt="第三名我還挺滿意的，畢竟我忘了騎腳踏車來"></a><br><a href="../memes/m1282.md">第三名我還挺滿意的，畢竟我忘了騎腳踏車來</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1285.md"><img src="../images/m1285-nutella-spaghetti.png" width="240" alt="義大利人意識到把鳳梨放在披薩上只是個開始"></a><br><a href="../memes/m1285.md">義大利人意識到把鳳梨放在披薩上只是個開始</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（61）
@@ -699,7 +707,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（105）
+## ⚠️ 需斟酌（109）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1748,6 +1756,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1273.md"><img src="../images/m1273-friends-gf-learning-backstroke.png" width="240" alt="看到朋友的女友偷偷在學仰泳，真有上進心"></a><br><a href="../memes/m1273.md">看到朋友的女友偷偷在學仰泳，真有上進心</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不是靈異照片，卻比靈異照片還可怕 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1279.md"><img src="../images/m1279-scarier-than-ghost-photo.jpg" width="240" alt="不是靈異照片，卻比靈異照片還可怕"></a><br><a href="../memes/m1279.md">不是靈異照片，卻比靈異照片還可怕</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>陽痿是中年男人最大的福報 — ⚠️ 性暗示／外遇</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1281.md"><img src="../images/m1281-impotence-blessing.png" width="240" alt="陽痿是中年男人最大的福報"></a><br><a href="../memes/m1281.md">陽痿是中年男人最大的福報</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如何有效快速的灌醉朋友 — ⚠️ 酒精</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1283.md"><img src="../images/m1283-frozen-soju-ice-cubes.png" width="240" alt="如何有效快速的灌醉朋友"></a><br><a href="../memes/m1283.md">如何有效快速的灌醉朋友</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>新年大掃除交給我，這很容易 — ⚠️ 縱火</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1286.md"><img src="../images/m1286-potato-new-year-cleaning.png" width="240" alt="新年大掃除交給我，這很容易"></a><br><a href="../memes/m1286.md">新年大掃除交給我，這很容易</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

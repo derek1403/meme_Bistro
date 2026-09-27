@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 782 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 789 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（537）
+## ★（542）
 
 <table>
 <tr>
@@ -904,9 +904,18 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1745.md"><img src="../images/m1745-bus-brake-smooth-criminal.jpg" width="240" alt="當你準備下車時，公車師傅突然踩了一腳剎車"></a><br><a href="../memes/m1745.md">當你準備下車時，公車師傅突然踩了一腳剎車</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1746.md"><img src="../images/m1746-hot-sauce-gun.jpg" width="240" alt="東泉辣椒醬手槍"></a><br><a href="../memes/m1746.md">東泉辣椒醬手槍</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1747.md"><img src="../images/m1747-dog-pizza-betrayal.png" width="240" alt="一個關於背叛的小故事"></a><br><a href="../memes/m1747.md">一個關於背叛的小故事</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1752.md"><img src="../images/m1752-tried-to-photograph-birds.png" width="240" alt="今早嘗試拍些小鳥的照片——我說了我只是嘗試"></a><br><a href="../memes/m1752.md">今早嘗試拍些小鳥的照片——我說了我只是嘗試</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1755.md"><img src="../images/m1755-receipt-stupid-question.png" width="240" alt="收據上的一項：1 Stupid Question $0.38"></a><br><a href="../memes/m1755.md">收據上的一項：1 Stupid Question $0.38</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1756.md"><img src="../images/m1756-stranger-food-drugged.png" width="240" alt="陌生人主動給的東西不要吃，可能會下藥"></a><br><a href="../memes/m1756.md">陌生人主動給的東西不要吃，可能會下藥</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1758.md"><img src="../images/m1758-dislike-as-kid-accept-adult.png" width="240" alt="有什麼是你們小時候不喜歡，長大後卻接受了？"></a><br><a href="../memes/m1758.md">有什麼是你們小時候不喜歡，長大後卻接受了？</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（71）
+## ★★（72）
 
 <table>
 <tr>
@@ -1027,10 +1036,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1668.md"><img src="../images/m1668-pc-auto-download-touhou.png" width="240" alt="天哪我的電腦在自動下載東方獸王園"></a><br><a href="../memes/m1668.md">天哪我的電腦在自動下載東方獸王園</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1716.md"><img src="../images/m1716-yingge-bade-fighting-combo.png" width="240" alt="鶯歌是波動拳？八德是昇龍拳？"></a><br><a href="../memes/m1716.md">鶯歌是波動拳？八德是昇龍拳？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1751.md"><img src="../images/m1751-maidens-prayer-suika.png" width="240" alt="你知道少女的祈禱嗎？——喔我知道啊，是這個對不對"></a><br><a href="../memes/m1751.md">你知道少女的祈禱嗎？——喔我知道啊，是這個對不對</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（174）
+## ⚠️ 需斟酌（175）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2769,6 +2779,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1740.md"><img src="../images/m1740-toy-story-andys-mom-toy.png" width="240" alt="各位，這是安迪媽媽的玩具，我們歡迎他"></a><br><a href="../memes/m1740.md">各位，這是安迪媽媽的玩具，我們歡迎他</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>問題多到我處理不了——或者按自我毀滅 — ⚠️ 自毀暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1753.md"><img src="../images/m1753-brain-self-destruct-button.png" width="240" alt="問題多到我處理不了——或者按自我毀滅"></a><br><a href="../memes/m1753.md">問題多到我處理不了——或者按自我毀滅</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

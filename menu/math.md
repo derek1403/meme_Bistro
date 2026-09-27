@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 250 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 252 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -154,7 +154,7 @@
 </tr>
 </table>
 
-## ★★（102）
+## ★★（103）
 
 <table>
 <tr>
@@ -327,9 +327,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1741.md"><img src="../images/m1741-spiderman-circle-group.png" width="240" alt="蜘蛛人互指：它們都是圓"></a><br><a href="../memes/m1741.md">蜘蛛人互指：它們都是圓</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1743.md"><img src="../images/m1743-d-dx-book-changes-you.png" width="240" alt="Read this. It will change you."></a><br><a href="../memes/m1743.md">Read this. It will change you.</a><br><sub>🧠 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1757.md"><img src="../images/m1757-maclaurin-vs-taylor-bus.png" width="240" alt="馬克勞林 vs 泰勒"></a><br><a href="../memes/m1757.md">馬克勞林 vs 泰勒</a><br><sub>🧠 ★★</sub></td>
+</tr>
 </table>
 
-## ★★★（42）
+## ★★★（43）
 
 <table>
 <tr>
@@ -401,6 +404,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1290.md"><img src="../images/m1290-food-decompose-z2-z3.png" width="240" alt="食物變壞 vs ℤ₂ × ℤ₃"></a><br><a href="../memes/m1290.md">食物變壞 vs ℤ₂ × ℤ₃</a><br><sub>🧠🔤 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1625.md"><img src="../images/m1625-coequaliser-illusion-free-choice.png" width="240" alt="The illusion... of free choice（coequaliser）"></a><br><a href="../memes/m1625.md">The illusion... of free choice（coequaliser）</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1642.md"><img src="../images/m1642-separating-hyperplane-frog-adjoint.png" width="240" alt="媽，可以給我分離超平面定理嗎？——adjoint time"></a><br><a href="../memes/m1642.md">媽，可以給我分離超平面定理嗎？——adjoint time</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1754.md"><img src="../images/m1754-hilbert-space-factory-l-infinity.png" width="240" alt="ℓ^∞?? in the Hilbert space factory?? how queer!!"></a><br><a href="../memes/m1754.md">ℓ^∞?? in the Hilbert space factory?? how queer!!</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

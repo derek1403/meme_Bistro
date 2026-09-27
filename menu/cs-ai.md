@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 178 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 181 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（115）
+## ★（118）
 
 <table>
 <tr>
@@ -201,6 +201,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1713.md"><img src="../images/m1713-winrar-handbag.png" width="240" alt="WinRAR 包包"></a><br><a href="../memes/m1713.md">WinRAR 包包</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1748.md"><img src="../images/m1748-study-computers-fix-my-ear.png" width="240" alt="Hey, so you study computers right? Can you fix my-"></a><br><a href="../memes/m1748.md">Hey, so you study computers right? Can you fix my-</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1749.md"><img src="../images/m1749-robot-builds-robots-to-sweep.png" width="240" alt="兔子造機器人掃地，機器人也造機器人掃地"></a><br><a href="../memes/m1749.md">兔子造機器人掃地，機器人也造機器人掃地</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1750.md"><img src="../images/m1750-robot-lounge-chairs-recursion.png" width="240" alt="躺椅上的機器人一路變小"></a><br><a href="../memes/m1750.md">躺椅上的機器人一路變小</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

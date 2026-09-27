@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 643 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 650 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（437）
+## ★（442）
 
 <table>
 <tr>
@@ -737,6 +737,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1492.md"><img src="../images/m1492-saturday-traffic-monday.png" width="240" alt="禮拜六出門容易塞車，晚點到——禮拜一"></a><br><a href="../memes/m1492.md">禮拜六出門容易塞車，晚點到——禮拜一</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1493.md"><img src="../images/m1493-after-9-hours-gaming.png" width="240" alt="打了 9 小時遊戲後出門"></a><br><a href="../memes/m1493.md">打了 9 小時遊戲後出門</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1495.md"><img src="../images/m1495-seafood-sunglasses-off.png" width="240" alt="我早就沒在想她了😎——墨鏡拿掉"></a><br><a href="../memes/m1495.md">我早就沒在想她了😎——墨鏡拿掉</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1498.md"><img src="../images/m1498-life-closes-door-open-it.jpg" width="240" alt="如果生活把你的門關上了，那你就再打開"></a><br><a href="../memes/m1498.md">如果生活把你的門關上了，那你就再打開</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1500.md"><img src="../images/m1500-phone-5-minutes-4-hours.jpg" width="240" alt="睡前那 5 分鐘玩手機的時間，是我一天中最美好的 4 個小時"></a><br><a href="../memes/m1500.md">睡前那 5 分鐘玩手機的時間，是我一天中最美好的 4 個小時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1502.md"><img src="../images/m1502-doctor-treadmill-sleep.png" width="240" alt="醫生要求我每天至少花一小時待在跑步機上"></a><br><a href="../memes/m1502.md">醫生要求我每天至少花一小時待在跑步機上</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1503.md"><img src="../images/m1503-doctor-said-go-outdoors.png" width="240" alt="醫生也叫我多去戶外遊玩"></a><br><a href="../memes/m1503.md">醫生也叫我多去戶外遊玩</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -855,7 +864,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（140）
+## ⚠️ 需斟酌（142）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2254,6 +2263,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1491.md"><img src="../images/m1491-birthday-parents-fun-day.png" width="240" alt="生日是母親受難日——那你提前十個月過"></a><br><a href="../memes/m1491.md">生日是母親受難日——那你提前十個月過</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你的體型很圓、身子很脆、內心很黃——你就是一個蛋塔 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1499.md"><img src="../images/m1499-you-are-egg-tart.jpg" width="240" alt="你的體型很圓、身子很脆、內心很黃——你就是一個蛋塔"></a><br><a href="../memes/m1499.md">你的體型很圓、身子很脆、內心很黃——你就是一個蛋塔</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這杯敬你兄弟，願你安息——來自陽間的特快專遞 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1501.md"><img src="../images/m1501-pour-drink-rip-delivery.png" width="240" alt="這杯敬你兄弟，願你安息——來自陽間的特快專遞"></a><br><a href="../memes/m1501.md">這杯敬你兄弟，願你安息——來自陽間的特快專遞</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

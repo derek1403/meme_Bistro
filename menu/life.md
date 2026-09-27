@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 630 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 637 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（429）
+## ★（434）
 
 <table>
 <tr>
@@ -724,9 +724,18 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1470.md"><img src="../images/m1470-cat-breaks-doraemon-lego.png" width="240" alt="貓打翻了哆啦 A 夢積木——被塗成藍色"></a><br><a href="../memes/m1470.md">貓打翻了哆啦 A 夢積木——被塗成藍色</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1472.md"><img src="../images/m1472-perry-social-skill.png" width="240" alt="我最擅長的社交技能：全神貫注聽別人講話同時大腦放空"></a><br><a href="../memes/m1472.md">我最擅長的社交技能：全神貫注聽別人講話同時大腦放空</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1474.md"><img src="../images/m1474-pocky-okuyasu-hair.jpg" width="240" alt="Pocky 頭髮的 JoJo 角色"></a><br><a href="../memes/m1474.md">Pocky 頭髮的 JoJo 角色</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1475.md"><img src="../images/m1475-ikea-shark-cafe-water.png" width="240" alt="抱著宜家鯊鯊進店，店員很親切地給它上了杯水"></a><br><a href="../memes/m1475.md">抱著宜家鯊鯊進店，店員很親切地給它上了杯水</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1476.md"><img src="../images/m1476-kiwi-cat-zespri.png" width="240" alt="奇異果盒裡的毛茸茸奇異果"></a><br><a href="../memes/m1476.md">奇異果盒裡的毛茸茸奇異果</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1478.md"><img src="../images/m1478-cowboy-why-leave-last-job.png" width="240" alt="你離開上一份工作的原因是什麼？——你上一個員工離職的原因是什麼？"></a><br><a href="../memes/m1478.md">你離開上一份工作的原因是什麼？——你上一個員工離職的原因是什麼？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1480.md"><img src="../images/m1480-vtuber-debut-vs-later.png" width="240" alt="VTuber 初配信人物設定 vs 直播開二輪後"></a><br><a href="../memes/m1480.md">VTuber 初配信人物設定 vs 直播開二輪後</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（65）
+## ★★（66）
 
 <table>
 <tr>
@@ -837,10 +846,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1371.md"><img src="../images/m1371-drama-soyo-line.png" width="240" alt="你要我做什麼我都願意"></a><br><a href="../memes/m1371.md">你要我做什麼我都願意</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1374.md"><img src="../images/m1374-anime-trio-hydra.jpg" width="240" alt="2016–2024 動畫三人組與三頭龍"></a><br><a href="../memes/m1374.md">2016–2024 動畫三人組與三頭龍</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1481.md"><img src="../images/m1481-spock-super-glue.png" width="240" alt="Don't play with Super Glue — Spock"></a><br><a href="../memes/m1481.md">Don't play with Super Glue — Spock</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（136）
+## ⚠️ 需斟酌（137）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2199,6 +2209,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1473.md"><img src="../images/m1473-jazz-dance-logo-chest.jpg" width="240" alt="爵士舞教室 Logo 被客戶看成了胸部"></a><br><a href="../memes/m1473.md">爵士舞教室 Logo 被客戶看成了胸部</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>媽媽把加了老鼠藥的麵包放在廚房——半夜兩點的我和老鼠 — ⚠️ 中毒</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1479.md"><img src="../images/m1479-rat-poison-bread-me-rat.png" width="240" alt="媽媽把加了老鼠藥的麵包放在廚房——半夜兩點的我和老鼠"></a><br><a href="../memes/m1479.md">媽媽把加了老鼠藥的麵包放在廚房——半夜兩點的我和老鼠</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

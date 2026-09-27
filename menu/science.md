@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 124 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 125 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（55）
 
@@ -191,7 +191,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（24）
+## ⚠️ 需斟酌（25）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -430,6 +430,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1447.md"><img src="../images/m1447-lg-stretchable-display.png" width="240" alt="LG 開發全球首款 50% 拉伸率顯示屏"></a><br><a href="../memes/m1447.md">LG 開發全球首款 50% 拉伸率顯示屏</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我希望夏天只有現在的一半熱——物理學家 — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1477.md"><img src="../images/m1477-genie-half-as-hot-physicist.png" width="240" alt="我希望夏天只有現在的一半熱——物理學家"></a><br><a href="../memes/m1477.md">我希望夏天只有現在的一半熱——物理學家</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

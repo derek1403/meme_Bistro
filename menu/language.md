@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 151 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（99）
 
@@ -201,7 +201,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（39）
+## ⚠️ 需斟酌（40）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -590,6 +590,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1471.md"><img src="../images/m1471-law-not-magic-ritual.png" width="240" alt="我學的是法律，不是法術"></a><br><a href="../memes/m1471.md">我學的是法律，不是法術</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>門上寫「拉」 — ⚠️ 排泄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1482.md"><img src="../images/m1482-cat-pull-door-poop.png" width="240" alt="門上寫「拉」"></a><br><a href="../memes/m1482.md">門上寫「拉」</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

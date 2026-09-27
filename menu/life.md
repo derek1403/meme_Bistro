@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 712 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 718 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（490）
+## ★（493）
 
 <table>
 <tr>
@@ -826,6 +826,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1612.md"><img src="../images/m1612-youtube-ads-vs-tv-10-min.png" width="240" alt="逼人買會員的 YouTube vs 從小看電視 10 分鐘廣告的我"></a><br><a href="../memes/m1612.md">逼人買會員的 YouTube vs 從小看電視 10 分鐘廣告的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1619.md"><img src="../images/m1619-parrot-i-love-you-seen.png" width="240" alt="別學我——我愛你——已讀 12:48 PM"></a><br><a href="../memes/m1619.md">別學我——我愛你——已讀 12:48 PM</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1623.md"><img src="../images/m1623-summer-homework-draw-dads-car.png" width="240" alt="暑假作業，題目是『畫爸爸的車』"></a><br><a href="../memes/m1623.md">暑假作業，題目是『畫爸爸的車』</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1624.md"><img src="../images/m1624-childhood-goal-vs-now-skip-meal.jpg" width="240" alt="我小時候的目標 vs 我現在的目標"></a><br><a href="../memes/m1624.md">我小時候的目標 vs 我現在的目標</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -948,7 +953,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（154）
+## ⚠️ 需斟酌（157）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2487,6 +2492,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1607.md"><img src="../images/m1607-best-friends-cant-attend-funerals.jpg" width="240" alt="你和你的好朋友是不能互相參加葬禮的"></a><br><a href="../memes/m1607.md">你和你的好朋友是不能互相參加葬禮的</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你女兒現在在我手上——希望你能明白我的意思 — ⚠️ 綁架聯想</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1614.md"><img src="../images/m1614-lost-girl-your-daughter-in-my-hands.jpg" width="240" alt="你女兒現在在我手上——希望你能明白我的意思"></a><br><a href="../memes/m1614.md">你女兒現在在我手上——希望你能明白我的意思</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你老爸九泉之下如果知道這件事一定會氣到打滾 — ⚠️ 死亡（動物）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1615.md"><img src="../images/m1615-pig-father-hotdog-roller.png" width="240" alt="你老爸九泉之下如果知道這件事一定會氣到打滾"></a><br><a href="../memes/m1615.md">你老爸九泉之下如果知道這件事一定會氣到打滾</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>戀戀我們回家吧——居然牽著一塊石頭 — ⚠️ 血腥</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1618.md"><img src="../images/m1618-satori-koishi-stone-rage.png" width="240" alt="戀戀我們回家吧——居然牽著一塊石頭"></a><br><a href="../memes/m1618.md">戀戀我們回家吧——居然牽著一塊石頭</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

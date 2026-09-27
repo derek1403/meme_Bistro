@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 242 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 243 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -154,7 +154,7 @@
 </tr>
 </table>
 
-## ★★（97）
+## ★★（98）
 
 <table>
 <tr>
@@ -319,6 +319,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1544.md"><img src="../images/m1544-broken-3-and-5-calculator.png" width="240" alt="計算器上的 3 和 5 壞了，要算 50×36 怎麼辦？"></a><br><a href="../memes/m1544.md">計算器上的 3 和 5 壞了，要算 50×36 怎麼辦？</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1616.md"><img src="../images/m1616-pi-full-name-integral.png" width="240" alt="媽媽叫你全名的時候——π：Uh oh"></a><br><a href="../memes/m1616.md">媽媽叫你全名的時候——π：Uh oh</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

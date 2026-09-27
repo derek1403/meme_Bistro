@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 170 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 173 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（114）
+## ★（116）
 
 <table>
 <tr>
@@ -199,6 +199,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1610.md"><img src="../images/m1610-swallow-nest-sparrow-milk-tea.png" width="240" alt="聽說燕窩很營養——你這個是雀巢奶茶"></a><br><a href="../memes/m1610.md">聽說燕窩很營養——你這個是雀巢奶茶</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1611.md"><img src="../images/m1611-aunt-afraid-to-sweat.png" width="240" alt="為什麼你阿姨都不去運動？——因為她怕流下姨汗"></a><br><a href="../memes/m1611.md">為什麼你阿姨都不去運動？——因為她怕流下姨汗</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1620.md"><img src="../images/m1620-cabbage-cant-play-with-others.png" width="240" alt="難道菜就不能跟別人一起玩ㄇ"></a><br><a href="../memes/m1620.md">難道菜就不能跟別人一起玩ㄇ</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1621.md"><img src="../images/m1621-joke-by-sea-tsunami.png" width="240" alt="為何不能在海邊說笑話？——因為會引發海嘯"></a><br><a href="../memes/m1621.md">為何不能在海邊說笑話？——因為會引發海嘯</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（14）
@@ -230,7 +234,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（42）
+## ⚠️ 需斟酌（43）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -649,6 +653,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1556.md"><img src="../images/m1556-two-idiots-die-together.png" width="240" alt="兩個白痴在一起就會一起死：87 + 87 = 174"></a><br><a href="../memes/m1556.md">兩個白痴在一起就會一起死：87 + 87 = 174</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>金牌特霧 — ⚠️ 酒精</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1617.md"><img src="../images/m1617-gold-medal-taiwan-beer-blur.jpg" width="240" alt="金牌特霧"></a><br><a href="../memes/m1617.md">金牌特霧</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

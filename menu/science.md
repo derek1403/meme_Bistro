@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 132 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（58）
+## ★（59）
 
 <table>
 <tr>
@@ -106,6 +106,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1598.md"><img src="../images/m1598-astronomy-events-cloudy.jpg" width="240" alt="月全食、彗星、行星會合、極光——我住的地方"></a><br><a href="../memes/m1598.md">月全食、彗星、行星會合、極光——我住的地方</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1622.md"><img src="../images/m1622-internet-to-billy-flat-earth.png" width="240" alt="這一切只為了把網路送到 Billy 手上——地球是平的！"></a><br><a href="../memes/m1622.md">這一切只為了把網路送到 Billy 手上——地球是平的！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

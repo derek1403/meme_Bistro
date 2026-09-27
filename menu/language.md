@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 216 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 217 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（145）
+## ★（146）
 
 <table>
 <tr>
@@ -251,6 +251,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1909.md"><img src="../images/m1909-attack-chihuahua-counter.jpg" width="240" alt="攻吉他會怎樣嗎？——反吉"></a><br><a href="../memes/m1909.md">攻吉他會怎樣嗎？——反吉</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1916.md"><img src="../images/m1916-egg-yolk-pastry-chicken-duck.jpg" width="240" alt="吃一顆蛋黃酥就達成慶賀雞鴨的目的了"></a><br><a href="../memes/m1916.md">吃一顆蛋黃酥就達成慶賀雞鴨的目的了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

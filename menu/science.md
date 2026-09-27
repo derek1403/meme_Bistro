@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 151 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（67）
 
@@ -222,7 +222,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（31）
+## ⚠️ 需斟酌（32）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -531,6 +531,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1894.md"><img src="../images/m1894-fish-emo-smoking.jpg" width="240" alt="如果魚 emo 的時候抽菸，是這樣抽還是這樣抽"></a><br><a href="../memes/m1894.md">如果魚 emo 的時候抽菸，是這樣抽還是這樣抽</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>請颱風影響區居民保護好頭部 — ⚠️ 斬首暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1925.md"><img src="../images/m1925-typhoon-smiling-face-protect-head.jpg" width="240" alt="請颱風影響區居民保護好頭部"></a><br><a href="../memes/m1925.md">請颱風影響區居民保護好頭部</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

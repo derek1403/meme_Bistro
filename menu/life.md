@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 867 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 874 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（598）
+## ★（605）
 
 <table>
 <tr>
@@ -1006,6 +1006,17 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1915.md"><img src="../images/m1915-tv-volume-step-function.png" width="240" alt="電視音量該怎麼運作 vs 實際怎麼運作"></a><br><a href="../memes/m1915.md">電視音量該怎麼運作 vs 實際怎麼運作</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1917.md"><img src="../images/m1917-date-split-bill-2325.png" width="240" alt="我們還是當朋友就好了——那今天的錢轉我 2325"></a><br><a href="../memes/m1917.md">我們還是當朋友就好了——那今天的錢轉我 2325</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1919.md"><img src="../images/m1919-pidgeotto-weight-range.png" width="240" alt="比比鳥：0.78 kg vs 43.88 kg"></a><br><a href="../memes/m1919.md">比比鳥：0.78 kg vs 43.88 kg</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1920.md"><img src="../images/m1920-dolphin-staring-buffet.png" width="240" alt="在水下餐廳吃自助餐時，看到一隻海豚一直盯著食物"></a><br><a href="../memes/m1920.md">在水下餐廳吃自助餐時，看到一隻海豚一直盯著食物</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1921.md"><img src="../images/m1921-metronome-kiss.png" width="240" alt="節拍器：跟著擺頭，最後一拍親下去"></a><br><a href="../memes/m1921.md">節拍器：跟著擺頭，最後一拍親下去</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1922.md"><img src="../images/m1922-two-dangerous-holes.png" width="240" alt="這兩個洞對男生來說都非常危險"></a><br><a href="../memes/m1922.md">這兩個洞對男生來說都非常危險</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1923.md"><img src="../images/m1923-gambling-bet-you-regret.png" width="240" alt="你賭博成癮了，我要離開你——我賭你會後悔"></a><br><a href="../memes/m1923.md">你賭博成癮了，我要離開你——我賭你會後悔</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1926.md"><img src="../images/m1926-seals-laughing-cant-breathe.jpg" width="240" alt="和最好的朋友笑到幾乎不能呼吸"></a><br><a href="../memes/m1926.md">和最好的朋友笑到幾乎不能呼吸</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

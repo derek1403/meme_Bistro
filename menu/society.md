@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 147 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 148 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（40）
+## ★（41）
 
 <table>
 <tr>
@@ -76,6 +76,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1854.md"><img src="../images/m1854-bigfoot-nightmare-21st-century.jpg" width="240" alt="我做了一個噩夢：在名為 21 世紀的時代打兩份工，才住得起水泥洞穴"></a><br><a href="../memes/m1854.md">我做了一個噩夢：在名為 21 世紀的時代打兩份工，才住得起水泥洞穴</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1918.md"><img src="../images/m1918-japan-keeper-zero-saves.png" width="240" alt="0:7 其實不是笑點，笑點是日本守門員 0 撲救"></a><br><a href="../memes/m1918.md">0:7 其實不是笑點，笑點是日本守門員 0 撲救</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

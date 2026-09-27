@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 199 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 200 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（131）
+## ★（132）
 
 <table>
 <tr>
@@ -227,6 +227,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1896.md"><img src="../images/m1896-new-project-idea-5-minutes.png" width="240" alt="我想到新專案點子時 vs 寫了 5 分鐘之後"></a><br><a href="../memes/m1896.md">我想到新專案點子時 vs 寫了 5 分鐘之後</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1904.md"><img src="../images/m1904-wrong-database-soap-pump.png" width="240" alt="When you link your App with the wrong Database"></a><br><a href="../memes/m1904.md">When you link your App with the wrong Database</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1924.md"><img src="../images/m1924-python-import-name.png" width="240" alt="I want to name him Jack——You need to import "Name" first"></a><br><a href="../memes/m1924.md">I want to name him Jack——You need to import "Name" first</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

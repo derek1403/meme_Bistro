@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 205 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 206 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（137）
+## ★（138）
 
 <table>
 <tr>
@@ -237,6 +237,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1941.md"><img src="../images/m1941-hacker-refreshing-10-times.png" width="240" alt="13 歲的我狂按重新整理 10 次，看起來很酷"></a><br><a href="../memes/m1941.md">13 歲的我狂按重新整理 10 次，看起來很酷</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1945.md"><img src="../images/m1945-ssd-hard-drives-upset.png" width="240" alt="If those hard drives could still read, they'd be very upset"></a><br><a href="../memes/m1945.md">If those hard drives could still read, they'd be very upset</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1952.md"><img src="../images/m1952-red-riding-hood-ai-deepfake.png" width="240" alt="AI 變聲變臉：小紅帽與奶奶的視訊"></a><br><a href="../memes/m1952.md">AI 變聲變臉：小紅帽與奶奶的視訊</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

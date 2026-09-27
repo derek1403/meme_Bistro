@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 886 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 890 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（613）
+## ★（617）
 
 <table>
 <tr>
@@ -1031,6 +1031,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1947.md"><img src="../images/m1947-sora-doll-assistant-kun.png" width="240" alt="小空小姐的娃娃——按壓肚子還會說話：助手君～"></a><br><a href="../memes/m1947.md">小空小姐的娃娃——按壓肚子還會說話：助手君～</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1948.md"><img src="../images/m1948-ginger-not-potato-glasses.png" width="240" alt="以為自己夾的是馬鈴薯片，於是薑有了新的對手"></a><br><a href="../memes/m1948.md">以為自己夾的是馬鈴薯片，於是薑有了新的對手</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1950.md"><img src="../images/m1950-vtuber-debut-vs-later-elf.jpg" width="240" alt="VTuber 初配信時 vs 活動一段時間後"></a><br><a href="../memes/m1950.md">VTuber 初配信時 vs 活動一段時間後</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1951.md"><img src="../images/m1951-aqua-saved-kazuma-four-times.png" width="240" alt="和真總說阿庫婭沒用，但她已經在鬼門關前救回他四次"></a><br><a href="../memes/m1951.md">和真總說阿庫婭沒用，但她已經在鬼門關前救回他四次</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1953.md"><img src="../images/m1953-chiikawa-realistic-animals.png" width="240" alt="真實動物版的兔兔、小八、吉伊卡哇"></a><br><a href="../memes/m1953.md">真實動物版的兔兔、小八、吉伊卡哇</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 236 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 241 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（160）
+## ★（164）
 
 <table>
 <tr>
@@ -276,6 +276,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2111.md"><img src="../images/m2111-filet-o-fish-life.png" width="240" alt="生活就像麥香魚：一層不變有點膩，又怕改變很多魚"></a><br><a href="../memes/m2111.md">生活就像麥香魚：一層不變有點膩，又怕改變很多魚</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2133.md"><img src="../images/m2133-dongao-gold-medal-beer.png" width="240" alt="事到如今也不瞞大家了，我在東澳也拿過金牌"></a><br><a href="../memes/m2133.md">事到如今也不瞞大家了，我在東澳也拿過金牌</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2159.md"><img src="../images/m2159-qixi-cake-death.jpg" width="240" alt="七夕蛋糕長這樣，害我被老婆打得半死"></a><br><a href="../memes/m2159.md">七夕蛋糕長這樣，害我被老婆打得半死</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2160.md"><img src="../images/m2160-samsung-model-im-doctor.png" width="240" alt="Model?——Nhe, I'm a doctor"></a><br><a href="../memes/m2160.md">Model?——Nhe, I'm a doctor</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2164.md"><img src="../images/m2164-ghost-month-poor-ghosts-work.png" width="240" alt="鬼門開是真的，今天看到好多窮鬼去上班"></a><br><a href="../memes/m2164.md">鬼門開是真的，今天看到好多窮鬼去上班</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -317,7 +323,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（57）
+## ⚠️ 需斟酌（58）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -886,6 +892,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2112.md"><img src="../images/m2112-floor-plan-very-diao.png" width="240" alt="你住哪裡？——我住在一個很屌的地方"></a><br><a href="../memes/m2112.md">你住哪裡？——我住在一個很屌的地方</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你的陽光都是裝出來的——所以你陽偽 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2147.md"><img src="../images/m2147-yang-wei-fake-sunshine.png" width="240" alt="你的陽光都是裝出來的——所以你陽偽"></a><br><a href="../memes/m2147.md">你的陽光都是裝出來的——所以你陽偽</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

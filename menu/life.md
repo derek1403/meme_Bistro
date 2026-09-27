@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 999 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1015 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（704）
+## ★（719）
 
 <table>
 <tr>
@@ -1182,6 +1182,31 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2122.md"><img src="../images/m2122-spike-through-head-apology.png" width="240" alt="我寧願拿釘子插穿我的頭也不道歉——我真的插了"></a><br><a href="../memes/m2122.md">我寧願拿釘子插穿我的頭也不道歉——我真的插了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2123.md"><img src="../images/m2123-staring-at-rain-locked-out.png" width="240" alt="我妻子覺得我暴雨時一直盯著窗戶看很怪"></a><br><a href="../memes/m2123.md">我妻子覺得我暴雨時一直盯著窗戶看很怪</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2126.md"><img src="../images/m2126-hemorrhoid-cream-super-glue.png" width="240" alt="痔瘡藥膏長得跟快乾膠太像，肛門差一點就滅亡了"></a><br><a href="../memes/m2126.md">痔瘡藥膏長得跟快乾膠太像，肛門差一點就滅亡了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2128.md"><img src="../images/m2128-bear-0895-still-early.png" width="240" alt="明天要 9 點前起床——08:95，還早"></a><br><a href="../memes/m2128.md">明天要 9 點前起床——08:95，還早</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2129.md"><img src="../images/m2129-fairy-wish-third-ice-cream.png" width="240" alt="我真希望那是我——仙子實現你的願望"></a><br><a href="../memes/m2129.md">我真希望那是我——仙子實現你的願望</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2130.md"><img src="../images/m2130-axolotl-chameleon-stars.png" width="240" alt="我的視力很差，只能用想像的——變色龍把星空變給你看"></a><br><a href="../memes/m2130.md">我的視力很差，只能用想像的——變色龍把星空變給你看</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2131.md"><img src="../images/m2131-earbuds-cuddle-case.png" width="240" alt="天氣好冷，只好來找男友取暖了"></a><br><a href="../memes/m2131.md">天氣好冷，只好來找男友取暖了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2135.md"><img src="../images/m2135-contract-line-8-chars.png" width="240" alt="你看都不看就簽？——第八行第 7 到 12 個字是什麼？"></a><br><a href="../memes/m2135.md">你看都不看就簽？——第八行第 7 到 12 個字是什麼？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2137.md"><img src="../images/m2137-croc-meets-boss-sick-leave.png" width="240" alt="假裝生病請假，在路上遇見老闆"></a><br><a href="../memes/m2137.md">假裝生病請假，在路上遇見老闆</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2138.md"><img src="../images/m2138-fresh-squeezed-milk-carton.png" width="240" alt="新鮮現擠牛奶"></a><br><a href="../memes/m2138.md">新鮮現擠牛奶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2144.md"><img src="../images/m2144-you-just-love-flowers.png" width="240" alt="You just love them don't you?——跑去把臉埋進花裡"></a><br><a href="../memes/m2144.md">You just love them don't you?——跑去把臉埋進花裡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2148.md"><img src="../images/m2148-my-leisure-activities.png" width="240" alt="你平常的休閒活動都是什麼？——焦慮、洗澡並抑鬱"></a><br><a href="../memes/m2148.md">你平常的休閒活動都是什麼？——焦慮、洗澡並抑鬱</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2150.md"><img src="../images/m2150-moms-phone-girls-und-panzer.png" width="240" alt="當我使用媽媽的智慧型手機時"></a><br><a href="../memes/m2150.md">當我使用媽媽的智慧型手機時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2151.md"><img src="../images/m2151-brain-break-pen-clip.png" width="240" alt="Brain："Break it"——Me："Why?"——Brain："Just do it!""></a><br><a href="../memes/m2151.md">Brain："Break it"——Me："Why?"——Brain："Just do it!"</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2153.md"><img src="../images/m2153-wife-singing-alibi.png" width="240" alt="太太在屋裡唱歌，我坐在外面製造不在場證明"></a><br><a href="../memes/m2153.md">太太在屋裡唱歌，我坐在外面製造不在場證明</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2155.md"><img src="../images/m2155-fox-golf-hole-tuned.png" width="240" alt="一次就把樂器調音好的感覺就像"></a><br><a href="../memes/m2155.md">一次就把樂器調音好的感覺就像</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2163.md"><img src="../images/m2163-monks-exorcise-each-other.jpg" width="240" alt="互看不順眼而開始超渡對方"></a><br><a href="../memes/m2163.md">互看不順眼而開始超渡對方</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1333,7 +1358,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（210）
+## ⚠️ 需斟酌（211）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3432,6 +3457,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2077.md"><img src="../images/m2077-jojo-heart-attack-taking-long.png" width="240" alt="久坐 6 小時猝死風險 +40%——坐 15 小時的我：Heart Attack 怎麼還沒來？"></a><br><a href="../memes/m2077.md">久坐 6 小時猝死風險 +40%——坐 15 小時的我：Heart Attack 怎麼還沒來？</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>老師說這樣子才能知道是誰種的花 — ⚠️ 死亡聯想</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2156.md"><img src="../images/m2156-kindergarten-flower-photo-graves.png" width="240" alt="老師說這樣子才能知道是誰種的花"></a><br><a href="../memes/m2156.md">老師說這樣子才能知道是誰種的花</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

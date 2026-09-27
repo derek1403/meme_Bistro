@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 226 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（152）
+## ★（158）
 
 <table>
 <tr>
@@ -262,10 +262,20 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2100.md"><img src="../images/m2100-boss-cant-be-replaced-by-ai.png" width="240" alt="王董請放心，AI 取代不了您——我剛才問 ChatGPT 的"></a><br><a href="../memes/m2100.md">王董請放心，AI 取代不了您——我剛才問 ChatGPT 的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2107.md"><img src="../images/m2107-wish-to-see-god-emoji.png" width="240" alt="When someone makes a wish to see God"></a><br><a href="../memes/m2107.md">When someone makes a wish to see God</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2127.md"><img src="../images/m2127-bsod-error-you.png" width="240" alt="My PC told me what the error was——:( You"></a><br><a href="../memes/m2127.md">My PC told me what the error was——:( You</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2134.md"><img src="../images/m2134-girl-server-room-tidy.png" width="240" alt="POV：A girl gets a job in server room"></a><br><a href="../memes/m2134.md">POV：A girl gets a job in server room</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2143.md"><img src="../images/m2143-laptop-carries-project.png" width="240" alt="My Laptop 載著 My Project"></a><br><a href="../memes/m2143.md">My Laptop 載著 My Project</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2145.md"><img src="../images/m2145-apple-most-powerful-gpu-nvidia.png" width="240" alt="Apple：我們有全世界最強的顯示卡——Nvidia 笑到倒地"></a><br><a href="../memes/m2145.md">Apple：我們有全世界最強的顯示卡——Nvidia 笑到倒地</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2157.md"><img src="../images/m2157-flashing-rom-successful.png" width="240" alt="When you turn on your device after flashing a new ROM"></a><br><a href="../memes/m2157.md">When you turn on your device after flashing a new ROM</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2162.md"><img src="../images/m2162-snapchat-ai-no-location-mcdonalds.png" width="240" alt="你沒有我的位置資訊？——最近的麥當勞在你家旁邊的 Young St"></a><br><a href="../memes/m2162.md">你沒有我的位置資訊？——最近的麥當勞在你家旁邊的 Young St</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（55）
+## ★★（57）
 
 <table>
 <tr>
@@ -360,10 +370,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2115.md"><img src="../images/m2115-overfit-grandpa-cabbage.png" width="240" alt="你不想落得跟阿公一樣過度擬合吧？——那是一顆高麗菜"></a><br><a href="../memes/m2115.md">你不想落得跟阿公一樣過度擬合吧？——那是一顆高麗菜</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2139.md"><img src="../images/m2139-steam-users-map-boat.png" width="240" alt="Map of Steam users around the world——太平洋中間那一個"></a><br><a href="../memes/m2139.md">Map of Steam users around the world——太平洋中間那一個</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2141.md"><img src="../images/m2141-binary-17th-birthday-candles.png" width="240" alt="Happy 17th Birthday——8 根蠟燭只點 2 根"></a><br><a href="../memes/m2141.md">Happy 17th Birthday——8 根蠟燭只點 2 根</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（19）
+## ⚠️ 需斟酌（20）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -552,6 +564,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1865.md"><img src="../images/m1865-dont-shoot-software-developer.png" width="240" alt="Don't shoot, I'm software developer——Shoot"></a><br><a href="../memes/m1865.md">Don't shoot, I'm software developer——Shoot</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>2001、2011、2021 年的屁孩找 A 片 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2136.md"><img src="../images/m2136-finding-porn-2001-2021.png" width="240" alt="2001、2011、2021 年的屁孩找 A 片"></a><br><a href="../memes/m2136.md">2001、2011、2021 年的屁孩找 A 片</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

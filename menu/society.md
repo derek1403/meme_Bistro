@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 162 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 170 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（44）
+## ★（45）
 
 <table>
 <tr>
@@ -82,6 +82,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1935.md"><img src="../images/m1935-sign-for-the-sign.png" width="240" alt="這是指示牌的指示牌：左轉車靠左、右轉車靠右"></a><br><a href="../memes/m1935.md">這是指示牌的指示牌：左轉車靠左、右轉車靠右</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2099.md"><img src="../images/m2099-garage-startup-no-garage.png" width="240" alt="大企業都從車庫創業——我沒有車庫"></a><br><a href="../memes/m2099.md">大企業都從車庫創業——我沒有車庫</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2154.md"><img src="../images/m2154-taiwan-speed-cameras-map.png" width="240" alt="波蘭的教堂、英國的酒吧、台灣的測速照相"></a><br><a href="../memes/m2154.md">波蘭的教堂、英國的酒吧、台灣的測速照相</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -119,7 +120,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（101）
+## ⚠️ 需斟酌（108）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1128,6 +1129,76 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2124.md"><img src="../images/m2124-m-seeks-s-sugar-mommy.png" width="240" alt="本人 M 找 S：把我困在家裡、上班賺錢轉給我、然後羞辱我的無能"></a><br><a href="../memes/m2124.md">本人 M 找 S：把我困在家裡、上班賺錢轉給我、然後羞辱我的無能</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當女友約你去 U2，第一次去的你以為是要看電影 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2140.md"><img src="../images/m2140-u2-first-time-plankton.png" width="240" alt="當女友約你去 U2，第一次去的你以為是要看電影"></a><br><a href="../memes/m2140.md">當女友約你去 U2，第一次去的你以為是要看電影</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>男生就應該玩士兵，不可以玩洋娃娃——20 年後 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2146.md"><img src="../images/m2146-boys-play-soldiers.png" width="240" alt="男生就應該玩士兵，不可以玩洋娃娃——20 年後"></a><br><a href="../memes/m2146.md">男生就應該玩士兵，不可以玩洋娃娃——20 年後</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>您的精子很正常——您太太的精子也很正常 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2149.md"><img src="../images/m2149-doctor-wife-sperm-normal.png" width="240" alt="您的精子很正常——您太太的精子也很正常"></a><br><a href="../memes/m2149.md">您的精子很正常——您太太的精子也很正常</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Are ya winning, dad?——Son, pack up your stuff, I just lost the house — ⚠️ 自殺暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2152.md"><img src="../images/m2152-are-ya-winning-dad-stocks.png" width="240" alt="Are ya winning, dad?——Son, pack up your stuff, I just lost the house"></a><br><a href="../memes/m2152.md">Are ya winning, dad?——Son, pack up your stuff, I just lost the house</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當妳終於答應男友願意接受深喉嚨時 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2158.md"><img src="../images/m2158-plankton-deep-throat.png" width="240" alt="當妳終於答應男友願意接受深喉嚨時"></a><br><a href="../memes/m2158.md">當妳終於答應男友願意接受深喉嚨時</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我要苦練演技讓他們刮目相看——我下海了請多多支持 — ⚠️ 性工作暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2161.md"><img src="../images/m2161-practice-acting-went-adult.png" width="240" alt="我要苦練演技讓他們刮目相看——我下海了請多多支持"></a><br><a href="../memes/m2161.md">我要苦練演技讓他們刮目相看——我下海了請多多支持</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>哈囉，匹諾曹——向我說謊！！！ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2165.md"><img src="../images/m2165-pinocchio-lie-to-me.png" width="240" alt="哈囉，匹諾曹——向我說謊！！！"></a><br><a href="../memes/m2165.md">哈囉，匹諾曹——向我說謊！！！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

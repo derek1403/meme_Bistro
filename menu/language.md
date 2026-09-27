@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 109 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 111 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（73）
+## ★（74）
 
 <table>
 <tr>
@@ -131,6 +131,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1153.md"><img src="../images/m1153-baby-name-xin-guan-yi-qing.png" width="240" alt="喲昕冠亦晴來啦"></a><br><a href="../memes/m1153.md">喲昕冠亦晴來啦</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1189.md"><img src="../images/m1189-superconductor-stinky-tofu-radish-cake.png" width="240" alt="超導體、超導呼、超導貴"></a><br><a href="../memes/m1189.md">超導體、超導呼、超導貴</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -157,7 +158,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（26）
+## ⚠️ 需斟酌（27）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -416,6 +417,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1179.md"><img src="../images/m1179-boss-early-out-middle-out.png" width="240" alt="老闆，明天會早出嗎？"></a><br><a href="../memes/m1179.md">老闆，明天會早出嗎？</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這樣算不算一種萬精游 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1195.md"><img src="../images/m1195-order-note-wan-jing-you.jpg" width="240" alt="這樣算不算一種萬精游"></a><br><a href="../memes/m1195.md">這樣算不算一種萬精游</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

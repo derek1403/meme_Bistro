@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 458 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 466 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（310）
+## ★（317）
 
 <table>
 <tr>
@@ -526,10 +526,21 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1186.md"><img src="../images/m1186-prison-reduce-sentence-work-overtime.jpg" width="240" alt="坐牢表現好還有減刑，上班表現好只有加班"></a><br><a href="../memes/m1186.md">坐牢表現好還有減刑，上班表現好只有加班</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1187.md"><img src="../images/m1187-kirby-appearance-vs-mental.jpg" width="240" alt="我的外表 vs 我的精神狀態"></a><br><a href="../memes/m1187.md">我的外表 vs 我的精神狀態</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1188.md"><img src="../images/m1188-height-measure-fox-ears.jpg" width="240" alt="量身高：174 cm vs 170 cm（壓扁的耳朵）"></a><br><a href="../memes/m1188.md">量身高：174 cm vs 170 cm（壓扁的耳朵）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1191.md"><img src="../images/m1191-pusheen-catch-santa.png" width="240" alt="如何抓到聖誕老人"></a><br><a href="../memes/m1191.md">如何抓到聖誕老人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1192.md"><img src="../images/m1192-peers-vs-me-bigger-fries.png" width="240" alt="同齡人的現狀 vs 我"></a><br><a href="../memes/m1192.md">同齡人的現狀 vs 我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1193.md"><img src="../images/m1193-girlfriend-not-cute-cat.png" width="240" alt="當女友說她一點都不可愛時"></a><br><a href="../memes/m1193.md">當女友說她一點都不可愛時</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1194.md"><img src="../images/m1194-not-sweet-free-lemons.png" width="240" alt="水果不甜不要錢：檸檬我全要了"></a><br><a href="../memes/m1194.md">水果不甜不要錢：檸檬我全要了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1197.md"><img src="../images/m1197-dinosaur-sandwich-marry-me.png" width="240" alt="讓所有男人心動的女人"></a><br><a href="../memes/m1197.md">讓所有男人心動的女人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（58）
+## ★★（59）
 
 <table>
 <tr>
@@ -629,6 +640,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1184.md"><img src="../images/m1184-sparkle-literally-the-girl.png" width="240" alt="I'm literally the girl in the pic"></a><br><a href="../memes/m1184.md">I'm literally the girl in the pic</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1196.md"><img src="../images/m1196-lol-bot-lane-three-cases.png" width="240" alt="下路帶先發只有三種情況"></a><br><a href="../memes/m1196.md">下路帶先發只有三種情況</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

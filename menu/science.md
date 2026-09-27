@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 159 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（70）
+## ★（71）
 
 <table>
 <tr>
@@ -126,6 +126,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2093.md"><img src="../images/m2093-nuclear-power-boiling-water.jpg" width="240" alt="核能發電不就是燒開水而已嗎？——你侮辱了我的專業，但你說得沒錯"></a><br><a href="../memes/m2093.md">核能發電不就是燒開水而已嗎？——你侮辱了我的專業，但你說得沒錯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2317.md"><img src="../images/m2317-schrodinger-bubble-tea.png" width="240" alt="薛丁格的珍珠奶茶"></a><br><a href="../memes/m2317.md">薛丁格的珍珠奶茶</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

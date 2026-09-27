@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（230）](#hardcore)
-- [👀 直觀（1693）](#intuitive)
+- [🧠 硬核（234）](#hardcore)
+- [👀 直觀（1711）](#intuitive)
 - [🔤 諧音／文字梗（327）](#pun)
-- [🔥 地獄梗（189）](#dark)
+- [🔥 地獄梗（190）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（230）
+## 🧠 硬核（234）
 
 要有學科背景才笑得出來
 
@@ -245,10 +245,14 @@
 - 🧮 [When you need a counterexample in linear algebra——Ol' Reliable](../memes/m2282.md) ★★
 - 🧮 [∫Σ = Σ∫：物理學家無感，數學家尖叫](../memes/m2283.md) ★★
 - 🧮 [證明黎曼猜想就送你一包葫蘆巴籽](../memes/m2289.md) ★★
+- 🧮 [3D、2D——ln(2)/ln(3) D](../memes/m2303.md) ★★
+- 🧮 [不定積分時 C 跟著你——定積分時 C 搭船走了](../memes/m2311.md) ★★
+- 🧮 [d/dx 打 eˣ——打完還是 eˣ](../memes/m2312.md) ★
+- 🧮 [《數學原理》第 362 頁：由此命題可知 1 + 1 = 2](../memes/m2316.md) ★★
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1693）
+## 👀 直觀（1711）
 
 看圖就懂
 
@@ -1945,6 +1949,24 @@
 - 🌍 [莉可麗絲版的舉拳照](../memes/m2292.md) ★★ ⚠️ 暗指槍擊事件
 - 💻 [現在的網頁技術 vs 政府網站](../memes/m2293.md) ★
 - 🍺 [15 年前：收到信嘆氣、收到 email 開心——今天反過來](../memes/m2294.md) ★
+- 💻 [兩個 Linux 使用者在聊 bash script——Windows 使用者：](../memes/m2295.md) ★
+- 💻 [I code better at night——11:05 PM](../memes/m2296.md) ★
+- 🍺 [便利店打開飲品櫃的瞬間：是命運邂逅還是恐怖事件](../memes/m2297.md) ★
+- 🍺 [古人：2024 年車子應該都在天上飛了吧？——2024 年：吃披薩前請將盒子打開](../memes/m2298.md) ★
+- 🌍 [請選出所有男性角色的方格](../memes/m2299.md) ★★
+- 💻 [Can an AI write efficient SQL queries?——Can you?](../memes/m2300.md) ★
+- 💻 [2500 萬個 bug、2 萬 5 千個錯誤——25 行程式碼](../memes/m2301.md) ★
+- 💻 [廣告推送你講過的東西 vs 你只是想過的東西](../memes/m2302.md) ★
+- 🍺 [今晚義大利和日本朋友要來作客，希望他們會滿意](../memes/m2304.md) ★
+- 🍺 [這個雪碧看起來好像《海綿寶寶》裡轉場的畫面](../memes/m2305.md) ★
+- 💻 [Facebook：Type password——Me：Password](../memes/m2306.md) ★
+- 🍺 [為什麼火鍋有肥牛和肥羊卻沒有肥豬？——因為肥豬正在吃火鍋](../memes/m2307.md) ★
+- 💻 [當你身體受到感染時體溫會升高，是因為病毒正在用你的身體挖比特幣](../memes/m2308.md) ★
+- 🌍 [在台灣自己違規如何開脫 V1.1 版](../memes/m2309.md) ★★
+- 💻 [我在幫 YouTube 偵測廣告攔截器——你有 10 秒鐘離開我家](../memes/m2310.md) ★
+- 🍺 [How it ended vs How it REALLY ended](../memes/m2313.md) ★
+- 🍺 [俄羅斯方塊：長條終於來了——不，它在度假](../memes/m2314.md) ★
+- 🔬 [薛丁格的珍珠奶茶](../memes/m2317.md) ★
 
 <a id="pun"></a>
 
@@ -2282,7 +2304,7 @@
 
 <a id="dark"></a>
 
-## 🔥 地獄梗（189）
+## 🔥 地獄梗（190）
 
 拿敏感題材開玩笑，請斟酌
 
@@ -2475,4 +2497,5 @@
 - 🍺 [This is Bear——You need protein——Bear becomes an omnivore](../memes/m2266.md) ★ ⚠️ 動物被吃
 - 🌍 [科學家怎麼標註大腦 vs 殖民時期歐洲怎麼標註大腦](../memes/m2269.md) ★★ ⚠️ 殖民歷史
 - 🍺 [骷髏們的恐怖片：一隻狗叼著一根骨頭](../memes/m2286.md) ★ ⚠️ 骷髏
+- 🍺 [午餐時間！——午餐時間！](../memes/m2315.md) ★ ⚠️ 血腥
 

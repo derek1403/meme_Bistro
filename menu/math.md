@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 278 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 282 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（89）
+## ★（90）
 
 <table>
 <tr>
@@ -157,10 +157,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2207.md"><img src="../images/m2207-inverse-function-cat-fish.png" width="240" alt="F(x) 與 F⁻¹(x)：貓吃魚，魚吃貓"></a><br><a href="../memes/m2207.md">F(x) 與 F⁻¹(x)：貓吃魚，魚吃貓</a><br><sub>🧠 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2261.md"><img src="../images/m2261-angle-a-homesick.png" width="240" alt="證：表達 ∠A 的思鄉之情"></a><br><a href="../memes/m2261.md">證：表達 ∠A 的思鄉之情</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2312.md"><img src="../images/m2312-ddx-ex-unchanged.png" width="240" alt="d/dx 打 eˣ——打完還是 eˣ"></a><br><a href="../memes/m2312.md">d/dx 打 eˣ——打完還是 eˣ</a><br><sub>🧠 ★</sub></td>
 </tr>
 </table>
 
-## ★★（122）
+## ★★（125）
 
 <table>
 <tr>
@@ -366,6 +367,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2283.md"><img src="../images/m2283-swap-integral-sum-monster.png" width="240" alt="∫Σ = Σ∫：物理學家無感，數學家尖叫"></a><br><a href="../memes/m2283.md">∫Σ = Σ∫：物理學家無感，數學家尖叫</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2289.md"><img src="../images/m2289-fenugreek-riemann-hypothesis.png" width="240" alt="證明黎曼猜想就送你一包葫蘆巴籽"></a><br><a href="../memes/m2289.md">證明黎曼猜想就送你一包葫蘆巴籽</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2303.md"><img src="../images/m2303-cantor-dimension-ln2-ln3.png" width="240" alt="3D、2D——ln(2)/ln(3) D"></a><br><a href="../memes/m2303.md">3D、2D——ln(2)/ln(3) D</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2311.md"><img src="../images/m2311-constant-c-abandons-definite.png" width="240" alt="不定積分時 C 跟著你——定積分時 C 搭船走了"></a><br><a href="../memes/m2311.md">不定積分時 C 跟著你——定積分時 C 搭船走了</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2316.md"><img src="../images/m2316-principia-1-plus-1-equals-2.png" width="240" alt="《數學原理》第 362 頁：由此命題可知 1 + 1 = 2"></a><br><a href="../memes/m2316.md">《數學原理》第 362 頁：由此命題可知 1 + 1 = 2</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

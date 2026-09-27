@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 260 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 268 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（180）
+## ★（188）
 
 <table>
 <tr>
@@ -308,6 +308,20 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2288.md"><img src="../images/m2288-if-else-if-motorbike-push.png" width="240" alt="If、Else if、Else if、Else if——Return"></a><br><a href="../memes/m2288.md">If、Else if、Else if、Else if——Return</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2290.md"><img src="../images/m2290-two-weeks-forgot-30-years.png" width="240" alt="Two weeks without coding and I've forgotten 30 years of experience"></a><br><a href="../memes/m2290.md">Two weeks without coding and I've forgotten 30 years of experience</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2293.md"><img src="../images/m2293-web-tech-vs-government-sites.png" width="240" alt="現在的網頁技術 vs 政府網站"></a><br><a href="../memes/m2293.md">現在的網頁技術 vs 政府網站</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2295.md"><img src="../images/m2295-linux-bash-caveman-windows.png" width="240" alt="兩個 Linux 使用者在聊 bash script——Windows 使用者："></a><br><a href="../memes/m2295.md">兩個 Linux 使用者在聊 bash script——Windows 使用者：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2296.md"><img src="../images/m2296-i-code-better-at-night.png" width="240" alt="I code better at night——11:05 PM"></a><br><a href="../memes/m2296.md">I code better at night——11:05 PM</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2300.md"><img src="../images/m2300-can-ai-write-sql-can-you.png" width="240" alt="Can an AI write efficient SQL queries?——Can you?"></a><br><a href="../memes/m2300.md">Can an AI write efficient SQL queries?——Can you?</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2301.md"><img src="../images/m2301-25-lines-25m-bugs.png" width="240" alt="2500 萬個 bug、2 萬 5 千個錯誤——25 行程式碼"></a><br><a href="../memes/m2301.md">2500 萬個 bug、2 萬 5 千個錯誤——25 行程式碼</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2302.md"><img src="../images/m2302-ads-about-thoughts.png" width="240" alt="廣告推送你講過的東西 vs 你只是想過的東西"></a><br><a href="../memes/m2302.md">廣告推送你講過的東西 vs 你只是想過的東西</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2306.md"><img src="../images/m2306-facebook-type-password-again.png" width="240" alt="Facebook：Type password——Me：Password"></a><br><a href="../memes/m2306.md">Facebook：Type password——Me：Password</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2308.md"><img src="../images/m2308-fever-virus-mining-bitcoin.png" width="240" alt="當你身體受到感染時體溫會升高，是因為病毒正在用你的身體挖比特幣"></a><br><a href="../memes/m2308.md">當你身體受到感染時體溫會升高，是因為病毒正在用你的身體挖比特幣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2310.md"><img src="../images/m2310-youtube-adblock-detector-job.png" width="240" alt="我在幫 YouTube 偵測廣告攔截器——你有 10 秒鐘離開我家"></a><br><a href="../memes/m2310.md">我在幫 YouTube 偵測廣告攔截器——你有 10 秒鐘離開我家</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

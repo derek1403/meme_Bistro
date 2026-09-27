@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1081 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1089 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（779）
+## ★（786）
 
 <table>
 <tr>
@@ -1307,6 +1307,17 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2291.md"><img src="../images/m2291-corn-spill-popcorn.png" width="240" alt="貨車玉米粒傾瀉滿地——10 分鐘之後"></a><br><a href="../memes/m2291.md">貨車玉米粒傾瀉滿地——10 分鐘之後</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2294.md"><img src="../images/m2294-letters-vs-email-15-years.png" width="240" alt="15 年前：收到信嘆氣、收到 email 開心——今天反過來"></a><br><a href="../memes/m2294.md">15 年前：收到信嘆氣、收到 email 開心——今天反過來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2297.md"><img src="../images/m2297-convenience-fridge-hand.jpg" width="240" alt="便利店打開飲品櫃的瞬間：是命運邂逅還是恐怖事件"></a><br><a href="../memes/m2297.md">便利店打開飲品櫃的瞬間：是命運邂逅還是恐怖事件</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2298.md"><img src="../images/m2298-open-box-before-eating-pizza.png" width="240" alt="古人：2024 年車子應該都在天上飛了吧？——2024 年：吃披薩前請將盒子打開"></a><br><a href="../memes/m2298.md">古人：2024 年車子應該都在天上飛了吧？——2024 年：吃披薩前請將盒子打開</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2304.md"><img src="../images/m2304-sushi-pizza-offend-both.png" width="240" alt="今晚義大利和日本朋友要來作客，希望他們會滿意"></a><br><a href="../memes/m2304.md">今晚義大利和日本朋友要來作客，希望他們會滿意</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2305.md"><img src="../images/m2305-sprite-spongebob-transition.png" width="240" alt="這個雪碧看起來好像《海綿寶寶》裡轉場的畫面"></a><br><a href="../memes/m2305.md">這個雪碧看起來好像《海綿寶寶》裡轉場的畫面</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2307.md"><img src="../images/m2307-fat-pig-eating-hotpot.png" width="240" alt="為什麼火鍋有肥牛和肥羊卻沒有肥豬？——因為肥豬正在吃火鍋"></a><br><a href="../memes/m2307.md">為什麼火鍋有肥牛和肥羊卻沒有肥豬？——因為肥豬正在吃火鍋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2313.md"><img src="../images/m2313-final-final-draft-v20.png" width="240" alt="How it ended vs How it REALLY ended"></a><br><a href="../memes/m2313.md">How it ended vs How it REALLY ended</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2314.md"><img src="../images/m2314-tetris-long-block-vacation.png" width="240" alt="俄羅斯方塊：長條終於來了——不，它在度假"></a><br><a href="../memes/m2314.md">俄羅斯方塊：長條終於來了——不，它在度假</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1460,7 +1471,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（215）
+## ⚠️ 需斟酌（216）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3609,6 +3620,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2286.md"><img src="../images/m2286-skeletons-horror-dog-bone.png" width="240" alt="骷髏們的恐怖片：一隻狗叼著一根骨頭"></a><br><a href="../memes/m2286.md">骷髏們的恐怖片：一隻狗叼著一根骨頭</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>午餐時間！——午餐時間！ — ⚠️ 血腥</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2315.md"><img src="../images/m2315-lunch-time-diplodocus-trex.png" width="240" alt="午餐時間！——午餐時間！"></a><br><a href="../memes/m2315.md">午餐時間！——午餐時間！</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

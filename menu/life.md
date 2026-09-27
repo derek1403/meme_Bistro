@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 492 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 501 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（335）
+## ★（337）
 
 <table>
 <tr>
@@ -567,6 +567,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1240.md"><img src="../images/m1240-cat-paw-oreo.png" width="240" alt="貓掌奧利奧"></a><br><a href="../memes/m1240.md">貓掌奧利奧</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1241.md"><img src="../images/m1241-applause-late-sleep-early-rise.png" width="240" alt="來點掌聲給那些晚睡又能很早起床的人"></a><br><a href="../memes/m1241.md">來點掌聲給那些晚睡又能很早起床的人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1245.md"><img src="../images/m1245-scolded-by-girlfriend-middle-finger-pocket.png" width="240" alt="被女友罵但不敢反駁所以你"></a><br><a href="../memes/m1245.md">被女友罵但不敢反駁所以你</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1252.md"><img src="../images/m1252-mona-lisa-new-year-weight.png" width="240" alt="蒙娜麗莎過年前後"></a><br><a href="../memes/m1252.md">蒙娜麗莎過年前後</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -678,7 +682,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（96）
+## ⚠️ 需斟酌（103）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1637,6 +1641,76 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1238.md"><img src="../images/m1238-snowman-iced-coffee.png" width="240" alt="櫃檯出了點小差錯，這是你的冰咖啡"></a><br><a href="../memes/m1238.md">櫃檯出了點小差錯，這是你的冰咖啡</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>淦，那不是龍眼 — ⚠️ 性器官暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1242.md"><img src="../images/m1242-cat-longan-not-longan.png" width="240" alt="淦，那不是龍眼"></a><br><a href="../memes/m1242.md">淦，那不是龍眼</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你幫艾莎口的時候她噴了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1244.md"><img src="../images/m1244-elsa-frozen-beard.png" width="240" alt="當你幫艾莎口的時候她噴了"></a><br><a href="../memes/m1244.md">當你幫艾莎口的時候她噴了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不想做 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1246.md"><img src="../images/m1246-dont-want-to-do-drinks.png" width="240" alt="不想做"></a><br><a href="../memes/m1246.md">不想做</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>吃鮑魚不會嫌毛多 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1247.md"><img src="../images/m1247-abalone-chicken-hair-hypocrite.png" width="240" alt="吃鮑魚不會嫌毛多"></a><br><a href="../memes/m1247.md">吃鮑魚不會嫌毛多</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>看起來越斯文的人，罵起人來就越兇 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1250.md"><img src="../images/m1250-gentle-looking-cat-road-rage.png" width="240" alt="看起來越斯文的人，罵起人來就越兇"></a><br><a href="../memes/m1250.md">看起來越斯文的人，罵起人來就越兇</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>貓尾巴 Pocky — ⚠️ 排泄暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1251.md"><img src="../images/m1251-cat-tail-pocky.png" width="240" alt="貓尾巴 Pocky"></a><br><a href="../memes/m1251.md">貓尾巴 Pocky</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>充氣的有生日？上面有生產日期 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1253.md"><img src="../images/m1253-inflatable-girlfriend-birthday.png" width="240" alt="充氣的有生日？上面有生產日期"></a><br><a href="../memes/m1253.md">充氣的有生日？上面有生產日期</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

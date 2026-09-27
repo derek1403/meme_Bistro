@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 116 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 118 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（79）
+## ★（80）
 
 <table>
 <tr>
@@ -141,6 +141,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1235.md"><img src="../images/m1235-left-handed-not-right.png" width="240" alt="Never argue with left-handed people"></a><br><a href="../memes/m1235.md">Never argue with left-handed people</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1243.md"><img src="../images/m1243-monkey-play-dead-avoid-thunder.png" width="240" alt="猴子，打雷了怎麼辦？假死避雷！"></a><br><a href="../memes/m1243.md">猴子，打雷了怎麼辦？假死避雷！</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -167,7 +168,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（27）
+## ⚠️ 需斟酌（28）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -436,6 +437,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1195.md"><img src="../images/m1195-order-note-wan-jing-you.jpg" width="240" alt="這樣算不算一種萬精游"></a><br><a href="../memes/m1195.md">這樣算不算一種萬精游</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>哥，你可以把你媽的 LINE 給我嗎？ — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1248.md"><img src="../images/m1248-add-your-mom-line.png" width="240" alt="哥，你可以把你媽的 LINE 給我嗎？"></a><br><a href="../memes/m1248.md">哥，你可以把你媽的 LINE 給我嗎？</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

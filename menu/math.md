@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 217 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 218 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（80）
 
@@ -145,7 +145,7 @@
 </tr>
 </table>
 
-## ★★（83）
+## ★★（84）
 
 <table>
 <tr>
@@ -286,6 +286,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1091.md"><img src="../images/m1091-zeta-jones-riemann-zeta.png" width="240" alt="凱薩琳．麗塔瓊斯 vs 黎曼 ζ 函數"></a><br><a href="../memes/m1091.md">凱薩琳．麗塔瓊斯 vs 黎曼 ζ 函數</a><br><sub>🔤🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1203.md"><img src="../images/m1203-riemann-analytic-domain-expansion.png" width="240" alt="時光機：別叫解析延拓，叫領域展開"></a><br><a href="../memes/m1203.md">時光機：別叫解析延拓，叫領域展開</a><br><sub>🧠🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1249.md"><img src="../images/m1249-surgeon-riemann-sedation.png" width="240" alt="麻醉要加重還是減輕？病人在證明黎曼猜想是錯的"></a><br><a href="../memes/m1249.md">麻醉要加重還是減輕？病人在證明黎曼猜想是錯的</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

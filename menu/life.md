@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 982 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 999 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（689）
+## ★（704）
 
 <table>
 <tr>
@@ -1157,10 +1157,35 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2091.md"><img src="../images/m2091-sunflowers-face-each-other.png" width="240" alt="向日葵找不到太陽時會朝向彼此"></a><br><a href="../memes/m2091.md">向日葵找不到太陽時會朝向彼此</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2092.md"><img src="../images/m2092-side-quest-bread-flood.png" width="240" alt="想順手做個支線任務，結果一直分裂出更多支線"></a><br><a href="../memes/m2092.md">想順手做個支線任務，結果一直分裂出更多支線</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2094.md"><img src="../images/m2094-cirno-fumo-religion-shelf.png" width="240" alt="Explain This Atheists——宗教書架上的琪露諾"></a><br><a href="../memes/m2094.md">Explain This Atheists——宗教書架上的琪露諾</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2096.md"><img src="../images/m2096-rice-feast-late-allowance.png" width="240" alt="當老媽晚了一天才發零用錢"></a><br><a href="../memes/m2096.md">當老媽晚了一天才發零用錢</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2103.md"><img src="../images/m2103-turtle-five-more-minutes.png" width="240" alt="幫我翻身——但再多給我五分鐘"></a><br><a href="../memes/m2103.md">幫我翻身——但再多給我五分鐘</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2104.md"><img src="../images/m2104-forgive-me-frosty-spider.png" width="240" alt="Forgive me Frosty…——雪人變成巨型蜘蛛"></a><br><a href="../memes/m2104.md">Forgive me Frosty…——雪人變成巨型蜘蛛</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2106.md"><img src="../images/m2106-never-melt-little-cone.png" width="240" alt="You'll never melt here, little cone"></a><br><a href="../memes/m2106.md">You'll never melt here, little cone</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2109.md"><img src="../images/m2109-detour-cant-swim.png" width="240" alt="前方施工請改道——淦啊我不會水路"></a><br><a href="../memes/m2109.md">前方施工請改道——淦啊我不會水路</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2110.md"><img src="../images/m2110-frieren-village-chief-no-fanart.jpg" width="240" alt="為什麼就是沒有我村長的圖——就算是個性溫柔的我也會森77"></a><br><a href="../memes/m2110.md">為什麼就是沒有我村長的圖——就算是個性溫柔的我也會森77</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2114.md"><img src="../images/m2114-sleeping-paperclip.png" width="240" alt="睡覺迴紋針：夾住時可以幫它蓋上被子"></a><br><a href="../memes/m2114.md">睡覺迴紋針：夾住時可以幫它蓋上被子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2116.md"><img src="../images/m2116-archer-baby-spotter.png" width="240" alt="這就是為什麼狙擊手總要配一名觀測員——寶寶修正了彈道"></a><br><a href="../memes/m2116.md">這就是為什麼狙擊手總要配一名觀測員——寶寶修正了彈道</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2117.md"><img src="../images/m2117-tv-sideways-lying.png" width="240" alt="把電視側放，就可以躺著看電視"></a><br><a href="../memes/m2117.md">把電視側放，就可以躺著看電視</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2118.md"><img src="../images/m2118-frog-pole-vault-sick.png" width="240" alt="撐竿跳高——青蛙：嘿呀！壁虎：有病.."></a><br><a href="../memes/m2118.md">撐竿跳高——青蛙：嘿呀！壁虎：有病..</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2119.md"><img src="../images/m2119-turtle-tic-tac-toe.png" width="240" alt="希望你們不會無聊——我們在你殼上玩圈圈叉叉"></a><br><a href="../memes/m2119.md">希望你們不會無聊——我們在你殼上玩圈圈叉叉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2121.md"><img src="../images/m2121-cat-bed-taken-by-drunk.jpg" width="240" alt="被我喝酒醉的朋友搶走了床的貓"></a><br><a href="../memes/m2121.md">被我喝酒醉的朋友搶走了床的貓</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2122.md"><img src="../images/m2122-spike-through-head-apology.png" width="240" alt="我寧願拿釘子插穿我的頭也不道歉——我真的插了"></a><br><a href="../memes/m2122.md">我寧願拿釘子插穿我的頭也不道歉——我真的插了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2123.md"><img src="../images/m2123-staring-at-rain-locked-out.png" width="240" alt="我妻子覺得我暴雨時一直盯著窗戶看很怪"></a><br><a href="../memes/m2123.md">我妻子覺得我暴雨時一直盯著窗戶看很怪</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（83）
+## ★★（85）
 
 <table>
 <tr>
@@ -1301,6 +1326,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2067.md"><img src="../images/m2067-kurapika-ship-8-years.jpg" width="240" alt="酷拉皮卡在船上見證《咒術迴戰》從連載開始到結束"></a><br><a href="../memes/m2067.md">酷拉皮卡在船上見證《咒術迴戰》從連載開始到結束</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2073.md"><img src="../images/m2073-sakura-im-a-coser.png" width="240" alt="你也是魔法少女嗎？——我是 coser"></a><br><a href="../memes/m2073.md">你也是魔法少女嗎？——我是 coser</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2095.md"><img src="../images/m2095-tainan-chawanmushi-pudding.png" width="240" alt="南北部茶碗蒸大不同"></a><br><a href="../memes/m2095.md">南北部茶碗蒸大不同</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2120.md"><img src="../images/m2120-screen-window-truck.png" width="240" alt="天哪我的紗窗壞了——什麼壞了？"></a><br><a href="../memes/m2120.md">天哪我的紗窗壞了——什麼壞了？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

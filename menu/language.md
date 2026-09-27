@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 231 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 236 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（157）
+## ★（160）
 
 <table>
 <tr>
@@ -271,6 +271,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2080.md"><img src="../images/m2080-78-percent-fake-humans.jpg" width="240" alt="冷知識：100 個人中就有 78 個是偽人"></a><br><a href="../memes/m2080.md">冷知識：100 個人中就有 78 個是偽人</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2098.md"><img src="../images/m2098-jealous-deleted-me.png" width="240" alt="我會吃醋的——嗯，刪了"></a><br><a href="../memes/m2098.md">我會吃醋的——嗯，刪了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2108.md"><img src="../images/m2108-bra-house-feng-shui.png" width="240" alt="風水大師一看就斷定這間屋有問題——一看就是胸宅"></a><br><a href="../memes/m2108.md">風水大師一看就斷定這間屋有問題——一看就是胸宅</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2111.md"><img src="../images/m2111-filet-o-fish-life.png" width="240" alt="生活就像麥香魚：一層不變有點膩，又怕改變很多魚"></a><br><a href="../memes/m2111.md">生活就像麥香魚：一層不變有點膩，又怕改變很多魚</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -312,7 +317,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（55）
+## ⚠️ 需斟酌（57）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -861,6 +866,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2066.md"><img src="../images/m2066-sea-jump-or-go-down.jpg" width="240" alt="海是個好東西：心情好可以看，心情不好可以跳，沒錢了還能下"></a><br><a href="../memes/m2066.md">海是個好東西：心情好可以看，心情不好可以跳，沒錢了還能下</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這是五條，他得到了自己的另一半；這也是五條，他失去了自己的另一半 — ⚠️ 死亡、肢體斷裂</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2105.md"><img src="../images/m2105-gojo-other-half.jpg" width="240" alt="這是五條，他得到了自己的另一半；這也是五條，他失去了自己的另一半"></a><br><a href="../memes/m2105.md">這是五條，他得到了自己的另一半；這也是五條，他失去了自己的另一半</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你住哪裡？——我住在一個很屌的地方 — ⚠️ 粗俗性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2112.md"><img src="../images/m2112-floor-plan-very-diao.png" width="240" alt="你住哪裡？——我住在一個很屌的地方"></a><br><a href="../memes/m2112.md">你住哪裡？——我住在一個很屌的地方</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

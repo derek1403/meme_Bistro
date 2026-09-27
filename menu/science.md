@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 155 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 157 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（70）
 
@@ -129,7 +129,7 @@
 </tr>
 </table>
 
-## ★★（51）
+## ★★（52）
 
 <table>
 <tr>
@@ -217,6 +217,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1873.md"><img src="../images/m1873-raptor-arms-curator.png" width="240" alt="館長說迅猛龍的前肢根本不是這樣——您說的對極了"></a><br><a href="../memes/m1873.md">館長說迅猛龍的前肢根本不是這樣——您說的對極了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1987.md"><img src="../images/m1987-angular-momentum-l-r-x-p.png" width="240" alt="L = r × p"></a><br><a href="../memes/m1987.md">L = r × p</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2125.md"><img src="../images/m2125-physics-olympiad-drink-water.jpg" width="240" alt="喝一口得到折射率 1.33——化學組請放下四氯金酸"></a><br><a href="../memes/m2125.md">喝一口得到折射率 1.33——化學組請放下四氯金酸</a><br><sub>🧠 ★★</sub></td>
+</tr>
 </table>
 
 ## ★★★（2）
@@ -228,7 +231,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（32）
+## ⚠️ 需斟酌（33）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -547,6 +550,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1925.md"><img src="../images/m1925-typhoon-smiling-face-protect-head.jpg" width="240" alt="請颱風影響區居民保護好頭部"></a><br><a href="../memes/m1925.md">請颱風影響區居民保護好頭部</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>恐龍→原油→聚丙烯→飛機杯：這是不是代表我幹了恐龍 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2101.md"><img src="../images/m2101-tenga-dinosaur-chain.png" width="240" alt="恐龍→原油→聚丙烯→飛機杯：這是不是代表我幹了恐龍"></a><br><a href="../memes/m2101.md">恐龍→原油→聚丙烯→飛機杯：這是不是代表我幹了恐龍</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

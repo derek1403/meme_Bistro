@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 221 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 226 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（150）
+## ★（152）
 
 <table>
 <tr>
@@ -259,9 +259,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2085.md"><img src="../images/m2085-google-hiring-have-your-data.png" width="240" alt="Google Now Hiring——No need to apply, we already have all of your data"></a><br><a href="../memes/m2085.md">Google Now Hiring——No need to apply, we already have all of your data</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2088.md"><img src="../images/m2088-asus-otp-on-screen.png" width="240" alt="We are facing an SMS issue. Please use 910296 as your OTP"></a><br><a href="../memes/m2088.md">We are facing an SMS issue. Please use 910296 as your OTP</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2100.md"><img src="../images/m2100-boss-cant-be-replaced-by-ai.png" width="240" alt="王董請放心，AI 取代不了您——我剛才問 ChatGPT 的"></a><br><a href="../memes/m2100.md">王董請放心，AI 取代不了您——我剛才問 ChatGPT 的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2107.md"><img src="../images/m2107-wish-to-see-god-emoji.png" width="240" alt="When someone makes a wish to see God"></a><br><a href="../memes/m2107.md">When someone makes a wish to see God</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（52）
+## ★★（55）
 
 <table>
 <tr>
@@ -351,6 +355,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2072.md"><img src="../images/m2072-64bit-is-this-x.png" width="240" alt="64 bit computer：x + 1/10¹⁶, is this x?"></a><br><a href="../memes/m2072.md">64 bit computer：x + 1/10¹⁶, is this x?</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2097.md"><img src="../images/m2097-through-linear-algebra-all-possible.png" width="240" alt="LLM 只是線性代數——Through Linear Algebra all things are possible"></a><br><a href="../memes/m2097.md">LLM 只是線性代數——Through Linear Algebra all things are possible</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2113.md"><img src="../images/m2113-nn-regression-thermostat.png" width="240" alt="神經網路 vs 迴歸模型：冷氣調低一點——你再加一層就好啊"></a><br><a href="../memes/m2113.md">神經網路 vs 迴歸模型：冷氣調低一點——你再加一層就好啊</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2115.md"><img src="../images/m2115-overfit-grandpa-cabbage.png" width="240" alt="你不想落得跟阿公一樣過度擬合吧？——那是一顆高麗菜"></a><br><a href="../memes/m2115.md">你不想落得跟阿公一樣過度擬合吧？——那是一顆高麗菜</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

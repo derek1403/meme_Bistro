@@ -6,7 +6,7 @@
 
 共 901 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（623）
+## ★（622）
 
 <table>
 <tr>
@@ -1041,11 +1041,10 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1963.md"><img src="../images/m1963-wife-little-notebook.png" width="240" alt="當你老婆有一個記錄你所有過分行為的「小本本」"></a><br><a href="../memes/m1963.md">當你老婆有一個記錄你所有過分行為的「小本本」</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1967.md"><img src="../images/m1967-boothill-and-i-took-this-photo.jpg" width="240" alt="And I took this photo"></a><br><a href="../memes/m1967.md">And I took this photo</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1968.md"><img src="../images/m1968-spotted-seal-soft-serve.jpg" width="240" alt="あざらし軟霜淇淋：長得跟斑海豹一模一樣"></a><br><a href="../memes/m1968.md">あざらし軟霜淇淋：長得跟斑海豹一模一樣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1969.md"><img src="../images/m1969-chicken-leg-rice-forever.jpg" width="240" alt="雖然好多都沒吃過，但上次的雞腿飯好好吃——三個月後"></a><br><a href="../memes/m1969.md">雖然好多都沒吃過，但上次的雞腿飯好好吃——三個月後</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m1969.md"><img src="../images/m1969-chicken-leg-rice-forever.jpg" width="240" alt="雖然好多都沒吃過，但上次的雞腿飯好好吃——三個月後"></a><br><a href="../memes/m1969.md">雖然好多都沒吃過，但上次的雞腿飯好好吃——三個月後</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1970.md"><img src="../images/m1970-tomato-haters-understand.jpg" width="240" alt="討厭番茄的人絕對懂"></a><br><a href="../memes/m1970.md">討厭番茄的人絕對懂</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
@@ -1184,7 +1183,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（201）
+## ⚠️ 需斟酌（202）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3193,6 +3192,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1962.md"><img src="../images/m1962-snowman-magic-hat-horror.png" width="240" alt="我聽說這個帽子能讓雪人活過來！——我為什麼還活著？"></a><br><a href="../memes/m1962.md">我聽說這個帽子能讓雪人活過來！——我為什麼還活著？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>And I took this photo — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1967.md"><img src="../images/m1967-boothill-and-i-took-this-photo.jpg" width="240" alt="And I took this photo"></a><br><a href="../memes/m1967.md">And I took this photo</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

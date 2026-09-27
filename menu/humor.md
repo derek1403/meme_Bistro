@@ -1665,7 +1665,7 @@
 - 🍺 [當你老婆有一個記錄你所有過分行為的「小本本」](../memes/m1963.md) ★
 - 💻 [Can you recommend books that made you cry?——資料結構與演算法](../memes/m1965.md) ★
 - 🌍 [你有多猛？——我蓋過章、唱過歌、吃過飯，但我說不知情，法官就相信了](../memes/m1966.md) ★★
-- 🍺 [And I took this photo](../memes/m1967.md) ★
+- 🍺 [And I took this photo](../memes/m1967.md) ★ ⚠️ 性暗示
 - 🍺 [あざらし軟霜淇淋：長得跟斑海豹一模一樣](../memes/m1968.md) ★
 - 🍺 [雖然好多都沒吃過，但上次的雞腿飯好好吃——三個月後](../memes/m1969.md) ★
 - 🍺 [討厭番茄的人絕對懂](../memes/m1970.md) ★

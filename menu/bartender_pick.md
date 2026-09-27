@@ -18,13 +18,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0734.md"><img src="../images/m0734-random-real-rational-zero.png" width="240" alt="隨機選一個實數，它是有理數的機率為 0"></a><br><a href="../memes/m0734.md">隨機選一個實數，它是有理數的機率為 0</a><br><sub>🧠 ★★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m1970.md"><img src="../images/m1970-tomato-haters-understand.jpg" width="240" alt="討厭番茄的人絕對懂"></a><br><a href="../memes/m1970.md">討厭番茄的人絕對懂</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0015.md"><img src="../images/m0015-twins-binary-search.png" width="240" alt="用二分搜尋猜胞胎數"></a><br><a href="../memes/m0015.md">用二分搜尋猜胞胎數</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1408.md"><img src="../images/m1408-abyss-of-mathematics.jpg" width="240" alt="數學的深淵"></a><br><a href="../memes/m1408.md">數學的深淵</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0142.md"><img src="../images/m0142-whale-in-amazon-jungle.png" width="240" alt="在亞馬遜叢林發現座頭鯨屍體"></a><br><a href="../memes/m0142.md">在亞馬遜叢林發現座頭鯨屍體</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0142.md"><img src="../images/m0142-whale-in-amazon-jungle.png" width="240" alt="在亞馬遜叢林發現座頭鯨屍體"></a><br><a href="../memes/m0142.md">在亞馬遜叢林發現座頭鯨屍體</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1600.md"><img src="../images/m1600-dog-parking-spot.jpg" width="240" alt="好不容易發現一個停車位，結果被這台狗狗肉先停了"></a><br><a href="../memes/m1600.md">好不容易發現一個停車位，結果被這台狗狗肉先停了</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0742.md"><img src="../images/m0742-sister-changing-lightbulb.png" width="240" alt="姐姐換燈泡的時候不許開電閘"></a><br><a href="../memes/m0742.md">姐姐換燈泡的時候不許開電閘</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0949.md"><img src="../images/m0949-chocolate-discount-5-to-4.png" width="240" alt="國際巧克力全面 5 折（改成 4 折）"></a><br><a href="../memes/m0949.md">國際巧克力全面 5 折（改成 4 折）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

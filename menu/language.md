@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 221 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 225 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（150）
+## ★（153）
 
 <table>
 <tr>
@@ -259,6 +259,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1991.md"><img src="../images/m1991-oyster-omelette-craftsman-backwards.png" width="240" alt="作煎販蚵"></a><br><a href="../memes/m1991.md">作煎販蚵</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1994.md"><img src="../images/m1994-birthday-free-under-12m-kids.jpg" width="240" alt="生日當天本人免費吃，1.2 米以下兒童"></a><br><a href="../memes/m1994.md">生日當天本人免費吃，1.2 米以下兒童</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2012.md"><img src="../images/m2012-dust-of-this-world.png" width="240" alt="為什麼沒開窗還能掃出那麼多灰塵？——因為你我皆活在這塵世間"></a><br><a href="../memes/m2012.md">為什麼沒開窗還能掃出那麼多灰塵？——因為你我皆活在這塵世間</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2025.md"><img src="../images/m2025-cold-knowledge-cat-nose.jpg" width="240" alt="冷知識：貓咪鼻子冷的時候會這樣睡覺"></a><br><a href="../memes/m2025.md">冷知識：貓咪鼻子冷的時候會這樣睡覺</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2034.md"><img src="../images/m2034-monks-coffee-karma.jpg" width="240" alt="小僧品嚐的不是咖啡而是因果"></a><br><a href="../memes/m2034.md">小僧品嚐的不是咖啡而是因果</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（18）
@@ -296,7 +301,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（53）
+## ⚠️ 需斟酌（54）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -825,6 +830,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1914.md"><img src="../images/m1914-my-push-kid-hk-drama.jpg" width="240" alt="我上網搵咗套我推的孩子嚟睇，但點解越睇越唔對路"></a><br><a href="../memes/m1914.md">我上網搵咗套我推的孩子嚟睇，但點解越睇越唔對路</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我屁股是非賣品——那我操完不給錢就行了 — ⚠️ 粗俗性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2020.md"><img src="../images/m2020-not-for-sale-then-free.jpg" width="240" alt="我屁股是非賣品——那我操完不給錢就行了"></a><br><a href="../memes/m2020.md">我屁股是非賣品——那我操完不給錢就行了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

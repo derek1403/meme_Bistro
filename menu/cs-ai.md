@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 216 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（141）
+## ★（146）
 
 <table>
 <tr>
@@ -243,6 +243,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1965.md"><img src="../images/m1965-books-that-made-you-cry-dsa.png" width="240" alt="Can you recommend books that made you cry?——資料結構與演算法"></a><br><a href="../memes/m1965.md">Can you recommend books that made you cry?——資料結構與演算法</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1988.md"><img src="../images/m1988-program-stable-dont-touch.png" width="240" alt="The program is stable——Don't touch any code"></a><br><a href="../memes/m1988.md">The program is stable——Don't touch any code</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1995.md"><img src="../images/m1995-trust-ctrl-v-vs-ctrl-c.png" width="240" alt="My trust level in CTRL + V vs CTRL + C"></a><br><a href="../memes/m1995.md">My trust level in CTRL + V vs CTRL + C</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2004.md"><img src="../images/m2004-lottery-929pb-disk.png" width="240" alt="中樂透不會告訴別人，但會有跡象：929 PB free of 930 PB"></a><br><a href="../memes/m2004.md">中樂透不會告訴別人，但會有跡象：929 PB free of 930 PB</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2011.md"><img src="../images/m2011-settings-search-bar-savior.png" width="240" alt="The guy who added a search bar to the settings app"></a><br><a href="../memes/m2011.md">The guy who added a search bar to the settings app</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2026.md"><img src="../images/m2026-browser-hat-stack.jpg" width="240" alt="沒耐心連點十幾下瀏覽器"></a><br><a href="../memes/m2026.md">沒耐心連點十幾下瀏覽器</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2036.md"><img src="../images/m2036-tom-first-ai-job-loss.png" width="240" alt="Tom was the first guy losing his job because of AI"></a><br><a href="../memes/m2036.md">Tom was the first guy losing his job because of AI</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2038.md"><img src="../images/m2038-laptop-baked-in-oven.jpg" width="240" alt="咖啡灑在筆電上，所以她把電腦放進烤箱烘乾"></a><br><a href="../memes/m2038.md">咖啡灑在筆電上，所以她把電腦放進烤箱烘乾</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

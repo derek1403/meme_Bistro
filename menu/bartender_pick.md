@@ -4,27 +4,27 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-每次執行 `tools/build_menu.py` 會依當天日期（2026-09-27）隨機抽出 12 杯，不含需斟酌的內容。
+每次執行 `tools/build_menu.py` 會依當天日期（2026-09-28）隨機抽出 12 杯，不含需斟酌的內容。
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0553.md"><img src="../images/m0553-terminal-object-dating.png" width="240" alt="男生約會很難：範疇裡的終對象"></a><br><a href="../memes/m0553.md">男生約會很難：範疇裡的終對象</a><br><sub>🧠 ★★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0167.md"><img src="../images/m0167-macos-windows-linux-old-program.png" width="240" alt="Mac、Windows、Linux 安裝舊程式"></a><br><a href="../memes/m0167.md">Mac、Windows、Linux 安裝舊程式</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1308.md"><img src="../images/m1308-painkiller-knocks-doors.png" width="240" alt="為什麼止痛藥知道我哪裡痛？"></a><br><a href="../memes/m1308.md">為什麼止痛藥知道我哪裡痛？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0969.md"><img src="../images/m0969-adult-books-section-health.jpg" width="240" alt="成人單本區"></a><br><a href="../memes/m0969.md">成人單本區</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0896.md"><img src="../images/m0896-homer-sponge-holder.png" width="240" alt="荷馬退進樹叢的海綿架"></a><br><a href="../memes/m0896.md">荷馬退進樹叢的海綿架</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0136.md"><img src="../images/m0136-tilde-gentle-person-similar.png" width="240" alt="會打「～」的人肯定很溫柔"></a><br><a href="../memes/m0136.md">會打「～」的人肯定很溫柔</a><br><sub>🔤👀 ★★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m1513.md"><img src="../images/m1513-no-one-starves-on-my-watch.png" width="240" alt="沒人可以在我手上餓死——外送超人"></a><br><a href="../memes/m1513.md">沒人可以在我手上餓死——外送超人</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0625.md"><img src="../images/m0625-integral-1-over-x5-plus-1.png" width="240" alt="微積分下學期的學生 vs ∫1/(x⁵+1)dx"></a><br><a href="../memes/m0625.md">微積分下學期的學生 vs ∫1/(x⁵+1)dx</a><br><sub>👀🧠 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0734.md"><img src="../images/m0734-random-real-rational-zero.png" width="240" alt="隨機選一個實數，它是有理數的機率為 0"></a><br><a href="../memes/m0734.md">隨機選一個實數，它是有理數的機率為 0</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0586.md"><img src="../images/m0586-seventy-percent-water-disguise.png" width="240" alt="每十個人有七個是水偽裝的"></a><br><a href="../memes/m0586.md">每十個人有七個是水偽裝的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0526.md"><img src="../images/m0526-ghost-integral-paper-pen.png" width="240" alt="嗚～～～用紙筆算這題"></a><br><a href="../memes/m0526.md">嗚～～～用紙筆算這題</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1613.md"><img src="../images/m1613-fukuhara-ai-amnesia.png" width="240" alt="福原愛如果失憶，第一句話會講出什麼？"></a><br><a href="../memes/m1613.md">福原愛如果失憶，第一句話會講出什麼？</a><br><sub>🔤 ★★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m1971.md"><img src="../images/m1971-wife-cake-anime-clay.jpg" width="240" alt="老婆餅"></a><br><a href="../memes/m1971.md">老婆餅</a><br><sub>🔤 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0015.md"><img src="../images/m0015-twins-binary-search.png" width="240" alt="用二分搜尋猜胞胎數"></a><br><a href="../memes/m0015.md">用二分搜尋猜胞胎數</a><br><sub>🧠 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1408.md"><img src="../images/m1408-abyss-of-mathematics.jpg" width="240" alt="數學的深淵"></a><br><a href="../memes/m1408.md">數學的深淵</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2044.md"><img src="../images/m2044-body-mind-8am-8pm.jpg" width="240" alt="早上 8 點的我 vs 晚上 8 點的我"></a><br><a href="../memes/m2044.md">早上 8 點的我 vs 晚上 8 點的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0178.md"><img src="../images/m0178-floating-mug-topologist.png" width="240" alt="接招吧，拓樸學家"></a><br><a href="../memes/m0178.md">接招吧，拓樸學家</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0080.md"><img src="../images/m0080-x4-plus-1-factorization-cat.png" width="240" alt="x⁴+1 在 ℚ[i][x] 裡不能分解？"></a><br><a href="../memes/m0080.md">x⁴+1 在 ℚ[i][x] 裡不能分解？</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0142.md"><img src="../images/m0142-whale-in-amazon-jungle.png" width="240" alt="在亞馬遜叢林發現座頭鯨屍體"></a><br><a href="../memes/m0142.md">在亞馬遜叢林發現座頭鯨屍體</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1600.md"><img src="../images/m1600-dog-parking-spot.jpg" width="240" alt="好不容易發現一個停車位，結果被這台狗狗肉先停了"></a><br><a href="../memes/m1600.md">好不容易發現一個停車位，結果被這台狗狗肉先停了</a><br><sub>🔤 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0742.md"><img src="../images/m0742-sister-changing-lightbulb.png" width="240" alt="姐姐換燈泡的時候不許開電閘"></a><br><a href="../memes/m0742.md">姐姐換燈泡的時候不許開電閘</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0289.md"><img src="../images/m0289-forced-hypnosis-high-school.png" width="240" alt="被成年人引到房間強制催眠"></a><br><a href="../memes/m0289.md">被成年人引到房間強制催眠</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1344.md"><img src="../images/m1344-hot-cold-shower-shared.png" width="240" alt="洗澡水忽冷忽熱，就是有人在與你共用"></a><br><a href="../memes/m1344.md">洗澡水忽冷忽熱，就是有人在與你共用</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1990.md"><img src="../images/m1990-sisyphus-bunnies.png" width="240" alt="推石頭的兔子，終於不再是一個人"></a><br><a href="../memes/m1990.md">推石頭的兔子，終於不再是一個人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

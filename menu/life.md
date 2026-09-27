@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 921 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 950 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（634）
+## ★（661）
 
 <table>
 <tr>
@@ -1066,6 +1066,51 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2001.md"><img src="../images/m2001-wow-32-girlfriend-13-teacher.jpg" width="240" alt="我 32，我女朋友 13——她剛批改完她學生的卷子"></a><br><a href="../memes/m2001.md">我 32，我女朋友 13——她剛批改完她學生的卷子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2002.md"><img src="../images/m2002-cat-supervises-cooking.jpg" width="240" alt="你家看不下去的貓貓"></a><br><a href="../memes/m2002.md">你家看不下去的貓貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2005.md"><img src="../images/m2005-cabbage-popsicle.jpg" width="240" alt="高麗菜冰棒"></a><br><a href="../memes/m2005.md">高麗菜冰棒</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2006.md"><img src="../images/m2006-shout-9-10-jqk.jpg" width="240" alt="喊招式名稱太羞恥？打牌時：9 10 J Q K！"></a><br><a href="../memes/m2006.md">喊招式名稱太羞恥？打牌時：9 10 J Q K！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2007.md"><img src="../images/m2007-squidward-see-you-tomorrow.png" width="240" alt="麥當勞收銀員說「明天見」而不是「再見」"></a><br><a href="../memes/m2007.md">麥當勞收銀員說「明天見」而不是「再見」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2008.md"><img src="../images/m2008-dog-heaven-more-than-you-know.png" width="240" alt="More than you'll ever know"></a><br><a href="../memes/m2008.md">More than you'll ever know</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2009.md"><img src="../images/m2009-dark-dog-biscuit.png" width="240" alt="我是黑暗之子——然後就叫 Biscuit 了"></a><br><a href="../memes/m2009.md">我是黑暗之子——然後就叫 Biscuit 了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2010.md"><img src="../images/m2010-conan-culprit-tangyuan.png" width="240" alt="這幾個湯圓也太亮——第二眼欸不對"></a><br><a href="../memes/m2010.md">這幾個湯圓也太亮——第二眼欸不對</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2013.md"><img src="../images/m2013-conan-agasa-megure-heart-cards.jpg" width="240" alt="阿笠博士與目暮警官的比心寫真卡"></a><br><a href="../memes/m2013.md">阿笠博士與目暮警官的比心寫真卡</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2014.md"><img src="../images/m2014-fart-what-is-burning.png" width="240" alt="放屁時問「什麼東西燒焦了？」"></a><br><a href="../memes/m2014.md">放屁時問「什麼東西燒焦了？」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2016.md"><img src="../images/m2016-dream-fridge-insulin.png" width="240" alt="我這如夢似幻的庫存還缺了什麼？——胰島素"></a><br><a href="../memes/m2016.md">我這如夢似幻的庫存還缺了什麼？——胰島素</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2017.md"><img src="../images/m2017-sir-lancelot-baby.png" width="240" alt="Sir Lancelot the Strong——項圈寫 BABY"></a><br><a href="../memes/m2017.md">Sir Lancelot the Strong——項圈寫 BABY</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2018.md"><img src="../images/m2018-doge-pizza-complaint.png" width="240" alt="買了披薩我要投訴——這三小"></a><br><a href="../memes/m2018.md">買了披薩我要投訴——這三小</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2019.md"><img src="../images/m2019-back-to-school-movie-poster.jpg" width="240" alt="暑期最佳喜劇片《開學》"></a><br><a href="../memes/m2019.md">暑期最佳喜劇片《開學》</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2024.md"><img src="../images/m2024-obi-wan-nap-after-noon.jpg" width="240" alt="睡到中午還能再睡午覺的人——那個人就是我"></a><br><a href="../memes/m2024.md">睡到中午還能再睡午覺的人——那個人就是我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2027.md"><img src="../images/m2027-next-life-cat.jpg" width="240" alt="下輩子我要當一隻貓——我下輩子還做貓"></a><br><a href="../memes/m2027.md">下輩子我要當一隻貓——我下輩子還做貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2028.md"><img src="../images/m2028-creative-mom-wall-doodle.png" width="240" alt="有創意的孩子有個有創意的媽媽"></a><br><a href="../memes/m2028.md">有創意的孩子有個有創意的媽媽</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2029.md"><img src="../images/m2029-snow-miata-smug-face.jpg" width="240" alt="積雪的 Miata 露出壞笑"></a><br><a href="../memes/m2029.md">積雪的 Miata 露出壞笑</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2030.md"><img src="../images/m2030-dog-cuddle-pillow.png" width="240" alt="你生來是為了更重要的事情——成為最可愛的抱抱暖枕"></a><br><a href="../memes/m2030.md">你生來是為了更重要的事情——成為最可愛的抱抱暖枕</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2031.md"><img src="../images/m2031-charging-textbooks-sleep.png" width="240" alt="睡覺時幫腦袋接上課本充電"></a><br><a href="../memes/m2031.md">睡覺時幫腦袋接上課本充電</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2032.md"><img src="../images/m2032-snow-car-uwu.png" width="240" alt="積雪車頭畫 uwu，開燈更可愛"></a><br><a href="../memes/m2032.md">積雪車頭畫 uwu，開燈更可愛</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2035.md"><img src="../images/m2035-adult-gaming-all-nighter.jpg" width="240" alt="出社會後好久沒熬夜打電動了——還是我："></a><br><a href="../memes/m2035.md">出社會後好久沒熬夜打電動了——還是我：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2037.md"><img src="../images/m2037-skeletor-enjoys-solitude.png" width="240" alt="天天抱怨沒朋友，其實很享受獨處"></a><br><a href="../memes/m2037.md">天天抱怨沒朋友，其實很享受獨處</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2039.md"><img src="../images/m2039-how-to-make-onigiri.jpg" width="240" alt="如何做飯糰——這個飯糰就像你的一生"></a><br><a href="../memes/m2039.md">如何做飯糰——這個飯糰就像你的一生</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2040.md"><img src="../images/m2040-hen-buys-eggs.jpg" width="240" alt="母雞不下蛋就燉湯——母雞自己去買雞蛋"></a><br><a href="../memes/m2040.md">母雞不下蛋就燉湯——母雞自己去買雞蛋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2041.md"><img src="../images/m2041-cat-mango-cut.jpg" width="240" alt="我不愛吃芒果，謝謝——芒果！我的最愛"></a><br><a href="../memes/m2041.md">我不愛吃芒果，謝謝——芒果！我的最愛</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2042.md"><img src="../images/m2042-sasuke-among-us-medbay.jpg" width="240" alt="你為什麼殺死我全部的族人？——我剛剛都在醫療站做任務"></a><br><a href="../memes/m2042.md">你為什麼殺死我全部的族人？——我剛剛都在醫療站做任務</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2044.md"><img src="../images/m2044-body-mind-8am-8pm.jpg" width="240" alt="早上 8 點的我 vs 晚上 8 點的我"></a><br><a href="../memes/m2044.md">早上 8 點的我 vs 晚上 8 點的我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1208,7 +1253,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（207）
+## ⚠️ 需斟酌（209）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3277,6 +3322,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1989.md"><img src="../images/m1989-silicone-ice-mold-plug.png" width="240" alt="食品級矽膠冰模具"></a><br><a href="../memes/m1989.md">食品級矽膠冰模具</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>使用撞擊！再來，使用撞擊！——Pika pi — ⚠️ 身心障礙</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2021.md"><img src="../images/m2021-pikachu-tackle-wheelchair.png" width="240" alt="使用撞擊！再來，使用撞擊！——Pika pi"></a><br><a href="../memes/m2021.md">使用撞擊！再來，使用撞擊！——Pika pi</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不良駝背姿勢矯正器 — ⚠️ 性暗示（綁縛）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2023.md"><img src="../images/m2023-posture-corrector-harness.jpg" width="240" alt="不良駝背姿勢矯正器"></a><br><a href="../memes/m2023.md">不良駝背姿勢矯正器</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

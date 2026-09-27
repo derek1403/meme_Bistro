@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 155 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（43）
 
@@ -84,7 +84,7 @@
 </tr>
 </table>
 
-## ★★（15）
+## ★★（16）
 
 <table>
 <tr>
@@ -112,9 +112,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1966.md"><img src="../images/m1966-stamped-sang-ate-judge-believed.jpg" width="240" alt="你有多猛？——我蓋過章、唱過歌、吃過飯，但我說不知情，法官就相信了"></a><br><a href="../memes/m1966.md">你有多猛？——我蓋過章、唱過歌、吃過飯，但我說不知情，法官就相信了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1979.md"><img src="../images/m1979-inamori-fake-quote-bad-font.jpg" width="240" alt="命運有三次轉折點——稻盛和夫"></a><br><a href="../memes/m1979.md">命運有三次轉折點——稻盛和夫</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2043.md"><img src="../images/m2043-average-ff-attendee.jpg" width="240" alt="平均 FF 參加者"></a><br><a href="../memes/m2043.md">平均 FF 參加者</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（97）
+## ⚠️ 需斟酌（99）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1083,6 +1086,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1938.md"><img src="../images/m1938-ramesses-leave-reasons.png" width="240" alt="拉美西斯二世統治第四十年員工請假事由"></a><br><a href="../memes/m1938.md">拉美西斯二世統治第四十年員工請假事由</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>換作是你你會怎樣？——我會講話 — ⚠️ 嘲笑身心障礙者</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2015.md"><img src="../images/m2015-mute-classmate-i-can-talk.png" width="240" alt="換作是你你會怎樣？——我會講話"></a><br><a href="../memes/m2015.md">換作是你你會怎樣？——我會講話</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>爸，我破處了！——坐下來會痛 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2033.md"><img src="../images/m2033-son-lost-virginity-cant-sit.jpg" width="240" alt="爸，我破處了！——坐下來會痛"></a><br><a href="../memes/m2033.md">爸，我破處了！——坐下來會痛</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

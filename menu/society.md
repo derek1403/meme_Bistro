@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 124 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 125 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（29）
 
@@ -79,7 +79,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（87）
+## ⚠️ 需斟酌（88）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -948,6 +948,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1583.md"><img src="../images/m1583-halloween-boss-hanging.jpg" width="240" alt="不是，老…老闆，有話好好說"></a><br><a href="../memes/m1583.md">不是，老…老闆，有話好好說</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>萬一抗議不成功怎麼辦？——我準備了 B 計畫 — ⚠️ 暴力暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1664.md"><img src="../images/m1664-protest-plan-b-bat.jpg" width="240" alt="萬一抗議不成功怎麼辦？——我準備了 B 計畫"></a><br><a href="../memes/m1664.md">萬一抗議不成功怎麼辦？——我準備了 B 計畫</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

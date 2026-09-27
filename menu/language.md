@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 176 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 178 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（119）
+## ★（121）
 
 <table>
 <tr>
@@ -207,6 +207,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1646.md"><img src="../images/m1646-edison-never-said-give-up.jpg" width="240" alt="愛迪生一生中從未說過「放棄」二字——因為他不會中文"></a><br><a href="../memes/m1646.md">愛迪生一生中從未說過「放棄」二字——因為他不會中文</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1653.md"><img src="../images/m1653-salary-slacking-no-guilt.png" width="240" alt="我的薪水讓我在摸魚時毫無愧疚感——這就叫做問薪無愧"></a><br><a href="../memes/m1653.md">我的薪水讓我在摸魚時毫無愧疚感——這就叫做問薪無愧</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1662.md"><img src="../images/m1662-slide-carefully-cantonese.png" width="240" alt="小心地滑：Slide Carefully"></a><br><a href="../memes/m1662.md">小心地滑：Slide Carefully</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1667.md"><img src="../images/m1667-two-hearts-disgusted-to-death.jpg" width="240" alt="我本來有兩顆心，一顆善一顆惡——因為我惡心死了"></a><br><a href="../memes/m1667.md">我本來有兩顆心，一顆善一顆惡——因為我惡心死了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 739 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 747 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（507）
+## ★（513）
 
 <table>
 <tr>
@@ -854,9 +854,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1658.md"><img src="../images/m1658-miss-girl-brick-great-wall.jpg" width="240" alt="每當我錯過一個女孩，我就在地上放一塊磚，於是便有了長城"></a><br><a href="../memes/m1658.md">每當我錯過一個女孩，我就在地上放一塊磚，於是便有了長城</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1659.md"><img src="../images/m1659-hatch-chick-shark-human.png" width="240" alt="我會啄著出去！我會奮力掙脫出去！——用力點，女人！"></a><br><a href="../memes/m1659.md">我會啄著出去！我會奮力掙脫出去！——用力點，女人！</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1660.md"><img src="../images/m1660-walk-dog-by-tail.png" width="240" alt="遛狗牽尾巴"></a><br><a href="../memes/m1660.md">遛狗牽尾巴</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1661.md"><img src="../images/m1661-forget-college-unqualified.png" width="240" alt="忘掉你在大學學的——但我沒念大學？——那你不符合資格"></a><br><a href="../memes/m1661.md">忘掉你在大學學的——但我沒念大學？——那你不符合資格</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1665.md"><img src="../images/m1665-mineral-water-faces-night.jpg" width="240" alt="半夜被我的礦泉水嚇到挫賽"></a><br><a href="../memes/m1665.md">半夜被我的礦泉水嚇到挫賽</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1669.md"><img src="../images/m1669-wolf-blows-milk-pigs.png" width="240" alt="不然我就要吹你們的房子——吹進煙囪的是牛奶"></a><br><a href="../memes/m1669.md">不然我就要吹你們的房子——吹進煙囪的是牛奶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1670.md"><img src="../images/m1670-dresser-leaning-woman.jpg" width="240" alt="扶牆嘔吐的五斗櫃"></a><br><a href="../memes/m1670.md">扶牆嘔吐的五斗櫃</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1671.md"><img src="../images/m1671-polar-bear-lost-penguin.jpg" width="240" alt="北極熊看尋找企鵝的告示"></a><br><a href="../memes/m1671.md">北極熊看尋找企鵝的告示</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（69）
+## ★★（70）
 
 <table>
 <tr>
@@ -974,9 +984,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1570.md"><img src="../images/m1570-muscular-lucia-pearl-mermaid.png" width="240" alt="七彩的微風側著臉輕輕吹撫——肌肉版露亞"></a><br><a href="../memes/m1570.md">七彩的微風側著臉輕輕吹撫——肌肉版露亞</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1649.md"><img src="../images/m1649-i-am-not-saber.png" width="240" alt="我愛你，Saber——我再說最後一次，我不是 Saber！"></a><br><a href="../memes/m1649.md">我愛你，Saber——我再說最後一次，我不是 Saber！</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1668.md"><img src="../images/m1668-pc-auto-download-touhou.png" width="240" alt="天哪我的電腦在自動下載東方獸王園"></a><br><a href="../memes/m1668.md">天哪我的電腦在自動下載東方獸王園</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（163）
+## ⚠️ 需斟酌（164）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2605,6 +2618,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1655.md"><img src="../images/m1655-toilet-phone-idiot-neighbor.png" width="240" alt="我隔壁有個白痴一直在回答我問題"></a><br><a href="../memes/m1655.md">我隔壁有個白痴一直在回答我問題</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>為什麼你總是讓我先走？——小時候的習慣啦 — ⚠️ 槍擊（遊戲）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1663.md"><img src="../images/m1663-ladies-first-cs-habit.png" width="240" alt="為什麼你總是讓我先走？——小時候的習慣啦"></a><br><a href="../memes/m1663.md">為什麼你總是讓我先走？——小時候的習慣啦</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

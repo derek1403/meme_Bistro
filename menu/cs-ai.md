@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 170 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 171 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（110）
 
@@ -274,7 +274,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（16）
+## ⚠️ 需斟酌（17）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -433,6 +433,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1585.md"><img src="../images/m1585-chatgpt-two-truths-lie.png" width="240" alt="ChatGPT 兩真一假：我正在秘密計畫統治世界"></a><br><a href="../memes/m1585.md">ChatGPT 兩真一假：我正在秘密計畫統治世界</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>最有用的智慧手機功能：心率低於 5 時刪除所有瀏覽紀錄 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1666.md"><img src="../images/m1666-heart-rate-below-5-delete-history.png" width="240" alt="最有用的智慧手機功能：心率低於 5 時刪除所有瀏覽紀錄"></a><br><a href="../memes/m1666.md">最有用的智慧手機功能：心率低於 5 時刪除所有瀏覽紀錄</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

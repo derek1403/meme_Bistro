@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 132 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（30）
+## ★（34）
 
 <table>
 <tr>
@@ -59,6 +59,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1558.md"><img src="../images/m1558-taiwan-social-hunter-jay.jpg" width="240" alt="今天的台灣網路社群 be like"></a><br><a href="../memes/m1558.md">今天的台灣網路社群 be like</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1692.md"><img src="../images/m1692-typhoon-cant-offend-taiwanese.jpg" width="240" alt="颱風不得罪台灣人還真就是跪著要飯的"></a><br><a href="../memes/m1692.md">颱風不得罪台灣人還真就是跪著要飯的</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1695.md"><img src="../images/m1695-typhoon-blob-day-378.png" width="240" alt="一大坨兒又移動了 3 公分，颱風假進入第 378 天"></a><br><a href="../memes/m1695.md">一大坨兒又移動了 3 公分，颱風假進入第 378 天</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1696.md"><img src="../images/m1696-taiwan-holidays-typhoon-gave.jpg" width="240" alt="台灣今年的連假！都是颱風給的！！"></a><br><a href="../memes/m1696.md">台灣今年的連假！都是颱風給的！！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1699.md"><img src="../images/m1699-typhoon-average-speed-camera.jpg" width="240" alt="為什麼颱風一靠近台灣就走超慢？——因為他知道台灣有區間測速"></a><br><a href="../memes/m1699.md">為什麼颱風一靠近台灣就走超慢？——因為他知道台灣有區間測速</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1702.md"><img src="../images/m1702-patrick-shanthony-leave-when-ready.png" width="240" alt="沒關係山陀兒，你想走的時候再走吧"></a><br><a href="../memes/m1702.md">沒關係山陀兒，你想走的時候再走吧</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（9）
@@ -81,7 +89,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（88）
+## ⚠️ 需斟酌（89）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -960,6 +968,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1664.md"><img src="../images/m1664-protest-plan-b-bat.jpg" width="240" alt="萬一抗議不成功怎麼辦？——我準備了 B 計畫"></a><br><a href="../memes/m1664.md">萬一抗議不成功怎麼辦？——我準備了 B 計畫</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>尚未宣布是否停班停課——快去結識媽媽 — ⚠️ 性暗示（廣告）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1701.md"><img src="../images/m1701-typhoon-news-meet-mom-ad.png" width="240" alt="尚未宣布是否停班停課——快去結識媽媽"></a><br><a href="../memes/m1701.md">尚未宣布是否停班停課——快去結識媽媽</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

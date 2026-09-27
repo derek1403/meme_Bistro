@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 760 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 764 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（523）
+## ★（526）
 
 <table>
 <tr>
@@ -881,6 +881,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1687.md"><img src="../images/m1687-taro-milk-hotpot-leave-earth.png" width="240" alt="芋頭牛奶鍋——拿著你的芋頭牛奶火鍋離開地球"></a><br><a href="../memes/m1687.md">芋頭牛奶鍋——拿著你的芋頭牛奶火鍋離開地球</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1694.md"><img src="../images/m1694-never-swore-driving.jpg" width="240" alt="如果你開車從來沒罵過髒話，那你一定是那個被罵髒話的人"></a><br><a href="../memes/m1694.md">如果你開車從來沒罵過髒話，那你一定是那個被罵髒話的人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1697.md"><img src="../images/m1697-donate-clothes-xxxl-not-starving.png" width="240" alt="還有很多吃不上飯的孩子需要——我沒聽說過穿 XXXL 的人吃不上飯"></a><br><a href="../memes/m1697.md">還有很多吃不上飯的孩子需要——我沒聽說過穿 XXXL 的人吃不上飯</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1703.md"><img src="../images/m1703-cat-duct-taped-wall.png" width="240" alt="被膠帶貼在牆上的貓"></a><br><a href="../memes/m1703.md">被膠帶貼在牆上的貓</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1007,7 +1012,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（167）
+## ⚠️ 需斟酌（168）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2676,6 +2681,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1693.md"><img src="../images/m1693-poop-watches-you-phone.jpg" width="240" alt="你的大便看著你玩了 30 分鐘的電話"></a><br><a href="../memes/m1693.md">你的大便看著你玩了 30 分鐘的電話</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>外面為何會有櫻花樹呢？——卧槽 — ⚠️ 血腥意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1698.md"><img src="../images/m1698-cherry-blossom-handprint-window.jpg" width="240" alt="外面為何會有櫻花樹呢？——卧槽"></a><br><a href="../memes/m1698.md">外面為何會有櫻花樹呢？——卧槽</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 180 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 181 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（122）
+## ★（123）
 
 <table>
 <tr>
@@ -212,6 +212,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1667.md"><img src="../images/m1667-two-hearts-disgusted-to-death.jpg" width="240" alt="我本來有兩顆心，一顆善一顆惡——因為我惡心死了"></a><br><a href="../memes/m1667.md">我本來有兩顆心，一顆善一顆惡——因為我惡心死了</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1677.md"><img src="../images/m1677-futures-interest-options-course.png" width="240" alt="《Futures, Interest and Options》：未來、興趣和選擇"></a><br><a href="../memes/m1677.md">《Futures, Interest and Options》：未來、興趣和選擇</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1704.md"><img src="../images/m1704-jealous-only-with-dumplings.png" width="240" alt="妳不吃醋嗎？——我吃餃子的時候吃"></a><br><a href="../memes/m1704.md">妳不吃醋嗎？——我吃餃子的時候吃</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

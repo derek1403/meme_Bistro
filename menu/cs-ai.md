@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 167 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 168 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（109）
 
@@ -194,7 +194,7 @@
 </tr>
 </table>
 
-## ★★（42）
+## ★★（43）
 
 <table>
 <tr>
@@ -266,6 +266,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1289.md"><img src="../images/m1289-fridge-raiders-rl-robot.gif" width="240" alt="強化學習失控：本來要餵人的機器人開始爆打人類"></a><br><a href="../memes/m1289.md">強化學習失控：本來要餵人的機器人開始爆打人類</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1418.md"><img src="../images/m1418-metro-ai-insertion-sort.png" width="240" alt="北捷客服要被玩壞了"></a><br><a href="../memes/m1418.md">北捷客服要被玩壞了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1555.md"><img src="../images/m1555-git-branch-drowning.png" width="240" alt="實驗分支玩得很開心，main 已經沉底變骷髏"></a><br><a href="../memes/m1555.md">實驗分支玩得很開心，main 已經沉底變骷髏</a><br><sub>🧠👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1595.md"><img src="../images/m1595-twitter-block-future.jpg" width="240" alt="原本推特的封鎖 vs 即將到來的封鎖"></a><br><a href="../memes/m1595.md">原本推特的封鎖 vs 即將到來的封鎖</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

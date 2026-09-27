@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 701 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 706 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（480）
+## ★（485）
 
 <table>
 <tr>
@@ -808,6 +808,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1582.md"><img src="../images/m1582-found-1000-dont-want-merit.jpg" width="240" alt="撿到一千塊拿去教官室可以記嘉獎——我不想要嘉獎"></a><br><a href="../memes/m1582.md">撿到一千塊拿去教官室可以記嘉獎——我不想要嘉獎</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1589.md"><img src="../images/m1589-dog-exhaust-eyes.png" width="240" alt="排氣管眼睛的狗"></a><br><a href="../memes/m1589.md">排氣管眼睛的狗</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1591.md"><img src="../images/m1591-which-one-is-scallion.jpg" width="240" alt="媽媽：去幫我買蔥回來——哪一個是蔥"></a><br><a href="../memes/m1591.md">媽媽：去幫我買蔥回來——哪一個是蔥</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1592.md"><img src="../images/m1592-perfect-cat-cosplay.png" width="240" alt="完美的 cosplay 並不存ㄗ…"></a><br><a href="../memes/m1592.md">完美的 cosplay 並不存ㄗ…</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1593.md"><img src="../images/m1593-cat-hey-obsessed.jpg" width="240" alt="Cat: hey ×11 — Me: what — Cat: omg ew ur obsessed with me"></a><br><a href="../memes/m1593.md">Cat: hey ×11 — Me: what — Cat: omg ew ur obsessed with me</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1597.md"><img src="../images/m1597-sitting-posture-cat.jpg" width="240" alt="坐姿 Wrong ❌ Right ✓——Me"></a><br><a href="../memes/m1597.md">坐姿 Wrong ❌ Right ✓——Me</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1599.md"><img src="../images/m1599-im-going-crazy-you-can-leave.jpg" width="240" alt="喔，時間差不多了。我要發瘋了，妳可以消失了"></a><br><a href="../memes/m1599.md">喔，時間差不多了。我要發瘋了，妳可以消失了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1600.md"><img src="../images/m1600-dog-parking-spot.jpg" width="240" alt="好不容易發現一個停車位，結果被這台狗狗肉先停了"></a><br><a href="../memes/m1600.md">好不容易發現一個停車位，結果被這台狗狗肉先停了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

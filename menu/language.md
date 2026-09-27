@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 123 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（84）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（28）
+## ⚠️ 需斟酌（29）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -453,6 +453,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1248.md"><img src="../images/m1248-add-your-mom-line.png" width="240" alt="哥，你可以把你媽的 LINE 給我嗎？"></a><br><a href="../memes/m1248.md">哥，你可以把你媽的 LINE 給我嗎？</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>一位睿智的阿拉伯詩人曾說過 — ⚠️ 性暗示（淫夢梗）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1293.md"><img src="../images/m1293-arab-poet-114514.png" width="240" alt="一位睿智的阿拉伯詩人曾說過"></a><br><a href="../memes/m1293.md">一位睿智的阿拉伯詩人曾說過</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

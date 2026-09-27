@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 522 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 526 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（352）
+## ★（353）
 
 <table>
 <tr>
@@ -596,10 +596,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1285.md"><img src="../images/m1285-nutella-spaghetti.png" width="240" alt="義大利人意識到把鳳梨放在披薩上只是個開始"></a><br><a href="../memes/m1285.md">義大利人意識到把鳳梨放在披薩上只是個開始</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1287.md"><img src="../images/m1287-chessboxing-expectation.png" width="240" alt="以為要肉搏，結果在下西洋棋"></a><br><a href="../memes/m1287.md">以為要肉搏，結果在下西洋棋</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（61）
+## ★★（62）
 
 <table>
 <tr>
@@ -704,10 +705,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1224.md"><img src="../images/m1224-dark-souls-2-christmas.png" width="240" alt="聖誕禮物是黑暗靈魂 2"></a><br><a href="../memes/m1224.md">聖誕禮物是黑暗靈魂 2</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1291.md"><img src="../images/m1291-bad-apple-moon-phases.png" width="240" alt="Bad Apple!! 月相版"></a><br><a href="../memes/m1291.md">Bad Apple!! 月相版</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（109）
+## ⚠️ 需斟酌（111）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1796,6 +1798,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1286.md"><img src="../images/m1286-potato-new-year-cleaning.png" width="240" alt="新年大掃除交給我，這很容易"></a><br><a href="../memes/m1286.md">新年大掃除交給我，這很容易</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>越看越臉紅，最後舔下去 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1288.md"><img src="../images/m1288-lick-screen-when-alone.png" width="240" alt="越看越臉紅，最後舔下去"></a><br><a href="../memes/m1288.md">越看越臉紅，最後舔下去</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>想要一起打遊戲、一起傻逼、還能一起做愛的朋友 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1292.md"><img src="../images/m1292-game-buddy-with-benefits.png" width="240" alt="想要一起打遊戲、一起傻逼、還能一起做愛的朋友"></a><br><a href="../memes/m1292.md">想要一起打遊戲、一起傻逼、還能一起做愛的朋友</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

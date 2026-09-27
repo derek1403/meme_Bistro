@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 156 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 157 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（102）
 
@@ -209,7 +209,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（41）
+## ⚠️ 需斟酌（42）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -618,6 +618,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1516.md"><img src="../images/m1516-inception-best-cannon.png" width="240" alt="你知道打什麼炮最爽嗎？——沖脫炮"></a><br><a href="../memes/m1516.md">你知道打什麼炮最爽嗎？——沖脫炮</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>兩個白痴在一起就會一起死：87 + 87 = 174 — ⚠️ 死亡字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1556.md"><img src="../images/m1556-two-idiots-die-together.png" width="240" alt="兩個白痴在一起就會一起死：87 + 87 = 174"></a><br><a href="../memes/m1556.md">兩個白痴在一起就會一起死：87 + 87 = 174</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

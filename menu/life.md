@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 678 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 684 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（465）
+## ★（470）
 
 <table>
 <tr>
@@ -784,6 +784,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1549.md"><img src="../images/m1549-voldemort-character-creator.png" width="240" alt="野獸的佛地魔：捏臉捏出佛地魔"></a><br><a href="../memes/m1549.md">野獸的佛地魔：捏臉捏出佛地魔</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1550.md"><img src="../images/m1550-green-hotpot-reminder.png" width="240" alt="請兄弟吃火鍋其實是有事想提醒他"></a><br><a href="../memes/m1550.md">請兄弟吃火鍋其實是有事想提醒他</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1553.md"><img src="../images/m1553-company-group-selfie-serious.png" width="240" alt="這是公司群，嚴肅點——好的老板"></a><br><a href="../memes/m1553.md">這是公司群，嚴肅點——好的老板</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1554.md"><img src="../images/m1554-anime-cafe-crying-eating.png" width="240" alt="當你開心到動漫主題餐廳，發現食物不太好吃且不便宜時"></a><br><a href="../memes/m1554.md">當你開心到動漫主題餐廳，發現食物不太好吃且不便宜時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1557.md"><img src="../images/m1557-hydra-re-zero-archbishops.png" width="240" alt="三頭龍：Re:Zero 的魔女教徒與傻頭龍"></a><br><a href="../memes/m1557.md">三頭龍：Re:Zero 的魔女教徒與傻頭龍</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1559.md"><img src="../images/m1559-pain-scale-valentine-story.png" width="240" alt="疼痛等級：情人節告白失敗還被截圖發在限時動態"></a><br><a href="../memes/m1559.md">疼痛等級：情人節告白失敗還被截圖發在限時動態</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1563.md"><img src="../images/m1563-baby-head-kiwi.jpg" width="240" alt="寶寶頭 vs 奇異果"></a><br><a href="../memes/m1563.md">寶寶頭 vs 奇異果</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（67）
@@ -904,7 +913,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（146）
+## ⚠️ 需斟酌（147）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2363,6 +2372,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1531.md"><img src="../images/m1531-thinker-toilet-paper.png" width="240" alt="羅丹的沉思者終於找到懂他的人了"></a><br><a href="../memes/m1531.md">羅丹的沉思者終於找到懂他的人了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>對不起，我剛剛第一眼以為是一坨大便 — ⚠️ 排泄聯想</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1561.md"><img src="../images/m1561-red-poodle-puppies-poop.png" width="240" alt="對不起，我剛剛第一眼以為是一坨大便"></a><br><a href="../memes/m1561.md">對不起，我剛剛第一眼以為是一坨大便</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

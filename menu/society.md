@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（28）
+## ★（29）
 
 <table>
 <tr>
@@ -56,6 +56,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1548.md"><img src="../images/m1548-no-laws-zero-crime.png" width="240" alt="世界上如果沒有法律，犯罪率是不是就會變成 0%"></a><br><a href="../memes/m1548.md">世界上如果沒有法律，犯罪率是不是就會變成 0%</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1558.md"><img src="../images/m1558-taiwan-social-hunter-jay.jpg" width="240" alt="今天的台灣網路社群 be like"></a><br><a href="../memes/m1558.md">今天的台灣網路社群 be like</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -77,7 +78,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（84）
+## ⚠️ 需斟酌（86）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -916,6 +917,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1431.md"><img src="../images/m1431-world-problem-solving.jpg" width="240" alt="世界の問題解決方法"></a><br><a href="../memes/m1431.md">世界の問題解決方法</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>麥當勞，你的價格高得像天空競技場 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1560.md"><img src="../images/m1560-mcdonalds-hxh-roast.jpg" width="240" alt="麥當勞，你的價格高得像天空競技場"></a><br><a href="../memes/m1560.md">麥當勞，你的價格高得像天空競技場</a><br><sub>🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>香港快運 11 週年：飛機穿過兩根「1」 — ⚠️ 恐怖攻擊聯想</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1562.md"><img src="../images/m1562-hk-express-11-years.jpg" width="240" alt="香港快運 11 週年：飛機穿過兩根「1」"></a><br><a href="../memes/m1562.md">香港快運 11 週年：飛機穿過兩根「1」</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

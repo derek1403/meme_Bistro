@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 98 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（18）
+## ★（19）
 
 <table>
 <tr>
@@ -39,6 +39,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1133.md"><img src="../images/m1133-greek-vs-roman-debate.jpg" width="240" alt="哲學辯論的兩種 style：希臘 vs 羅馬"></a><br><a href="../memes/m1133.md">哲學辯論的兩種 style：希臘 vs 羅馬</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1204.md"><img src="../images/m1204-news-three-elements.png" width="240" alt="新聞三要素是什麼？"></a><br><a href="../memes/m1204.md">新聞三要素是什麼？</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1214.md"><img src="../images/m1214-familymart-tissue-wall.png" width="240" alt="全家門口堆成一座衛生紙牆"></a><br><a href="../memes/m1214.md">全家門口堆成一座衛生紙牆</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（1）
@@ -49,7 +52,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（77）
+## ⚠️ 需斟酌（78）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -818,6 +821,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1206.md"><img src="../images/m1206-tactile-paving-into-lake.jpg" width="240" alt="看看我發現的寶藏盲道"></a><br><a href="../memes/m1206.md">看看我發現的寶藏盲道</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>羅馬人在不列顛：西元 24 年 vs 2024 年 — ⚠️ 族群刻板印象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1213.md"><img src="../images/m1213-romans-britain-24-vs-2024.png" width="240" alt="羅馬人在不列顛：西元 24 年 vs 2024 年"></a><br><a href="../memes/m1213.md">羅馬人在不列顛：西元 24 年 vs 2024 年</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 469 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 476 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（319）
+## ★（323）
 
 <table>
 <tr>
@@ -541,10 +541,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1202.md"><img src="../images/m1202-hunting-with-dog-cat-zucchini.png" width="240" alt="沒有什麼比喝完啤酒再帶著狗去打獵更爽的事"></a><br><a href="../memes/m1202.md">沒有什麼比喝完啤酒再帶著狗去打獵更爽的事</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1209.md"><img src="../images/m1209-first-kiss-auto-refresh.png" width="240" alt="我的初吻在每天零點自動刷新"></a><br><a href="../memes/m1209.md">我的初吻在每天零點自動刷新</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1211.md"><img src="../images/m1211-im-fat-cant-eat-dog.jpg" width="240" alt="我好肥喔不能再吃了——還是我"></a><br><a href="../memes/m1211.md">我好肥喔不能再吃了——還是我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1217.md"><img src="../images/m1217-car-flashing-lights-behind.png" width="240" alt="爸爸，後面的車一直閃大燈！"></a><br><a href="../memes/m1217.md">爸爸，後面的車一直閃大燈！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1218.md"><img src="../images/m1218-welding-hotdog-mustard.png" width="240" alt="學習焊接可能會讓肌肉記憶影響你擠芥末"></a><br><a href="../memes/m1218.md">學習焊接可能會讓肌肉記憶影響你擠芥末</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（59）
+## ★★（60）
 
 <table>
 <tr>
@@ -645,10 +651,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1184.md"><img src="../images/m1184-sparkle-literally-the-girl.png" width="240" alt="I'm literally the girl in the pic"></a><br><a href="../memes/m1184.md">I'm literally the girl in the pic</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1196.md"><img src="../images/m1196-lol-bot-lane-three-cases.png" width="240" alt="下路帶先發只有三種情況"></a><br><a href="../memes/m1196.md">下路帶先發只有三種情況</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1208.md"><img src="../images/m1208-machinist-re-thread-drill.png" width="240" alt="機械技工最有成就感的事"></a><br><a href="../memes/m1208.md">機械技工最有成就感的事</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（91）
+## ⚠️ 需斟酌（93）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1557,6 +1564,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1205.md"><img src="../images/m1205-pets-are-sm.jpg" width="240" alt="寵物會不會其實是一種 SM？"></a><br><a href="../memes/m1205.md">寵物會不會其實是一種 SM？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你每說一次髒話就會害一位天使死掉 — ⚠️ 髒話／地獄意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1212.md"><img src="../images/m1212-swear-kill-angel-stub-toe.jpg" width="240" alt="你每說一次髒話就會害一位天使死掉"></a><br><a href="../memes/m1212.md">你每說一次髒話就會害一位天使死掉</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如何不讓自己在過年時被家人叫去幫忙 — ⚠️ 噁心（外觀）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1219.md"><img src="../images/m1219-new-year-rat-dumplings.png" width="240" alt="如何不讓自己在過年時被家人叫去幫忙"></a><br><a href="../memes/m1219.md">如何不讓自己在過年時被家人叫去幫忙</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

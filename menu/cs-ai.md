@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 152 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（100）
+## ★（101）
 
 <table>
 <tr>
@@ -176,10 +176,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1182.md"><img src="../images/m1182-recursion-under-bed.png" width="240" alt="爸！我的床底下有一個遞迴！"></a><br><a href="../memes/m1182.md">爸！我的床底下有一個遞迴！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1210.md"><img src="../images/m1210-youtube-loading-ads-vs-video.png" width="240" alt="YouTube 載入廣告 vs 載入影片"></a><br><a href="../memes/m1210.md">YouTube 載入廣告 vs 載入影片</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（37）
+## ★★（38）
 
 <table>
 <tr>
@@ -244,6 +245,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0993.md"><img src="../images/m0993-deepseek-fishing-chatgpt-bucket.png" width="240" alt="DeepSeek 在 ChatGPT 的水桶裡釣魚"></a><br><a href="../memes/m0993.md">DeepSeek 在 ChatGPT 的水桶裡釣魚</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1216.md"><img src="../images/m1216-adblock-overflow-visible.png" width="240" alt="Please disable adblock——overflow-y: visible"></a><br><a href="../memes/m1216.md">Please disable adblock——overflow-y: visible</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

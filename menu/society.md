@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 118 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（27）
+## ★（28）
 
 <table>
 <tr>
@@ -53,6 +53,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1419.md"><img src="../images/m1419-taiwan-baseball-ordering-drinks.png" width="240" alt="我們台灣人在國際賽討論情蒐也像在訂飲料"></a><br><a href="../memes/m1419.md">我們台灣人在國際賽討論情蒐也像在訂飲料</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1496.md"><img src="../images/m1496-queen-wedding-cake-auction.jpg" width="240" alt="77 年前英女王婚禮蛋糕仍可食用"></a><br><a href="../memes/m1496.md">77 年前英女王婚禮蛋糕仍可食用</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1540.md"><img src="../images/m1540-if-mainland-calls-dont-answer.jpg" width="240" alt="假如大陸打過來，你們會怎麼做？——不要接"></a><br><a href="../memes/m1540.md">假如大陸打過來，你們會怎麼做？——不要接</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1548.md"><img src="../images/m1548-no-laws-zero-crime.png" width="240" alt="世界上如果沒有法律，犯罪率是不是就會變成 0%"></a><br><a href="../memes/m1548.md">世界上如果沒有法律，犯罪率是不是就會變成 0%</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

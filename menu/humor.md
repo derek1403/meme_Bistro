@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（183）](#hardcore)
-- [👀 直觀（1130）](#intuitive)
-- [🔤 諧音／文字梗（245）](#pun)
+- [🧠 硬核（185）](#hardcore)
+- [👀 直觀（1136）](#intuitive)
+- [🔤 諧音／文字梗（247）](#pun)
 - [🔥 地獄梗（127）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（183）
+## 🧠 硬核（185）
 
 要有學科背景才笑得出來
 
@@ -198,10 +198,12 @@
 - 🧮 [I love math! — me too!](../memes/m1484.md) ★★
 - 🧮 [T: ℝ³ → ℝ²](../memes/m1489.md) ★★
 - 🧮 [Linear is for LINE and LINES ARE STRAIGHT!](../memes/m1538.md) ★★
+- 🧮 [計算器上的 3 和 5 壞了，要算 50×36 怎麼辦？](../memes/m1544.md) ★★
+- 🔬 [性別相圖：Gender Solid、Fluid、Gas、Supercritical](../memes/m1552.md) ★★
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1130）
+## 👀 直觀（1136）
 
 看圖就懂
 
@@ -1335,10 +1337,16 @@
 - 🍺 [健身為了健康 ❌ 裸的時候好看 ✅](../memes/m1541.md) ★
 - 💻 [全球金融系統靠 Excel，Excel 靠 97-2003 檔案撐著](../memes/m1542.md) ★
 - 🍺 [攀岩愛好者設計的馬克杯](../memes/m1543.md) ★
+- 🍺 [三個人用身體擺出的影子](../memes/m1545.md) ★
+- 🍺 [爸，我希望你突然說我們家其實有一億——我也在等你爺爺電話呢](../memes/m1547.md) ★
+- 🌍 [世界上如果沒有法律，犯罪率是不是就會變成 0%](../memes/m1548.md) ★
+- 🍺 [野獸的佛地魔：捏臉捏出佛地魔](../memes/m1549.md) ★
+- 🍺 [請兄弟吃火鍋其實是有事想提醒他](../memes/m1550.md) ★
+- 🎓 [理科生聽一次就懂的，每次文科生都要聽二次](../memes/m1551.md) ★
 
 <a id="pun"></a>
 
-## 🔤 諧音／文字梗（245）
+## 🔤 諧音／文字梗（247）
 
 雙關、諧音、字面意思
 
@@ -1587,6 +1595,8 @@
 - 🧮 [女人的心思就像是 X+2=0](../memes/m1537.md) ★★ ⚠️ 性暗示
 - 🗣️ [兩個月大就犯罪——那代表他是個 baby 小人](../memes/m1539.md) ★
 - 🌍 [假如大陸打過來，你們會怎麼做？——不要接](../memes/m1540.md) ★
+- 🧮 [I don't really care for linear algebra.](../memes/m1546.md) ★★
+- 🔬 [性別相圖：Gender Solid、Fluid、Gas、Supercritical](../memes/m1552.md) ★★
 
 <a id="dark"></a>
 

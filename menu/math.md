@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 239 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 241 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（83）
 
@@ -150,7 +150,7 @@
 </tr>
 </table>
 
-## ★★（96）
+## ★★（98）
 
 <table>
 <tr>
@@ -312,6 +312,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1507.md"><img src="../images/m1507-only-know-a-plus-b-squared.png" width="240" alt="學生畢業後：我只知道 (a+b)² = a² + b²"></a><br><a href="../memes/m1507.md">學生畢業後：我只知道 (a+b)² = a² + b²</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1523.md"><img src="../images/m1523-spanish-notation-binomial.png" width="240" alt="Or in Spanish notation: ¡n! / ¡k!¡(n−k)!"></a><br><a href="../memes/m1523.md">Or in Spanish notation: ¡n! / ¡k!¡(n−k)!</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1538.md"><img src="../images/m1538-linear-but-curve.png" width="240" alt="Linear is for LINE and LINES ARE STRAIGHT!"></a><br><a href="../memes/m1538.md">Linear is for LINE and LINES ARE STRAIGHT!</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1544.md"><img src="../images/m1544-broken-3-and-5-calculator.png" width="240" alt="計算器上的 3 和 5 壞了，要算 50×36 怎麼辦？"></a><br><a href="../memes/m1544.md">計算器上的 3 和 5 壞了，要算 50×36 怎麼辦？</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1546.md"><img src="../images/m1546-dont-care-linear-algebra.png" width="240" alt="I don't really care for linear algebra."></a><br><a href="../memes/m1546.md">I don't really care for linear algebra.</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

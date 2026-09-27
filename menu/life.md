@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 466 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 469 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（317）
+## ★（319）
 
 <table>
 <tr>
@@ -537,6 +537,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1194.md"><img src="../images/m1194-not-sweet-free-lemons.png" width="240" alt="水果不甜不要錢：檸檬我全要了"></a><br><a href="../memes/m1194.md">水果不甜不要錢：檸檬我全要了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1197.md"><img src="../images/m1197-dinosaur-sandwich-marry-me.png" width="240" alt="讓所有男人心動的女人"></a><br><a href="../memes/m1197.md">讓所有男人心動的女人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1199.md"><img src="../images/m1199-cat-cake-gochiusa-face.png" width="240" alt="為什麼到處都有買夠廚"></a><br><a href="../memes/m1199.md">為什麼到處都有買夠廚</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1202.md"><img src="../images/m1202-hunting-with-dog-cat-zucchini.png" width="240" alt="沒有什麼比喝完啤酒再帶著狗去打獵更爽的事"></a><br><a href="../memes/m1202.md">沒有什麼比喝完啤酒再帶著狗去打獵更爽的事</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -644,7 +648,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（90）
+## ⚠️ 需斟酌（91）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1543,6 +1547,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1161.md"><img src="../images/m1161-chicken-have-you-seen-my.png" width="240" alt="打擾一下，你有沒有看到我的……"></a><br><a href="../memes/m1161.md">打擾一下，你有沒有看到我的……</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>寵物會不會其實是一種 SM？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1205.md"><img src="../images/m1205-pets-are-sm.jpg" width="240" alt="寵物會不會其實是一種 SM？"></a><br><a href="../memes/m1205.md">寵物會不會其實是一種 SM？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

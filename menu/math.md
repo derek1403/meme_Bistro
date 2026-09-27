@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 215 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 217 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（79）
+## ★（80）
 
 <table>
 <tr>
@@ -141,10 +141,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1160.md"><img src="../images/m1160-math-genius-hurdle-backflip.png" width="240" alt="那位學霸的解題思路"></a><br><a href="../memes/m1160.md">那位學霸的解題思路</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1200.md"><img src="../images/m1200-afraid-60-percent-remaining.png" width="240" alt="那剩下的 60% 呢？"></a><br><a href="../memes/m1200.md">那剩下的 60% 呢？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（82）
+## ★★（83）
 
 <table>
 <tr>
@@ -284,6 +285,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1091.md"><img src="../images/m1091-zeta-jones-riemann-zeta.png" width="240" alt="凱薩琳．麗塔瓊斯 vs 黎曼 ζ 函數"></a><br><a href="../memes/m1091.md">凱薩琳．麗塔瓊斯 vs 黎曼 ζ 函數</a><br><sub>🔤🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1203.md"><img src="../images/m1203-riemann-analytic-domain-expansion.png" width="240" alt="時光機：別叫解析延拓，叫領域展開"></a><br><a href="../memes/m1203.md">時光機：別叫解析延拓，叫領域展開</a><br><sub>🧠🔤 ★★</sub></td>
 </tr>
 </table>
 

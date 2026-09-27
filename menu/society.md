@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 94 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（17）
+## ★（18）
 
 <table>
 <tr>
@@ -37,6 +37,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1131.md"><img src="../images/m1131-underwear-global-warming.png" width="240" alt="全球暖化的證據"></a><br><a href="../memes/m1131.md">全球暖化的證據</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1133.md"><img src="../images/m1133-greek-vs-roman-debate.jpg" width="240" alt="哲學辯論的兩種 style：希臘 vs 羅馬"></a><br><a href="../memes/m1133.md">哲學辯論的兩種 style：希臘 vs 羅馬</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1204.md"><img src="../images/m1204-news-three-elements.png" width="240" alt="新聞三要素是什麼？"></a><br><a href="../memes/m1204.md">新聞三要素是什麼？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -48,7 +49,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（76）
+## ⚠️ 需斟酌（77）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -807,6 +808,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1181.md"><img src="../images/m1181-hsr-still-buying-oranges.png" width="240" alt="這高鐵剛經歷了什麼？還敢到對面買橘子啊"></a><br><a href="../memes/m1181.md">這高鐵剛經歷了什麼？還敢到對面買橘子啊</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>看看我發現的寶藏盲道 — ⚠️ 身障者（設施危險）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1206.md"><img src="../images/m1206-tactile-paving-into-lake.jpg" width="240" alt="看看我發現的寶藏盲道"></a><br><a href="../memes/m1206.md">看看我發現的寶藏盲道</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1029 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1044 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（733）
+## ★（748）
 
 <table>
 <tr>
@@ -1231,6 +1231,31 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2194.md"><img src="../images/m2194-komi-najimi-gender.jpg" width="240" alt="身邊總有一種朋友，很難分辨他是男生還是女生"></a><br><a href="../memes/m2194.md">身邊總有一種朋友，很難分辨他是男生還是女生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2198.md"><img src="../images/m2198-unfriendly-washing-machine.png" width="240" alt="在路上遇到非常不友善的洗衣機"></a><br><a href="../memes/m2198.md">在路上遇到非常不友善的洗衣機</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2199.md"><img src="../images/m2199-mason-sand-one-piece-heads.png" width="240" alt="家裡牆壁破了叫泥水匠來修——出門時看到這個"></a><br><a href="../memes/m2199.md">家裡牆壁破了叫泥水匠來修——出門時看到這個</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2200.md"><img src="../images/m2200-typhoon-groceries-gpu.png" width="240" alt="每次颱風來菜價就飆漲，花快 4 萬只買得起這些"></a><br><a href="../memes/m2200.md">每次颱風來菜價就飆漲，花快 4 萬只買得起這些</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2201.md"><img src="../images/m2201-manta-already-on-chair.png" width="240" alt="雷總是提早到——沒忘啦，我在這裡"></a><br><a href="../memes/m2201.md">雷總是提早到——沒忘啦，我在這裡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2202.md"><img src="../images/m2202-look-at-your-own-looks.png" width="240" alt="喜歡一個女生不能只看她的外表——還要看看自己的外表"></a><br><a href="../memes/m2202.md">喜歡一個女生不能只看她的外表——還要看看自己的外表</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2205.md"><img src="../images/m2205-penguin-like-miko.png" width="240" alt="企鵝能做甚麼呢？——就像吉祥物，跟巫女前輩一樣呢！"></a><br><a href="../memes/m2205.md">企鵝能做甚麼呢？——就像吉祥物，跟巫女前輩一樣呢！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2208.md"><img src="../images/m2208-wrench-mother-feeds-babies.png" width="240" alt="極為罕見：扳手媽媽餵食扳手寶寶的珍貴照片"></a><br><a href="../memes/m2208.md">極為罕見：扳手媽媽餵食扳手寶寶的珍貴照片</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2210.md"><img src="../images/m2210-chiikawa-student-loans.png" width="240" alt="我：大一學貸打工、大四出社會壓力；朋友：大一到處玩樂、大四到處吃喝"></a><br><a href="../memes/m2210.md">我：大一學貸打工、大四出社會壓力；朋友：大一到處玩樂、大四到處吃喝</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2211.md"><img src="../images/m2211-kafka-sunglasses-no.png" width="240" alt="Don't you miss me???——No 😎——Take off your sunglass 🥺"></a><br><a href="../memes/m2211.md">Don't you miss me???——No 😎——Take off your sunglass 🥺</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2212.md"><img src="../images/m2212-indoor-vs-outdoor-plants.png" width="240" alt="室內植物：你多澆了三滴水我要死了！——室外植物：這是地面嗎欸不管了"></a><br><a href="../memes/m2212.md">室內植物：你多澆了三滴水我要死了！——室外植物：這是地面嗎欸不管了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2213.md"><img src="../images/m2213-ntu-vs-10-billion.png" width="240" alt="台大和一百億現金你選一個——當然是台大，自己算算看"></a><br><a href="../memes/m2213.md">台大和一百億現金你選一個——當然是台大，自己算算看</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2214.md"><img src="../images/m2214-childhood-friend-vs-fox.png" width="240" alt="兄妹算青梅竹馬？——不是青梅竹馬就是狐狸精"></a><br><a href="../memes/m2214.md">兄妹算青梅竹馬？——不是青梅竹馬就是狐狸精</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2217.md"><img src="../images/m2217-age-29-crying-cat.png" width="240" alt="你 29 歲了應該有工作有女友了吧——我："></a><br><a href="../memes/m2217.md">你 29 歲了應該有工作有女友了吧——我：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2222.md"><img src="../images/m2222-sharks-watch-jaws.png" width="240" alt="鯊魚看《大白鯊》：基本上就是一部吃播影片"></a><br><a href="../memes/m2222.md">鯊魚看《大白鯊》：基本上就是一部吃播影片</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2224.md"><img src="../images/m2224-doctor-show-me-yours.png" width="240" alt="醫生，我的屁股長毛——給我看看你的"></a><br><a href="../memes/m2224.md">醫生，我的屁股長毛——給我看看你的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

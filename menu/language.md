@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 246 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 249 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（165）
 
@@ -286,7 +286,7 @@
 </tr>
 </table>
 
-## ★★（20）
+## ★★（22）
 
 <table>
 <tr>
@@ -322,10 +322,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2063.md"><img src="../images/m2063-touhou-wig-color-blind.png" width="240" alt="東方廚大部分都是色盲：紫的假髮、橙的假髮、藍的假髮"></a><br><a href="../memes/m2063.md">東方廚大部分都是色盲：紫的假髮、橙的假髮、藍的假髮</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2196.md"><img src="../images/m2196-cattle-horse-work-in-rain.png" width="240" alt="下大雨時牛和馬會躲進棚裡——但牛馬會頂著風雨去上班"></a><br><a href="../memes/m2196.md">下大雨時牛和馬會躲進棚裡——但牛馬會頂著風雨去上班</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2218.md"><img src="../images/m2218-hua-tuo-hua-xiong-win8.png" width="240" alt="華佗刮骨療毒時問：「你可見吾兒華雄？」——所以 Win8 才直接跳到 Win10？"></a><br><a href="../memes/m2218.md">華佗刮骨療毒時問：「你可見吾兒華雄？」——所以 Win8 才直接跳到 Win10？</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2219.md"><img src="../images/m2219-tooth-le-tooth-le.png" width="240" alt="台灣人東西不見時：人咧、手機咧——拔牙之後：牙咧牙咧"></a><br><a href="../memes/m2219.md">台灣人東西不見時：人咧、手機咧——拔牙之後：牙咧牙咧</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（61）
+## ⚠️ 需斟酌（62）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -934,6 +938,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2191.md"><img src="../images/m2191-comrade-step-on-me.png" width="240" alt="主人踩我——新中國沒有奴隸——同志踩我"></a><br><a href="../memes/m2191.md">主人踩我——新中國沒有奴隸——同志踩我</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>提問男生：為什麼二戰比一戰久？——認真回答原子彈 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2216.md"><img src="../images/m2216-why-ww2-longer-than-ww1.png" width="240" alt="提問男生：為什麼二戰比一戰久？——認真回答原子彈"></a><br><a href="../memes/m2216.md">提問男生：為什麼二戰比一戰久？——認真回答原子彈</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

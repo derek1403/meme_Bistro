@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 242 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 247 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（164）
+## ★（168）
 
 <table>
 <tr>
@@ -282,10 +282,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2187.md"><img src="../images/m2187-chrome-adblock-jump-firefox.png" width="240" alt="Chrome planning to disable Ad Blockers——People right now"></a><br><a href="../memes/m2187.md">Chrome planning to disable Ad Blockers——People right now</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2197.md"><img src="../images/m2197-adobe-edit-detector-ig.png" width="240" alt="Adobe 開發了能偵測修圖痕跡的 AI——某些 IG 用戶"></a><br><a href="../memes/m2197.md">Adobe 開發了能偵測修圖痕跡的 AI——某些 IG 用戶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2203.md"><img src="../images/m2203-newbie-stairs-skip-to-ai.png" width="240" alt="Newbie Programmers：從 Hello World 直接跨到 AI & ML"></a><br><a href="../memes/m2203.md">Newbie Programmers：從 Hello World 直接跨到 AI & ML</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2204.md"><img src="../images/m2204-google-new-device-patrick.png" width="240" alt="Google whenever I login from a new device"></a><br><a href="../memes/m2204.md">Google whenever I login from a new device</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2206.md"><img src="../images/m2206-cpp-no-perfect-ide.png" width="240" alt="C++：Decades of Development, Yet No Perfect IDE——Change My Mind"></a><br><a href="../memes/m2206.md">C++：Decades of Development, Yet No Perfect IDE——Change My Mind</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2221.md"><img src="../images/m2221-force-shutdown-feels.png" width="240" alt="When you force your computer to shut down——How it feels"></a><br><a href="../memes/m2221.md">When you force your computer to shut down——How it feels</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（58）
+## ★★（59）
 
 <table>
 <tr>
@@ -385,6 +391,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2180.md"><img src="../images/m2180-chatgpt-eat-a-clock.png" width="240" alt="Have you ever tried to eat a clock?——No.——Okay."></a><br><a href="../memes/m2180.md">Have you ever tried to eat a clock?——No.——Okay.</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2215.md"><img src="../images/m2215-crowdstrike-patch-first-day.png" width="240" alt="我到職第一天就把 patch 推上 production——在 CrowdStrike"></a><br><a href="../memes/m2215.md">我到職第一天就把 patch 推上 production——在 CrowdStrike</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

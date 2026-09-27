@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 175 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 178 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（45）
+## ★（46）
 
 <table>
 <tr>
@@ -84,6 +84,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2099.md"><img src="../images/m2099-garage-startup-no-garage.png" width="240" alt="大企業都從車庫創業——我沒有車庫"></a><br><a href="../memes/m2099.md">大企業都從車庫創業——我沒有車庫</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2154.md"><img src="../images/m2154-taiwan-speed-cameras-map.png" width="240" alt="波蘭的教堂、英國的酒吧、台灣的測速照相"></a><br><a href="../memes/m2154.md">波蘭的教堂、英國的酒吧、台灣的測速照相</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2225.md"><img src="../images/m2225-sachima-construction.png" width="240" alt="除了豆腐渣工程外，還有沙琪瑪工程"></a><br><a href="../memes/m2225.md">除了豆腐渣工程外，還有沙琪瑪工程</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（18）
@@ -121,7 +124,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（112）
+## ⚠️ 需斟酌（114）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1240,6 +1243,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2183.md"><img src="../images/m2183-yuki-c-cup-alya.jpg" width="240" alt="有希的交替：周防有希有 C——長門有希：我也……"></a><br><a href="../memes/m2183.md">有希的交替：周防有希有 C——長門有希：我也……</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>神燈精靈：錢？車？女人？——少年搖頭，抱住了精靈 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2209.md"><img src="../images/m2209-genie-wish-gay-twist.png" width="240" alt="神燈精靈：錢？車？女人？——少年搖頭，抱住了精靈"></a><br><a href="../memes/m2209.md">神燈精靈：錢？車？女人？——少年搖頭，抱住了精靈</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我的爸媽都死了——氣球爸媽！喔糟糕！就跟真的一樣 — ⚠️ 死亡、孤兒</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2220.md"><img src="../images/m2220-balloon-parents-clown.png" width="240" alt="我的爸媽都死了——氣球爸媽！喔糟糕！就跟真的一樣"></a><br><a href="../memes/m2220.md">我的爸媽都死了——氣球爸媽！喔糟糕！就跟真的一樣</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

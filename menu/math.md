@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 268 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 270 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（87）
+## ★（88）
 
 <table>
 <tr>
@@ -154,9 +154,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1881.md"><img src="../images/m1881-triangle-vs-textbook-triangle.jpg" width="240" alt="三角形 vs 試卷和課本上的三角形"></a><br><a href="../memes/m1881.md">三角形 vs 試卷和課本上的三角形</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1882.md"><img src="../images/m1882-3l-5l-cup-graduated.jpg" width="240" alt="怎樣得到 4L 水？——草，有刻度線"></a><br><a href="../memes/m1882.md">怎樣得到 4L 水？——草，有刻度線</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2207.md"><img src="../images/m2207-inverse-function-cat-fish.png" width="240" alt="F(x) 與 F⁻¹(x)：貓吃魚，魚吃貓"></a><br><a href="../memes/m2207.md">F(x) 與 F⁻¹(x)：貓吃魚，魚吃貓</a><br><sub>🧠 ★</sub></td>
+</tr>
 </table>
 
-## ★★（115）
+## ★★（116）
 
 <table>
 <tr>
@@ -351,6 +354,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2195.md"><img src="../images/m2195-pi-ei-plus-one-not-zero.png" width="240" alt="最優美的數學不等式：π^(ei) + 1 ≠ 0"></a><br><a href="../memes/m2195.md">最優美的數學不等式：π^(ei) + 1 ≠ 0</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2223.md"><img src="../images/m2223-rigorous-proof-power-strip.png" width="240" alt="我第一次嘗試做出嚴謹的證明——延長線插自己"></a><br><a href="../memes/m2223.md">我第一次嘗試做出嚴謹的證明——延長線插自己</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 154 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 156 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（101）
+## ★（102）
 
 <table>
 <tr>
@@ -177,10 +177,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1487.md"><img src="../images/m1487-have-master-confess.jpg" width="240" alt="有主嗎？——你要懺悔什麼，我的孩子"></a><br><a href="../memes/m1487.md">有主嗎？——你要懺悔什麼，我的孩子</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1497.md"><img src="../images/m1497-capybara-reflect-three-times.png" width="240" alt="吾日三省吾身：是不是該動手了"></a><br><a href="../memes/m1497.md">吾日三省吾身：是不是該動手了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1539.md"><img src="../images/m1539-baby-fingerprint-crime.png" width="240" alt="兩個月大就犯罪——那代表他是個 baby 小人"></a><br><a href="../memes/m1539.md">兩個月大就犯罪——那代表他是個 baby 小人</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（12）
+## ★★（13）
 
 <table>
 <tr>
@@ -202,6 +203,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0771.md"><img src="../images/m0771-japanese-taiwanese-chat.png" width="240" alt="用日文打台語"></a><br><a href="../memes/m0771.md">用日文打台語</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1332.md"><img src="../images/m1332-our-relationship-counter.png" width="240" alt="我們（our）之間的關係，已成為對立（counter）"></a><br><a href="../memes/m1332.md">我們（our）之間的關係，已成為對立（counter）</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1437.md"><img src="../images/m1437-soyo-ignore-light-crossing.png" width="240" alt="那傢伙竟然敢無視燈（Q 版）"></a><br><a href="../memes/m1437.md">那傢伙竟然敢無視燈（Q 版）</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1535.md"><img src="../images/m1535-worst-puns-collection.png" width="240" alt="最白爛諧音梗大全"></a><br><a href="../memes/m1535.md">最白爛諧音梗大全</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

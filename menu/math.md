@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 237 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 239 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（83）
 
@@ -150,7 +150,7 @@
 </tr>
 </table>
 
-## ★★（95）
+## ★★（96）
 
 <table>
 <tr>
@@ -311,6 +311,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1507.md"><img src="../images/m1507-only-know-a-plus-b-squared.png" width="240" alt="學生畢業後：我只知道 (a+b)² = a² + b²"></a><br><a href="../memes/m1507.md">學生畢業後：我只知道 (a+b)² = a² + b²</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1523.md"><img src="../images/m1523-spanish-notation-binomial.png" width="240" alt="Or in Spanish notation: ¡n! / ¡k!¡(n−k)!"></a><br><a href="../memes/m1523.md">Or in Spanish notation: ¡n! / ¡k!¡(n−k)!</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1538.md"><img src="../images/m1538-linear-but-curve.png" width="240" alt="Linear is for LINE and LINES ARE STRAIGHT!"></a><br><a href="../memes/m1538.md">Linear is for LINE and LINES ARE STRAIGHT!</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
@@ -387,7 +388,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（19）
+## ⚠️ 需斟酌（20）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -576,6 +577,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1520.md"><img src="../images/m1520-matlab-boob-surface.png" width="240" alt="Don't study maths for this..."></a><br><a href="../memes/m1520.md">Don't study maths for this...</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>女人的心思就像是 X+2=0 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1537.md"><img src="../images/m1537-rick-x-plus-2-rich-kid.png" width="240" alt="女人的心思就像是 X+2=0"></a><br><a href="../memes/m1537.md">女人的心思就像是 X+2=0</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

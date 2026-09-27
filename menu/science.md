@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 128 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（56）
 
@@ -105,7 +105,7 @@
 </tr>
 </table>
 
-## ★★（44）
+## ★★（45）
 
 <table>
 <tr>
@@ -181,6 +181,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1463.md"><img src="../images/m1463-light-is-just-living.png" width="240" alt="光是什麼？光是活著就已經拼盡全力"></a><br><a href="../memes/m1463.md">光是什麼？光是活著就已經拼盡全力</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1494.md"><img src="../images/m1494-cacao-poison-evolution.png" width="240" alt="自然演化啊，請給我來點鹼毒死捕食者"></a><br><a href="../memes/m1494.md">自然演化啊，請給我來點鹼毒死捕食者</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1536.md"><img src="../images/m1536-weather-map-typhoon-laughing.png" width="240" alt="這是在嘲笑什麼嗎🤣"></a><br><a href="../memes/m1536.md">這是在嘲笑什麼嗎🤣</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

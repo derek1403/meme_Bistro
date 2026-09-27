@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 670 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 674 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（457）
+## ★（461）
 
 <table>
 <tr>
@@ -771,6 +771,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1532.md"><img src="../images/m1532-boyfriend-waiting-apology-skeleton.png" width="240" alt="當男朋友跟你吵架等你道歉"></a><br><a href="../memes/m1532.md">當男朋友跟你吵架等你道歉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1533.md"><img src="../images/m1533-cash-gift-please-be-rude.png" width="240" alt="用現金當禮物送別人會很沒禮貌嗎？——請對我不禮貌，拜託"></a><br><a href="../memes/m1533.md">用現金當禮物送別人會很沒禮貌嗎？——請對我不禮貌，拜託</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1534.md"><img src="../images/m1534-salary-blown-away.png" width="240" alt="我的薪水又不是大風刮來的——但花錢時卻像被大風刮走一樣"></a><br><a href="../memes/m1534.md">我的薪水又不是大風刮來的——但花錢時卻像被大風刮走一樣</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1541.md"><img src="../images/m1541-fitness-for-naked.jpg" width="240" alt="健身為了健康 ❌ 裸的時候好看 ✅"></a><br><a href="../memes/m1541.md">健身為了健康 ❌ 裸的時候好看 ✅</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1543.md"><img src="../images/m1543-climbing-mug-khaby.png" width="240" alt="攀岩愛好者設計的馬克杯"></a><br><a href="../memes/m1543.md">攀岩愛好者設計的馬克杯</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

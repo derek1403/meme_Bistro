@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 160 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（103）
+## ★（105）
 
 <table>
 <tr>
@@ -181,6 +181,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1568.md"><img src="../images/m1568-weightlifter-lose-really-heavy.png" width="240" alt="舉重選手舉輸了後會說什麼？真重！再見！"></a><br><a href="../memes/m1568.md">舉重選手舉輸了後會說什麼？真重！再見！</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1573.md"><img src="../images/m1573-beef-tomato-red-rage.jpg" width="240" alt="冷知識：牛肉和西紅柿不能一起吃"></a><br><a href="../memes/m1573.md">冷知識：牛肉和西紅柿不能一起吃</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1575.md"><img src="../images/m1575-cinderella-pumpkin-carriage.png" width="240" alt="為什麼灰姑娘的車不容易被刮傷？——因為他坐的是南瓜馬車"></a><br><a href="../memes/m1575.md">為什麼灰姑娘的車不容易被刮傷？——因為他坐的是南瓜馬車</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

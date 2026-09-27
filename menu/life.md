@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 690 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 696 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（472）
+## ★（477）
 
 <table>
 <tr>
@@ -796,6 +796,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1567.md"><img src="../images/m1567-6000-bricks-wrong-address.png" width="240" alt="卸下六千塊磚塊，然後老闆說送錯地址了"></a><br><a href="../memes/m1567.md">卸下六千塊磚塊，然後老闆說送錯地址了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1571.md"><img src="../images/m1571-seal-plush-washing-machine.jpg" width="240" alt="洗衣機裡的海豹"></a><br><a href="../memes/m1571.md">洗衣機裡的海豹</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1572.md"><img src="../images/m1572-9am-helpful-1hr-trex.png" width="240" alt="早上 9 點：今天要做一個樂於助人的小可愛——上班一小時後"></a><br><a href="../memes/m1572.md">早上 9 點：今天要做一個樂於助人的小可愛——上班一小時後</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1579.md"><img src="../images/m1579-electrician-house-dark.png" width="240" alt="你家很黑燈都沒有開——你猜我為什麼找你來弄電？"></a><br><a href="../memes/m1579.md">你家很黑燈都沒有開——你猜我為什麼找你來弄電？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1580.md"><img src="../images/m1580-what-name-pet-gave-you.jpg" width="240" alt="你有沒有思考過，你的寵物給你起的名字是什麼"></a><br><a href="../memes/m1580.md">你有沒有思考過，你的寵物給你起的名字是什麼</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1581.md"><img src="../images/m1581-rushed-morning-panini-press.jpg" width="240" alt="早上出門有點太急"></a><br><a href="../memes/m1581.md">早上出門有點太急</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -918,7 +925,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（150）
+## ⚠️ 需斟酌（151）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2417,6 +2424,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1569.md"><img src="../images/m1569-personality-type-fool.png" width="240" alt="你的性格類型是：低能兒 FOOl"></a><br><a href="../memes/m1569.md">你的性格類型是：低能兒 FOOl</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>申請退貨——她不喜歡的是你 — ⚠️ 情感傷害</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1574.md"><img src="../images/m1574-return-she-doesnt-like-you.png" width="240" alt="申請退貨——她不喜歡的是你"></a><br><a href="../memes/m1574.md">申請退貨——她不喜歡的是你</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

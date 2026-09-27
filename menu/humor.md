@@ -5,8 +5,8 @@
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
 - [🧠 硬核（185）](#hardcore)
-- [👀 直觀（1136）](#intuitive)
-- [🔤 諧音／文字梗（247）](#pun)
+- [👀 直觀（1137）](#intuitive)
+- [🔤 諧音／文字梗（246）](#pun)
 - [🔥 地獄梗（127）](#dark)
 
 <a id="hardcore"></a>
@@ -203,7 +203,7 @@
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1136）
+## 👀 直觀（1137）
 
 看圖就懂
 
@@ -1338,6 +1338,7 @@
 - 💻 [全球金融系統靠 Excel，Excel 靠 97-2003 檔案撐著](../memes/m1542.md) ★
 - 🍺 [攀岩愛好者設計的馬克杯](../memes/m1543.md) ★
 - 🍺 [三個人用身體擺出的影子](../memes/m1545.md) ★
+- 🧮 [I don't really care for linear algebra.](../memes/m1546.md) ★
 - 🍺 [爸，我希望你突然說我們家其實有一億——我也在等你爺爺電話呢](../memes/m1547.md) ★
 - 🌍 [世界上如果沒有法律，犯罪率是不是就會變成 0%](../memes/m1548.md) ★
 - 🍺 [野獸的佛地魔：捏臉捏出佛地魔](../memes/m1549.md) ★
@@ -1346,7 +1347,7 @@
 
 <a id="pun"></a>
 
-## 🔤 諧音／文字梗（247）
+## 🔤 諧音／文字梗（246）
 
 雙關、諧音、字面意思
 
@@ -1595,7 +1596,6 @@
 - 🧮 [女人的心思就像是 X+2=0](../memes/m1537.md) ★★ ⚠️ 性暗示
 - 🗣️ [兩個月大就犯罪——那代表他是個 baby 小人](../memes/m1539.md) ★
 - 🌍 [假如大陸打過來，你們會怎麼做？——不要接](../memes/m1540.md) ★
-- 🧮 [I don't really care for linear algebra.](../memes/m1546.md) ★★
 - 🔬 [性別相圖：Gender Solid、Fluid、Gas、Supercritical](../memes/m1552.md) ★★
 
 <a id="dark"></a>

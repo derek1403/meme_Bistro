@@ -6,7 +6,7 @@
 
 共 241 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（83）
+## ★（84）
 
 <table>
 <tr>
@@ -147,10 +147,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1395.md"><img src="../images/m1395-castella-pie-chart.png" width="240" alt="蜂蜜蛋糕的組成成分"></a><br><a href="../memes/m1395.md">蜂蜜蛋糕的組成成分</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1424.md"><img src="../images/m1424-413-nuggets-412-safe.jpg" width="240" alt="某男子吃了 413 塊麥克雞塊後休克——所以吃 412 顆是安全的"></a><br><a href="../memes/m1424.md">某男子吃了 413 塊麥克雞塊後休克——所以吃 412 顆是安全的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1546.md"><img src="../images/m1546-dont-care-linear-algebra.png" width="240" alt="I don't really care for linear algebra."></a><br><a href="../memes/m1546.md">I don't really care for linear algebra.</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（98）
+## ★★（97）
 
 <table>
 <tr>
@@ -315,7 +316,6 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1544.md"><img src="../images/m1544-broken-3-and-5-calculator.png" width="240" alt="計算器上的 3 和 5 壞了，要算 50×36 怎麼辦？"></a><br><a href="../memes/m1544.md">計算器上的 3 和 5 壞了，要算 50×36 怎麼辦？</a><br><sub>🧠 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1546.md"><img src="../images/m1546-dont-care-linear-algebra.png" width="240" alt="I don't really care for linear algebra."></a><br><a href="../memes/m1546.md">I don't really care for linear algebra.</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

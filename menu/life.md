@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 823 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 827 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（567）
+## ★（571）
 
 <table>
 <tr>
@@ -953,6 +953,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1822.md"><img src="../images/m1822-legendary-sword-dupe-bug.png" width="240" alt="傳說之劍：別用 BUG 刷裝備啊！"></a><br><a href="../memes/m1822.md">傳說之劍：別用 BUG 刷裝備啊！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1823.md"><img src="../images/m1823-birthday-only-bank-remember.png" width="240" alt="當你的生日到了，但只有這些人記得"></a><br><a href="../memes/m1823.md">當你的生日到了，但只有這些人記得</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1824.md"><img src="../images/m1824-fortune-11am-clock-1065.png" width="240" alt="明天早上 11 點你會遇見你的真愛——10:65"></a><br><a href="../memes/m1824.md">明天早上 11 點你會遇見你的真愛——10:65</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1825.md"><img src="../images/m1825-wolf-blow-come-in.png" width="240" alt="小豬！開門讓我進去！不然我就吹——進來"></a><br><a href="../memes/m1825.md">小豬！開門讓我進去！不然我就吹——進來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1831.md"><img src="../images/m1831-aircon-18-with-blanket.jpg" width="240" alt="不開空調 vs 開空調 vs 開 18 度空調蓋棉被"></a><br><a href="../memes/m1831.md">不開空調 vs 開空調 vs 開 18 度空調蓋棉被</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1833.md"><img src="../images/m1833-therapist-you-are-the-bird.png" width="240" alt="你就是那隻鳥——這是在說我很胖的意思嗎？"></a><br><a href="../memes/m1833.md">你就是那隻鳥——這是在說我很胖的意思嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1834.md"><img src="../images/m1834-mooncake-alignment-chart.jpg" width="240" alt="月餅陣營九宮格"></a><br><a href="../memes/m1834.md">月餅陣營九宮格</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

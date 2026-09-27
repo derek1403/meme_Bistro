@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 200 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 205 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（135）
+## ★（139）
 
 <table>
 <tr>
@@ -234,6 +234,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1819.md"><img src="../images/m1819-mung-bean-bang-egg-yolk-crispy.png" width="240" alt="綠豆椪一聲，蛋黃酥了！"></a><br><a href="../memes/m1819.md">綠豆椪一聲，蛋黃酥了！</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1820.md"><img src="../images/m1820-laozi-writes-because-he-wants.png" width="240" alt="你知道老子為什麼要寫道德經？因為老子願意"></a><br><a href="../memes/m1820.md">你知道老子為什麼要寫道德經？因為老子願意</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1829.md"><img src="../images/m1829-juice-poured-too-much.jpg" width="240" alt="汁倒的太多了"></a><br><a href="../memes/m1829.md">汁倒的太多了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1832.md"><img src="../images/m1832-bass-light-every-festival.jpg" width="240" alt="每逢佳節貝斯輕"></a><br><a href="../memes/m1832.md">每逢佳節貝斯輕</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1835.md"><img src="../images/m1835-feed-deer-salty.png" width="240" alt="鹿吃那麼鹹喔？"></a><br><a href="../memes/m1835.md">鹿吃那麼鹹喔？</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1836.md"><img src="../images/m1836-gui-xi-lang-plumber.png" width="240" alt="沒有經濟基礎，不能找他們——桂西郎水電行"></a><br><a href="../memes/m1836.md">沒有經濟基礎，不能找他們——桂西郎水電行</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（16）
@@ -269,7 +277,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（49）
+## ⚠️ 需斟酌（50）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -758,6 +766,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1801.md"><img src="../images/m1801-familymart-outgoing-groove.jpg" width="240" alt="超商微波餐盒邊緣的凹槽是做什麼用的？——凹溝飲（outgoing）"></a><br><a href="../memes/m1801.md">超商微波餐盒邊緣的凹槽是做什麼用的？——凹溝飲（outgoing）</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>尖尖挖嘎奶 — ⚠️ 性暗示（台語諧音）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1830.md"><img src="../images/m1830-whipped-cream-peaks.jpg" width="240" alt="尖尖挖嘎奶"></a><br><a href="../memes/m1830.md">尖尖挖嘎奶</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

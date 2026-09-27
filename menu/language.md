@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 242 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 246 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（164）
+## ★（165）
 
 <table>
 <tr>
@@ -282,10 +282,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2160.md"><img src="../images/m2160-samsung-model-im-doctor.png" width="240" alt="Model?——Nhe, I'm a doctor"></a><br><a href="../memes/m2160.md">Model?——Nhe, I'm a doctor</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2164.md"><img src="../images/m2164-ghost-month-poor-ghosts-work.png" width="240" alt="鬼門開是真的，今天看到好多窮鬼去上班"></a><br><a href="../memes/m2164.md">鬼門開是真的，今天看到好多窮鬼去上班</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2190.md"><img src="../images/m2190-mama-boy-ancestral-rules.png" width="240" alt="如何避免被說成媽寶：把「我媽說」改成「祖訓有言」"></a><br><a href="../memes/m2190.md">如何避免被說成媽寶：把「我媽說」改成「祖訓有言」</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（19）
+## ★★（20）
 
 <table>
 <tr>
@@ -320,10 +321,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2063.md"><img src="../images/m2063-touhou-wig-color-blind.png" width="240" alt="東方廚大部分都是色盲：紫的假髮、橙的假髮、藍的假髮"></a><br><a href="../memes/m2063.md">東方廚大部分都是色盲：紫的假髮、橙的假髮、藍的假髮</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2196.md"><img src="../images/m2196-cattle-horse-work-in-rain.png" width="240" alt="下大雨時牛和馬會躲進棚裡——但牛馬會頂著風雨去上班"></a><br><a href="../memes/m2196.md">下大雨時牛和馬會躲進棚裡——但牛馬會頂著風雨去上班</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（59）
+## ⚠️ 需斟酌（61）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -912,6 +914,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2168.md"><img src="../images/m2168-xu-zhimo-plane-crash-poem.png" width="240" alt="再別康橋：我揮揮衣袖，不帶走一片雲彩——我搭錯飛機，不小心葬身火海"></a><br><a href="../memes/m2168.md">再別康橋：我揮揮衣袖，不帶走一片雲彩——我搭錯飛機，不小心葬身火海</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>國中有個男孩用籃球砸哭了我，後來他用了整個青春來賠——是去坐牢了嗎 — ⚠️ 犯罪暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2189.md"><img src="../images/m2189-basketball-youth-prison.png" width="240" alt="國中有個男孩用籃球砸哭了我，後來他用了整個青春來賠——是去坐牢了嗎"></a><br><a href="../memes/m2189.md">國中有個男孩用籃球砸哭了我，後來他用了整個青春來賠——是去坐牢了嗎</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>主人踩我——新中國沒有奴隸——同志踩我 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2191.md"><img src="../images/m2191-comrade-step-on-me.png" width="240" alt="主人踩我——新中國沒有奴隸——同志踩我"></a><br><a href="../memes/m2191.md">主人踩我——新中國沒有奴隸——同志踩我</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

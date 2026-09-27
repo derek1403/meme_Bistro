@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1025 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1029 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（729）
+## ★（733）
 
 <table>
 <tr>
@@ -1223,6 +1223,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2182.md"><img src="../images/m2182-airpods-shrimp.png" width="240" alt="昨晚吃燒烤喝多了，早上打開耳機發現……"></a><br><a href="../memes/m2182.md">昨晚吃燒烤喝多了，早上打開耳機發現……</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2184.md"><img src="../images/m2184-fb-spam-posts-54-a-day.png" width="240" alt="我廢文很多喔——一天 54 篇廢文！"></a><br><a href="../memes/m2184.md">我廢文很多喔——一天 54 篇廢文！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2185.md"><img src="../images/m2185-shark-horror-movie-manta.png" width="240" alt="Did you call me?——Let's watch a horror movie!"></a><br><a href="../memes/m2185.md">Did you call me?——Let's watch a horror movie!</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2186.md"><img src="../images/m2186-butter-synchronized-swimmer.png" width="240" alt="做了水上芭蕾造型的奶油"></a><br><a href="../memes/m2186.md">做了水上芭蕾造型的奶油</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2188.md"><img src="../images/m2188-game-burger-dlc.jpg" width="240" alt="以前的遊戲 vs 現在的遊戲：漢堡版"></a><br><a href="../memes/m2188.md">以前的遊戲 vs 現在的遊戲：漢堡版</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2192.md"><img src="../images/m2192-frieren-hung-to-dry.jpg" width="240" alt="芙莉蓮也被晾起來了"></a><br><a href="../memes/m2192.md">芙莉蓮也被晾起來了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2194.md"><img src="../images/m2194-komi-najimi-gender.jpg" width="240" alt="身邊總有一種朋友，很難分辨他是男生還是女生"></a><br><a href="../memes/m2194.md">身邊總有一種朋友，很難分辨他是男生還是女生</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

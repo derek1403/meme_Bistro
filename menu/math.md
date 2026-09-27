@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 267 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 268 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（87）
 
@@ -156,7 +156,7 @@
 </tr>
 </table>
 
-## ★★（114）
+## ★★（115）
 
 <table>
 <tr>
@@ -348,6 +348,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2022.md"><img src="../images/m2022-line-integral-find-c.png" width="240" alt="Find a C such that F(x) = ∫_C f(x) ds"></a><br><a href="../memes/m2022.md">Find a C such that F(x) = ∫_C f(x) ds</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2132.md"><img src="../images/m2132-working-class-just-maths.png" width="240" alt="Wait, working class politics is just maths!?——Always has been"></a><br><a href="../memes/m2132.md">Wait, working class politics is just maths!?——Always has been</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2142.md"><img src="../images/m2142-combinatorics-zero-power-zero.png" width="240" alt="Look Mom, a Combinatorics conference!——It is too late, Mother. 0⁰ = 1"></a><br><a href="../memes/m2142.md">Look Mom, a Combinatorics conference!——It is too late, Mother. 0⁰ = 1</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2195.md"><img src="../images/m2195-pi-ei-plus-one-not-zero.png" width="240" alt="最優美的數學不等式：π^(ei) + 1 ≠ 0"></a><br><a href="../memes/m2195.md">最優美的數學不等式：π^(ei) + 1 ≠ 0</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

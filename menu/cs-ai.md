@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 240 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 242 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（162）
+## ★（164）
 
 <table>
 <tr>
@@ -278,6 +278,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2171.md"><img src="../images/m2171-ai-cat-labeled-dog.png" width="240" alt="90 年代媒體：AI 會在十年內毀掉社會——現在的 AI：狗"></a><br><a href="../memes/m2171.md">90 年代媒體：AI 會在十年內毀掉社會——現在的 AI：狗</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2174.md"><img src="../images/m2174-backend-frontend-fullstack-api.png" width="240" alt="Backend、Front-end、Full Stack Developer 與 API"></a><br><a href="../memes/m2174.md">Backend、Front-end、Full Stack Developer 與 API</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2178.md"><img src="../images/m2178-pc-not-plugged-in-photo-op.png" width="240" alt="政府宣傳照：大家認真打電腦——電腦根本沒插線"></a><br><a href="../memes/m2178.md">政府宣傳照：大家認真打電腦——電腦根本沒插線</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2187.md"><img src="../images/m2187-chrome-adblock-jump-firefox.png" width="240" alt="Chrome planning to disable Ad Blockers——People right now"></a><br><a href="../memes/m2187.md">Chrome planning to disable Ad Blockers——People right now</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2197.md"><img src="../images/m2197-adobe-edit-detector-ig.png" width="240" alt="Adobe 開發了能偵測修圖痕跡的 AI——某些 IG 用戶"></a><br><a href="../memes/m2197.md">Adobe 開發了能偵測修圖痕跡的 AI——某些 IG 用戶</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

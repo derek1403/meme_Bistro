@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（221）](#hardcore)
-- [👀 直觀（1610）](#intuitive)
-- [🔤 諧音／文字梗（317）](#pun)
-- [🔥 地獄梗（182）](#dark)
+- [🧠 硬核（222）](#hardcore)
+- [👀 直觀（1618）](#intuitive)
+- [🔤 諧音／文字梗（319）](#pun)
+- [🔥 地獄梗（183）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（221）
+## 🧠 硬核（222）
 
 要有學科背景才笑得出來
 
@@ -236,10 +236,11 @@
 - 🧮 [Wait, working class politics is just maths!?——Always has been](../memes/m2132.md) ★★
 - 💻 [Happy 17th Birthday——8 根蠟燭只點 2 根](../memes/m2141.md) ★★
 - 🧮 [Look Mom, a Combinatorics conference!——It is too late, Mother. 0⁰ = 1](../memes/m2142.md) ★★
+- 🧮 [最優美的數學不等式：π^(ei) + 1 ≠ 0](../memes/m2195.md) ★★
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1610）
+## 👀 直觀（1618）
 
 看圖就懂
 
@@ -1853,10 +1854,18 @@
 - 🌍 [有希的交替：周防有希有 C——長門有希：我也……](../memes/m2183.md) ★★ ⚠️ 性暗示
 - 🍺 [我廢文很多喔——一天 54 篇廢文！](../memes/m2184.md) ★
 - 🍺 [Did you call me?——Let's watch a horror movie!](../memes/m2185.md) ★
+- 🍺 [做了水上芭蕾造型的奶油](../memes/m2186.md) ★
+- 💻 [Chrome planning to disable Ad Blockers——People right now](../memes/m2187.md) ★
+- 🍺 [以前的遊戲 vs 現在的遊戲：漢堡版](../memes/m2188.md) ★
+- 🗣️ [如何避免被說成媽寶：把「我媽說」改成「祖訓有言」](../memes/m2190.md) ★
+- 🍺 [芙莉蓮也被晾起來了](../memes/m2192.md) ★
+- 🌍 [Wanna try mine?——彩虹冰棒：No thanks!](../memes/m2193.md) ★★
+- 🍺 [身邊總有一種朋友，很難分辨他是男生還是女生](../memes/m2194.md) ★
+- 💻 [Adobe 開發了能偵測修圖痕跡的 AI——某些 IG 用戶](../memes/m2197.md) ★
 
 <a id="pun"></a>
 
-## 🔤 諧音／文字梗（317）
+## 🔤 諧音／文字梗（319）
 
 雙關、諧音、字面意思
 
@@ -2177,10 +2186,12 @@
 - 🗣️ [你的陽光都是裝出來的——所以你陽偽](../memes/m2147.md) ★ ⚠️ 性暗示
 - 🗣️ [鬼門開是真的，今天看到好多窮鬼去上班](../memes/m2164.md) ★
 - 💻 [Have you ever tried to eat a clock?——No.——Okay.](../memes/m2180.md) ★★
+- 🗣️ [主人踩我——新中國沒有奴隸——同志踩我](../memes/m2191.md) ★★ ⚠️ 性暗示
+- 🗣️ [下大雨時牛和馬會躲進棚裡——但牛馬會頂著風雨去上班](../memes/m2196.md) ★★
 
 <a id="dark"></a>
 
-## 🔥 地獄梗（182）
+## 🔥 地獄梗（183）
 
 拿敏感題材開玩笑，請斟酌
 
@@ -2366,4 +2377,5 @@
 - 🗣️ [再別康橋：我揮揮衣袖，不帶走一片雲彩——我搭錯飛機，不小心葬身火海](../memes/m2168.md) ★★ ⚠️ 死亡、空難
 - 🌍 [火化時牙齒會在高溫下爆裂——禁忌的爆米花](../memes/m2170.md) ★ ⚠️ 死亡、火化
 - 🌍 [我看動畫——戰後就再也沒聽過日語的隔壁房爺爺：](../memes/m2181.md) ★ ⚠️ 戰爭創傷
+- 🗣️ [國中有個男孩用籃球砸哭了我，後來他用了整個青春來賠——是去坐牢了嗎](../memes/m2189.md) ★ ⚠️ 犯罪暗示
 

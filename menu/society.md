@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 174 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 175 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（45）
 
@@ -86,7 +86,7 @@
 </tr>
 </table>
 
-## ★★（17）
+## ★★（18）
 
 <table>
 <tr>
@@ -117,6 +117,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2043.md"><img src="../images/m2043-average-ff-attendee.jpg" width="240" alt="平均 FF 參加者"></a><br><a href="../memes/m2043.md">平均 FF 參加者</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2102.md"><img src="../images/m2102-niconico-four-wonders.png" width="240" alt="ニコニコ四大不可思議"></a><br><a href="../memes/m2102.md">ニコニコ四大不可思議</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2193.md"><img src="../images/m2193-rainbow-popsicle-no-thanks.jpg" width="240" alt="Wanna try mine?——彩虹冰棒：No thanks!"></a><br><a href="../memes/m2193.md">Wanna try mine?——彩虹冰棒：No thanks!</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

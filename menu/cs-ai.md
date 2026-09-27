@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 201 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 205 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（133）
+## ★（137）
 
 <table>
 <tr>
@@ -231,6 +231,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1934.md"><img src="../images/m1934-graphing-error-index-error.png" width="240" alt="我在追不存在的 index error——真正打亂資料的是繪圖錯誤"></a><br><a href="../memes/m1934.md">我在追不存在的 index error——真正打亂資料的是繪圖錯誤</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1936.md"><img src="../images/m1936-windows-cursor-not-symmetrical.png" width="240" alt="Windows 的滑鼠游標不是對稱的"></a><br><a href="../memes/m1936.md">Windows 的滑鼠游標不是對稱的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1937.md"><img src="../images/m1937-how-old-fruity-loops-6.png" width="240" alt="How old are you?——Fruity Loops 6 燒錄光碟"></a><br><a href="../memes/m1937.md">How old are you?——Fruity Loops 6 燒錄光碟</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1941.md"><img src="../images/m1941-hacker-refreshing-10-times.png" width="240" alt="13 歲的我狂按重新整理 10 次，看起來很酷"></a><br><a href="../memes/m1941.md">13 歲的我狂按重新整理 10 次，看起來很酷</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1945.md"><img src="../images/m1945-ssd-hard-drives-upset.png" width="240" alt="If those hard drives could still read, they'd be very upset"></a><br><a href="../memes/m1945.md">If those hard drives could still read, they'd be very upset</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

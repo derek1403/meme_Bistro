@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 879 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 886 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（608）
+## ★（613）
 
 <table>
 <tr>
@@ -1022,10 +1022,19 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1928.md"><img src="../images/m1928-heart-hands-embarrassed-boy.png" width="240" alt="比愛心：他害羞到蹲在樓梯上"></a><br><a href="../memes/m1928.md">比愛心：他害羞到蹲在樓梯上</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1929.md"><img src="../images/m1929-bailu-vs-feixiao-morning.png" width="240" alt="6am 到 1pm 的早晨 vs 6am 到 7am 的早晨"></a><br><a href="../memes/m1929.md">6am 到 1pm 的早晨 vs 6am 到 7am 的早晨</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1939.md"><img src="../images/m1939-chicken-drumstick-boxing-gloves.jpg" width="240" alt="炸雞腿拳擊手套：隆"></a><br><a href="../memes/m1939.md">炸雞腿拳擊手套：隆</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1940.md"><img src="../images/m1940-too-many-interests-skill-ladder.jpg" width="240" alt="如果你有太多的興趣，你就永遠無法發揮全部潛力——等等你要去哪兒？"></a><br><a href="../memes/m1940.md">如果你有太多的興趣，你就永遠無法發揮全部潛力——等等你要去哪兒？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1943.md"><img src="../images/m1943-dad-dumps-cat-cat-drives-back.jpg" width="240" alt="爸爸去山裡扔貓，結果貓開車回來了"></a><br><a href="../memes/m1943.md">爸爸去山裡扔貓，結果貓開車回來了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1944.md"><img src="../images/m1944-marriage-certificate-no-exam.png" width="240" alt="所有證書都需要考試，為什麼只有結婚證書不用？"></a><br><a href="../memes/m1944.md">所有證書都需要考試，為什麼只有結婚證書不用？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1947.md"><img src="../images/m1947-sora-doll-assistant-kun.png" width="240" alt="小空小姐的娃娃——按壓肚子還會說話：助手君～"></a><br><a href="../memes/m1947.md">小空小姐的娃娃——按壓肚子還會說話：助手君～</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（76）
+## ★★（77）
 
 <table>
 <tr>
@@ -1155,10 +1164,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1911.md"><img src="../images/m1911-japan-goalkeeper-tea-set.jpg" width="240" alt="昨晚球場上的日本守門員"></a><br><a href="../memes/m1911.md">昨晚球場上的日本守門員</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1942.md"><img src="../images/m1942-hsr-cat-cake-sparkle-baby.jpg" width="240" alt="貓貓糕變更多了——好像有孩子了——砂金"></a><br><a href="../memes/m1942.md">貓貓糕變更多了——好像有孩子了——砂金</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（195）
+## ⚠️ 需斟酌（196）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3107,6 +3117,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1931.md"><img src="../images/m1931-taiko-manga-stick-ahh.png" width="240" alt="太鼓達人漫畫：連打——ズボッ"></a><br><a href="../memes/m1931.md">太鼓達人漫畫：連打——ズボッ</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>想像一下喝到酩酊大醉回到家，需要踏上這樣的樓梯 — ⚠️ 酒精</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1946.md"><img src="../images/m1946-floating-glass-stairs-drunk.png" width="240" alt="想像一下喝到酩酊大醉回到家，需要踏上這樣的樓梯"></a><br><a href="../memes/m1946.md">想像一下喝到酩酊大醉回到家，需要踏上這樣的樓梯</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

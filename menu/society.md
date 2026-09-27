@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 151 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（43）
 
@@ -108,7 +108,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（96）
+## ⚠️ 需斟酌（97）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1067,6 +1067,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1849.md"><img src="../images/m1849-roast-baby-model-animal-rights.png" width="240" alt="動權團體「燒烤嬰兒模型」呼籲中秋節別將動物送上烤架"></a><br><a href="../memes/m1849.md">動權團體「燒烤嬰兒模型」呼籲中秋節別將動物送上烤架</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>拉美西斯二世統治第四十年員工請假事由 — ⚠️ 屍體</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1938.md"><img src="../images/m1938-ramesses-leave-reasons.png" width="240" alt="拉美西斯二世統治第四十年員工請假事由"></a><br><a href="../memes/m1938.md">拉美西斯二世統治第四十年員工請假事由</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

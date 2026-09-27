@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 53 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 55 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（42）
+## ★（43）
 
 <table>
 <tr>
@@ -79,6 +79,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1155.md"><img src="../images/m1155-mit-statistics-new-year-asleep.png" width="240" alt="跨年夜播 MIT 統計課，新年前你就睡著了"></a><br><a href="../memes/m1155.md">跨年夜播 MIT 統計課，新年前你就睡著了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1164.md"><img src="../images/m1164-injury-vs-essay.png" width="240" alt="我實際受的傷 vs 我在作文裡寫的"></a><br><a href="../memes/m1164.md">我實際受的傷 vs 我在作文裡寫的</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1266.md"><img src="../images/m1266-exam-options-all-same.jpg" width="240" alt="什麼都沒複習就去考試時，選擇題看起來的樣子"></a><br><a href="../memes/m1266.md">什麼都沒複習就去考試時，選擇題看起來的樣子</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（5）
@@ -95,7 +98,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（6）
+## ⚠️ 需斟酌（7）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -154,6 +157,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1088.md"><img src="../images/m1088-exam-essay-dead-grandparents.png" width="240" alt="大考作文 vs 擅長堆砌詞藻、祖父母死不完的考生"></a><br><a href="../memes/m1088.md">大考作文 vs 擅長堆砌詞藻、祖父母死不完的考生</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>動漫裡的高中生活 vs 現實裡的高中生活 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1271.md"><img src="../images/m1271-anime-vs-real-high-school.png" width="240" alt="動漫裡的高中生活 vs 現實裡的高中生活"></a><br><a href="../memes/m1271.md">動漫裡的高中生活 vs 現實裡的高中生活</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

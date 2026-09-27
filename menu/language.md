@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 120 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（82）
+## ★（84）
 
 <table>
 <tr>
@@ -146,6 +146,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1256.md"><img src="../images/m1256-how-many-kinds-of-la.png" width="240" alt="你知道世上有幾種辣嗎？"></a><br><a href="../memes/m1256.md">你知道世上有幾種辣嗎？</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1265.md"><img src="../images/m1265-daze-zone-sign.png" width="240" alt="發呆區 Relaxing and Inspiration"></a><br><a href="../memes/m1265.md">發呆區 Relaxing and Inspiration</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1269.md"><img src="../images/m1269-exam-like-western-meal.png" width="240" alt="期末考跟吃西餐一樣簡單：開胃菜抓狂了"></a><br><a href="../memes/m1269.md">期末考跟吃西餐一樣簡單：開胃菜抓狂了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

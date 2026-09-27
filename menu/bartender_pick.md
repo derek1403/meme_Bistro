@@ -20,11 +20,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0741.md"><img src="../images/m0741-functions-vs-continuous.png" width="240" alt="揭穿微積分的真相：連續函數佔多少？"></a><br><a href="../memes/m0741.md">揭穿微積分的真相：連續函數佔多少？</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1215.md"><img src="../images/m1215-minion-holiday-labor.png" width="240" alt="為什麼放連假的時候不能去工作？"></a><br><a href="../memes/m1215.md">為什麼放連假的時候不能去工作？</a><br><sub>🔤 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0308.md"><img src="../images/m0308-classical-vs-quantum-doge.png" width="240" alt="古典力學 vs 量子物理"></a><br><a href="../memes/m0308.md">古典力學 vs 量子物理</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1266.md"><img src="../images/m1266-exam-options-all-same.jpg" width="240" alt="什麼都沒複習就去考試時，選擇題看起來的樣子"></a><br><a href="../memes/m1266.md">什麼都沒複習就去考試時，選擇題看起來的樣子</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m0308.md"><img src="../images/m0308-classical-vs-quantum-doge.png" width="240" alt="古典力學 vs 量子物理"></a><br><a href="../memes/m0308.md">古典力學 vs 量子物理</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0363.md"><img src="../images/m0363-coworker-fired-for-what-i-taught.png" width="240" alt="同事因為我教他的事被開除了"></a><br><a href="../memes/m0363.md">同事因為我教他的事被開除了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0960.md"><img src="../images/m0960-chihuahua-fog-reversed.jpg" width="240" alt="霧吉必反"></a><br><a href="../memes/m0960.md">霧吉必反</a><br><sub>🔤 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0007.md"><img src="../images/m0007-password-must-be-unique.png" width="240" alt="密碼必須唯一"></a><br><a href="../memes/m0007.md">密碼必須唯一</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>

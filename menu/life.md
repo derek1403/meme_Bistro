@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 508 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 514 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（343）
+## ★（348）
 
 <table>
 <tr>
@@ -581,6 +581,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1264.md"><img src="../images/m1264-tetris-selfie.png" width="240" alt="我們來自拍！大家靠近一點！"></a><br><a href="../memes/m1264.md">我們來自拍！大家靠近一點！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1267.md"><img src="../images/m1267-need-a-bag-cat.png" width="240" alt="Need a bag? Yes."></a><br><a href="../memes/m1267.md">Need a bag? Yes.</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1268.md"><img src="../images/m1268-sleeping-pill-with-coffee.jpg" width="240" alt="為什麼你吃安眠藥要配咖啡？"></a><br><a href="../memes/m1268.md">為什麼你吃安眠藥要配咖啡？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1270.md"><img src="../images/m1270-furnace-145-birthday-cake.png" width="240" alt="爐子 145 歲了，丟一個巧克力蛋糕進去慶生"></a><br><a href="../memes/m1270.md">爐子 145 歲了，丟一個巧克力蛋糕進去慶生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1274.md"><img src="../images/m1274-mythical-creature-balcony.png" width="240" alt="我一直以為這隻是個神話生物"></a><br><a href="../memes/m1274.md">我一直以為這隻是個神話生物</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1275.md"><img src="../images/m1275-horse-in-pizza-kitchen.png" width="240" alt="披薩店監視器：一匹馬衝進廚房"></a><br><a href="../memes/m1275.md">披薩店監視器：一匹馬衝進廚房</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -692,7 +699,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（104）
+## ⚠️ 需斟酌（105）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1731,6 +1738,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1262.md"><img src="../images/m1262-santa-batman-origin.png" width="240" alt="我想要像蝙蝠俠一樣"></a><br><a href="../memes/m1262.md">我想要像蝙蝠俠一樣</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>看到朋友的女友偷偷在學仰泳，真有上進心 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1273.md"><img src="../images/m1273-friends-gf-learning-backstroke.png" width="240" alt="看到朋友的女友偷偷在學仰泳，真有上進心"></a><br><a href="../memes/m1273.md">看到朋友的女友偷偷在學仰泳，真有上進心</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

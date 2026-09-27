@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 728 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 739 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（501）
+## ★（507）
 
 <table>
 <tr>
@@ -844,9 +844,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1639.md"><img src="../images/m1639-ex-dumped-six-wedding-invite.png" width="240" alt="我都甩了六個了——我下個月結婚，想邀請妳來參加"></a><br><a href="../memes/m1639.md">我都甩了六個了——我下個月結婚，想邀請妳來參加</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1644.md"><img src="../images/m1644-elsword-no-ed-travel.png" width="240" alt="當你連旅費都不剩的時候"></a><br><a href="../memes/m1644.md">當你連旅費都不剩的時候</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1650.md"><img src="../images/m1650-pill-choice-100m-mom-smile.png" width="240" alt="一億美元 vs 看到我媽媽的微笑"></a><br><a href="../memes/m1650.md">一億美元 vs 看到我媽媽的微笑</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1651.md"><img src="../images/m1651-mbti-home-p-poor.png" width="240" alt="我的 MBTI 是 home-P：剛上班就想下班的回家型人格"></a><br><a href="../memes/m1651.md">我的 MBTI 是 home-P：剛上班就想下班的回家型人格</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1656.md"><img src="../images/m1656-nap-miss-school-bus-27.png" width="240" alt="睡了個超讚的午覺，怕錯過校車——才意識到我已經 27 歲了"></a><br><a href="../memes/m1656.md">睡了個超讚的午覺，怕錯過校車——才意識到我已經 27 歲了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1657.md"><img src="../images/m1657-cathay-bank-spotify-money-sounds.png" width="240" alt="國泰世華銀行在 Spotify 上是藝人"></a><br><a href="../memes/m1657.md">國泰世華銀行在 Spotify 上是藝人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1658.md"><img src="../images/m1658-miss-girl-brick-great-wall.jpg" width="240" alt="每當我錯過一個女孩，我就在地上放一塊磚，於是便有了長城"></a><br><a href="../memes/m1658.md">每當我錯過一個女孩，我就在地上放一塊磚，於是便有了長城</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1659.md"><img src="../images/m1659-hatch-chick-shark-human.png" width="240" alt="我會啄著出去！我會奮力掙脫出去！——用力點，女人！"></a><br><a href="../memes/m1659.md">我會啄著出去！我會奮力掙脫出去！——用力點，女人！</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（68）
+## ★★（69）
 
 <table>
 <tr>
@@ -962,10 +972,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1510.md"><img src="../images/m1510-hanae-natsuki-nerd-to-teeth-mask.png" width="240" alt="書呆子、因為女孩而改變人生、牙齒面罩、同樣的聲優"></a><br><a href="../memes/m1510.md">書呆子、因為女孩而改變人生、牙齒面罩、同樣的聲優</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1570.md"><img src="../images/m1570-muscular-lucia-pearl-mermaid.png" width="240" alt="七彩的微風側著臉輕輕吹撫——肌肉版露亞"></a><br><a href="../memes/m1570.md">七彩的微風側著臉輕輕吹撫——肌肉版露亞</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1649.md"><img src="../images/m1649-i-am-not-saber.png" width="240" alt="我愛你，Saber——我再說最後一次，我不是 Saber！"></a><br><a href="../memes/m1649.md">我愛你，Saber——我再說最後一次，我不是 Saber！</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（159）
+## ⚠️ 需斟酌（163）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2554,6 +2565,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1636.md"><img src="../images/m1636-chiikawa-cable-bite-chain.png" width="240" alt="吉伊卡哇充電線保護套：兄弟拉珠"></a><br><a href="../memes/m1636.md">吉伊卡哇充電線保護套：兄弟拉珠</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>更多怪咖小知識下次見 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1648.md"><img src="../images/m1648-skeletor-flame-post-vibrator.png" width="240" alt="更多怪咖小知識下次見"></a><br><a href="../memes/m1648.md">更多怪咖小知識下次見</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你知道被你獵捕的那些動物也是有家人的嗎？——可是我沒那麼餓欸 — ⚠️ 捕食</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1652.md"><img src="../images/m1652-lion-prey-has-family.png" width="240" alt="你知道被你獵捕的那些動物也是有家人的嗎？——可是我沒那麼餓欸"></a><br><a href="../memes/m1652.md">你知道被你獵捕的那些動物也是有家人的嗎？——可是我沒那麼餓欸</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>要說幾遍！擺盤真的很重要！ — ⚠️ 動物（食用）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1654.md"><img src="../images/m1654-plating-pigeon-pose.png" width="240" alt="要說幾遍！擺盤真的很重要！"></a><br><a href="../memes/m1654.md">要說幾遍！擺盤真的很重要！</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我隔壁有個白痴一直在回答我問題 — ⚠️ 如廁</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1655.md"><img src="../images/m1655-toilet-phone-idiot-neighbor.png" width="240" alt="我隔壁有個白痴一直在回答我問題"></a><br><a href="../memes/m1655.md">我隔壁有個白痴一直在回答我問題</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

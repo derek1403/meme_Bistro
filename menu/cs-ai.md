@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 206 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 208 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（138）
 
@@ -241,7 +241,7 @@
 </tr>
 </table>
 
-## ★★（49）
+## ★★（51）
 
 <table>
 <tr>
@@ -326,6 +326,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1908.md"><img src="../images/m1908-soc-analyst-hack-my.png" width="240" alt="I am a SOC Analyst——Can you hack my——I said, SOC Analyst"></a><br><a href="../memes/m1908.md">I am a SOC Analyst——Can you hack my——I said, SOC Analyst</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1958.md"><img src="../images/m1958-software-capabilities-baby-age.png" width="240" alt="各月齡寶寶的典型軟體能力"></a><br><a href="../memes/m1958.md">各月齡寶寶的典型軟體能力</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1959.md"><img src="../images/m1959-family-mental-illness-sicp-taocp.jpg" width="240" alt="你家族有精神病史嗎？——我有個叔叔會推薦新手讀 SICP 和 TAOCP"></a><br><a href="../memes/m1959.md">你家族有精神病史嗎？——我有個叔叔會推薦新手讀 SICP 和 TAOCP</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

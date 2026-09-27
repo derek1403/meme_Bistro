@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 890 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 896 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（617）
+## ★（618）
 
 <table>
 <tr>
@@ -1037,6 +1037,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1951.md"><img src="../images/m1951-aqua-saved-kazuma-four-times.png" width="240" alt="和真總說阿庫婭沒用，但她已經在鬼門關前救回他四次"></a><br><a href="../memes/m1951.md">和真總說阿庫婭沒用，但她已經在鬼門關前救回他四次</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1953.md"><img src="../images/m1953-chiikawa-realistic-animals.png" width="240" alt="真實動物版的兔兔、小八、吉伊卡哇"></a><br><a href="../memes/m1953.md">真實動物版的兔兔、小八、吉伊卡哇</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1960.md"><img src="../images/m1960-office-numbness-symptoms.jpg" width="240" alt="辦公室常見的麻痺症狀"></a><br><a href="../memes/m1960.md">辦公室常見的麻痺症狀</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1174,7 +1175,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（196）
+## ⚠️ 需斟酌（201）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3133,6 +3134,56 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1946.md"><img src="../images/m1946-floating-glass-stairs-drunk.png" width="240" alt="想像一下喝到酩酊大醉回到家，需要踏上這樣的樓梯"></a><br><a href="../memes/m1946.md">想像一下喝到酩酊大醉回到家，需要踏上這樣的樓梯</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>他問我好喝嗎？——好喝，甜的 — ⚠️ 排泄／性虐暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1955.md"><img src="../images/m1955-urine-sweet-diabetes.jpg" width="240" alt="他問我好喝嗎？——好喝，甜的"></a><br><a href="../memes/m1955.md">他問我好喝嗎？——好喝，甜的</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>賣得貴，又難吃，我老公吃完就死了 — ⚠️ 死亡字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1956.md"><img src="../images/m1956-review-husband-died.jpg" width="240" alt="賣得貴，又難吃，我老公吃完就死了"></a><br><a href="../memes/m1956.md">賣得貴，又難吃，我老公吃完就死了</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>用這個「魔術屁股」來好好的懲罰大雄 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1957.md"><img src="../images/m1957-doraemon-magic-butt.png" width="240" alt="用這個「魔術屁股」來好好的懲罰大雄"></a><br><a href="../memes/m1957.md">用這個「魔術屁股」來好好的懲罰大雄</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>可以發張你有我沒有的部位的照片嗎？——大腦 — ⚠️ 性騷擾暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1961.md"><img src="../images/m1961-body-part-you-have-brain.jpg" width="240" alt="可以發張你有我沒有的部位的照片嗎？——大腦"></a><br><a href="../memes/m1961.md">可以發張你有我沒有的部位的照片嗎？——大腦</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我聽說這個帽子能讓雪人活過來！——我為什麼還活著？ — ⚠️ 存在恐懼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1962.md"><img src="../images/m1962-snowman-magic-hat-horror.png" width="240" alt="我聽說這個帽子能讓雪人活過來！——我為什麼還活著？"></a><br><a href="../memes/m1962.md">我聽說這個帽子能讓雪人活過來！——我為什麼還活著？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 789 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 792 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（542）
+## ★（544）
 
 <table>
 <tr>
@@ -912,6 +912,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1756.md"><img src="../images/m1756-stranger-food-drugged.png" width="240" alt="陌生人主動給的東西不要吃，可能會下藥"></a><br><a href="../memes/m1756.md">陌生人主動給的東西不要吃，可能會下藥</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1758.md"><img src="../images/m1758-dislike-as-kid-accept-adult.png" width="240" alt="有什麼是你們小時候不喜歡，長大後卻接受了？"></a><br><a href="../memes/m1758.md">有什麼是你們小時候不喜歡，長大後卻接受了？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1760.md"><img src="../images/m1760-no-savings-no-scam.jpg" width="240" alt="沒有道德就不會被綁架，沒有存款就不會被詐騙"></a><br><a href="../memes/m1760.md">沒有道德就不會被綁架，沒有存款就不會被詐騙</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1766.md"><img src="../images/m1766-everything-on-track.png" width="240" alt="還行，一切都在軌道上——軌道"></a><br><a href="../memes/m1766.md">還行，一切都在軌道上——軌道</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1040,7 +1044,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（175）
+## ⚠️ 需斟酌（176）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2789,6 +2793,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1753.md"><img src="../images/m1753-brain-self-destruct-button.png" width="240" alt="問題多到我處理不了——或者按自我毀滅"></a><br><a href="../memes/m1753.md">問題多到我處理不了——或者按自我毀滅</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你是在想，不接吻也不做色色的事，這樣交往下去根本沒意義，對吧？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1762.md"><img src="../images/m1762-no-kiss-no-lewd-pointless.jpg" width="240" alt="你是在想，不接吻也不做色色的事，這樣交往下去根本沒意義，對吧？"></a><br><a href="../memes/m1762.md">你是在想，不接吻也不做色色的事，這樣交往下去根本沒意義，對吧？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

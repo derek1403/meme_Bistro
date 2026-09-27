@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 186 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 190 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（127）
+## ★（128）
 
 <table>
 <tr>
@@ -221,10 +221,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1722.md"><img src="../images/m1722-fortune-go-south-too-kaobei.jpg" width="240" alt="解籤的說我只要往南發展就會有姻緣——你看，你就是太靠北了"></a><br><a href="../memes/m1722.md">解籤的說我只要往南發展就會有姻緣——你看，你就是太靠北了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1764.md"><img src="../images/m1764-minus-four-three-fuji.jpg" width="240" alt="第三題答案多少？(-4,3)——富士山"></a><br><a href="../memes/m1764.md">第三題答案多少？(-4,3)——富士山</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（15）
+## ★★（16）
 
 <table>
 <tr>
@@ -252,9 +253,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1613.md"><img src="../images/m1613-fukuhara-ai-amnesia.png" width="240" alt="福原愛如果失憶，第一句話會講出什麼？"></a><br><a href="../memes/m1613.md">福原愛如果失憶，第一句話會講出什麼？</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1675.md"><img src="../images/m1675-scooter-grip-try-excel.png" width="240" alt="這是要我握哪裡？——用握的不行那試試 excel？"></a><br><a href="../memes/m1675.md">這是要我握哪裡？——用握的不行那試試 excel？</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1769.md"><img src="../images/m1769-fb-name-lin-bei-hen-qiu.png" width="240" alt="Facebook 名字：姓林北，名很秋——不是很秋嗎？"></a><br><a href="../memes/m1769.md">Facebook 名字：姓林北，名很秋——不是很秋嗎？</a><br><sub>🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（44）
+## ⚠️ 需斟酌（46）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -693,6 +697,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1719.md"><img src="../images/m1719-noob-antonym.png" width="240" alt="菜逼的反義詞是肉棒嗎"></a><br><a href="../memes/m1719.md">菜逼的反義詞是肉棒嗎</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>為什麼中世紀要燒死女巫？——因為這樣就能得到一個死 witch — ⚠️ 死亡字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1763.md"><img src="../images/m1763-burn-witch-switch.jpg" width="240" alt="為什麼中世紀要燒死女巫？——因為這樣就能得到一個死 witch"></a><br><a href="../memes/m1763.md">為什麼中世紀要燒死女巫？——因為這樣就能得到一個死 witch</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>水深 8 米，已經淹死 2 人，你想做第 3 人嗎 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1767.md"><img src="../images/m1767-water-8m-third-place.png" width="240" alt="水深 8 米，已經淹死 2 人，你想做第 3 人嗎"></a><br><a href="../memes/m1767.md">水深 8 米，已經淹死 2 人，你想做第 3 人嗎</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

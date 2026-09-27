@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 74 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 75 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（57）
+## ★（58）
 
 <table>
 <tr>
@@ -103,6 +103,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1679.md"><img src="../images/m1679-extreme-sport-homework.jpg" width="240" alt="說一項極限運動——在老師收作業的時候寫作業"></a><br><a href="../memes/m1679.md">說一項極限運動——在老師收作業的時候寫作業</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1714.md"><img src="../images/m1714-amazing-paper-idea-no-time.png" width="240" alt="這會是一篇超棒的論文——如果我有時間寫的話"></a><br><a href="../memes/m1714.md">這會是一篇超棒的論文——如果我有時間寫的話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1732.md"><img src="../images/m1732-8am-class-must-slumber.png" width="240" alt="Students at 8am class after finishing their paper at 7:45am"></a><br><a href="../memes/m1732.md">Students at 8am class after finishing their paper at 7:45am</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1765.md"><img src="../images/m1765-match-colors-grayscale.jpg" width="240" alt="把單詞和相應的顏色搭配起來"></a><br><a href="../memes/m1765.md">把單詞和相應的顏色搭配起來</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 139 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（37）
 
@@ -74,7 +74,7 @@
 </tr>
 </table>
 
-## ★★（10）
+## ★★（11）
 
 <table>
 <tr>
@@ -94,6 +94,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1744.md"><img src="../images/m1744-ma-huateng-game-clothes-quote.jpg" width="240" alt="遊戲裡的衣服不用洗，貴有貴的大道理——馬化騰"></a><br><a href="../memes/m1744.md">遊戲裡的衣服不用洗，貴有貴的大道理——馬化騰</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1759.md"><img src="../images/m1759-boston-tea-party-crab.png" width="240" alt="美國人把 50 箱茶葉扔進波士頓港——海底的螃蟹"></a><br><a href="../memes/m1759.md">美國人把 50 箱茶葉扔進波士頓港——海底的螃蟹</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

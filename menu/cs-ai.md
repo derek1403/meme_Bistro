@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 181 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 182 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（118）
 
@@ -209,7 +209,7 @@
 </tr>
 </table>
 
-## ★★（46）
+## ★★（47）
 
 <table>
 <tr>
@@ -289,6 +289,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1723.md"><img src="../images/m1723-calvin-ai-slop-transformer.png" width="240" alt="How do they generate AI slop, Dad?"></a><br><a href="../memes/m1723.md">How do they generate AI slop, Dad?</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1768.md"><img src="../images/m1768-drawer-wont-open-transformer.png" width="240" alt="The "why won't this damn drawer open" starter pack"></a><br><a href="../memes/m1768.md">The "why won't this damn drawer open" starter pack</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

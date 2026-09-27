@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 625 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 630 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（426）
+## ★（429）
 
 <table>
 <tr>
@@ -719,6 +719,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1458.md"><img src="../images/m1458-mother-in-law-dog-bowl.jpg" width="240" alt="為什麼你們的狗一直看著我？"></a><br><a href="../memes/m1458.md">為什麼你們的狗一直看著我？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1460.md"><img src="../images/m1460-so-what-anime-lines.png" width="240" alt="是又怎麼樣呢——是又怎樣"></a><br><a href="../memes/m1460.md">是又怎麼樣呢——是又怎樣</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1466.md"><img src="../images/m1466-dentist-tell-me-dont-talk.png" width="240" alt="牙醫：會痛要講——也是牙醫：我在治療別講話"></a><br><a href="../memes/m1466.md">牙醫：會痛要講——也是牙醫：我在治療別講話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1470.md"><img src="../images/m1470-cat-breaks-doraemon-lego.png" width="240" alt="貓打翻了哆啦 A 夢積木——被塗成藍色"></a><br><a href="../memes/m1470.md">貓打翻了哆啦 A 夢積木——被塗成藍色</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1472.md"><img src="../images/m1472-perry-social-skill.png" width="240" alt="我最擅長的社交技能：全神貫注聽別人講話同時大腦放空"></a><br><a href="../memes/m1472.md">我最擅長的社交技能：全神貫注聽別人講話同時大腦放空</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（65）
@@ -835,7 +840,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（134）
+## ⚠️ 需斟酌（136）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2174,6 +2179,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1462.md"><img src="../images/m1462-2b-collab-comparison.jpg" width="240" alt="2B：與虹彩六號合作 vs 與劍星合作"></a><br><a href="../memes/m1462.md">2B：與虹彩六號合作 vs 與劍星合作</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>巴麻美抱枕：身體和頭分開賣 — ⚠️ 死亡暗示（斬首）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1467.md"><img src="../images/m1467-mami-body-pillow.jpg" width="240" alt="巴麻美抱枕：身體和頭分開賣"></a><br><a href="../memes/m1467.md">巴麻美抱枕：身體和頭分開賣</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>爵士舞教室 Logo 被客戶看成了胸部 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1473.md"><img src="../images/m1473-jazz-dance-logo-chest.jpg" width="240" alt="爵士舞教室 Logo 被客戶看成了胸部"></a><br><a href="../memes/m1473.md">爵士舞教室 Logo 被客戶看成了胸部</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

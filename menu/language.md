@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 146 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（96）
+## ★（99）
 
 <table>
 <tr>
@@ -169,6 +169,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1448.md"><img src="../images/m1448-cancel-zodiac-oxen-horses.png" width="240" alt="覺得其實可以取消十二生肖了"></a><br><a href="../memes/m1448.md">覺得其實可以取消十二生肖了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1461.md"><img src="../images/m1461-dida-dida-huala-huala.png" width="240" alt="滴水之恩當湧泉相報：you dida dida me, I huala huala U"></a><br><a href="../memes/m1461.md">滴水之恩當湧泉相報：you dida dida me, I huala huala U</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1464.md"><img src="../images/m1464-samoyed-yeah-ai.png" width="240" alt="薩摩耶 vs 薩摩唉"></a><br><a href="../memes/m1464.md">薩摩耶 vs 薩摩唉</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1465.md"><img src="../images/m1465-macaron-horse-cage.png" width="240" alt="你有沒有什麼喜歡的東西？馬卡龍吧——來不及了"></a><br><a href="../memes/m1465.md">你有沒有什麼喜歡的東西？馬卡龍吧——來不及了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1468.md"><img src="../images/m1468-resume-eat-mcdonalds.jpg" width="240" alt="別人的履歷：吃苦耐勞；我的履歷：吃麥當勞"></a><br><a href="../memes/m1468.md">別人的履歷：吃苦耐勞；我的履歷：吃麥當勞</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（12）
@@ -196,7 +201,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（38）
+## ⚠️ 需斟酌（39）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -575,6 +580,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1436.md"><img src="../images/m1436-dandadan-balls-kinyutang.jpg" width="240" alt="想找回你的蛋蛋？它就藏在台灣一個地方：金玉堂"></a><br><a href="../memes/m1436.md">想找回你的蛋蛋？它就藏在台灣一個地方：金玉堂</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我學的是法律，不是法術 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1471.md"><img src="../images/m1471-law-not-magic-ritual.png" width="240" alt="我學的是法律，不是法術"></a><br><a href="../memes/m1471.md">我學的是法律，不是法術</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

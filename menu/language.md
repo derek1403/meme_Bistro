@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 142 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 144 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（94）
 
@@ -169,7 +169,7 @@
 </tr>
 </table>
 
-## ★★（11）
+## ★★（12）
 
 <table>
 <tr>
@@ -190,10 +190,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0771.md"><img src="../images/m0771-japanese-taiwanese-chat.png" width="240" alt="用日文打台語"></a><br><a href="../memes/m0771.md">用日文打台語</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1332.md"><img src="../images/m1332-our-relationship-counter.png" width="240" alt="我們（our）之間的關係，已成為對立（counter）"></a><br><a href="../memes/m1332.md">我們（our）之間的關係，已成為對立（counter）</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1437.md"><img src="../images/m1437-soyo-ignore-light-crossing.png" width="240" alt="那傢伙竟然敢無視燈（Q 版）"></a><br><a href="../memes/m1437.md">那傢伙竟然敢無視燈（Q 版）</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（37）
+## ⚠️ 需斟酌（38）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -562,6 +563,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1399.md"><img src="../images/m1399-zainichi-chinese-translate.jpg" width="240" alt="在日中国人 → Fucking Chinese"></a><br><a href="../memes/m1399.md">在日中国人 → Fucking Chinese</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>想找回你的蛋蛋？它就藏在台灣一個地方：金玉堂 — ⚠️ 性器官暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1436.md"><img src="../images/m1436-dandadan-balls-kinyutang.jpg" width="240" alt="想找回你的蛋蛋？它就藏在台灣一個地方：金玉堂"></a><br><a href="../memes/m1436.md">想找回你的蛋蛋？它就藏在台灣一個地方：金玉堂</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

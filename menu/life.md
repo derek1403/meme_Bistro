@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 609 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 614 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（413）
+## ★（417）
 
 <table>
 <tr>
@@ -697,6 +697,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1426.md"><img src="../images/m1426-brother-single-for-my-wealth.png" width="240" alt="希望能用我兄弟的十年單身換取我的榮華富貴"></a><br><a href="../memes/m1426.md">希望能用我兄弟的十年單身換取我的榮華富貴</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1429.md"><img src="../images/m1429-plush-selfie-hachiware.jpg" width="240" alt="發張自拍"></a><br><a href="../memes/m1429.md">發張自拍</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1432.md"><img src="../images/m1432-mcdonalds-lethal-salt.png" width="240" alt="在麥當勞要求多加鹽，拿到了致死量的鹽"></a><br><a href="../memes/m1432.md">在麥當勞要求多加鹽，拿到了致死量的鹽</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1433.md"><img src="../images/m1433-quit-company-hired-three.png" width="240" alt="公司多請了三個人才補得上你的缺"></a><br><a href="../memes/m1433.md">公司多請了三個人才補得上你的缺</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1434.md"><img src="../images/m1434-beer-can-choir-christmas.png" width="240" alt="太節省連聖誕裝飾都不想買時"></a><br><a href="../memes/m1434.md">太節省連聖誕裝飾都不想買時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1439.md"><img src="../images/m1439-pig-eats-a-lot-sushi.png" width="240" alt="吃那麼多，他是豬哦？"></a><br><a href="../memes/m1439.md">吃那麼多，他是豬哦？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -814,7 +820,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（131）
+## ⚠️ 需斟酌（132）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2123,6 +2129,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1427.md"><img src="../images/m1427-santa-unicorn-or-be-loved.jpg" width="240" alt="孩子你要說個現實一點的——我想被愛"></a><br><a href="../memes/m1427.md">孩子你要說個現實一點的——我想被愛</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我：*帳戶餘額不足*——正在給我紋身的人 — ⚠️ 血腥暗示（剝皮）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1430.md"><img src="../images/m1430-tattoo-insufficient-balance.jpg" width="240" alt="我：*帳戶餘額不足*——正在給我紋身的人"></a><br><a href="../memes/m1430.md">我：*帳戶餘額不足*——正在給我紋身的人</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

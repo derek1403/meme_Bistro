@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 118 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（53）
 
@@ -184,7 +184,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（21）
+## ⚠️ 需斟酌（22）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -393,6 +393,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1401.md"><img src="../images/m1401-okuu-uranium-235.png" width="240" alt="她在 6 歲時被迫吃下同位素鈾-235"></a><br><a href="../memes/m1401.md">她在 6 歲時被迫吃下同位素鈾-235</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我在事故中失去了右腦——天啊我無法想像——我也是 — ⚠️ 身體殘缺</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1435.md"><img src="../images/m1435-lost-right-brain.jpg" width="240" alt="我在事故中失去了右腦——天啊我無法想像——我也是"></a><br><a href="../memes/m1435.md">我在事故中失去了右腦——天啊我無法想像——我也是</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

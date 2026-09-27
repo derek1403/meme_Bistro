@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 115 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 116 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（25）
 
@@ -72,7 +72,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（83）
+## ⚠️ 需斟酌（84）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -901,6 +901,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1417.md"><img src="../images/m1417-customs-chief-confiscated.jpg" width="240" alt="公正廉潔的海關大樓：局長，我們扣了一箱……給您嚐個鮮"></a><br><a href="../memes/m1417.md">公正廉潔的海關大樓：局長，我們扣了一箱……給您嚐個鮮</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>世界の問題解決方法 — ⚠️ 國家刻板印象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1431.md"><img src="../images/m1431-world-problem-solving.jpg" width="240" alt="世界の問題解決方法"></a><br><a href="../memes/m1431.md">世界の問題解決方法</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

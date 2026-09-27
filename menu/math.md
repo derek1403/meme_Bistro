@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 273 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 278 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（89）
 
@@ -160,7 +160,7 @@
 </tr>
 </table>
 
-## ★★（117）
+## ★★（122）
 
 <table>
 <tr>
@@ -357,6 +357,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2195.md"><img src="../images/m2195-pi-ei-plus-one-not-zero.png" width="240" alt="最優美的數學不等式：π^(ei) + 1 ≠ 0"></a><br><a href="../memes/m2195.md">最優美的數學不等式：π^(ei) + 1 ≠ 0</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2223.md"><img src="../images/m2223-rigorous-proof-power-strip.png" width="240" alt="我第一次嘗試做出嚴謹的證明——延長線插自己"></a><br><a href="../memes/m2223.md">我第一次嘗試做出嚴謹的證明——延長線插自己</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2229.md"><img src="../images/m2229-pi-day-july-22.png" width="240" alt="Pi day should be moved to July 22"></a><br><a href="../memes/m2229.md">Pi day should be moved to July 22</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2279.md"><img src="../images/m2279-fermat-proof-infinite-loop.png" width="240" alt="朋友：我找到費馬最後定理的證明了——for a in range(1, infinity)"></a><br><a href="../memes/m2279.md">朋友：我找到費馬最後定理的證明了——for a in range(1, infinity)</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2281.md"><img src="../images/m2281-analysis-boys-epsilon-half.png" width="240" alt="Me and the boys preparing to solve an analysis problem"></a><br><a href="../memes/m2281.md">Me and the boys preparing to solve an analysis problem</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2282.md"><img src="../images/m2282-ol-reliable-nilpotent-matrix.png" width="240" alt="When you need a counterexample in linear algebra——Ol' Reliable"></a><br><a href="../memes/m2282.md">When you need a counterexample in linear algebra——Ol' Reliable</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2283.md"><img src="../images/m2283-swap-integral-sum-monster.png" width="240" alt="∫Σ = Σ∫：物理學家無感，數學家尖叫"></a><br><a href="../memes/m2283.md">∫Σ = Σ∫：物理學家無感，數學家尖叫</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2289.md"><img src="../images/m2289-fenugreek-riemann-hypothesis.png" width="240" alt="證明黎曼猜想就送你一包葫蘆巴籽"></a><br><a href="../memes/m2289.md">證明黎曼猜想就送你一包葫蘆巴籽</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

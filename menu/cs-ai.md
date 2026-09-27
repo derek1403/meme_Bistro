@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 253 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 260 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（174）
+## ★（180）
 
 <table>
 <tr>
@@ -299,9 +299,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2252.md"><img src="../images/m2252-turn-off-pc-windows-update.png" width="240" alt="Me：Turn off PC——Windows Update："></a><br><a href="../memes/m2252.md">Me：Turn off PC——Windows Update：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2270.md"><img src="../images/m2270-netflix-dad-install-updates.png" width="240" alt="把「Dad」改名成「Install Windows Updates Now」"></a><br><a href="../memes/m2270.md">把「Dad」改名成「Install Windows Updates Now」</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2272.md"><img src="../images/m2272-var-installing-windows-11.png" width="240" alt="裁判跑去看 VAR——畫面：Installing Windows 11，24%"></a><br><a href="../memes/m2272.md">裁判跑去看 VAR——畫面：Installing Windows 11，24%</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2285.md"><img src="../images/m2285-google-translate-hello-world-java.png" width="240" alt="Google 翻譯：hello world → Java"></a><br><a href="../memes/m2285.md">Google 翻譯：hello world → Java</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2287.md"><img src="../images/m2287-visual-studio-does-well-crash.png" width="240" alt="What does Visual Studio do really well?——Crash"></a><br><a href="../memes/m2287.md">What does Visual Studio do really well?——Crash</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2288.md"><img src="../images/m2288-if-else-if-motorbike-push.png" width="240" alt="If、Else if、Else if、Else if——Return"></a><br><a href="../memes/m2288.md">If、Else if、Else if、Else if——Return</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2290.md"><img src="../images/m2290-two-weeks-forgot-30-years.png" width="240" alt="Two weeks without coding and I've forgotten 30 years of experience"></a><br><a href="../memes/m2290.md">Two weeks without coding and I've forgotten 30 years of experience</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2293.md"><img src="../images/m2293-web-tech-vs-government-sites.png" width="240" alt="現在的網頁技術 vs 政府網站"></a><br><a href="../memes/m2293.md">現在的網頁技術 vs 政府網站</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（59）
+## ★★（60）
 
 <table>
 <tr>
@@ -402,6 +412,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2180.md"><img src="../images/m2180-chatgpt-eat-a-clock.png" width="240" alt="Have you ever tried to eat a clock?——No.——Okay."></a><br><a href="../memes/m2180.md">Have you ever tried to eat a clock?——No.——Okay.</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2215.md"><img src="../images/m2215-crowdstrike-patch-first-day.png" width="240" alt="我到職第一天就把 patch 推上 production——在 CrowdStrike"></a><br><a href="../memes/m2215.md">我到職第一天就把 patch 推上 production——在 CrowdStrike</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2273.md"><img src="../images/m2273-html-unplugged-controller.png" width="240" alt="PHP、JavaScript、HTML 一起打電動——HTML 的手把根本沒插"></a><br><a href="../memes/m2273.md">PHP、JavaScript、HTML 一起打電動——HTML 的手把根本沒插</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

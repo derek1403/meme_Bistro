@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 182 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 183 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（47）
 
@@ -125,7 +125,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（117）
+## ⚠️ 需斟酌（118）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1294,6 +1294,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2269.md"><img src="../images/m2269-colonial-europe-labels-brain.png" width="240" alt="科學家怎麼標註大腦 vs 殖民時期歐洲怎麼標註大腦"></a><br><a href="../memes/m2269.md">科學家怎麼標註大腦 vs 殖民時期歐洲怎麼標註大腦</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>莉可麗絲版的舉拳照 — ⚠️ 暗指槍擊事件</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2292.md"><img src="../images/m2292-lycoris-recoil-rally-fist.png" width="240" alt="莉可麗絲版的舉拳照"></a><br><a href="../memes/m2292.md">莉可麗絲版的舉拳照</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（225）](#hardcore)
-- [👀 直觀（1676）](#intuitive)
-- [🔤 諧音／文字梗（326）](#pun)
-- [🔥 地獄梗（188）](#dark)
+- [🧠 硬核（230）](#hardcore)
+- [👀 直觀（1693）](#intuitive)
+- [🔤 諧音／文字梗（327）](#pun)
+- [🔥 地獄梗（189）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（225）
+## 🧠 硬核（230）
 
 要有學科背景才笑得出來
 
@@ -240,10 +240,15 @@
 - 🧮 [F(x) 與 F⁻¹(x)：貓吃魚，魚吃貓](../memes/m2207.md) ★
 - 🧮 [我第一次嘗試做出嚴謹的證明——延長線插自己](../memes/m2223.md) ★★
 - 🧮 [Pi day should be moved to July 22](../memes/m2229.md) ★★
+- 🧮 [朋友：我找到費馬最後定理的證明了——for a in range(1, infinity)](../memes/m2279.md) ★★
+- 🧮 [Me and the boys preparing to solve an analysis problem](../memes/m2281.md) ★★
+- 🧮 [When you need a counterexample in linear algebra——Ol' Reliable](../memes/m2282.md) ★★
+- 🧮 [∫Σ = Σ∫：物理學家無感，數學家尖叫](../memes/m2283.md) ★★
+- 🧮 [證明黎曼猜想就送你一包葫蘆巴籽](../memes/m2289.md) ★★
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1676）
+## 👀 直觀（1693）
 
 看圖就懂
 
@@ -1923,10 +1928,27 @@
 - 🍺 [約翰明天有 3 篇論文、2 個考試還要洗碗——約翰決定睡覺](../memes/m2267.md) ★
 - 🍺 [Chiikawa_fans 壓克力卡：烏薩奇在吃你的拉麵](../memes/m2268.md) ★
 - 💻 [把「Dad」改名成「Install Windows Updates Now」](../memes/m2270.md) ★
+- 🍺 [房東太太跟我說套房有浴缸](../memes/m2271.md) ★
+- 💻 [裁判跑去看 VAR——畫面：Installing Windows 11，24%](../memes/m2272.md) ★
+- 💻 [PHP、JavaScript、HTML 一起打電動——HTML 的手把根本沒插](../memes/m2273.md) ★★
+- 🍺 [你們沒在交往？那根本算不上劈腿啊——這只是單純的失戀吧](../memes/m2274.md) ★
+- 🍺 [你們為什麼會分手？——說來話長——語音 12:55:02](../memes/m2275.md) ★
+- 🍺 [5 歲的我：要當大富翁——現在的我：這樣就不用買蓮蓬頭了](../memes/m2277.md) ★
+- 🍺 [一大群人唱生日快樂歌的感覺就像](../memes/m2278.md) ★
+- 🎓 [The floor is proofs——physicists](../memes/m2280.md) ★
+- 🍺 [你犯了一個錯會下地獄，為什麼不犯下一百萬個錯成為傳奇](../memes/m2284.md) ★
+- 💻 [Google 翻譯：hello world → Java](../memes/m2285.md) ★
+- 💻 [What does Visual Studio do really well?——Crash](../memes/m2287.md) ★
+- 💻 [If、Else if、Else if、Else if——Return](../memes/m2288.md) ★
+- 💻 [Two weeks without coding and I've forgotten 30 years of experience](../memes/m2290.md) ★
+- 🍺 [貨車玉米粒傾瀉滿地——10 分鐘之後](../memes/m2291.md) ★
+- 🌍 [莉可麗絲版的舉拳照](../memes/m2292.md) ★★ ⚠️ 暗指槍擊事件
+- 💻 [現在的網頁技術 vs 政府網站](../memes/m2293.md) ★
+- 🍺 [15 年前：收到信嘆氣、收到 email 開心——今天反過來](../memes/m2294.md) ★
 
 <a id="pun"></a>
 
-## 🔤 諧音／文字梗（326）
+## 🔤 諧音／文字梗（327）
 
 雙關、諧音、字面意思
 
@@ -2256,10 +2278,11 @@
 - 💻 [Don't fart in an Apple Store——They don't have Windows](../memes/m2244.md) ★
 - 🗣️ [What has 4 letters, sometimes 9 letters, but never has 5 letters](../memes/m2247.md) ★★
 - 🗣️ [出去玩是很爽沒錯，但能在家棒賽是無價的](../memes/m2258.md) ★★
+- 🗣️ [舞龍經費有限，只好改用水龍頭](../memes/m2276.md) ★
 
 <a id="dark"></a>
 
-## 🔥 地獄梗（188）
+## 🔥 地獄梗（189）
 
 拿敏感題材開玩笑，請斟酌
 
@@ -2451,4 +2474,5 @@
 - 🌍 [2050 年：當你點了一份魚肉漢堡](../memes/m2250.md) ★ ⚠️ 環境災難
 - 🍺 [This is Bear——You need protein——Bear becomes an omnivore](../memes/m2266.md) ★ ⚠️ 動物被吃
 - 🌍 [科學家怎麼標註大腦 vs 殖民時期歐洲怎麼標註大腦](../memes/m2269.md) ★★ ⚠️ 殖民歷史
+- 🍺 [骷髏們的恐怖片：一隻狗叼著一根骨頭](../memes/m2286.md) ★ ⚠️ 骷髏
 

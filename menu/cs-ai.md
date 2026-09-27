@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 189 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 191 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（124）
+## ★（125）
 
 <table>
 <tr>
@@ -216,6 +216,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1839.md"><img src="../images/m1839-caught-two-computer-viruses.png" width="240" alt="我家常常有電腦病毒，剛剛才抓到兩隻"></a><br><a href="../memes/m1839.md">我家常常有電腦病毒，剛剛才抓到兩隻</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1872.md"><img src="../images/m1872-release-backend-only-watch.png" width="240" alt="後端做完了，前端還在做——那就把現有的先發佈"></a><br><a href="../memes/m1872.md">後端做完了，前端還在做——那就把現有的先發佈</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -303,7 +304,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（18）
+## ⚠️ 需斟酌（19）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -482,6 +483,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1852.md"><img src="../images/m1852-html-not-programming-language.png" width="240" alt="等一下寶貝，有人在臉書說 HTML 不是程式語言"></a><br><a href="../memes/m1852.md">等一下寶貝，有人在臉書說 HTML 不是程式語言</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Don't shoot, I'm software developer——Shoot — ⚠️ 槍擊暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1865.md"><img src="../images/m1865-dont-shoot-software-developer.png" width="240" alt="Don't shoot, I'm software developer——Shoot"></a><br><a href="../memes/m1865.md">Don't shoot, I'm software developer——Shoot</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

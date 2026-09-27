@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 145 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 146 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（65）
+## ★（66）
 
 <table>
 <tr>
@@ -117,6 +117,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1826.md"><img src="../images/m1826-finland-shaped-lake.png" width="240" alt="在芬蘭有個長得像芬蘭的湖"></a><br><a href="../memes/m1826.md">在芬蘭有個長得像芬蘭的湖</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1827.md"><img src="../images/m1827-moon-reflects-sunlight-vampire.png" width="240" alt="現在沒有太陽我不怕你——月亮反射的是太陽光"></a><br><a href="../memes/m1827.md">現在沒有太陽我不怕你——月亮反射的是太陽光</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1864.md"><img src="../images/m1864-fat-is-full-of-energy.png" width="240" alt="你不胖，你只是充滿能量！"></a><br><a href="../memes/m1864.md">你不胖，你只是充滿能量！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

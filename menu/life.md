@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 838 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 845 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（577）
+## ★（584）
 
 <table>
 <tr>
@@ -971,6 +971,17 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1857.md"><img src="../images/m1857-seal-nightmare-2024.jpg" width="240" alt="你醒啦？你剛剛做噩夢了——但我們是海豹啊"></a><br><a href="../memes/m1857.md">你醒啦？你剛剛做噩夢了——但我們是海豹啊</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1862.md"><img src="../images/m1862-cat-under-food-cover.jpg" width="240" alt="當家裡只剩一個飯菜罩子"></a><br><a href="../memes/m1862.md">當家裡只剩一個飯菜罩子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1863.md"><img src="../images/m1863-inflation-four-items-4090.png" width="240" alt="通膨是真的嚴重，我買了這四樣東西就花了我六萬多塊"></a><br><a href="../memes/m1863.md">通膨是真的嚴重，我買了這四樣東西就花了我六萬多塊</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1866.md"><img src="../images/m1866-anime-is-not-cartoon.png" width="240" alt="動漫不是卡通，請別將兩者混為一談"></a><br><a href="../memes/m1866.md">動漫不是卡通，請別將兩者混為一談</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1867.md"><img src="../images/m1867-tree-kid-wants-ornaments.png" width="240" alt="小樹想要吊飾——長大就會有了"></a><br><a href="../memes/m1867.md">小樹想要吊飾——長大就會有了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1869.md"><img src="../images/m1869-friendship-phone-case-yellow.jpg" width="240" alt="結交朋友：剛相處時 vs 一段時間後"></a><br><a href="../memes/m1869.md">結交朋友：剛相處時 vs 一段時間後</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1870.md"><img src="../images/m1870-cat-bread-lie-flat.jpg" width="240" alt="未成熟的小麵包，現在只想安安靜靜的躺著"></a><br><a href="../memes/m1870.md">未成熟的小麵包，現在只想安安靜靜的躺著</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1871.md"><img src="../images/m1871-pomelo-dont-like-love.jpg" width="240" alt="謝謝我不喜歡吃柚子——謝謝我好愛吃柚子"></a><br><a href="../memes/m1871.md">謝謝我不喜歡吃柚子——謝謝我好愛吃柚子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

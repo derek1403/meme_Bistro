@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（141）
+## ★（142）
 
 <table>
 <tr>
@@ -243,6 +243,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1835.md"><img src="../images/m1835-feed-deer-salty.png" width="240" alt="鹿吃那麼鹹喔？"></a><br><a href="../memes/m1835.md">鹿吃那麼鹹喔？</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1836.md"><img src="../images/m1836-gui-xi-lang-plumber.png" width="240" alt="沒有經濟基礎，不能找他們——桂西郎水電行"></a><br><a href="../memes/m1836.md">沒有經濟基礎，不能找他們——桂西郎水電行</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1856.md"><img src="../images/m1856-goose-children-sign.png" width="240" alt="注意鵝童"></a><br><a href="../memes/m1856.md">注意鵝童</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1861.md"><img src="../images/m1861-recipient-life-typo.jpg" width="240" alt="我需要取件人性命——雖然我不知道我做錯了什麼，但我先道歉"></a><br><a href="../memes/m1861.md">我需要取件人性命——雖然我不知道我做錯了什麼，但我先道歉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

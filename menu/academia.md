@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 69 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 70 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（54）
+## ★（55）
 
 <table>
 <tr>
@@ -98,6 +98,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1604.md"><img src="../images/m1604-teachers-trust-each-other.jpg" width="240" alt="大概是世界上最互相信任的兩個人"></a><br><a href="../memes/m1604.md">大概是世界上最互相信任的兩個人</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1645.md"><img src="../images/m1645-library-rats-rule-universe.jpg" width="240" alt="請不要將食物帶入圖書館：老鼠會考上大學然後統治宇宙"></a><br><a href="../memes/m1645.md">請不要將食物帶入圖書館：老鼠會考上大學然後統治宇宙</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1647.md"><img src="../images/m1647-unread-pdfs-backpack.png" width="240" alt="The unread saved PDFs in my computer"></a><br><a href="../memes/m1647.md">The unread saved PDFs in my computer</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1679.md"><img src="../images/m1679-extreme-sport-homework.jpg" width="240" alt="說一項極限運動——在老師收作業的時候寫作業"></a><br><a href="../memes/m1679.md">說一項極限運動——在老師收作業的時候寫作業</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

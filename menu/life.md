@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 747 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 754 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（513）
+## ★（520）
 
 <table>
 <tr>
@@ -863,6 +863,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1669.md"><img src="../images/m1669-wolf-blows-milk-pigs.png" width="240" alt="不然我就要吹你們的房子——吹進煙囪的是牛奶"></a><br><a href="../memes/m1669.md">不然我就要吹你們的房子——吹進煙囪的是牛奶</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1670.md"><img src="../images/m1670-dresser-leaning-woman.jpg" width="240" alt="扶牆嘔吐的五斗櫃"></a><br><a href="../memes/m1670.md">扶牆嘔吐的五斗櫃</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1671.md"><img src="../images/m1671-polar-bear-lost-penguin.jpg" width="240" alt="北極熊看尋找企鵝的告示"></a><br><a href="../memes/m1671.md">北極熊看尋找企鵝的告示</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1672.md"><img src="../images/m1672-ketchup-not-tasty-faces.jpg" width="240" alt="用番茄醬寫「不好吃」"></a><br><a href="../memes/m1672.md">用番茄醬寫「不好吃」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1673.md"><img src="../images/m1673-fat-tiger-painting-prophecy.png" width="240" alt="他出現了，正如畫中所預言的那樣"></a><br><a href="../memes/m1673.md">他出現了，正如畫中所預言的那樣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1674.md"><img src="../images/m1674-mealtime-menu-overwhelm.png" width="240" alt="吃飯時間又到了：不知道要吃什麼的我 vs 店家菜單"></a><br><a href="../memes/m1674.md">吃飯時間又到了：不知道要吃什麼的我 vs 店家菜單</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1676.md"><img src="../images/m1676-born-2000-vs-1999.png" width="240" alt="2000 年出生的人 vs 1999 年出生的人"></a><br><a href="../memes/m1676.md">2000 年出生的人 vs 1999 年出生的人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1678.md"><img src="../images/m1678-pepe-beauty-filter-stages.jpg" width="240" alt="原版 → 美顏 → 留長髮 → 學會化妝"></a><br><a href="../memes/m1678.md">原版 → 美顏 → 留長髮 → 學會化妝</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1680.md"><img src="../images/m1680-taxi-ten-years-no-price-rise.jpg" width="240" alt="說出一個十年都沒漲價的東西，本次乘車不用錢"></a><br><a href="../memes/m1680.md">說出一個十年都沒漲價的東西，本次乘車不用錢</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1681.md"><img src="../images/m1681-cat-seasons-life.png" width="240" alt="我不是叫你帶調味料嗎？——牠是調味生活的"></a><br><a href="../memes/m1681.md">我不是叫你帶調味料嗎？——牠是調味生活的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

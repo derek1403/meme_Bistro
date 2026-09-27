@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 178 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 180 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（121）
+## ★（122）
 
 <table>
 <tr>
@@ -211,10 +211,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1667.md"><img src="../images/m1667-two-hearts-disgusted-to-death.jpg" width="240" alt="我本來有兩顆心，一顆善一顆惡——因為我惡心死了"></a><br><a href="../memes/m1667.md">我本來有兩顆心，一顆善一顆惡——因為我惡心死了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1677.md"><img src="../images/m1677-futures-interest-options-course.png" width="240" alt="《Futures, Interest and Options》：未來、興趣和選擇"></a><br><a href="../memes/m1677.md">《Futures, Interest and Options》：未來、興趣和選擇</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（14）
+## ★★（15）
 
 <table>
 <tr>
@@ -240,6 +241,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1535.md"><img src="../images/m1535-worst-puns-collection.png" width="240" alt="最白爛諧音梗大全"></a><br><a href="../memes/m1535.md">最白爛諧音梗大全</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1613.md"><img src="../images/m1613-fukuhara-ai-amnesia.png" width="240" alt="福原愛如果失憶，第一句話會講出什麼？"></a><br><a href="../memes/m1613.md">福原愛如果失憶，第一句話會講出什麼？</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1675.md"><img src="../images/m1675-scooter-grip-try-excel.png" width="240" alt="這是要我握哪裡？——用握的不行那試試 excel？"></a><br><a href="../memes/m1675.md">這是要我握哪裡？——用握的不行那試試 excel？</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

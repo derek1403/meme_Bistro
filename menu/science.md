@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 135 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（59）
+## ★（60）
 
 <table>
 <tr>
@@ -107,6 +107,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1598.md"><img src="../images/m1598-astronomy-events-cloudy.jpg" width="240" alt="月全食、彗星、行星會合、極光——我住的地方"></a><br><a href="../memes/m1598.md">月全食、彗星、行星會合、極光——我住的地方</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1622.md"><img src="../images/m1622-internet-to-billy-flat-earth.png" width="240" alt="這一切只為了把網路送到 Billy 手上——地球是平的！"></a><br><a href="../memes/m1622.md">這一切只為了把網路送到 Billy 手上——地球是平的！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1628.md"><img src="../images/m1628-robot-tongue-364-licks.png" width="240" alt="機器舌頭：平均 364 舔才能到達糖果棒的中心"></a><br><a href="../memes/m1628.md">機器舌頭：平均 364 舔才能到達糖果棒的中心</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -202,7 +203,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（26）
+## ⚠️ 需斟酌（27）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -461,6 +462,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1578.md"><img src="../images/m1578-necrobotic-spider-gripper.png" width="240" alt="死靈機器人學：把死掉的蜘蛛做成夾爪"></a><br><a href="../memes/m1578.md">死靈機器人學：把死掉的蜘蛛做成夾爪</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你在 21 世紀算錯數學 vs 當你在 1945 年算錯數學 — ⚠️ 核爆／毀滅</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1627.md"><img src="../images/m1627-miscalculation-1945-trinity.png" width="240" alt="當你在 21 世紀算錯數學 vs 當你在 1945 年算錯數學"></a><br><a href="../memes/m1627.md">當你在 21 世紀算錯數學 vs 當你在 1945 年算錯數學</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 718 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 724 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（493）
+## ★（498）
 
 <table>
 <tr>
@@ -831,6 +831,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1624.md"><img src="../images/m1624-childhood-goal-vs-now-skip-meal.jpg" width="240" alt="我小時候的目標 vs 我現在的目標"></a><br><a href="../memes/m1624.md">我小時候的目標 vs 我現在的目標</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1629.md"><img src="../images/m1629-white-breakfast.png" width="240" alt="今天的早餐是白飯、魷魚刺身、醃白蘿蔔、水煮蛋、牛奶"></a><br><a href="../memes/m1629.md">今天的早餐是白飯、魷魚刺身、醃白蘿蔔、水煮蛋、牛奶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1630.md"><img src="../images/m1630-boyfriend-thinks-expensive-not-his-money.png" width="240" alt="他憑什麼覺得貴？又不是花他的錢，對吧？"></a><br><a href="../memes/m1630.md">他憑什麼覺得貴？又不是花他的錢，對吧？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1632.md"><img src="../images/m1632-nine-reasons-you-are-tom.jpg" width="240" alt="證明你是湯姆的 9 個理由"></a><br><a href="../memes/m1632.md">證明你是湯姆的 9 個理由</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1633.md"><img src="../images/m1633-devils-fingers-king-crab.png" width="240" alt="英國驚見「惡魔手指」紅色真菌——已購買，孩子很愛吃"></a><br><a href="../memes/m1633.md">英國驚見「惡魔手指」紅色真菌——已購買，孩子很愛吃</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1634.md"><img src="../images/m1634-steak-doneness-legendary.png" width="240" alt="牛排熟度：Rare → Well Done → Congratulation → Epic → Legendary"></a><br><a href="../memes/m1634.md">牛排熟度：Rare → Well Done → Congratulation → Epic → Legendary</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -953,7 +960,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（157）
+## ⚠️ 需斟酌（158）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2522,6 +2529,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1618.md"><img src="../images/m1618-satori-koishi-stone-rage.png" width="240" alt="戀戀我們回家吧——居然牽著一塊石頭"></a><br><a href="../memes/m1618.md">戀戀我們回家吧——居然牽著一塊石頭</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>老婆，可以幫我把音量轉小聲一點嗎？——好窩 — ⚠️ 車禍</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1626.md"><img src="../images/m1626-wife-turn-volume-down.png" width="240" alt="老婆，可以幫我把音量轉小聲一點嗎？——好窩"></a><br><a href="../memes/m1626.md">老婆，可以幫我把音量轉小聲一點嗎？——好窩</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

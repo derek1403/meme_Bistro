@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 66 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 67 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（52）
 
@@ -99,7 +99,7 @@
 </tr>
 </table>
 
-## ★★（7）
+## ★★（8）
 
 <table>
 <tr>
@@ -114,6 +114,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1469.md"><img src="../images/m1469-grad-school-research-forever.png" width="240" alt="念研究所前的我：我和教授約好要做一輩子研究了"></a><br><a href="../memes/m1469.md">念研究所前的我：我和教授約好要做一輩子研究了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1635.md"><img src="../images/m1635-statistical-test-flowchart-llms.png" width="240" alt="選擇統計檢定流程圖（LLM 版）"></a><br><a href="../memes/m1635.md">選擇統計檢定流程圖（LLM 版）</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

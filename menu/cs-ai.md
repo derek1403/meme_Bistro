@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 168 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 169 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（109）
 
@@ -194,7 +194,7 @@
 </tr>
 </table>
 
-## ★★（43）
+## ★★（44）
 
 <table>
 <tr>
@@ -269,6 +269,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1595.md"><img src="../images/m1595-twitter-block-future.jpg" width="240" alt="原本推特的封鎖 vs 即將到來的封鎖"></a><br><a href="../memes/m1595.md">原本推特的封鎖 vs 即將到來的封鎖</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1631.md"><img src="../images/m1631-gradient-descent-local-minimum.png" width="240" alt="梯度下降卡在局部最小值"></a><br><a href="../memes/m1631.md">梯度下降卡在局部最小值</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

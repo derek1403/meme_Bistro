@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 243 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 244 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -323,7 +323,7 @@
 </tr>
 </table>
 
-## ★★★（40）
+## ★★★（41）
 
 <table>
 <tr>
@@ -393,6 +393,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1290.md"><img src="../images/m1290-food-decompose-z2-z3.png" width="240" alt="食物變壞 vs ℤ₂ × ℤ₃"></a><br><a href="../memes/m1290.md">食物變壞 vs ℤ₂ × ℤ₃</a><br><sub>🧠🔤 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1625.md"><img src="../images/m1625-coequaliser-illusion-free-choice.png" width="240" alt="The illusion... of free choice（coequaliser）"></a><br><a href="../memes/m1625.md">The illusion... of free choice（coequaliser）</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

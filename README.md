@@ -10,9 +10,9 @@
 |---|---:|---|
 | [🧮 數學](menu/math.md) | 230 | 微積分、代數、拓樸、集合論、統計……從國中到研究所 |
 | [🔬 物理與自然科學](menu/science.md) | 122 | 物理、化學、地科，外加相對論與量子力學 |
-| [💻 程式與 AI](menu/cs-ai.md) | 159 | 工程師日常、LLM、Claude、vibe coding |
+| [💻 程式與 AI](menu/cs-ai.md) | 160 | 工程師日常、LLM、Claude、vibe coding |
 | [🎓 學術與研究生活](menu/academia.md) | 60 | 研究生、論文、口試、教授 |
-| [🗣️ 語言與諧音](menu/language.md) | 146 | 諧音、雙關、台語、選字錯誤 |
+| [🗣️ 語言與諧音](menu/language.md) | 145 | 諧音、雙關、台語、選字錯誤 |
 | [🍺 日常與生活](menu/life.md) | 618 | 動畫、日常、戀愛、萬用反應圖 |
 | [🌍 社會與地獄梗](menu/society.md) | 116 | 歷史、宗教、政治與地獄梗（多數附警示） |
 

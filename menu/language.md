@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 249 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 251 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（165）
+## ★（166）
 
 <table>
 <tr>
@@ -284,9 +284,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2164.md"><img src="../images/m2164-ghost-month-poor-ghosts-work.png" width="240" alt="鬼門開是真的，今天看到好多窮鬼去上班"></a><br><a href="../memes/m2164.md">鬼門開是真的，今天看到好多窮鬼去上班</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2190.md"><img src="../images/m2190-mama-boy-ancestral-rules.png" width="240" alt="如何避免被說成媽寶：把「我媽說」改成「祖訓有言」"></a><br><a href="../memes/m2190.md">如何避免被說成媽寶：把「我媽說」改成「祖訓有言」</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2230.md"><img src="../images/m2230-large-bubble-tea-dabei.png" width="240" alt="我要一個大杯珍奶——好的，大悲珍奶"></a><br><a href="../memes/m2230.md">我要一個大杯珍奶——好的，大悲珍奶</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（22）
+## ★★（23）
 
 <table>
 <tr>
@@ -326,6 +329,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2219.md"><img src="../images/m2219-tooth-le-tooth-le.png" width="240" alt="台灣人東西不見時：人咧、手機咧——拔牙之後：牙咧牙咧"></a><br><a href="../memes/m2219.md">台灣人東西不見時：人咧、手機咧——拔牙之後：牙咧牙咧</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2247.md"><img src="../images/m2247-white-hart-letters-riddle.png" width="240" alt="What has 4 letters, sometimes 9 letters, but never has 5 letters"></a><br><a href="../memes/m2247.md">What has 4 letters, sometimes 9 letters, but never has 5 letters</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

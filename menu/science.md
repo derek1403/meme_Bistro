@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 157 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（70）
 
@@ -129,7 +129,7 @@
 </tr>
 </table>
 
-## ★★（52）
+## ★★（53）
 
 <table>
 <tr>
@@ -219,6 +219,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2125.md"><img src="../images/m2125-physics-olympiad-drink-water.jpg" width="240" alt="喝一口得到折射率 1.33——化學組請放下四氯金酸"></a><br><a href="../memes/m2125.md">喝一口得到折射率 1.33——化學組請放下四氯金酸</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2236.md"><img src="../images/m2236-typhoon-cone-of-uncertainty.png" width="240" alt="誤差圈：你就知道天氣預報有多難幹"></a><br><a href="../memes/m2236.md">誤差圈：你就知道天氣預報有多難幹</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

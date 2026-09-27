@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 247 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 251 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（168）
+## ★（172）
 
 <table>
 <tr>
@@ -288,6 +288,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2204.md"><img src="../images/m2204-google-new-device-patrick.png" width="240" alt="Google whenever I login from a new device"></a><br><a href="../memes/m2204.md">Google whenever I login from a new device</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2206.md"><img src="../images/m2206-cpp-no-perfect-ide.png" width="240" alt="C++：Decades of Development, Yet No Perfect IDE——Change My Mind"></a><br><a href="../memes/m2206.md">C++：Decades of Development, Yet No Perfect IDE——Change My Mind</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2221.md"><img src="../images/m2221-force-shutdown-feels.png" width="240" alt="When you force your computer to shut down——How it feels"></a><br><a href="../memes/m2221.md">When you force your computer to shut down——How it feels</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2237.md"><img src="../images/m2237-http-404-not-found.png" width="240" alt="405、403——404：Not Found"></a><br><a href="../memes/m2237.md">405、403——404：Not Found</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2238.md"><img src="../images/m2238-youtube-servers-ads-videos.png" width="240" alt="YouTube 廣告用的伺服器 vs 影片用的伺服器"></a><br><a href="../memes/m2238.md">YouTube 廣告用的伺服器 vs 影片用的伺服器</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2244.md"><img src="../images/m2244-dont-fart-apple-store.png" width="240" alt="Don't fart in an Apple Store——They don't have Windows"></a><br><a href="../memes/m2244.md">Don't fart in an Apple Store——They don't have Windows</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2248.md"><img src="../images/m2248-captcha-motorcycle-taxi.png" width="240" alt="Select all squares with motorcycles——那騎士算不算？"></a><br><a href="../memes/m2248.md">Select all squares with motorcycles——那騎士算不算？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

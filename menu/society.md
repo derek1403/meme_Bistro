@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 178 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 179 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（46）
 
@@ -124,7 +124,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（114）
+## ⚠️ 需斟酌（115）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1263,6 +1263,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2220.md"><img src="../images/m2220-balloon-parents-clown.png" width="240" alt="我的爸媽都死了——氣球爸媽！喔糟糕！就跟真的一樣"></a><br><a href="../memes/m2220.md">我的爸媽都死了——氣球爸媽！喔糟糕！就跟真的一樣</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>1945 到底發生什麼事？——哎呀去看看好了 — ⚠️ 戰爭、原子彈</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2245.md"><img src="../images/m2245-nobita-1945-time-machine.png" width="240" alt="1945 到底發生什麼事？——哎呀去看看好了"></a><br><a href="../memes/m2245.md">1945 到底發生什麼事？——哎呀去看看好了</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

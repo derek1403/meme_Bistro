@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 270 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 271 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（88）
 
@@ -159,7 +159,7 @@
 </tr>
 </table>
 
-## ★★（116）
+## ★★（117）
 
 <table>
 <tr>
@@ -355,6 +355,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2195.md"><img src="../images/m2195-pi-ei-plus-one-not-zero.png" width="240" alt="最優美的數學不等式：π^(ei) + 1 ≠ 0"></a><br><a href="../memes/m2195.md">最優美的數學不等式：π^(ei) + 1 ≠ 0</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2223.md"><img src="../images/m2223-rigorous-proof-power-strip.png" width="240" alt="我第一次嘗試做出嚴謹的證明——延長線插自己"></a><br><a href="../memes/m2223.md">我第一次嘗試做出嚴謹的證明——延長線插自己</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2229.md"><img src="../images/m2229-pi-day-july-22.png" width="240" alt="Pi day should be moved to July 22"></a><br><a href="../memes/m2229.md">Pi day should be moved to July 22</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

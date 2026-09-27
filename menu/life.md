@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1044 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1059 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（748）
+## ★（762）
 
 <table>
 <tr>
@@ -1256,10 +1256,32 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2224.md"><img src="../images/m2224-doctor-show-me-yours.png" width="240" alt="醫生，我的屁股長毛——給我看看你的"></a><br><a href="../memes/m2224.md">醫生，我的屁股長毛——給我看看你的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2226.md"><img src="../images/m2226-binder-teacher-im-a-girl.png" width="240" alt="老師可以給束胸的連結嗎？——我沒穿束胸——對不起我不知道你是男孩子——我是女的"></a><br><a href="../memes/m2226.md">老師可以給束胸的連結嗎？——我沒穿束胸——對不起我不知道你是男孩子——我是女的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2228.md"><img src="../images/m2228-why-aliens-stopped-visiting.png" width="240" alt="這就是外星人不再造訪地球的原因"></a><br><a href="../memes/m2228.md">這就是外星人不再造訪地球的原因</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2231.md"><img src="../images/m2231-mechanic-asks-about-car.png" width="240" alt="當修車廠技師問了我關於車子的問題"></a><br><a href="../memes/m2231.md">當修車廠技師問了我關於車子的問題</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2232.md"><img src="../images/m2232-typhoon-3-minutes-convenience.png" width="240" alt="走過去才三分鐘，這颱風有多猛啦？——三分鐘後"></a><br><a href="../memes/m2232.md">走過去才三分鐘，這颱風有多猛啦？——三分鐘後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2233.md"><img src="../images/m2233-most-touching-text-typhoon.png" width="240" alt="史上最感人的短訊：明天颱風假"></a><br><a href="../memes/m2233.md">史上最感人的短訊：明天颱風假</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2234.md"><img src="../images/m2234-seal-1759-swim.png" width="240" alt="18:00 下班，但 17:59 有客人想看你游泳"></a><br><a href="../memes/m2234.md">18:00 下班，但 17:59 有客人想看你游泳</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2235.md"><img src="../images/m2235-bay-window-three-gatlings.png" width="240" alt="這塊空出來的地方可以幹嘛？——三把加特林，你就能控制整個街區"></a><br><a href="../memes/m2235.md">這塊空出來的地方可以幹嘛？——三把加特林，你就能控制整個街區</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2239.md"><img src="../images/m2239-taiwan-ramen-specialty.png" width="240" alt="拉麵怎麼能算台灣特色美食？——你確定？"></a><br><a href="../memes/m2239.md">拉麵怎麼能算台灣特色美食？——你確定？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2240.md"><img src="../images/m2240-crossover-tracks-ramen-icecream.png" width="240" alt="音樂會：我們規劃了不少跨界曲目唷——那些跨界曲目："></a><br><a href="../memes/m2240.md">音樂會：我們規劃了不少跨界曲目唷——那些跨界曲目：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2241.md"><img src="../images/m2241-roast-duck-plush-goose.png" width="240" alt="烤鴨店櫥窗：烤鴨、烤鴨、還有一隻絨毛鵝"></a><br><a href="../memes/m2241.md">烤鴨店櫥窗：烤鴨、烤鴨、還有一隻絨毛鵝</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2242.md"><img src="../images/m2242-gengar-tissue-box.png" width="240" alt="耿鬼牌紙巾盒"></a><br><a href="../memes/m2242.md">耿鬼牌紙巾盒</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2243.md"><img src="../images/m2243-kfc-nijika-mostoles.png" width="240" alt="我剛在 Móstoles 的 KFC 遇到了虹夏"></a><br><a href="../memes/m2243.md">我剛在 Móstoles 的 KFC 遇到了虹夏</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2246.md"><img src="../images/m2246-wizard-frog-potion.png" width="240" alt="要我把你變回人類嗎？——決不，青蛙的生活太酷了"></a><br><a href="../memes/m2246.md">要我把你變回人類嗎？——決不，青蛙的生活太酷了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2249.md"><img src="../images/m2249-legs-baked-baguette.png" width="240" alt="天氣好熱，腳都被烤熟了"></a><br><a href="../memes/m2249.md">天氣好熱，腳都被烤熟了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（85）
+## ★★（86）
 
 <table>
 <tr>
@@ -1404,6 +1426,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2120.md"><img src="../images/m2120-screen-window-truck.png" width="240" alt="天哪我的紗窗壞了——什麼壞了？"></a><br><a href="../memes/m2120.md">天哪我的紗窗壞了——什麼壞了？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2227.md"><img src="../images/m2227-squirrel-typhoon-day-off.png" width="240" alt="全國停電 76,328 戶——終於輪到我放颱風假了"></a><br><a href="../memes/m2227.md">全國停電 76,328 戶——終於輪到我放颱風假了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 151 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 152 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（99）
+## ★（100）
 
 <table>
 <tr>
@@ -173,6 +173,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1464.md"><img src="../images/m1464-samoyed-yeah-ai.png" width="240" alt="薩摩耶 vs 薩摩唉"></a><br><a href="../memes/m1464.md">薩摩耶 vs 薩摩唉</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1465.md"><img src="../images/m1465-macaron-horse-cage.png" width="240" alt="你有沒有什麼喜歡的東西？馬卡龍吧——來不及了"></a><br><a href="../memes/m1465.md">你有沒有什麼喜歡的東西？馬卡龍吧——來不及了</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1468.md"><img src="../images/m1468-resume-eat-mcdonalds.jpg" width="240" alt="別人的履歷：吃苦耐勞；我的履歷：吃麥當勞"></a><br><a href="../memes/m1468.md">別人的履歷：吃苦耐勞；我的履歷：吃麥當勞</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1487.md"><img src="../images/m1487-have-master-confess.jpg" width="240" alt="有主嗎？——你要懺悔什麼，我的孩子"></a><br><a href="../memes/m1487.md">有主嗎？——你要懺悔什麼，我的孩子</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

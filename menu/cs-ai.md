@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 162 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（105）
+## ★（106）
 
 <table>
 <tr>
@@ -183,6 +183,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1341.md"><img src="../images/m1341-os-surveillance-reactions.png" width="240" alt="微軟、谷歌、蘋果、Linux：你們竟然在監控？"></a><br><a href="../memes/m1341.md">微軟、谷歌、蘋果、Linux：你們竟然在監控？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1354.md"><img src="../images/m1354-browser-spam-click.png" width="240" alt="瀏覽器打不開所以一直點"></a><br><a href="../memes/m1354.md">瀏覽器打不開所以一直點</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1483.md"><img src="../images/m1483-engineer-why-it-works.png" width="240" alt="工程師的難題：為什麼它沒成功？為什麼它成功了？"></a><br><a href="../memes/m1483.md">工程師的難題：為什麼它沒成功？為什麼它成功了？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1490.md"><img src="../images/m1490-tai-chi-online-lag.png" width="240" alt="太極拳網課突然卡頓"></a><br><a href="../memes/m1490.md">太極拳網課突然卡頓</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

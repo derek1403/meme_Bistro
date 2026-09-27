@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 637 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 643 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（434）
+## ★（437）
 
 <table>
 <tr>
@@ -732,6 +732,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1478.md"><img src="../images/m1478-cowboy-why-leave-last-job.png" width="240" alt="你離開上一份工作的原因是什麼？——你上一個員工離職的原因是什麼？"></a><br><a href="../memes/m1478.md">你離開上一份工作的原因是什麼？——你上一個員工離職的原因是什麼？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1480.md"><img src="../images/m1480-vtuber-debut-vs-later.png" width="240" alt="VTuber 初配信人物設定 vs 直播開二輪後"></a><br><a href="../memes/m1480.md">VTuber 初配信人物設定 vs 直播開二輪後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1485.md"><img src="../images/m1485-resentful-rabbit-bun.png" width="240" alt="好可愛的……不是，怨念好深的兔子"></a><br><a href="../memes/m1485.md">好可愛的……不是，怨念好深的兔子</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1492.md"><img src="../images/m1492-saturday-traffic-monday.png" width="240" alt="禮拜六出門容易塞車，晚點到——禮拜一"></a><br><a href="../memes/m1492.md">禮拜六出門容易塞車，晚點到——禮拜一</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1493.md"><img src="../images/m1493-after-9-hours-gaming.png" width="240" alt="打了 9 小時遊戲後出門"></a><br><a href="../memes/m1493.md">打了 9 小時遊戲後出門</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -850,7 +855,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（137）
+## ⚠️ 需斟酌（140）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2219,6 +2224,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1479.md"><img src="../images/m1479-rat-poison-bread-me-rat.png" width="240" alt="媽媽把加了老鼠藥的麵包放在廚房——半夜兩點的我和老鼠"></a><br><a href="../memes/m1479.md">媽媽把加了老鼠藥的麵包放在廚房——半夜兩點的我和老鼠</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>上帝，我的愛情來了——狗：上帝，我來了 — ⚠️ 動物受傷暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1486.md"><img src="../images/m1486-god-my-love-has-come-dog.jpg" width="240" alt="上帝，我的愛情來了——狗：上帝，我來了"></a><br><a href="../memes/m1486.md">上帝，我的愛情來了——狗：上帝，我來了</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>亞洲家長如何修理壞掉的東西 — ⚠️ 體罰暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1488.md"><img src="../images/m1488-asian-parents-fix-things.png" width="240" alt="亞洲家長如何修理壞掉的東西"></a><br><a href="../memes/m1488.md">亞洲家長如何修理壞掉的東西</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>生日是母親受難日——那你提前十個月過 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1491.md"><img src="../images/m1491-birthday-parents-fun-day.png" width="240" alt="生日是母親受難日——那你提前十個月過"></a><br><a href="../memes/m1491.md">生日是母親受難日——那你提前十個月過</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

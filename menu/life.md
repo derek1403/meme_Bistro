@@ -917,7 +917,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1766.md"><img src="../images/m1766-everything-on-track.png" width="240" alt="還行，一切都在軌道上——軌道"></a><br><a href="../memes/m1766.md">還行，一切都在軌道上——軌道</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1771.md"><img src="../images/m1771-mayflower-tiny-paper-outlet.jpg" width="240" alt="五月花出紙口"></a><br><a href="../memes/m1771.md">五月花出紙口</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1772.md"><img src="../images/m1772-carrot-crying-no-money.jpg" width="240" alt="你怎麼哭了？——我沒有錢"></a><br><a href="../memes/m1772.md">你怎麼哭了？——我沒有錢</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1772.md"><img src="../images/m1772-carrot-crying-no-money.jpg" width="240" alt="你怎麼哭了？——我沒有錢"></a><br><a href="../memes/m1772.md">你怎麼哭了？——我沒有錢</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1776.md"><img src="../images/m1776-transported-into-manhwa-debt.jpg" width="240" alt="穿進漫畫裡了——怎麼是韓漫"></a><br><a href="../memes/m1776.md">穿進漫畫裡了——怎麼是韓漫</a><br><sub>👀 ★</sub></td>

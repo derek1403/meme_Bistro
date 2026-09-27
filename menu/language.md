@@ -222,7 +222,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1722.md"><img src="../images/m1722-fortune-go-south-too-kaobei.jpg" width="240" alt="解籤的說我只要往南發展就會有姻緣——你看，你就是太靠北了"></a><br><a href="../memes/m1722.md">解籤的說我只要往南發展就會有姻緣——你看，你就是太靠北了</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1764.md"><img src="../images/m1764-minus-four-three-fuji.jpg" width="240" alt="第三題答案多少？(-4,3)——富士山"></a><br><a href="../memes/m1764.md">第三題答案多少？(-4,3)——富士山</a><br><sub>🔤 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1770.md"><img src="../images/m1770-swearing-milk.png" width="240" alt="說髒話牛奶！"></a><br><a href="../memes/m1770.md">說髒話牛奶！</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1770.md"><img src="../images/m1770-swearing-milk.png" width="240" alt="說髒話牛奶！"></a><br><a href="../memes/m1770.md">說髒話牛奶！</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1775.md"><img src="../images/m1775-amen-a-qian-grape-tree.jpg" width="240" alt="阿門——阿前——一顆葡萄樹"></a><br><a href="../memes/m1775.md">阿門——阿前——一顆葡萄樹</a><br><sub>🔤 ★</sub></td>

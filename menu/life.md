@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 806 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 809 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（555）
+## ★（557）
 
 <table>
 <tr>
@@ -934,6 +934,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1787.md"><img src="../images/m1787-mom-stop-kebab-game.jpg" width="240" alt="再不睡覺，做你那爛餅子手機給你砸了"></a><br><a href="../memes/m1787.md">再不睡覺，做你那爛餅子手機給你砸了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1790.md"><img src="../images/m1790-bird-in-rain-streetlight.png" width="240" alt="大雨中停在電線上的鳥"></a><br><a href="../memes/m1790.md">大雨中停在電線上的鳥</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1794.md"><img src="../images/m1794-bakery-doge-bread.png" width="240" alt="麵包店看到這個，請問我該怎麼辦"></a><br><a href="../memes/m1794.md">麵包店看到這個，請問我該怎麼辦</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1798.md"><img src="../images/m1798-no-merge-physical-magic.png" width="240" alt="有沒有計畫合併物理／魔法協同效果？——我們不考慮合併"></a><br><a href="../memes/m1798.md">有沒有計畫合併物理／魔法協同效果？——我們不考慮合併</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（72）
@@ -1061,7 +1065,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（179）
+## ⚠️ 需斟酌（180）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2850,6 +2854,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1788.md"><img src="../images/m1788-backflip-cat-vodka-gun.jpg" width="240" alt="騙你的，我家裡根本沒有會後空翻的貓"></a><br><a href="../memes/m1788.md">騙你的，我家裡根本沒有會後空翻的貓</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>他的前戲都從訪問先開始 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1800.md"><img src="../images/m1800-foreplay-starts-from-interview.png" width="240" alt="他的前戲都從訪問先開始"></a><br><a href="../memes/m1800.md">他的前戲都從訪問先開始</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

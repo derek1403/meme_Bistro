@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 197 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（130）
+## ★（133）
 
 <table>
 <tr>
@@ -226,6 +226,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1775.md"><img src="../images/m1775-amen-a-qian-grape-tree.jpg" width="240" alt="阿門——阿前——一顆葡萄樹"></a><br><a href="../memes/m1775.md">阿門——阿前——一顆葡萄樹</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1791.md"><img src="../images/m1791-yes-i-have-ps5.png" width="240" alt="Yes, I have a PS5"></a><br><a href="../memes/m1791.md">Yes, I have a PS5</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1796.md"><img src="../images/m1796-tonsil-tonsil-line.jpg" width="240" alt="扁桃 vs 扁桃線"></a><br><a href="../memes/m1796.md">扁桃 vs 扁桃線</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1797.md"><img src="../images/m1797-crisis-is-transfer.png" width="240" alt="為什麼出國搭直航班比較安全？——因為危機就是轉機"></a><br><a href="../memes/m1797.md">為什麼出國搭直航班比較安全？——因為危機就是轉機</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

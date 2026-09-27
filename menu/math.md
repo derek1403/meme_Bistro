@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 252 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 253 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -410,7 +410,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（21）
+## ⚠️ 需斟酌（22）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -619,6 +619,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1736.md"><img src="../images/m1736-quadratic-formula-pure-power.png" width="240" alt="十字交乘求不出來，於是動用了最純粹的力量"></a><br><a href="../memes/m1736.md">十字交乘求不出來，於是動用了最純粹的力量</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Would you switch to kill −1/12 people? — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1799.md"><img src="../images/m1799-trolley-minus-one-twelfth.png" width="240" alt="Would you switch to kill −1/12 people?"></a><br><a href="../memes/m1799.md">Would you switch to kill −1/12 people?</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

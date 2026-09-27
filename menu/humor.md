@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（200）](#hardcore)
-- [👀 直觀（1298）](#intuitive)
-- [🔤 諧音／文字梗（280）](#pun)
+- [🧠 硬核（201）](#hardcore)
+- [👀 直觀（1304）](#intuitive)
+- [🔤 諧音／文字梗（283）](#pun)
 - [🔥 地獄梗（157）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（200）
+## 🧠 硬核（201）
 
 要有學科背景才笑得出來
 
@@ -215,10 +215,11 @@
 - 🧮 [ℓ^∞?? in the Hilbert space factory?? how queer!!](../memes/m1754.md) ★★★
 - 🧮 [馬克勞林 vs 泰勒](../memes/m1757.md) ★★
 - 💻 [The "why won't this damn drawer open" starter pack](../memes/m1768.md) ★★
+- 🧮 [Would you switch to kill −1/12 people?](../memes/m1799.md) ★★ ⚠️ 死亡
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1298）
+## 👀 直觀（1304）
 
 看圖就懂
 
@@ -1520,10 +1521,16 @@
 - 🍺 [再不睡覺，做你那爛餅子手機給你砸了](../memes/m1787.md) ★
 - 🌍 [我買了一個高需求的限量商品，以更高價格出售，所以我是一個……](../memes/m1789.md) ★
 - 🍺 [大雨中停在電線上的鳥](../memes/m1790.md) ★
+- 💻 [How programmers clean their room](../memes/m1792.md) ★
+- 🔬 [Lake Titicaca：高高在上的湖](../memes/m1793.md) ★★
+- 🍺 [麵包店看到這個，請問我該怎麼辦](../memes/m1794.md) ★
+- 🔬 [忽略摩擦力、忽略空氣阻力……g = 10](../memes/m1795.md) ★
+- 🍺 [有沒有計畫合併物理／魔法協同效果？——我們不考慮合併](../memes/m1798.md) ★
+- 🍺 [他的前戲都從訪問先開始](../memes/m1800.md) ★ ⚠️ 性暗示
 
 <a id="pun"></a>
 
-## 🔤 諧音／文字梗（280）
+## 🔤 諧音／文字梗（283）
 
 雙關、諧音、字面意思
 
@@ -1807,6 +1814,9 @@
 - 🗣️ [Facebook 名字：姓林北，名很秋——不是很秋嗎？](../memes/m1769.md) ★★
 - 🗣️ [從小便認識，大便情更濃](../memes/m1774.md) ★ ⚠️ 排泄字眼
 - 🗣️ [阿門——阿前——一顆葡萄樹](../memes/m1775.md) ★
+- 🗣️ [Yes, I have a PS5](../memes/m1791.md) ★
+- 🗣️ [扁桃 vs 扁桃線](../memes/m1796.md) ★
+- 🗣️ [為什麼出國搭直航班比較安全？——因為危機就是轉機](../memes/m1797.md) ★
 
 <a id="dark"></a>
 

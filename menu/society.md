@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 123 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（29）
 
@@ -78,7 +78,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（86）
+## ⚠️ 需斟酌（87）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -937,6 +937,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1562.md"><img src="../images/m1562-hk-express-11-years.jpg" width="240" alt="香港快運 11 週年：飛機穿過兩根「1」"></a><br><a href="../memes/m1562.md">香港快運 11 週年：飛機穿過兩根「1」</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不是，老…老闆，有話好好說 — ⚠️ 暴力／死亡意象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1583.md"><img src="../images/m1583-halloween-boss-hanging.jpg" width="240" alt="不是，老…老闆，有話好好說"></a><br><a href="../memes/m1583.md">不是，老…老闆，有話好好說</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

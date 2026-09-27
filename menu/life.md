@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 696 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 701 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（477）
+## ★（480）
 
 <table>
 <tr>
@@ -804,6 +804,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1580.md"><img src="../images/m1580-what-name-pet-gave-you.jpg" width="240" alt="你有沒有思考過，你的寵物給你起的名字是什麼"></a><br><a href="../memes/m1580.md">你有沒有思考過，你的寵物給你起的名字是什麼</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1581.md"><img src="../images/m1581-rushed-morning-panini-press.jpg" width="240" alt="早上出門有點太急"></a><br><a href="../memes/m1581.md">早上出門有點太急</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1582.md"><img src="../images/m1582-found-1000-dont-want-merit.jpg" width="240" alt="撿到一千塊拿去教官室可以記嘉獎——我不想要嘉獎"></a><br><a href="../memes/m1582.md">撿到一千塊拿去教官室可以記嘉獎——我不想要嘉獎</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1589.md"><img src="../images/m1589-dog-exhaust-eyes.png" width="240" alt="排氣管眼睛的狗"></a><br><a href="../memes/m1589.md">排氣管眼睛的狗</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1591.md"><img src="../images/m1591-which-one-is-scallion.jpg" width="240" alt="媽媽：去幫我買蔥回來——哪一個是蔥"></a><br><a href="../memes/m1591.md">媽媽：去幫我買蔥回來——哪一個是蔥</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（68）
@@ -925,7 +930,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（151）
+## ⚠️ 需斟酌（153）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2434,6 +2439,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1574.md"><img src="../images/m1574-return-she-doesnt-like-you.png" width="240" alt="申請退貨——她不喜歡的是你"></a><br><a href="../memes/m1574.md">申請退貨——她不喜歡的是你</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當我在主管會議對我朋友做出「誰他媽會相信這鬼話？」的臉 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1584.md"><img src="../images/m1584-tina-meeting-face.png" width="240" alt="當我在主管會議對我朋友做出「誰他媽會相信這鬼話？」的臉"></a><br><a href="../memes/m1584.md">當我在主管會議對我朋友做出「誰他媽會相信這鬼話？」的臉</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>斧頭老師與木頭學生 — ⚠️ 暴力暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1586.md"><img src="../images/m1586-axe-teacher-log-student.png" width="240" alt="斧頭老師與木頭學生"></a><br><a href="../memes/m1586.md">斧頭老師與木頭學生</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 160 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 163 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（105）
+## ★（108）
 
 <table>
 <tr>
@@ -183,6 +183,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1568.md"><img src="../images/m1568-weightlifter-lose-really-heavy.png" width="240" alt="舉重選手舉輸了後會說什麼？真重！再見！"></a><br><a href="../memes/m1568.md">舉重選手舉輸了後會說什麼？真重！再見！</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1573.md"><img src="../images/m1573-beef-tomato-red-rage.jpg" width="240" alt="冷知識：牛肉和西紅柿不能一起吃"></a><br><a href="../memes/m1573.md">冷知識：牛肉和西紅柿不能一起吃</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1575.md"><img src="../images/m1575-cinderella-pumpkin-carriage.png" width="240" alt="為什麼灰姑娘的車不容易被刮傷？——因為他坐的是南瓜馬車"></a><br><a href="../memes/m1575.md">為什麼灰姑娘的車不容易被刮傷？——因為他坐的是南瓜馬車</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1587.md"><img src="../images/m1587-cabbage-weak-but-grinding.png" width="240" alt="我是一顆卷心菜：我菜，但我卷，可我還是很菜"></a><br><a href="../memes/m1587.md">我是一顆卷心菜：我菜，但我卷，可我還是很菜</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1588.md"><img src="../images/m1588-library-in-supermarket-cold-books.png" width="240" alt="圖書館搬進大賣場，「冷門」書放在冷藏櫃"></a><br><a href="../memes/m1588.md">圖書館搬進大賣場，「冷門」書放在冷藏櫃</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1590.md"><img src="../images/m1590-choy-sum-plant.jpg" width="240" alt="菜心：植物"></a><br><a href="../memes/m1590.md">菜心：植物</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

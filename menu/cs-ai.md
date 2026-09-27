@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 192 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（126）
+## ★（128）
 
 <table>
 <tr>
@@ -218,6 +218,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1839.md"><img src="../images/m1839-caught-two-computer-viruses.png" width="240" alt="我家常常有電腦病毒，剛剛才抓到兩隻"></a><br><a href="../memes/m1839.md">我家常常有電腦病毒，剛剛才抓到兩隻</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1872.md"><img src="../images/m1872-release-backend-only-watch.png" width="240" alt="後端做完了，前端還在做——那就把現有的先發佈"></a><br><a href="../memes/m1872.md">後端做完了，前端還在做——那就把現有的先發佈</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1877.md"><img src="../images/m1877-billboard-hacked-security.png" width="240" alt="我們建議你改善你的資安——你友善的鄰居駭客"></a><br><a href="../memes/m1877.md">我們建議你改善你的資安——你友善的鄰居駭客</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1885.md"><img src="../images/m1885-lock-server-room-before-firing-it.png" width="240" alt="This is why you should lock your server room before firing IT guy"></a><br><a href="../memes/m1885.md">This is why you should lock your server room before firing IT guy</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1887.md"><img src="../images/m1887-iphone-16-youtubers-hammer.png" width="240" alt="iPhone 16 上市——兩天後的 YouTuber"></a><br><a href="../memes/m1887.md">iPhone 16 上市——兩天後的 YouTuber</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

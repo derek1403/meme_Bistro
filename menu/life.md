@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 850 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 854 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（587）
+## ★（590）
 
 <table>
 <tr>
@@ -987,10 +987,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1878.md"><img src="../images/m1878-hair-tied-back-mickey.jpg" width="240" alt="你把頭髮扎起來很漂亮呀——頭髮扎在腦後的我"></a><br><a href="../memes/m1878.md">你把頭髮扎起來很漂亮呀——頭髮扎在腦後的我</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1880.md"><img src="../images/m1880-plates-in-drain-grate.jpg" width="240" alt="就算你能融入進去，也不代表這個地方適合你"></a><br><a href="../memes/m1880.md">就算你能融入進去，也不代表這個地方適合你</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1883.md"><img src="../images/m1883-potato-exposed-ginger.png" width="240" alt="番薯你好，我是馬鈴薯啊——你明明是薑！"></a><br><a href="../memes/m1883.md">番薯你好，我是馬鈴薯啊——你明明是薑！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1884.md"><img src="../images/m1884-cat-job-likes-easy.png" width="240" alt="找工作不一定要找輕鬆的，一定要找自己喜歡的——我喜歡輕鬆的"></a><br><a href="../memes/m1884.md">找工作不一定要找輕鬆的，一定要找自己喜歡的——我喜歡輕鬆的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1892.md"><img src="../images/m1892-ducks-tell-him-work-today.jpg" width="240" alt="他醒了，你跟他說一下吧——今天要上班哦"></a><br><a href="../memes/m1892.md">他醒了，你跟他說一下吧——今天要上班哦</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（73）
+## ★★（74）
 
 <table>
 <tr>
@@ -1115,6 +1120,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1843.md"><img src="../images/m1843-yuuka-alice-office-who.png" width="240" alt="等等，我是叫的優香和愛麗絲到我辦公室來，你們是誰？"></a><br><a href="../memes/m1843.md">等等，我是叫的優香和愛麗絲到我辦公室來，你們是誰？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1891.md"><img src="../images/m1891-makeine-4k-8k.png" width="240" alt="啊，是 4K——這就是 8K 的光芒，請查收"></a><br><a href="../memes/m1891.md">啊，是 4K——這就是 8K 的光芒，請查收</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

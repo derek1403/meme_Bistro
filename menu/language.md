@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 213 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（142）
+## ★（144）
 
 <table>
 <tr>
@@ -246,6 +246,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1861.md"><img src="../images/m1861-recipient-life-typo.jpg" width="240" alt="我需要取件人性命——雖然我不知道我做錯了什麼，但我先道歉"></a><br><a href="../memes/m1861.md">我需要取件人性命——雖然我不知道我做錯了什麼，但我先道歉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1888.md"><img src="../images/m1888-period-comfort-le-le-le.png" width="240" alt="來生理期了，你能安慰我一下嗎——了了了了了"></a><br><a href="../memes/m1888.md">來生理期了，你能安慰我一下嗎——了了了了了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1893.md"><img src="../images/m1893-kiki-sleep-forget-food.jpg" width="240" alt="「廢寢忘食」這四個字拆開來，每一個字都很符合我"></a><br><a href="../memes/m1893.md">「廢寢忘食」這四個字拆開來，每一個字都很符合我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

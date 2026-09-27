@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 257 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 259 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（86）
+## ★（87）
 
 <table>
 <tr>
@@ -152,10 +152,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1576.md"><img src="../images/m1576-formula-vs-derivation-tracks.png" width="240" alt="數學公式 vs 數學公式的推導"></a><br><a href="../memes/m1576.md">數學公式 vs 數學公式的推導</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1881.md"><img src="../images/m1881-triangle-vs-textbook-triangle.jpg" width="240" alt="三角形 vs 試卷和課本上的三角形"></a><br><a href="../memes/m1881.md">三角形 vs 試卷和課本上的三角形</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1882.md"><img src="../images/m1882-3l-5l-cup-graduated.jpg" width="240" alt="怎樣得到 4L 水？——草，有刻度線"></a><br><a href="../memes/m1882.md">怎樣得到 4L 水？——草，有刻度線</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（105）
+## ★★（106）
 
 <table>
 <tr>
@@ -332,6 +333,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1757.md"><img src="../images/m1757-maclaurin-vs-taylor-bus.png" width="240" alt="馬克勞林 vs 泰勒"></a><br><a href="../memes/m1757.md">馬克勞林 vs 泰勒</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1844.md"><img src="../images/m1844-engineer-afraid-of-proofs.png" width="240" alt="我是工程師——意思是他害怕證明——令 ε > 0"></a><br><a href="../memes/m1844.md">我是工程師——意思是他害怕證明——令 ε > 0</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1850.md"><img src="../images/m1850-piano-notes-calculus.png" width="240" alt="鋼琴音名 ABCDEFG：數學版"></a><br><a href="../memes/m1850.md">鋼琴音名 ABCDEFG：數學版</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1889.md"><img src="../images/m1889-trade-offer-induction.png" width="240" alt="TRADE OFFER：數學歸納法"></a><br><a href="../memes/m1889.md">TRADE OFFER：數學歸納法</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

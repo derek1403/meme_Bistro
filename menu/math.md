@@ -462,7 +462,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1754.md"><img src="../images/m1754-hilbert-space-factory-l-infinity.png" width="240" alt="ℓ^∞?? in the Hilbert space factory?? how queer!!"></a><br><a href="../memes/m1754.md">ℓ^∞?? in the Hilbert space factory?? how queer!!</a><br><sub>🧠 ★★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m2352.md"><img src="../images/m2352-sheaf-definitions-weaker.png" width="240" alt="Sheaf 的三種定義：越抽象的越弱"></a><br><a href="../memes/m2352.md">Sheaf 的三種定義：越抽象的越弱</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2352.md"><img src="../images/m2352-sheaf-definitions-weaker.png" width="240" alt="Sheaf 的三種定義：越抽象寫得越短"></a><br><a href="../memes/m2352.md">Sheaf 的三種定義：越抽象寫得越短</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

@@ -256,7 +256,7 @@
 - 🧮 [d/dx 把 eˣ 趕出去——eˣ 又回來了](../memes/m2337.md) ★
 - 🧮 [Source?——It was revealed to me in a dream](../memes/m2339.md) ★★
 - 🧮 [3 維生物旋轉 2 維生物覺得好好玩——然後 4 維生物出現了](../memes/m2351.md) ★★
-- 🧮 [Sheaf 的三種定義：越抽象的越弱](../memes/m2352.md) ★★★
+- 🧮 [Sheaf 的三種定義：越抽象寫得越短](../memes/m2352.md) ★★★
 
 <a id="intuitive"></a>
 

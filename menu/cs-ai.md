@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 152 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 153 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（101）
 
@@ -180,7 +180,7 @@
 </tr>
 </table>
 
-## ★★（38）
+## ★★（39）
 
 <table>
 <tr>
@@ -246,6 +246,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0993.md"><img src="../images/m0993-deepseek-fishing-chatgpt-bucket.png" width="240" alt="DeepSeek 在 ChatGPT 的水桶裡釣魚"></a><br><a href="../memes/m0993.md">DeepSeek 在 ChatGPT 的水桶裡釣魚</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1216.md"><img src="../images/m1216-adblock-overflow-visible.png" width="240" alt="Please disable adblock——overflow-y: visible"></a><br><a href="../memes/m1216.md">Please disable adblock——overflow-y: visible</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1221.md"><img src="../images/m1221-unix-1991-linux-2021.png" width="240" alt="Unix 家族：1991 vs 2021"></a><br><a href="../memes/m1221.md">Unix 家族：1991 vs 2021</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

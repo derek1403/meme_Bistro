@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 476 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 484 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（323）
+## ★（329）
 
 <table>
 <tr>
@@ -547,10 +547,20 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1217.md"><img src="../images/m1217-car-flashing-lights-behind.png" width="240" alt="爸爸，後面的車一直閃大燈！"></a><br><a href="../memes/m1217.md">爸爸，後面的車一直閃大燈！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1218.md"><img src="../images/m1218-welding-hotdog-mustard.png" width="240" alt="學習焊接可能會讓肌肉記憶影響你擠芥末"></a><br><a href="../memes/m1218.md">學習焊接可能會讓肌肉記憶影響你擠芥末</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1220.md"><img src="../images/m1220-skeletor-we-love-this.png" width="240" alt="算你倒霉，我們就愛這樣玩"></a><br><a href="../memes/m1220.md">算你倒霉，我們就愛這樣玩</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1223.md"><img src="../images/m1223-client-feedback-pizza.png" width="240" alt="把客戶的意見照單全收時就像"></a><br><a href="../memes/m1223.md">把客戶的意見照單全收時就像</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1225.md"><img src="../images/m1225-squidward-mental-state-day.png" width="240" alt="我一整天的精神狀況"></a><br><a href="../memes/m1225.md">我一整天的精神狀況</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1227.md"><img src="../images/m1227-dora-blanket-body.png" width="240" alt="朵拉棉被"></a><br><a href="../memes/m1227.md">朵拉棉被</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1229.md"><img src="../images/m1229-bear-example-of-failure.png" width="240" alt="誰能舉一個失敗的例子？"></a><br><a href="../memes/m1229.md">誰能舉一個失敗的例子？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1230.md"><img src="../images/m1230-bicycle-pizza-cutter-calories.png" width="240" alt="去弄一輛自行車去砍掉那些卡路里"></a><br><a href="../memes/m1230.md">去弄一輛自行車去砍掉那些卡路里</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（60）
+## ★★（61）
 
 <table>
 <tr>
@@ -653,9 +663,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1196.md"><img src="../images/m1196-lol-bot-lane-three-cases.png" width="240" alt="下路帶先發只有三種情況"></a><br><a href="../memes/m1196.md">下路帶先發只有三種情況</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1208.md"><img src="../images/m1208-machinist-re-thread-drill.png" width="240" alt="機械技工最有成就感的事"></a><br><a href="../memes/m1208.md">機械技工最有成就感的事</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1224.md"><img src="../images/m1224-dark-souls-2-christmas.png" width="240" alt="聖誕禮物是黑暗靈魂 2"></a><br><a href="../memes/m1224.md">聖誕禮物是黑暗靈魂 2</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（93）
+## ⚠️ 需斟酌（94）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1584,6 +1597,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1219.md"><img src="../images/m1219-new-year-rat-dumplings.png" width="240" alt="如何不讓自己在過年時被家人叫去幫忙"></a><br><a href="../memes/m1219.md">如何不讓自己在過年時被家人叫去幫忙</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>親愛的聖誕老公公：我想要結束無盡的苦痛 — ⚠️ 自殺暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1222.md"><img src="../images/m1222-santa-end-endless-suffering.png" width="240" alt="親愛的聖誕老公公：我想要結束無盡的苦痛"></a><br><a href="../memes/m1222.md">親愛的聖誕老公公：我想要結束無盡的苦痛</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

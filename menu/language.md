@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 157 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（102）
+## ★（103）
 
 <table>
 <tr>
@@ -178,6 +178,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1487.md"><img src="../images/m1487-have-master-confess.jpg" width="240" alt="有主嗎？——你要懺悔什麼，我的孩子"></a><br><a href="../memes/m1487.md">有主嗎？——你要懺悔什麼，我的孩子</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1497.md"><img src="../images/m1497-capybara-reflect-three-times.png" width="240" alt="吾日三省吾身：是不是該動手了"></a><br><a href="../memes/m1497.md">吾日三省吾身：是不是該動手了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1539.md"><img src="../images/m1539-baby-fingerprint-crime.png" width="240" alt="兩個月大就犯罪——那代表他是個 baby 小人"></a><br><a href="../memes/m1539.md">兩個月大就犯罪——那代表他是個 baby 小人</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1568.md"><img src="../images/m1568-weightlifter-lose-really-heavy.png" width="240" alt="舉重選手舉輸了後會說什麼？真重！再見！"></a><br><a href="../memes/m1568.md">舉重選手舉輸了後會說什麼？真重！再見！</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 684 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 690 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（470）
+## ★（472）
 
 <table>
 <tr>
@@ -792,10 +792,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1559.md"><img src="../images/m1559-pain-scale-valentine-story.png" width="240" alt="疼痛等級：情人節告白失敗還被截圖發在限時動態"></a><br><a href="../memes/m1559.md">疼痛等級：情人節告白失敗還被截圖發在限時動態</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1563.md"><img src="../images/m1563-baby-head-kiwi.jpg" width="240" alt="寶寶頭 vs 奇異果"></a><br><a href="../memes/m1563.md">寶寶頭 vs 奇異果</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1565.md"><img src="../images/m1565-veteran-rabbid-brother.jpg" width="240" alt="退伍軍人和 5 歲以下兒童可享免費套餐——你好我是退伍軍人"></a><br><a href="../memes/m1565.md">退伍軍人和 5 歲以下兒童可享免費套餐——你好我是退伍軍人</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1567.md"><img src="../images/m1567-6000-bricks-wrong-address.png" width="240" alt="卸下六千塊磚塊，然後老闆說送錯地址了"></a><br><a href="../memes/m1567.md">卸下六千塊磚塊，然後老闆說送錯地址了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（67）
+## ★★（68）
 
 <table>
 <tr>
@@ -910,10 +914,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1510.md"><img src="../images/m1510-hanae-natsuki-nerd-to-teeth-mask.png" width="240" alt="書呆子、因為女孩而改變人生、牙齒面罩、同樣的聲優"></a><br><a href="../memes/m1510.md">書呆子、因為女孩而改變人生、牙齒面罩、同樣的聲優</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1570.md"><img src="../images/m1570-muscular-lucia-pearl-mermaid.png" width="240" alt="七彩的微風側著臉輕輕吹撫——肌肉版露亞"></a><br><a href="../memes/m1570.md">七彩的微風側著臉輕輕吹撫——肌肉版露亞</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（147）
+## ⚠️ 需斟酌（150）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2382,6 +2387,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1561.md"><img src="../images/m1561-red-poodle-puppies-poop.png" width="240" alt="對不起，我剛剛第一眼以為是一坨大便"></a><br><a href="../memes/m1561.md">對不起，我剛剛第一眼以為是一坨大便</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>因為請喪假被懷疑，我決定直接帶證據去公司 — ⚠️ 屍體</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1564.md"><img src="../images/m1564-funeral-leave-bring-evidence.png" width="240" alt="因為請喪假被懷疑，我決定直接帶證據去公司"></a><br><a href="../memes/m1564.md">因為請喪假被懷疑，我決定直接帶證據去公司</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>沒有人會比它勇敢 — ⚠️ 動物（食用）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1566.md"><img src="../images/m1566-rooster-at-kfc-brave.png" width="240" alt="沒有人會比它勇敢"></a><br><a href="../memes/m1566.md">沒有人會比它勇敢</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你的性格類型是：低能兒 FOOl — ⚠️ 貶義字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1569.md"><img src="../images/m1569-personality-type-fool.png" width="240" alt="你的性格類型是：低能兒 FOOl"></a><br><a href="../memes/m1569.md">你的性格類型是：低能兒 FOOl</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

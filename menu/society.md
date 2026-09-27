@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 114 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 115 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（24）
+## ★（25）
 
 <table>
 <tr>
@@ -48,6 +48,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1335.md"><img src="../images/m1335-pope-teppanyaki.jpg" width="240" alt="無心褻瀆神靈，但畫面真的很像大埔鐵板燒"></a><br><a href="../memes/m1335.md">無心褻瀆神靈，但畫面真的很像大埔鐵板燒</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1376.md"><img src="../images/m1376-stool-christmas-tree.jpg" width="240" alt="小北百貨擺「敷衍耶誕樹」：這很小北！"></a><br><a href="../memes/m1376.md">小北百貨擺「敷衍耶誕樹」：這很小北！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1392.md"><img src="../images/m1392-pothole-3d-sticker.png" width="240" alt="發達地區用減速貼圖，更發達的地區用 3D 技術"></a><br><a href="../memes/m1392.md">發達地區用減速貼圖，更發達的地區用 3D 技術</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1419.md"><img src="../images/m1419-taiwan-baseball-ordering-drinks.png" width="240" alt="我們台灣人在國際賽討論情蒐也像在訂飲料"></a><br><a href="../memes/m1419.md">我們台灣人在國際賽討論情蒐也像在訂飲料</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

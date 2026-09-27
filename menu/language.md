@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 142 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（92）
+## ★（94）
 
 <table>
 <tr>
@@ -162,6 +162,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1402.md"><img src="../images/m1402-original-audio-need-subtitles.jpg" width="240" alt="下載原聲版練聽力——沒有字幕我就聽不見了"></a><br><a href="../memes/m1402.md">下載原聲版練聽力——沒有字幕我就聽不見了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1406.md"><img src="../images/m1406-black-stockings-free-billiards.jpg" width="240" alt="穿黑絲免費打台球"></a><br><a href="../memes/m1406.md">穿黑絲免費打台球</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1420.md"><img src="../images/m1420-hotdog-making-process.png" width="240" alt="熱狗的製作過程"></a><br><a href="../memes/m1420.md">熱狗的製作過程</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1428.md"><img src="../images/m1428-moon-represents-low-salary.jpg" width="240" alt="月亮代表我低薪"></a><br><a href="../memes/m1428.md">月亮代表我低薪</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 602 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 609 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（408）
+## ★（413）
 
 <table>
 <tr>
@@ -689,6 +689,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1415.md"><img src="../images/m1415-dont-need-heart-just-money.jpg" width="240" alt="你就沒必要跟我掏心掏肺了，直接掏錢就行"></a><br><a href="../memes/m1415.md">你就沒必要跟我掏心掏肺了，直接掏錢就行</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1416.md"><img src="../images/m1416-drink-3kg-water-no-friends.jpg" width="240" alt="每天喝三公斤水就能遠離人際關係的問題"></a><br><a href="../memes/m1416.md">每天喝三公斤水就能遠離人際關係的問題</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1422.md"><img src="../images/m1422-squidward-friendless-friend.jpg" width="240" alt="跟沒有朋友的人做朋友——終於知道他為什麼沒有朋友"></a><br><a href="../memes/m1422.md">跟沒有朋友的人做朋友——終於知道他為什麼沒有朋友</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1423.md"><img src="../images/m1423-bun-hat-class.jpg" width="240" alt="我一直不能專心上課的原因"></a><br><a href="../memes/m1423.md">我一直不能專心上課的原因</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1425.md"><img src="../images/m1425-manatee-loch-ness-formation.png" width="240" alt="我看到一位觀光客！尼斯湖水怪隊形！"></a><br><a href="../memes/m1425.md">我看到一位觀光客！尼斯湖水怪隊形！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1426.md"><img src="../images/m1426-brother-single-for-my-wealth.png" width="240" alt="希望能用我兄弟的十年單身換取我的榮華富貴"></a><br><a href="../memes/m1426.md">希望能用我兄弟的十年單身換取我的榮華富貴</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1429.md"><img src="../images/m1429-plush-selfie-hachiware.jpg" width="240" alt="發張自拍"></a><br><a href="../memes/m1429.md">發張自拍</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（65）
@@ -805,7 +814,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（129）
+## ⚠️ 需斟酌（131）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2094,6 +2103,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1413.md"><img src="../images/m1413-free-box-trap-stick.png" width="240" alt="太棒了！免費的箱子！"></a><br><a href="../memes/m1413.md">太棒了！免費的箱子！</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>送你去養老院交朋友——早知道把你送去孤兒院 — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1421.md"><img src="../images/m1421-mom-nursing-home-orphanage.png" width="240" alt="送你去養老院交朋友——早知道把你送去孤兒院"></a><br><a href="../memes/m1421.md">送你去養老院交朋友——早知道把你送去孤兒院</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>孩子你要說個現實一點的——我想被愛 — ⚠️ 情感傷害</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1427.md"><img src="../images/m1427-santa-unicorn-or-be-loved.jpg" width="240" alt="孩子你要說個現實一點的——我想被愛"></a><br><a href="../memes/m1427.md">孩子你要說個現實一點的——我想被愛</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

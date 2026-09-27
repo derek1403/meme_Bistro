@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 157 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（104）
 
@@ -185,7 +185,7 @@
 </tr>
 </table>
 
-## ★★（40）
+## ★★（41）
 
 <table>
 <tr>
@@ -255,6 +255,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1289.md"><img src="../images/m1289-fridge-raiders-rl-robot.gif" width="240" alt="強化學習失控：本來要餵人的機器人開始爆打人類"></a><br><a href="../memes/m1289.md">強化學習失控：本來要餵人的機器人開始爆打人類</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1418.md"><img src="../images/m1418-metro-ai-insertion-sort.png" width="240" alt="北捷客服要被玩壞了"></a><br><a href="../memes/m1418.md">北捷客服要被玩壞了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 227 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 228 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（82）
+## ★（83）
 
 <table>
 <tr>
@@ -146,6 +146,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1395.md"><img src="../images/m1395-castella-pie-chart.png" width="240" alt="蜂蜜蛋糕的組成成分"></a><br><a href="../memes/m1395.md">蜂蜜蛋糕的組成成分</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1424.md"><img src="../images/m1424-413-nuggets-412-safe.jpg" width="240" alt="某男子吃了 413 塊麥克雞塊後休克——所以吃 412 顆是安全的"></a><br><a href="../memes/m1424.md">某男子吃了 413 塊麥克雞塊後休克——所以吃 412 顆是安全的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

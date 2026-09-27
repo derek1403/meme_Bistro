@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 916 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 921 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（629）
+## ★（634）
 
 <table>
 <tr>
@@ -1057,6 +1057,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1983.md"><img src="../images/m1983-teammate-mic-fan-helicopter.png" width="240" alt="當打遊戲時隊友的麥"></a><br><a href="../memes/m1983.md">當打遊戲時隊友的麥</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1990.md"><img src="../images/m1990-sisyphus-bunnies.png" width="240" alt="推石頭的兔子，終於不再是一個人"></a><br><a href="../memes/m1990.md">推石頭的兔子，終於不再是一個人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1992.md"><img src="../images/m1992-clean-room-7788-only-trash-left.png" width="240" alt="太乾淨的話，唯一的垃圾就只剩下你了"></a><br><a href="../memes/m1992.md">太乾淨的話，唯一的垃圾就只剩下你了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1993.md"><img src="../images/m1993-cat-sad-then-how-dare-you.png" width="240" alt="為什麼她討厭我啊——（稍加思索）——你什麼東西敢批評我"></a><br><a href="../memes/m1993.md">為什麼她討厭我啊——（稍加思索）——你什麼東西敢批評我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1996.md"><img src="../images/m1996-miku-leek-black-myth.jpg" width="240" alt="初音未來拿著大蔥走進黑神話悟空"></a><br><a href="../memes/m1996.md">初音未來拿著大蔥走進黑神話悟空</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1997.md"><img src="../images/m1997-abyss-sticks-tongue-out.jpg" width="240" alt="當你凝視深淵的時候，深淵會向你吐出舌頭"></a><br><a href="../memes/m1997.md">當你凝視深淵的時候，深淵會向你吐出舌頭</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2001.md"><img src="../images/m2001-wow-32-girlfriend-13-teacher.jpg" width="240" alt="我 32，我女朋友 13——她剛批改完她學生的卷子"></a><br><a href="../memes/m2001.md">我 32，我女朋友 13——她剛批改完她學生的卷子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

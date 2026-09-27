@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 219 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 221 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（148）
+## ★（150）
 
 <table>
 <tr>
@@ -256,6 +256,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1971.md"><img src="../images/m1971-wife-cake-anime-clay.jpg" width="240" alt="老婆餅"></a><br><a href="../memes/m1971.md">老婆餅</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1991.md"><img src="../images/m1991-oyster-omelette-craftsman-backwards.png" width="240" alt="作煎販蚵"></a><br><a href="../memes/m1991.md">作煎販蚵</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1994.md"><img src="../images/m1994-birthday-free-under-12m-kids.jpg" width="240" alt="生日當天本人免費吃，1.2 米以下兒童"></a><br><a href="../memes/m1994.md">生日當天本人免費吃，1.2 米以下兒童</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

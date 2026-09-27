@@ -4,14 +4,14 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-- [🧠 硬核（209）](#hardcore)
-- [👀 直觀（1454）](#intuitive)
+- [🧠 硬核（212）](#hardcore)
+- [👀 直觀（1462）](#intuitive)
 - [🔤 諧音／文字梗（301）](#pun)
 - [🔥 地獄梗（171）](#dark)
 
 <a id="hardcore"></a>
 
-## 🧠 硬核（209）
+## 🧠 硬核（212）
 
 要有學科背景才笑得出來
 
@@ -224,10 +224,13 @@
 - 💻 [你家族有精神病史嗎？——我有個叔叔會推薦新手讀 SICP 和 TAOCP](../memes/m1959.md) ★★
 - 🧮 [媽，我的床底下有一個怪物！——純數學家 vs 應用數學家](../memes/m1964.md) ★★
 - 🧮 [克羅內克 δ 的三種寫法](../memes/m1984.md) ★★
+- 🧮 [Why do we have hands?——to cherish the Divergence Theorem](../memes/m1998.md) ★★
+- 🧮 [lim x→0 在追 x = 0](../memes/m1999.md) ★★
+- 🧮 [An irrational?? in the integer factory?? how queer!!](../memes/m2000.md) ★★
 
 <a id="intuitive"></a>
 
-## 👀 直觀（1454）
+## 👀 直觀（1462）
 
 看圖就懂
 
@@ -1685,6 +1688,14 @@
 - 💻 [The program is stable——Don't touch any code](../memes/m1988.md) ★
 - 🍺 [食品級矽膠冰模具](../memes/m1989.md) ★ ⚠️ 性暗示（情趣用品形狀）
 - 🍺 [推石頭的兔子，終於不再是一個人](../memes/m1990.md) ★
+- 🗣️ [作煎販蚵](../memes/m1991.md) ★
+- 🍺 [太乾淨的話，唯一的垃圾就只剩下你了](../memes/m1992.md) ★
+- 🍺 [為什麼她討厭我啊——（稍加思索）——你什麼東西敢批評我](../memes/m1993.md) ★
+- 🗣️ [生日當天本人免費吃，1.2 米以下兒童](../memes/m1994.md) ★
+- 💻 [My trust level in CTRL + V vs CTRL + C](../memes/m1995.md) ★
+- 🍺 [初音未來拿著大蔥走進黑神話悟空](../memes/m1996.md) ★
+- 🍺 [當你凝視深淵的時候，深淵會向你吐出舌頭](../memes/m1997.md) ★
+- 🍺 [我 32，我女朋友 13——她剛批改完她學生的卷子](../memes/m2001.md) ★
 
 <a id="pun"></a>
 

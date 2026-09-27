@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 151 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 152 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（67）
 
@@ -124,7 +124,7 @@
 </tr>
 </table>
 
-## ★★（50）
+## ★★（51）
 
 <table>
 <tr>
@@ -210,6 +210,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1818.md"><img src="../images/m1818-string-theory-no-verify.png" width="240" alt="你要怎麼驗證這個理論？——那就是最精妙之處：我們不驗證"></a><br><a href="../memes/m1818.md">你要怎麼驗證這個理論？——那就是最精妙之處：我們不驗證</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1873.md"><img src="../images/m1873-raptor-arms-curator.png" width="240" alt="館長說迅猛龍的前肢根本不是這樣——您說的對極了"></a><br><a href="../memes/m1873.md">館長說迅猛龍的前肢根本不是這樣——您說的對極了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1987.md"><img src="../images/m1987-angular-momentum-l-r-x-p.png" width="240" alt="L = r × p"></a><br><a href="../memes/m1987.md">L = r × p</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 260 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 261 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（87）
 
@@ -156,7 +156,7 @@
 </tr>
 </table>
 
-## ★★（107）
+## ★★（108）
 
 <table>
 <tr>
@@ -337,6 +337,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1889.md"><img src="../images/m1889-trade-offer-induction.png" width="240" alt="TRADE OFFER：數學歸納法"></a><br><a href="../memes/m1889.md">TRADE OFFER：數學歸納法</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1964.md"><img src="../images/m1964-pure-applied-math-bunk-bed.png" width="240" alt="媽，我的床底下有一個怪物！——純數學家 vs 應用數學家"></a><br><a href="../memes/m1964.md">媽，我的床底下有一個怪物！——純數學家 vs 應用數學家</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1984.md"><img src="../images/m1984-kronecker-delta-pooh.png" width="240" alt="克羅內克 δ 的三種寫法"></a><br><a href="../memes/m1984.md">克羅內克 δ 的三種寫法</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

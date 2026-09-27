@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 209 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（139）
+## ★（140）
 
 <table>
 <tr>
@@ -241,6 +241,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1965.md"><img src="../images/m1965-books-that-made-you-cry-dsa.png" width="240" alt="Can you recommend books that made you cry?——資料結構與演算法"></a><br><a href="../memes/m1965.md">Can you recommend books that made you cry?——資料結構與演算法</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1988.md"><img src="../images/m1988-program-stable-dont-touch.png" width="240" alt="The program is stable——Don't touch any code"></a><br><a href="../memes/m1988.md">The program is stable——Don't touch any code</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

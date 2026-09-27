@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 911 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 916 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（627）
+## ★（629）
 
 <table>
 <tr>
@@ -1054,6 +1054,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1981.md"><img src="../images/m1981-hello-peter-primary-teacher.png" width="240" alt="I don't think he will recognise me——Hello, Peter"></a><br><a href="../memes/m1981.md">I don't think he will recognise me——Hello, Peter</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1982.md"><img src="../images/m1982-dating-both-pregnant.png" width="240" alt="用你的理解來解釋這張圖——他們兩個都懷孕了"></a><br><a href="../memes/m1982.md">用你的理解來解釋這張圖——他們兩個都懷孕了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1983.md"><img src="../images/m1983-teammate-mic-fan-helicopter.png" width="240" alt="當打遊戲時隊友的麥"></a><br><a href="../memes/m1983.md">當打遊戲時隊友的麥</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1990.md"><img src="../images/m1990-sisyphus-bunnies.png" width="240" alt="推石頭的兔子，終於不再是一個人"></a><br><a href="../memes/m1990.md">推石頭的兔子，終於不再是一個人</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（80）
@@ -1195,7 +1199,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（204）
+## ⚠️ 需斟酌（207）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3234,6 +3238,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1975.md"><img src="../images/m1975-contraception-efficiency-single.jpg" width="240" alt="各種避孕方法的效率：沒有對象的你 1551%"></a><br><a href="../memes/m1975.md">各種避孕方法的效率：沒有對象的你 1551%</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在一片稻田裡發現了一位母親和她的孩子 — ⚠️ 動物（食用）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1985.md"><img src="../images/m1985-rice-field-mother-child.png" width="240" alt="在一片稻田裡發現了一位母親和她的孩子"></a><br><a href="../memes/m1985.md">在一片稻田裡發現了一位母親和她的孩子</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>停下！你不再是孤獨一人了——我數三二一我們一起跳 — ⚠️ 自殺</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1986.md"><img src="../images/m1986-rooftop-not-alone-jump-together.jpg" width="240" alt="停下！你不再是孤獨一人了——我數三二一我們一起跳"></a><br><a href="../memes/m1986.md">停下！你不再是孤獨一人了——我數三二一我們一起跳</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>食品級矽膠冰模具 — ⚠️ 性暗示（情趣用品形狀）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1989.md"><img src="../images/m1989-silicone-ice-mold-plug.png" width="240" alt="食品級矽膠冰模具"></a><br><a href="../memes/m1989.md">食品級矽膠冰模具</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

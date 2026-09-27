@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1102 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（799）
+## ★（801）
 
 <table>
 <tr>
@@ -1341,10 +1341,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2353.md"><img src="../images/m2353-age-35-box-of-cables.png" width="240" alt="35 歲的你應該有一大箱不知道是什麼的線"></a><br><a href="../memes/m2353.md">35 歲的你應該有一大箱不知道是什麼的線</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2365.md"><img src="../images/m2365-grass-grew-into-cone.png" width="240" alt="拿走三角錐後，草長成了三角錐的形狀"></a><br><a href="../memes/m2365.md">拿走三角錐後，草長成了三角錐的形狀</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2367.md"><img src="../images/m2367-dino-dad-turtle-stuck.png" width="240" alt="爸？——我好像被卡住了"></a><br><a href="../memes/m2367.md">爸？——我好像被卡住了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（87）
+## ★★（88）
 
 <table>
 <tr>
@@ -1492,9 +1494,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2227.md"><img src="../images/m2227-squirrel-typhoon-day-off.png" width="240" alt="全國停電 76,328 戶——終於輪到我放颱風假了"></a><br><a href="../memes/m2227.md">全國停電 76,328 戶——終於輪到我放颱風假了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2254.md"><img src="../images/m2254-nara-deer-shikanoko-dance.png" width="240" alt="奈良公園迷惑報道：最近好多傻佬喺我面前跳舞"></a><br><a href="../memes/m2254.md">奈良公園迷惑報道：最近好多傻佬喺我面前跳舞</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2366.md"><img src="../images/m2366-gensokyo-health-organization-age.png" width="240" alt="幻想鄉衛生組織：新的年齡劃分標準"></a><br><a href="../memes/m2366.md">幻想鄉衛生組織：新的年齡劃分標準</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（216）
+## ⚠️ 需斟酌（218）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3653,6 +3658,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2315.md"><img src="../images/m2315-lunch-time-diplodocus-trex.png" width="240" alt="午餐時間！——午餐時間！"></a><br><a href="../memes/m2315.md">午餐時間！——午餐時間！</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>紅豆粒餡顆顆的……卡士達濃厚奶油讓人心動 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2355.md"><img src="../images/m2355-taiyaki-ecchi-manga.png" width="240" alt="紅豆粒餡顆顆的……卡士達濃厚奶油讓人心動"></a><br><a href="../memes/m2355.md">紅豆粒餡顆顆的……卡士達濃厚奶油讓人心動</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>喜歡畫妹子而成為瑟琴漫畫家——發現需要畫的漢子遠比妹子多 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2356.md"><img src="../images/m2356-manga-artist-draw-more-men.png" width="240" alt="喜歡畫妹子而成為瑟琴漫畫家——發現需要畫的漢子遠比妹子多"></a><br><a href="../memes/m2356.md">喜歡畫妹子而成為瑟琴漫畫家——發現需要畫的漢子遠比妹子多</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

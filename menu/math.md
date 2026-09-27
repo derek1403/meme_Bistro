@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 290 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 292 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（91）
 
@@ -164,7 +164,7 @@
 </tr>
 </table>
 
-## ★★（130）
+## ★★（132）
 
 <table>
 <tr>
@@ -384,6 +384,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2351.md"><img src="../images/m2351-4d-creature-rotates-me.png" width="240" alt="3 維生物旋轉 2 維生物覺得好好玩——然後 4 維生物出現了"></a><br><a href="../memes/m2351.md">3 維生物旋轉 2 維生物覺得好好玩——然後 4 維生物出現了</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2354.md"><img src="../images/m2354-fractional-derivative-horror.png" width="240" alt="n 階、整數階、實數階、複數階、多項式階導數"></a><br><a href="../memes/m2354.md">n 階、整數階、實數階、複數階、多項式階導數</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2358.md"><img src="../images/m2358-circle-packing-49.png" width="240" alt="25 個圓、36 個圓，合理——49 個圓：WHAT THE…"></a><br><a href="../memes/m2358.md">25 個圓、36 個圓，合理——49 個圓：WHAT THE…</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

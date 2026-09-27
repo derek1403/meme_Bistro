@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 189 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 190 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（48）
 
@@ -134,7 +134,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（119）
+## ⚠️ 需斟酌（120）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1323,6 +1323,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2328.md"><img src="../images/m2328-pilot-fear-dying-alone.png" width="240" alt="Why did you become a pilot?——To overcome my biggest fear: dying alone"></a><br><a href="../memes/m2328.md">Why did you become a pilot?——To overcome my biggest fear: dying alone</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>人類是最聰明的物種——你們禁止同伴裸露，然後每天上網找同伴裸照 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2363.md"><img src="../images/m2363-humans-smartest-nude-photos.png" width="240" alt="人類是最聰明的物種——你們禁止同伴裸露，然後每天上網找同伴裸照"></a><br><a href="../memes/m2363.md">人類是最聰明的物種——你們禁止同伴裸露，然後每天上網找同伴裸照</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

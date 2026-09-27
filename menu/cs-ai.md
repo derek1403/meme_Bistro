@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 276 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 280 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（194）
+## ★（198）
 
 <table>
 <tr>
@@ -332,6 +332,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2347.md"><img src="../images/m2347-delete-one-line-css-chicken.png" width="240" alt="I just deleted 1 line of CSS code——Result"></a><br><a href="../memes/m2347.md">I just deleted 1 line of CSS code——Result</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2350.md"><img src="../images/m2350-full-stack-burger.png" width="240" alt="The Full-Stack 漢堡"></a><br><a href="../memes/m2350.md">The Full-Stack 漢堡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2357.md"><img src="../images/m2357-spoon-mirror-safe-browsing.png" width="240" alt="Safe browsing level：Infinity"></a><br><a href="../memes/m2357.md">Safe browsing level：Infinity</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2359.md"><img src="../images/m2359-install-25-year-old-program.png" width="240" alt="Mac 裝不了 5 年前的程式、Windows 能裝 25 年前的——Linux：早就裝好了"></a><br><a href="../memes/m2359.md">Mac 裝不了 5 年前的程式、Windows 能裝 25 年前的——Linux：早就裝好了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2362.md"><img src="../images/m2362-spiral-print-hardcode.png" width="240" alt="從中心順時針印出 1 到 25 的螺旋——print 五行搞定"></a><br><a href="../memes/m2362.md">從中心順時針印出 1 到 25 的螺旋——print 五行搞定</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2364.md"><img src="../images/m2364-tester-vs-users-bridge.png" width="240" alt="Tester 在橋上跳來跳去都沒事——Users 開坦克過去"></a><br><a href="../memes/m2364.md">Tester 在橋上跳來跳去都沒事——Users 開坦克過去</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

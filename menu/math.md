@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 218 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 219 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（80）
 
@@ -290,7 +290,7 @@
 </tr>
 </table>
 
-## ★★★（38）
+## ★★★（39）
 
 <table>
 <tr>
@@ -356,6 +356,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1110.md"><img src="../images/m1110-say-jarvis-category-theory.png" width="240" alt="Say Jarvis：範疇論佔滿大腦"></a><br><a href="../memes/m1110.md">Say Jarvis：範疇論佔滿大腦</a><br><sub>🧠👀 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1166.md"><img src="../images/m1166-oppenheimer-tensor-product-rule.png" width="240" alt="乘積法則 vs 張量的共變導數"></a><br><a href="../memes/m1166.md">乘積法則 vs 張量的共變導數</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1263.md"><img src="../images/m1263-sl2-octonion-trap.png" width="240" alt="SL(2, 𝕆) 陷阱"></a><br><a href="../memes/m1263.md">SL(2, 𝕆) 陷阱</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

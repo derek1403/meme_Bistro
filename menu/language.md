@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 118 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 120 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（80）
+## ★（82）
 
 <table>
 <tr>
@@ -142,6 +142,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1235.md"><img src="../images/m1235-left-handed-not-right.png" width="240" alt="Never argue with left-handed people"></a><br><a href="../memes/m1235.md">Never argue with left-handed people</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1243.md"><img src="../images/m1243-monkey-play-dead-avoid-thunder.png" width="240" alt="猴子，打雷了怎麼辦？假死避雷！"></a><br><a href="../memes/m1243.md">猴子，打雷了怎麼辦？假死避雷！</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1254.md"><img src="../images/m1254-kyoto-nin-jiom.png" width="240" alt="京都念什麼？京都念慈菴川貝枇杷膏"></a><br><a href="../memes/m1254.md">京都念什麼？京都念慈菴川貝枇杷膏</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1256.md"><img src="../images/m1256-how-many-kinds-of-la.png" width="240" alt="你知道世上有幾種辣嗎？"></a><br><a href="../memes/m1256.md">你知道世上有幾種辣嗎？</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

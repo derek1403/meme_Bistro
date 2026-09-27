@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 501 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 508 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（337）
+## ★（343）
 
 <table>
 <tr>
@@ -571,6 +571,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1252.md"><img src="../images/m1252-mona-lisa-new-year-weight.png" width="240" alt="蒙娜麗莎過年前後"></a><br><a href="../memes/m1252.md">蒙娜麗莎過年前後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1257.md"><img src="../images/m1257-remilia-pudding-nosebleed.png" width="240" alt="Sakuya，拜託給我布丁嘛"></a><br><a href="../memes/m1257.md">Sakuya，拜託給我布丁嘛</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1258.md"><img src="../images/m1258-overtake-same-red-light.png" width="240" alt="有人加速超你車，結果還是卡在同一個紅燈"></a><br><a href="../memes/m1258.md">有人加速超你車，結果還是卡在同一個紅燈</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1259.md"><img src="../images/m1259-sugarcane-squeezed-by-boss.png" width="240" alt="壓榨到一滴都不剩：我說在公司被老闆使喚的你"></a><br><a href="../memes/m1259.md">壓榨到一滴都不剩：我說在公司被老闆使喚的你</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1260.md"><img src="../images/m1260-not-angry-until-friend-asks.png" width="240" alt="本來沒有生氣，但朋友一直問"></a><br><a href="../memes/m1260.md">本來沒有生氣，但朋友一直問</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1261.md"><img src="../images/m1261-painting-wall-bug.png" width="240" alt="我給舊牆刷油漆，牆上的那隻蟲子"></a><br><a href="../memes/m1261.md">我給舊牆刷油漆，牆上的那隻蟲子</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1264.md"><img src="../images/m1264-tetris-selfie.png" width="240" alt="我們來自拍！大家靠近一點！"></a><br><a href="../memes/m1264.md">我們來自拍！大家靠近一點！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -682,7 +692,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（103）
+## ⚠️ 需斟酌（104）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1711,6 +1721,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1253.md"><img src="../images/m1253-inflatable-girlfriend-birthday.png" width="240" alt="充氣的有生日？上面有生產日期"></a><br><a href="../memes/m1253.md">充氣的有生日？上面有生產日期</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我想要像蝙蝠俠一樣 — ⚠️ 槍殺／死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1262.md"><img src="../images/m1262-santa-batman-origin.png" width="240" alt="我想要像蝙蝠俠一樣"></a><br><a href="../memes/m1262.md">我想要像蝙蝠俠一樣</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

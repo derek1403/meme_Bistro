@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 56 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 57 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（44）
+## ★（45）
 
 <table>
 <tr>
@@ -82,6 +82,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1266.md"><img src="../images/m1266-exam-options-all-same.jpg" width="240" alt="什麼都沒複習就去考試時，選擇題看起來的樣子"></a><br><a href="../memes/m1266.md">什麼都沒複習就去考試時，選擇題看起來的樣子</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1304.md"><img src="../images/m1304-only-95-drop-out.png" width="240" alt="才 95 分，還不如休學去打工"></a><br><a href="../memes/m1304.md">才 95 分，還不如休學去打工</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1320.md"><img src="../images/m1320-only-three-questions.png" width="240" alt="老師：這次的回家作業只有三題"></a><br><a href="../memes/m1320.md">老師：這次的回家作業只有三題</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

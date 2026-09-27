@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 128 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 131 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（85）
+## ★（87）
 
 <table>
 <tr>
@@ -151,6 +151,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1316.md"><img src="../images/m1316-super-heavy-cat.png" width="240" alt="我們有優質教練、優良器材，還有超重貓貓"></a><br><a href="../memes/m1316.md">我們有優質教練、優良器材，還有超重貓貓</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1322.md"><img src="../images/m1322-curry-duck-rice.png" width="240" alt="來不及了，你的呱哩飯"></a><br><a href="../memes/m1322.md">來不及了，你的呱哩飯</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1323.md"><img src="../images/m1323-pen-ruler-pikachu.png" width="240" alt="筆跟尺的台語一起怎麼唸？Pikachu"></a><br><a href="../memes/m1323.md">筆跟尺的台語一起怎麼唸？Pikachu</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -177,7 +179,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（33）
+## ⚠️ 需斟酌（34）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -506,6 +508,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1313.md"><img src="../images/m1313-toilet-backwards-design.png" width="240" alt="設計師出來解釋下吧"></a><br><a href="../memes/m1313.md">設計師出來解釋下吧</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>請用「我、她、他、它」寫一個悲傷的故事 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1324.md"><img src="../images/m1324-me-her-him-it-sad-story.png" width="240" alt="請用「我、她、他、它」寫一個悲傷的故事"></a><br><a href="../memes/m1324.md">請用「我、她、他、它」寫一個悲傷的故事</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 113 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 114 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（52）
+## ★（53）
 
 <table>
 <tr>
@@ -96,6 +96,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1311.md"><img src="../images/m1311-gorilla-eye-glasses.png" width="240" alt="大猩猩不喜歡目光接觸，所以遊客要戴這副眼鏡"></a><br><a href="../memes/m1311.md">大猩猩不喜歡目光接觸，所以遊客要戴這副眼鏡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1319.md"><img src="../images/m1319-ev-diesel-generator.jpg" width="240" alt="電動車正在用柴油發電機充電"></a><br><a href="../memes/m1319.md">電動車正在用柴油發電機充電</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 222 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 223 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（81）
 
@@ -367,7 +367,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（16）
+## ⚠️ 需斟酌（17）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -526,6 +526,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0786.md"><img src="../images/m0786-teachers-weapons-sqrt.jpg" width="240" alt="各科老師的武器"></a><br><a href="../memes/m0786.md">各科老師的武器</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>萬物皆數——抓他餵鯊魚 — ⚠️ 殺人</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1326.md"><img src="../images/m1326-pythagoras-hippasus-shark.png" width="240" alt="萬物皆數——抓他餵鯊魚"></a><br><a href="../memes/m1326.md">萬物皆數——抓他餵鯊魚</a><br><sub>🧠🔥 ★★</sub></td>
 </tr>
 </table>
 

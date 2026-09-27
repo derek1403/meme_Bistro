@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 540 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 546 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（365）
+## ★（368）
 
 <table>
 <tr>
@@ -617,6 +617,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1315.md"><img src="../images/m1315-horse-sleeps-2-9-hours.png" width="240" alt="馬一天睡多久？2.9 小時"></a><br><a href="../memes/m1315.md">馬一天睡多久？2.9 小時</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1317.md"><img src="../images/m1317-sea-turtle-hole-punch.png" width="240" alt="海龜造型的打洞器，打完洞之後海龜就會產卵"></a><br><a href="../memes/m1317.md">海龜造型的打洞器，打完洞之後海龜就會產卵</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1327.md"><img src="../images/m1327-scooter-bear-shadow.png" width="240" alt="騎機車的影子像一隻熊"></a><br><a href="../memes/m1327.md">騎機車的影子像一隻熊</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1328.md"><img src="../images/m1328-scallion-oil-green-tea.png" width="240" alt="蔥油蒜油顏色有點難分辨欸"></a><br><a href="../memes/m1328.md">蔥油蒜油顏色有點難分辨欸</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1329.md"><img src="../images/m1329-truth-or-dare-ugliest.png" width="240" alt="和聯絡人裡最醜的告白——最醜的都把你拒絕了"></a><br><a href="../memes/m1329.md">和聯絡人裡最醜的告白——最醜的都把你拒絕了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -730,7 +735,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（112）
+## ⚠️ 需斟酌（115）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1849,6 +1854,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1302.md"><img src="../images/m1302-see-you-in-hell-stood-up.png" width="240" alt="地獄見——我覺得他不會來"></a><br><a href="../memes/m1302.md">地獄見——我覺得他不會來</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>心臟要逃走了！——只有心臟被我抓住了 — ⚠️ 血腥（動畫心臟）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1318.md"><img src="../images/m1318-heart-running-away-cv.png" width="240" alt="心臟要逃走了！——只有心臟被我抓住了"></a><br><a href="../memes/m1318.md">心臟要逃走了！——只有心臟被我抓住了</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>妻子癱瘓多年，丈夫不離不棄 — ⚠️ 性暗示（娃娃）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1321.md"><img src="../images/m1321-wife-paralyzed-husband-loyal.png" width="240" alt="妻子癱瘓多年，丈夫不離不棄"></a><br><a href="../memes/m1321.md">妻子癱瘓多年，丈夫不離不棄</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>笑死，說的好榮恩，葛萊芬多多加十分 — ⚠️ 死亡（父母雙亡）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1325.md"><img src="../images/m1325-snape-ron-ten-points.png" width="240" alt="笑死，說的好榮恩，葛萊芬多多加十分"></a><br><a href="../memes/m1325.md">笑死，說的好榮恩，葛萊芬多多加十分</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

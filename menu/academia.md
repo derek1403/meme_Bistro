@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 65 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 66 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（51）
+## ★（52）
 
 <table>
 <tr>
@@ -93,6 +93,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1524.md"><img src="../images/m1524-med-student-highlighting.png" width="240" alt="其他專業學生劃重點 vs 醫學生劃重點"></a><br><a href="../memes/m1524.md">其他專業學生劃重點 vs 醫學生劃重點</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1525.md"><img src="../images/m1525-teacher-student-standoff.png" width="240" alt="你不夠聰明所以無法理解——你不夠聰明所以無法清楚地講解"></a><br><a href="../memes/m1525.md">你不夠聰明所以無法理解——你不夠聰明所以無法清楚地講解</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1551.md"><img src="../images/m1551-science-hear-once-arts-twice.png" width="240" alt="理科生聽一次就懂的，每次文科生都要聽二次"></a><br><a href="../memes/m1551.md">理科生聽一次就懂的，每次文科生都要聽二次</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1604.md"><img src="../images/m1604-teachers-trust-each-other.jpg" width="240" alt="大概是世界上最互相信任的兩個人"></a><br><a href="../memes/m1604.md">大概是世界上最互相信任的兩個人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 166 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 170 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（111）
+## ★（114）
 
 <table>
 <tr>
@@ -194,9 +194,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1601.md"><img src="../images/m1601-raccoon-religion-stay-up.jpg" width="240" alt="你是信什麼教的？浣上不睡教"></a><br><a href="../memes/m1601.md">你是信什麼教的？浣上不睡教</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1602.md"><img src="../images/m1602-not-e-or-i-poor.jpg" width="240" alt="不要再問我是 E 人還是 I 人了——我是 P 人：Poor 窮人"></a><br><a href="../memes/m1602.md">不要再問我是 E 人還是 I 人了——我是 P 人：Poor 窮人</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1605.md"><img src="../images/m1605-bent-buddha.jpg" width="240" alt="彎的佛"></a><br><a href="../memes/m1605.md">彎的佛</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1610.md"><img src="../images/m1610-swallow-nest-sparrow-milk-tea.png" width="240" alt="聽說燕窩很營養——你這個是雀巢奶茶"></a><br><a href="../memes/m1610.md">聽說燕窩很營養——你這個是雀巢奶茶</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1611.md"><img src="../images/m1611-aunt-afraid-to-sweat.png" width="240" alt="為什麼你阿姨都不去運動？——因為她怕流下姨汗"></a><br><a href="../memes/m1611.md">為什麼你阿姨都不去運動？——因為她怕流下姨汗</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（13）
+## ★★（14）
 
 <table>
 <tr>
@@ -221,6 +226,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1535.md"><img src="../images/m1535-worst-puns-collection.png" width="240" alt="最白爛諧音梗大全"></a><br><a href="../memes/m1535.md">最白爛諧音梗大全</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1613.md"><img src="../images/m1613-fukuhara-ai-amnesia.png" width="240" alt="福原愛如果失憶，第一句話會講出什麼？"></a><br><a href="../memes/m1613.md">福原愛如果失憶，第一句話會講出什麼？</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

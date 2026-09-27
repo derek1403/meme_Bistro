@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 706 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 712 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（485）
+## ★（490）
 
 <table>
 <tr>
@@ -817,6 +817,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1599.md"><img src="../images/m1599-im-going-crazy-you-can-leave.jpg" width="240" alt="喔，時間差不多了。我要發瘋了，妳可以消失了"></a><br><a href="../memes/m1599.md">喔，時間差不多了。我要發瘋了，妳可以消失了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1600.md"><img src="../images/m1600-dog-parking-spot.jpg" width="240" alt="好不容易發現一個停車位，結果被這台狗狗肉先停了"></a><br><a href="../memes/m1600.md">好不容易發現一個停車位，結果被這台狗狗肉先停了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1603.md"><img src="../images/m1603-cat-spotlight-quest.jpg" width="240" alt="根據我的電玩經驗，這隻貓咪有重要任務要給我"></a><br><a href="../memes/m1603.md">根據我的電玩經驗，這隻貓咪有重要任務要給我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1606.md"><img src="../images/m1606-exam-what-teacher-says-husband.png" width="240" alt="觀察下面漫畫，老師會說什麼？——老公"></a><br><a href="../memes/m1606.md">觀察下面漫畫，老師會說什麼？——老公</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1608.md"><img src="../images/m1608-metapod-sleeping-bag.png" width="240" alt="鐵甲蛹睡袋"></a><br><a href="../memes/m1608.md">鐵甲蛹睡袋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1609.md"><img src="../images/m1609-diligence-costs-extra.png" width="240" alt="領導說我不積極——笑死，勤奮可是另外的價錢"></a><br><a href="../memes/m1609.md">領導說我不積極——笑死，勤奮可是另外的價錢</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1612.md"><img src="../images/m1612-youtube-ads-vs-tv-10-min.png" width="240" alt="逼人買會員的 YouTube vs 從小看電視 10 分鐘廣告的我"></a><br><a href="../memes/m1612.md">逼人買會員的 YouTube vs 從小看電視 10 分鐘廣告的我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -939,7 +948,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（153）
+## ⚠️ 需斟酌（154）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2468,6 +2477,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1586.md"><img src="../images/m1586-axe-teacher-log-student.png" width="240" alt="斧頭老師與木頭學生"></a><br><a href="../memes/m1586.md">斧頭老師與木頭學生</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你和你的好朋友是不能互相參加葬禮的 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1607.md"><img src="../images/m1607-best-friends-cant-attend-funerals.jpg" width="240" alt="你和你的好朋友是不能互相參加葬禮的"></a><br><a href="../memes/m1607.md">你和你的好朋友是不能互相參加葬禮的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

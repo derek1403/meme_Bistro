@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 103 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 104 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（21）
 
@@ -56,7 +56,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（79）
+## ⚠️ 需斟酌（80）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -845,6 +845,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1231.md"><img src="../images/m1231-captcha-jam-keffiyeh.png" width="240" alt="請選取所有包含果醬的方塊"></a><br><a href="../memes/m1231.md">請選取所有包含果醬的方塊</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如何讓非洲女孩對你印象深刻 — ⚠️ 族群刻板印象（缺水）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1307.md"><img src="../images/m1307-fridge-full-of-water.png" width="240" alt="如何讓非洲女孩對你印象深刻"></a><br><a href="../memes/m1307.md">如何讓非洲女孩對你印象深刻</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

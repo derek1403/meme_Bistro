@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 111 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 113 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（51）
+## ★（52）
 
 <table>
 <tr>
@@ -94,9 +94,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1142.md"><img src="../images/m1142-earth-new-year-new-path.png" width="240" alt="新的一年，全新的我！"></a><br><a href="../memes/m1142.md">新的一年，全新的我！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1190.md"><img src="../images/m1190-bee-aerodynamics-ladybug.png" width="240" alt="根據空氣動力學，蜜蜂應該無法飛行"></a><br><a href="../memes/m1190.md">根據空氣動力學，蜜蜂應該無法飛行</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1311.md"><img src="../images/m1311-gorilla-eye-glasses.png" width="240" alt="大猩猩不喜歡目光接觸，所以遊客要戴這副眼鏡"></a><br><a href="../memes/m1311.md">大猩猩不喜歡目光接觸，所以遊客要戴這副眼鏡</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（40）
+## ★★（41）
 
 <table>
 <tr>
@@ -166,6 +169,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1255.md"><img src="../images/m1255-dog-licks-wave-equation.png" width="240" alt="schlop schlop：狗在舔波動方程"></a><br><a href="../memes/m1255.md">schlop schlop：狗在舔波動方程</a><br><sub>🧠👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1308.md"><img src="../images/m1308-painkiller-knocks-doors.png" width="240" alt="為什麼止痛藥知道我哪裡痛？"></a><br><a href="../memes/m1308.md">為什麼止痛藥知道我哪裡痛？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

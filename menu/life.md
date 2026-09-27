@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 816 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 823 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（562）
+## ★（567）
 
 <table>
 <tr>
@@ -946,6 +946,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1809.md"><img src="../images/m1809-how-violent-gamers-cut-power.jpg" width="240" alt="現在玩遊戲的人有多暴力——將網吧的電源切斷"></a><br><a href="../memes/m1809.md">現在玩遊戲的人有多暴力——將網吧的電源切斷</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1813.md"><img src="../images/m1813-router-in-cage-cat-meows.jpg" width="240" alt="只能把路由器關籠子"></a><br><a href="../memes/m1813.md">只能把路由器關籠子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1814.md"><img src="../images/m1814-chili-hands-wipe-tears.jpg" width="240" alt="切完辣椒的手幫你擦眼淚"></a><br><a href="../memes/m1814.md">切完辣椒的手幫你擦眼淚</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1822.md"><img src="../images/m1822-legendary-sword-dupe-bug.png" width="240" alt="傳說之劍：別用 BUG 刷裝備啊！"></a><br><a href="../memes/m1822.md">傳說之劍：別用 BUG 刷裝備啊！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1823.md"><img src="../images/m1823-birthday-only-bank-remember.png" width="240" alt="當你的生日到了，但只有這些人記得"></a><br><a href="../memes/m1823.md">當你的生日到了，但只有這些人記得</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1824.md"><img src="../images/m1824-fortune-11am-clock-1065.png" width="240" alt="明天早上 11 點你會遇見你的真愛——10:65"></a><br><a href="../memes/m1824.md">明天早上 11 點你會遇見你的真愛——10:65</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1074,7 +1081,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（182）
+## ⚠️ 需斟酌（184）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2893,6 +2900,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1812.md"><img src="../images/m1812-beer-spine-health.jpg" width="240" alt="為了你的脊椎健康，買啤酒的時候永遠不要只買一提"></a><br><a href="../memes/m1812.md">為了你的脊椎健康，買啤酒的時候永遠不要只買一提</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如果是勇者欣梅爾的話，一定會來逛的！ — ⚠️ 性暗示（情趣用品店）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1815.md"><img src="../images/m1815-hero-himmel-would-visit.jpg" width="240" alt="如果是勇者欣梅爾的話，一定會來逛的！"></a><br><a href="../memes/m1815.md">如果是勇者欣梅爾的話，一定會來逛的！</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>明天我家烤肉來嗎？——烤肉？ — ⚠️ 粗話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1816.md"><img src="../images/m1816-bbq-scallops-fuck.png" width="240" alt="明天我家烤肉來嗎？——烤肉？"></a><br><a href="../memes/m1816.md">明天我家烤肉來嗎？——烤肉？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

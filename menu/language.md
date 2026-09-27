@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 198 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 200 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（133）
+## ★（135）
 
 <table>
 <tr>
@@ -231,6 +231,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1797.md"><img src="../images/m1797-crisis-is-transfer.png" width="240" alt="為什麼出國搭直航班比較安全？——因為危機就是轉機"></a><br><a href="../memes/m1797.md">為什麼出國搭直航班比較安全？——因為危機就是轉機</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1819.md"><img src="../images/m1819-mung-bean-bang-egg-yolk-crispy.png" width="240" alt="綠豆椪一聲，蛋黃酥了！"></a><br><a href="../memes/m1819.md">綠豆椪一聲，蛋黃酥了！</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1820.md"><img src="../images/m1820-laozi-writes-because-he-wants.png" width="240" alt="你知道老子為什麼要寫道德經？因為老子願意"></a><br><a href="../memes/m1820.md">你知道老子為什麼要寫道德經？因為老子願意</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 142 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（62）
+## ★（63）
 
 <table>
 <tr>
@@ -112,10 +112,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1761.md"><img src="../images/m1761-trilobite-miku-past.jpg" width="240" alt="有誰知道這是什麼生物？——初音過去"></a><br><a href="../memes/m1761.md">有誰知道這是什麼生物？——初音過去</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1795.md"><img src="../images/m1795-physics-assumptions-teletubby.jpg" width="240" alt="忽略摩擦力、忽略空氣阻力……g = 10"></a><br><a href="../memes/m1795.md">忽略摩擦力、忽略空氣阻力……g = 10</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1817.md"><img src="../images/m1817-graphene-vs-tom-jerry.png" width="240" alt="石墨烯：我是全世界最具變化性的材料——湯姆貓與傑利鼠"></a><br><a href="../memes/m1817.md">石墨烯：我是全世界最具變化性的材料——湯姆貓與傑利鼠</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（48）
+## ★★（49）
 
 <table>
 <tr>
@@ -197,6 +198,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1552.md"><img src="../images/m1552-gender-phase-diagram.png" width="240" alt="性別相圖：Gender Solid、Fluid、Gas、Supercritical"></a><br><a href="../memes/m1552.md">性別相圖：Gender Solid、Fluid、Gas、Supercritical</a><br><sub>🧠🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1737.md"><img src="../images/m1737-typhoon-ai-weather-models.png" width="240" alt="當有人問我颱風會不會來：GraphCast、AIFS、Pangu"></a><br><a href="../memes/m1737.md">當有人問我颱風會不會來：GraphCast、AIFS、Pangu</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1793.md"><img src="../images/m1793-lake-titicaca-profile.png" width="240" alt="Lake Titicaca：高高在上的湖"></a><br><a href="../memes/m1793.md">Lake Titicaca：高高在上的湖</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1818.md"><img src="../images/m1818-string-theory-no-verify.png" width="240" alt="你要怎麼驗證這個理論？——那就是最精妙之處：我們不驗證"></a><br><a href="../memes/m1818.md">你要怎麼驗證這個理論？——那就是最精妙之處：我們不驗證</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

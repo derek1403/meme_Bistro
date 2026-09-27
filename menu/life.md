@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 561 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 569 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（377）
+## ★（382）
 
 <table>
 <tr>
@@ -637,6 +637,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1344.md"><img src="../images/m1344-hot-cold-shower-shared.png" width="240" alt="洗澡水忽冷忽熱，就是有人在與你共用"></a><br><a href="../memes/m1344.md">洗澡水忽冷忽熱，就是有人在與你共用</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1346.md"><img src="../images/m1346-cat-pear-doge-apple.png" width="240" alt="貓梨與柴犬蘋果"></a><br><a href="../memes/m1346.md">貓梨與柴犬蘋果</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1355.md"><img src="../images/m1355-fish-drowning-in-life.png" width="240" alt="救命，我溺水了！——你是魚"></a><br><a href="../memes/m1355.md">救命，我溺水了！——你是魚</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1356.md"><img src="../images/m1356-clothes-chair.png" width="240" alt="衣服太髒不能放回衣櫃、又沒髒到該洗——歡迎使用：椅子"></a><br><a href="../memes/m1356.md">衣服太髒不能放回衣櫃、又沒髒到該洗——歡迎使用：椅子</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1359.md"><img src="../images/m1359-patrick-bunny-ears.png" width="240" alt="派大星試圖在海綿寶寶頭上放兔耳朵"></a><br><a href="../memes/m1359.md">派大星試圖在海綿寶寶頭上放兔耳朵</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1360.md"><img src="../images/m1360-hell-traditional-food-fries.png" width="240" alt="地獄的傳統美食應該是薯條配番茄醬"></a><br><a href="../memes/m1360.md">地獄的傳統美食應該是薯條配番茄醬</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1361.md"><img src="../images/m1361-extremely-long-combination-lock.png" width="240" alt="超長密碼鎖"></a><br><a href="../memes/m1361.md">超長密碼鎖</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -750,7 +759,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（121）
+## ⚠️ 需斟酌（124）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1959,6 +1968,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1352.md"><img src="../images/m1352-winter-scarf-noose.jpg" width="240" alt="入冬了，想給你買一條圍巾"></a><br><a href="../memes/m1352.md">入冬了，想給你買一條圍巾</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你將永遠無法得知誰會把寵物鼠拿去餵蛇 — ⚠️ 動物（餵食）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1362.md"><img src="../images/m1362-adopt-rat-feed-snake.png" width="240" alt="你將永遠無法得知誰會把寵物鼠拿去餵蛇"></a><br><a href="../memes/m1362.md">你將永遠無法得知誰會把寵物鼠拿去餵蛇</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在黑崎失去力量的 17 個月裡，我跟茶渡不可能什麼事都沒做 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1363.md"><img src="../images/m1363-orihime-chad-17-months.png" width="240" alt="在黑崎失去力量的 17 個月裡，我跟茶渡不可能什麼事都沒做"></a><br><a href="../memes/m1363.md">在黑崎失去力量的 17 個月裡，我跟茶渡不可能什麼事都沒做</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>他們在煮什麼？你老婆和一些馬鈴薯 — ⚠️ 動物（食用）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1364.md"><img src="../images/m1364-rooster-cat-cooking-your-wife.png" width="240" alt="他們在煮什麼？你老婆和一些馬鈴薯"></a><br><a href="../memes/m1364.md">他們在煮什麼？你老婆和一些馬鈴薯</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

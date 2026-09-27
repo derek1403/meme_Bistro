@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 132 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（87）
 
@@ -180,7 +180,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（34）
+## ⚠️ 需斟酌（35）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -519,6 +519,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1324.md"><img src="../images/m1324-me-her-him-it-sad-story.png" width="240" alt="請用「我、她、他、它」寫一個悲傷的故事"></a><br><a href="../memes/m1324.md">請用「我、她、他、它」寫一個悲傷的故事</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Car + Pet = Carpet — ⚠️ 動物死亡（血跡）</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1353.md"><img src="../images/m1353-car-pet-carpet.jpg" width="240" alt="Car + Pet = Carpet"></a><br><a href="../memes/m1353.md">Car + Pet = Carpet</a><br><sub>🔤🔥 ★</sub></td>
 </tr>
 </table>
 

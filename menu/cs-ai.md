@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 156 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 157 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（103）
+## ★（104）
 
 <table>
 <tr>
@@ -181,6 +181,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1341.md"><img src="../images/m1341-os-surveillance-reactions.png" width="240" alt="微軟、谷歌、蘋果、Linux：你們竟然在監控？"></a><br><a href="../memes/m1341.md">微軟、谷歌、蘋果、Linux：你們竟然在監控？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1354.md"><img src="../images/m1354-browser-spam-click.png" width="240" alt="瀏覽器打不開所以一直點"></a><br><a href="../memes/m1354.md">瀏覽器打不開所以一直點</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 105 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（22）
 
@@ -49,7 +49,7 @@
 </tr>
 </table>
 
-## ★★（3）
+## ★★（4）
 
 <table>
 <tr>
@@ -57,9 +57,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1278.md"><img src="../images/m1278-two-kinds-at-work-eva.jpg" width="240" alt="職場上的兩種人：我爸叫我來的"></a><br><a href="../memes/m1278.md">職場上的兩種人：我爸叫我來的</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1280.md"><img src="../images/m1280-shortest-international-bridge.png" width="240" alt="世界上最短的國際橋樑"></a><br><a href="../memes/m1280.md">世界上最短的國際橋樑</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1357.md"><img src="../images/m1357-ignore-the-light.png" width="240" alt="那傢伙竟然敢無視燈"></a><br><a href="../memes/m1357.md">那傢伙竟然敢無視燈</a><br><sub>🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（80）
+## ⚠️ 需斟酌（81）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -858,6 +861,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1307.md"><img src="../images/m1307-fridge-full-of-water.png" width="240" alt="如何讓非洲女孩對你印象深刻"></a><br><a href="../memes/m1307.md">如何讓非洲女孩對你印象深刻</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>以為有錢就了不起的客人，請默默找個地方去死 — ⚠️ 死亡字眼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m1358.md"><img src="../images/m1358-convenience-store-book-go-die.jpg" width="240" alt="以為有錢就了不起的客人，請默默找個地方去死"></a><br><a href="../memes/m1358.md">以為有錢就了不起的客人，請默默找個地方去死</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

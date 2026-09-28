@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 376 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 377 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（108）
 
@@ -191,7 +191,7 @@
 </tr>
 </table>
 
-## ★★（178）
+## ★★（179）
 
 <table>
 <tr>
@@ -491,6 +491,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3298.md"><img src="../images/m3298-lycoris-rps-probability-textbook.png" width="240" alt="為什麼我的大學課本裡有動畫？莉可麗絲猜拳機率題"></a><br><a href="../memes/m3298.md">為什麼我的大學課本裡有動畫？莉可麗絲猜拳機率題</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3315.md"><img src="../images/m3315-honest-woodcutter-fractal-goddess.png" width="240" alt="誠實的樵夫：女神自己掉進湖裡，冒出金女神和銀女神——然後無限遞迴"></a><br><a href="../memes/m3315.md">誠實的樵夫：女神自己掉進湖裡，冒出金女神和銀女神——然後無限遞迴</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

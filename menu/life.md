@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1536 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1538 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1156）
+## ★（1157）
 
 <table>
 <tr>
@@ -1936,6 +1936,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3308.md"><img src="../images/m3308-bad-at-soft-serve-bag.png" width="240" alt="店員：我不太會擠喔——客人：沒關係"></a><br><a href="../memes/m3308.md">店員：我不太會擠喔——客人：沒關係</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3314.md"><img src="../images/m3314-takina-you-dropped-girlfriend.png" width="240" alt="瀧奈，妳東西掉了——妳的女朋友"></a><br><a href="../memes/m3314.md">瀧奈，妳東西掉了——妳的女朋友</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2122,7 +2123,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（274）
+## ⚠️ 需斟酌（275）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4861,6 +4862,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3262.md"><img src="../images/m3262-snow-white-poison-apple-cut.png" width="240" alt="白雪公主：這蘋果太大顆了，可以幫忙切小塊嗎？"></a><br><a href="../memes/m3262.md">白雪公主：這蘋果太大顆了，可以幫忙切小塊嗎？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>二手拍賣：一次性榔頭，沒有用過，保存狀況良好 — ⚠️ 爆裂物</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3311.md"><img src="../images/m3311-disposable-hammer-mortar.png" width="240" alt="二手拍賣：一次性榔頭，沒有用過，保存狀況良好"></a><br><a href="../memes/m3311.md">二手拍賣：一次性榔頭，沒有用過，保存狀況良好</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

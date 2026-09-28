@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 354 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 356 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（161）
 
@@ -339,7 +339,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（161）
+## ⚠️ 需斟酌（163）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1948,6 +1948,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3519.md"><img src="../images/m3519-hakka-stir-fry-empty-plate.png" width="240" alt="今天晚餐吃什麼？客家小炒（空盤）"></a><br><a href="../memes/m3519.md">今天晚餐吃什麼？客家小炒（空盤）</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你在炒作潮中硬是買下了 NS — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3521.md"><img src="../images/m3521-bought-switch-grave-fireflies.jpg" width="240" alt="當你在炒作潮中硬是買下了 NS"></a><br><a href="../memes/m3521.md">當你在炒作潮中硬是買下了 NS</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>日本學校 vs 美國學校（輝夜姬片頭版） — ⚠️ 校園槍擊</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3527.md"><img src="../images/m3527-japan-school-vs-us-school.jpg" width="240" alt="日本學校 vs 美國學校（輝夜姬片頭版）"></a><br><a href="../memes/m3527.md">日本學校 vs 美國學校（輝夜姬片頭版）</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

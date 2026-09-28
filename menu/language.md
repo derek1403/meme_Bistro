@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 358 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 359 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（232）
+## ★（233）
 
 <table>
 <tr>
@@ -396,6 +396,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3501.md"><img src="../images/m3501-won-diabetes.jpg" width="240" alt="每天買一杯飲料想中發票千萬，結果中了糖尿病"></a><br><a href="../memes/m3501.md">每天買一杯飲料想中發票千萬，結果中了糖尿病</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3526.md"><img src="../images/m3526-pink-panther-lion.jpg" width="240" alt="粉紅豹是獅子嗎？"></a><br><a href="../memes/m3526.md">粉紅豹是獅子嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

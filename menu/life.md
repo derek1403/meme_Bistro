@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1638 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1644 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1237）
+## ★（1243）
 
 <table>
 <tr>
@@ -2071,6 +2071,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3517.md"><img src="../images/m3517-mug-wall-astigmatism.jpg" width="240" alt="散光的人看到的馬克杯牆"></a><br><a href="../memes/m3517.md">散光的人看到的馬克杯牆</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3522.md"><img src="../images/m3522-diet-six-to-three-slices.jpg" width="240" alt="我在減肥，以前吃六片披薩，現在只吃三片"></a><br><a href="../memes/m3522.md">我在減肥，以前吃六片披薩，現在只吃三片</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3524.md"><img src="../images/m3524-gym-card-no-food-money.jpg" width="240" alt="健身房真的有用：辦了會員卡沒錢吃飯，瘦了快 5 公斤"></a><br><a href="../memes/m3524.md">健身房真的有用：辦了會員卡沒錢吃飯，瘦了快 5 公斤</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3525.md"><img src="../images/m3525-fell-for-nonexistent-person.jpg" width="240" alt="8 個星球、204 個國家、75 億人口，而我卻愛上了一個不存在的人"></a><br><a href="../memes/m3525.md">8 個星球、204 個國家、75 億人口，而我卻愛上了一個不存在的人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3528.md"><img src="../images/m3528-qoo-ad-hum-along.jpg" width="240" alt="你有看過 QOO 廣告嗎？我沒叫您哼歌！"></a><br><a href="../memes/m3528.md">你有看過 QOO 廣告嗎？我沒叫您哼歌！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3530.md"><img src="../images/m3530-sad-cat-full-of-energy.jpg" width="240" alt="今天又是元氣滿滿的一天（厭世橘貓）"></a><br><a href="../memes/m3530.md">今天又是元氣滿滿的一天（厭世橘貓）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3531.md"><img src="../images/m3531-wrong-lyrics-six-months.jpg" width="240" alt="查了歌詞才發現過去六個月從來沒唱對"></a><br><a href="../memes/m3531.md">查了歌詞才發現過去六個月從來沒唱對</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 153 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 155 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（126）
 
@@ -254,7 +254,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（14）
+## ⚠️ 需斟酌（16）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -393,6 +393,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3387.md"><img src="../images/m3387-school-teaches-useless-dont-say-that.jpg" width="240" alt="我覺得學校都教一些沒用的東西——我不許你這樣說自己"></a><br><a href="../memes/m3387.md">我覺得學校都教一些沒用的東西——我不許你這樣說自己</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>牛頓 82 歲死時還是處男——這就是發明微積分的下場 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3523.md"><img src="../images/m3523-newton-virgin-calculus.png" width="240" alt="牛頓 82 歲死時還是處男——這就是發明微積分的下場"></a><br><a href="../memes/m3523.md">牛頓 82 歲死時還是處男——這就是發明微積分的下場</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>伽利略：改良顯微鏡是為了看有沒有比你雞雞還小的東西 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3529.md"><img src="../images/m3529-galileo-smaller-than-yours.jpg" width="240" alt="伽利略：改良顯微鏡是為了看有沒有比你雞雞還小的東西"></a><br><a href="../memes/m3529.md">伽利略：改良顯微鏡是為了看有沒有比你雞雞還小的東西</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

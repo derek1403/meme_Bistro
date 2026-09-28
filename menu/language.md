@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 339 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 341 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（224）
+## ★（226）
 
 <table>
 <tr>
@@ -382,6 +382,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3350.md"><img src="../images/m3350-milk-gone-bad-bandits.png" width="240" alt="小鬼頭大喊冰箱裡的牛奶都變壞了"></a><br><a href="../memes/m3350.md">小鬼頭大喊冰箱裡的牛奶都變壞了</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3408.md"><img src="../images/m3408-copying-homework-every-subject.png" width="240" alt="抄作業在各科裡的說法"></a><br><a href="../memes/m3408.md">抄作業在各科裡的說法</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3415.md"><img src="../images/m3415-found-7-wan-mahjong-tile.jpg" width="240" alt="在壹咖啡撿到 7 萬，等了兩小時失主都沒出現"></a><br><a href="../memes/m3415.md">在壹咖啡撿到 7 萬，等了兩小時失主都沒出現</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3417.md"><img src="../images/m3417-dentist-swollen-take-it.jpg" width="240" alt="護士說「有腫就吃啊」，我他媽第一次被看不起說我沒種"></a><br><a href="../memes/m3417.md">護士說「有腫就吃啊」，我他媽第一次被看不起說我沒種</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

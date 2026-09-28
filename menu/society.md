@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 327 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 329 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（143）
+## ★（145）
 
 <table>
 <tr>
@@ -247,6 +247,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3405.md"><img src="../images/m3405-100-dollars-two-50s-wife.jpg" width="240" alt="100 塊換成兩個 50 塊你沒感覺，90 公斤的老婆換成兩個 45 公斤的呢？"></a><br><a href="../memes/m3405.md">100 塊換成兩個 50 塊你沒感覺，90 公斤的老婆換成兩個 45 公斤的呢？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3411.md"><img src="../images/m3411-chip-company-sells-beer.png" width="240" alt="如果洋芋片公司開始賣啤酒"></a><br><a href="../memes/m3411.md">如果洋芋片公司開始賣啤酒</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3414.md"><img src="../images/m3414-cancel-appointment-postpone-first.jpg" width="240" alt="取消預約要付錢？那先延後三個禮拜再取消"></a><br><a href="../memes/m3414.md">取消預約要付錢？那先延後三個禮拜再取消</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3420.md"><img src="../images/m3420-car-weird-noise-turn-up-music.jpg" width="240" alt="車子一直發出怪聲，存摺告訴我把音樂調大聲就好了"></a><br><a href="../memes/m3420.md">車子一直發出怪聲，存摺告訴我把音樂調大聲就好了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

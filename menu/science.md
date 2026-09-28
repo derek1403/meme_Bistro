@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 225 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 226 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（102）
 
@@ -334,7 +334,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（38）
+## ⚠️ 需斟酌（39）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -713,6 +713,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3273.md"><img src="../images/m3273-fireworks-elements-uwu.png" width="240" alt="不同元素的煙火型態：U-W-U"></a><br><a href="../memes/m3273.md">不同元素的煙火型態：U-W-U</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>誰又把氧氣瓶和氦氣瓶搞混了 — ⚠️ 病房</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3416.md"><img src="../images/m3416-hospital-oxygen-helium-mixed-up.png" width="240" alt="誰又把氧氣瓶和氦氣瓶搞混了"></a><br><a href="../memes/m3416.md">誰又把氧氣瓶和氦氣瓶搞混了</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

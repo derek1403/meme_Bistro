@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1586 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1588 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1194）
+## ★（1196）
 
 <table>
 <tr>
@@ -1998,6 +1998,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3400.md"><img src="../images/m3400-recirculation-button-undo-crash.png" width="240" alt="這按鈕是幹嘛用的？——撞車了就按它，會還原整場車禍"></a><br><a href="../memes/m3400.md">這按鈕是幹嘛用的？——撞車了就按它，會還原整場車禍</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3407.md"><img src="../images/m3407-mcdonalds-no-coke-diet.jpg" width="240" alt="兩份大薯、雞腿、雞翅、大麥克、冰炫風——不要可樂，我在減肥"></a><br><a href="../memes/m3407.md">兩份大薯、雞腿、雞翅、大麥克、冰炫風——不要可樂，我在減肥</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3410.md"><img src="../images/m3410-neutered-dog-tattoo-copy.png" width="240" alt="照著狗肚子上的符號刺青，才發現是「已結紮」記號"></a><br><a href="../memes/m3410.md">照著狗肚子上的符號刺青，才發現是「已結紮」記號</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3418.md"><img src="../images/m3418-cat-burger-does-not-exist.png" width="240" alt="醫生：貓貓堡並不存在——貓貓堡："></a><br><a href="../memes/m3418.md">醫生：貓貓堡並不存在——貓貓堡：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3419.md"><img src="../images/m3419-toilet-bbq-grill-cooler.jpg" width="240" alt="中秋新烤肉架：保冰飲料及一按滅火功能"></a><br><a href="../memes/m3419.md">中秋新烤肉架：保冰飲料及一按滅火功能</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

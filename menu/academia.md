@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 136 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 138 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（112）
+## ★（114）
 
 <table>
 <tr>
@@ -196,6 +196,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3263.md"><img src="../images/m3263-phone-unread-papers.png" width="240" alt="她翻你手機想抓偷吃，只找到 2GB 沒讀的論文"></a><br><a href="../memes/m3263.md">她翻你手機想抓偷吃，只找到 2GB 沒讀的論文</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3275.md"><img src="../images/m3275-world-cup-final-vs-final-exam.png" width="240" alt="我想去看世界盃冠軍賽，期末考把我拉回來"></a><br><a href="../memes/m3275.md">我想去看世界盃冠軍賽，期末考把我拉回來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3279.md"><img src="../images/m3279-school-best-system-error.png" width="240" alt="學校：我們擁有最優秀的系統"></a><br><a href="../memes/m3279.md">學校：我們擁有最優秀的系統</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

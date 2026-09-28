@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 215 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（96）
+## ★（97）
 
 <table>
 <tr>
@@ -169,9 +169,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3132.md"><img src="../images/m3132-ideal-car-pv-nrt.png" width="240" alt="理想的車：車牌 PV=NRT"></a><br><a href="../memes/m3132.md">理想的車：車牌 PV=NRT</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3213.md"><img src="../images/m3213-vampire-moonlight-is-sunlight.png" width="240" alt="這就是知識的力量：月光是太陽光的反射"></a><br><a href="../memes/m3213.md">這就是知識的力量：月光是太陽光的反射</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3280.md"><img src="../images/m3280-balls-look-different-they-are.png" width="240" alt="這些球看起來顏色不同，它們確實不同"></a><br><a href="../memes/m3280.md">這些球看起來顏色不同，它們確實不同</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（71）
+## ★★（72）
 
 <table>
 <tr>
@@ -292,10 +295,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3253.md"><img src="../images/m3253-bohr-new-year-promotion.png" width="240" alt="過年問什麼時候升職加薪？波耳：能量最低的基態才最穩定"></a><br><a href="../memes/m3253.md">過年問什麼時候升職加薪？波耳：能量最低的基態才最穩定</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3254.md"><img src="../images/m3254-maupertuis-least-action-lazy.png" width="240" alt="過年叫你出去走走？莫佩爾蒂：宇宙萬物都遵守最小作用量原理"></a><br><a href="../memes/m3254.md">過年叫你出去走走？莫佩爾蒂：宇宙萬物都遵守最小作用量原理</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3272.md"><img src="../images/m3272-flight-2023-to-2022.png" width="240" alt="從 2023 年起飛，降落在 2022 年"></a><br><a href="../memes/m3272.md">從 2023 年起飛，降落在 2022 年</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（7）
+## ★★★（8）
 
 <table>
 <tr>
@@ -310,10 +314,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3251.md"><img src="../images/m3251-bcs-new-year-no-partner.png" width="240" alt="過年被問沒交男女朋友？BCS：溫度不夠低無法形成配對"></a><br><a href="../memes/m3251.md">過年被問沒交男女朋友？BCS：溫度不夠低無法形成配對</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3274.md"><img src="../images/m3274-astronomy-mask-equations.png" width="240" alt="天文學，你為什麼總是戴著那張面具？"></a><br><a href="../memes/m3274.md">天文學，你為什麼總是戴著那張面具？</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（37）
+## ⚠️ 需斟酌（38）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -682,6 +687,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3153.md"><img src="../images/m3153-old-anesthesiologist-mallet.png" width="240" alt="以前的麻醉師與她的麻醉器材"></a><br><a href="../memes/m3153.md">以前的麻醉師與她的麻醉器材</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不同元素的煙火型態：U-W-U — ⚠️ 核爆</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3273.md"><img src="../images/m3273-fireworks-elements-uwu.png" width="240" alt="不同元素的煙火型態：U-W-U"></a><br><a href="../memes/m3273.md">不同元素的煙火型態：U-W-U</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

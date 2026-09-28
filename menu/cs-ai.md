@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 392 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 394 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（287）
+## ★（289）
 
 <table>
 <tr>
@@ -487,6 +487,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3235.md"><img src="../images/m3235-chatgpt-repeat-i-am-genius.png" width="240" alt="叫 ChatGPT 重複我的話：我是智障→您說您是智障"></a><br><a href="../memes/m3235.md">叫 ChatGPT 重複我的話：我是智障→您說您是智障</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3269.md"><img src="../images/m3269-waiting-triple-for-loop.png" width="240" alt="寧可等程式跑完，也不想改掉三層 for 迴圈"></a><br><a href="../memes/m3269.md">寧可等程式跑完，也不想改掉三層 for 迴圈</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3277.md"><img src="../images/m3277-keras-fit-all-you-need.png" width="240" alt="機器學習：你只需要這個嗎？Keras .fit()"></a><br><a href="../memes/m3277.md">機器學習：你只需要這個嗎？Keras .fit()</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3281.md"><img src="../images/m3281-pandas-600mb-csv-bullet.png" width="240" alt="用 Pandas DataFrame 讀 600 MB 的 csv"></a><br><a href="../memes/m3281.md">用 Pandas DataFrame 讀 600 MB 的 csv</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

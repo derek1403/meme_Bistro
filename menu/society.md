@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 382 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 383 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（174）
+## ★（175）
 
 <table>
 <tr>
@@ -298,6 +298,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3617.md"><img src="../images/m3617-media-killer-watches-anime.jpg" width="240" alt="發生兇殺案，媒體：沒興趣——兇手會看動漫畫，媒體：眼睛爆亮"></a><br><a href="../memes/m3617.md">發生兇殺案，媒體：沒興趣——兇手會看動漫畫，媒體：眼睛爆亮</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3619.md"><img src="../images/m3619-shaolin-real-bricks.jpg" width="240" alt="建商把普通磚頭送到少林寺，多名武僧手指骨折"></a><br><a href="../memes/m3619.md">建商把普通磚頭送到少林寺，多名武僧手指骨折</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3621.md"><img src="../images/m3621-tainan-sugar-free-beaten.jpg" width="240" alt="我只是在台南點了一杯無糖綠，就被追著打"></a><br><a href="../memes/m3621.md">我只是在台南點了一杯無糖綠，就被追著打</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3635.md"><img src="../images/m3635-tainan-breakfast-beef-hotpot.png" width="240" alt="台南人的早午餐就是樸實無華：一桌溫體牛火鍋"></a><br><a href="../memes/m3635.md">台南人的早午餐就是樸實無華：一桌溫體牛火鍋</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

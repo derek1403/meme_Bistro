@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1706 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1709 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1286）
+## ★（1287）
 
 <table>
 <tr>
@@ -2152,6 +2152,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3630.md"><img src="../images/m3630-dad-birthday-gift-duck.jpg" width="240" alt="這是我爸送我的生日禮物，我應該把它當寵物還是吃了它？"></a><br><a href="../memes/m3630.md">這是我爸送我的生日禮物，我應該把它當寵物還是吃了它？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3631.md"><img src="../images/m3631-years-of-effort-coffee.jpg" width="240" alt="經過多年的努力，我終於買得起這杯咖啡了"></a><br><a href="../memes/m3631.md">經過多年的努力，我終於買得起這杯咖啡了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3637.md"><img src="../images/m3637-kirby-doctor-inhale.jpg" width="240" alt="卡比看醫生：好的，吸氣——雪倫，讓下一位病人進來"></a><br><a href="../memes/m3637.md">卡比看醫生：好的，吸氣——雪倫，讓下一位病人進來</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2353,7 +2354,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（305）
+## ⚠️ 需斟酌（307）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5402,6 +5403,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3633.md"><img src="../images/m3633-fbi-watching-rubbing-stick.png" width="240" alt="我的 FBI 探員在半夜三點觀察我：他已經在那搓那個棍子搓好久了"></a><br><a href="../memes/m3633.md">我的 FBI 探員在半夜三點觀察我：他已經在那搓那個棍子搓好久了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我在我的喪禮上起來查看，確保每個人都有哭 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3634.md"><img src="../images/m3634-check-everyone-crying-funeral.jpg" width="240" alt="我在我的喪禮上起來查看，確保每個人都有哭"></a><br><a href="../memes/m3634.md">我在我的喪禮上起來查看，確保每個人都有哭</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>6 歲的我好奇父母為什麼要在凌晨三點玩摔角 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3636.md"><img src="../images/m3636-baby-yoda-parents-wrestling.jpg" width="240" alt="6 歲的我好奇父母為什麼要在凌晨三點玩摔角"></a><br><a href="../memes/m3636.md">6 歲的我好奇父母為什麼要在凌晨三點玩摔角</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

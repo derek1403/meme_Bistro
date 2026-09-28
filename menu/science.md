@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 226 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 227 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（102）
 
@@ -181,7 +181,7 @@
 </tr>
 </table>
 
-## ★★（77）
+## ★★（78）
 
 <table>
 <tr>
@@ -312,6 +312,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3361.md"><img src="../images/m3361-seven-step-poem-benzene.png" width="240" alt="煮豆燃豆萁，C6H6=Cu+As，相煎何太急"></a><br><a href="../memes/m3361.md">煮豆燃豆萁，C6H6=Cu+As，相煎何太急</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3362.md"><img src="../images/m3362-pu-kr-y-cs-cs-spectrum.png" width="240" alt="光譜：Pu Kr Y Cs Cs（鈽氪釔銫銫）"></a><br><a href="../memes/m3362.md">光譜：Pu Kr Y Cs Cs（鈽氪釔銫銫）</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3506.md"><img src="../images/m3506-benzene-monday-face.png" width="240" alt="星期一上班的表情：苯"></a><br><a href="../memes/m3506.md">星期一上班的表情：苯</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

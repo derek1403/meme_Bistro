@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 351 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 357 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（232）
 
@@ -399,7 +399,7 @@
 </tr>
 </table>
 
-## ★★（48）
+## ★★（52）
 
 <table>
 <tr>
@@ -482,9 +482,17 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3468.md"><img src="../images/m3468-grandma-on-the-way.jpg" width="240" alt="阿嬤老人會有活動，但孫子說肚子餓就「林祖母馬上到」"></a><br><a href="../memes/m3468.md">阿嬤老人會有活動，但孫子說肚子餓就「林祖母馬上到」</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3474.md"><img src="../images/m3474-lactose-intolerant-quake.jpg" width="240" alt="小地震時冰箱只有牛奶倒了：乳糖不耐震"></a><br><a href="../memes/m3474.md">小地震時冰箱只有牛奶倒了：乳糖不耐震</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3502.md"><img src="../images/m3502-jellyfish-cant-swim-at-night.png" width="240" alt="為什麼晚上比白天容易抓到水母？因為夜晚的水母不會游泳"></a><br><a href="../memes/m3502.md">為什麼晚上比白天容易抓到水母？因為夜晚的水母不會游泳</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3504.md"><img src="../images/m3504-arigato-shilin-station.png" width="240" alt="日本人說「阿里嘎都」，小明：我到士林站"></a><br><a href="../memes/m3504.md">日本人說「阿里嘎都」，小明：我到士林站</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3505.md"><img src="../images/m3505-congee-weekend-still-hot.png" width="240" alt="為什麼粥放了兩天還是會燙？因為週休二日"></a><br><a href="../memes/m3505.md">為什麼粥放了兩天還是會燙？因為週休二日</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3513.md"><img src="../images/m3513-my-foolish-auto-door.png" width="240" alt="我愚蠢的 AUTO DOOR 啊"></a><br><a href="../memes/m3513.md">我愚蠢的 AUTO DOOR 啊</a><br><sub>🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（71）
+## ⚠️ 需斟酌（73）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1193,6 +1201,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3432.md"><img src="../images/m3432-finding-nemo-dark-summary.png" width="240" alt="用最慘的方式描述電影：原來是海底總動員"></a><br><a href="../memes/m3432.md">用最慘的方式描述電影：原來是海底總動員</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>七人座大車停在雙座小車旁：昨天是不是強行給鄰居的車登大人？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3503.md"><img src="../images/m3503-big-car-small-car-grown-up.png" width="240" alt="七人座大車停在雙座小車旁：昨天是不是強行給鄰居的車登大人？"></a><br><a href="../memes/m3503.md">七人座大車停在雙座小車旁：昨天是不是強行給鄰居的車登大人？</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>吵架吵不贏原住民時：烯環鈉 — ⚠️ 族群歧視</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3515.md"><img src="../images/m3515-xi-huan-na-slur.png" width="240" alt="吵架吵不贏原住民時：烯環鈉"></a><br><a href="../memes/m3515.md">吵架吵不贏原住民時：烯環鈉</a><br><sub>🔥🔤 ★★★</sub></td>
 </tr>
 </table>
 

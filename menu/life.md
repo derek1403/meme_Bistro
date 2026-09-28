@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1633 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1638 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1235）
+## ★（1237）
 
 <table>
 <tr>
@@ -2067,6 +2067,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3498.md"><img src="../images/m3498-hot-food-hafuhafu.jpg" width="240" alt="燙的食物你會吹涼還是直接哈斯發施哈夫沙斯？"></a><br><a href="../memes/m3498.md">燙的食物你會吹涼還是直接哈斯發施哈夫沙斯？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3500.md"><img src="../images/m3500-cat-in-bird-cage.png" width="240" alt="貓關在鳥籠裡，鸚鵡站在籠子上"></a><br><a href="../memes/m3500.md">貓關在鳥籠裡，鸚鵡站在籠子上</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3509.md"><img src="../images/m3509-fries-seat-taken.png" width="240" alt="麥當勞托盤上用薯條拼「還有人」"></a><br><a href="../memes/m3509.md">麥當勞托盤上用薯條拼「還有人」</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3517.md"><img src="../images/m3517-mug-wall-astigmatism.jpg" width="240" alt="散光的人看到的馬克杯牆"></a><br><a href="../memes/m3517.md">散光的人看到的馬克杯牆</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2254,7 +2258,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（291）
+## ⚠️ 需斟酌（294）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5163,6 +5167,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3496.md"><img src="../images/m3496-calm-down-david.jpg" width="240" alt="冷靜點大衛，這只是簡單的手術——等等，我不是大衛"></a><br><a href="../memes/m3496.md">冷靜點大衛，這只是簡單的手術——等等，我不是大衛</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>「我在浴室」→ 馬上打語音、再打視訊 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3507.md"><img src="../images/m3507-in-the-bathroom-video-call.png" width="240" alt="「我在浴室」→ 馬上打語音、再打視訊"></a><br><a href="../memes/m3507.md">「我在浴室」→ 馬上打語音、再打視訊</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>宣布新動畫改編，看到女主角卻驚恐 — ⚠️ 成人作品暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3512.md"><img src="../images/m3512-new-anime-adaptation-dread.png" width="240" alt="宣布新動畫改編，看到女主角卻驚恐"></a><br><a href="../memes/m3512.md">宣布新動畫改編，看到女主角卻驚恐</a><br><sub>🔥 ★★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>有小朋友溺水了！——我也要小心一點才行 — ⚠️ 見死不救</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3518.md"><img src="../images/m3518-kid-drowning-i-should-be-careful.jpg" width="240" alt="有小朋友溺水了！——我也要小心一點才行"></a><br><a href="../memes/m3518.md">有小朋友溺水了！——我也要小心一點才行</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

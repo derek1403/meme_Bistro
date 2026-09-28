@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 383 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 385 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（109）
 
@@ -507,7 +507,7 @@
 </tr>
 </table>
 
-## ★★★（59）
+## ★★★（61）
 
 <table>
 <tr>
@@ -608,6 +608,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3084.md"><img src="../images/m3084-recall-that-pairing-function.png" width="240" alt="Recall that：一個「顯然」的配對函數"></a><br><a href="../memes/m3084.md">Recall that：一個「顯然」的配對函數</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3107.md"><img src="../images/m3107-ito-second-order-terms-mike.png" width="240" alt="一般微積分的二階項 vs 隨機微積分的二階項"></a><br><a href="../memes/m3107.md">一般微積分的二階項 vs 隨機微積分的二階項</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3508.md"><img src="../images/m3508-q-vs-r-spongebob-holes.png" width="240" alt="ℚ 的海綿寶寶有洞，ℝ 的海綿寶寶沒有洞"></a><br><a href="../memes/m3508.md">ℚ 的海綿寶寶有洞，ℝ 的海綿寶寶沒有洞</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3514.md"><img src="../images/m3514-jiji-differentiable.png" width="240" alt="921 集集鐵軌為什麼沒有斷點、折點或垂直點？因為集集可微"></a><br><a href="../memes/m3514.md">921 集集鐵軌為什麼沒有斷點、折點或垂直點？因為集集可微</a><br><sub>🧠🔤 ★★★</sub></td>
 </tr>
 </table>
 

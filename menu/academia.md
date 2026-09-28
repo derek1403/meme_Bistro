@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 100 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 101 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（80）
+## ★（81）
 
 <table>
 <tr>
@@ -142,6 +142,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2831.md"><img src="../images/m2831-left-hand-writing-homework.png" width="240" alt="左右手交換寫：有點太亂了"></a><br><a href="../memes/m2831.md">左右手交換寫：有點太亂了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2832.md"><img src="../images/m2832-chocolate-bookmark-motivation.png" width="240" alt="讀書動力：巧克力當書籤"></a><br><a href="../memes/m2832.md">讀書動力：巧克力當書籤</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2852.md"><img src="../images/m2852-santa-straight-a-or-boyfriend.png" width="240" alt="聖誕老人：你只有這學期要 A+ 嗎"></a><br><a href="../memes/m2852.md">聖誕老人：你只有這學期要 A+ 嗎</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

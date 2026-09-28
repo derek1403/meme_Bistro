@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1347 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1354 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1010）
+## ★（1017）
 
 <table>
 <tr>
@@ -1692,6 +1692,17 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2838.md"><img src="../images/m2838-impulsive-extra-fried-chicken.png" width="240" alt="別人衝動 vs 我衝動：多加一片炸雞"></a><br><a href="../memes/m2838.md">別人衝動 vs 我衝動：多加一片炸雞</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2840.md"><img src="../images/m2840-work-arrives-mid-meal-togekiss.png" width="240" alt="吃飯吃到一半有工作來"></a><br><a href="../memes/m2840.md">吃飯吃到一半有工作來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2844.md"><img src="../images/m2844-levi-before-and-during-pandemic.png" width="240" alt="以前帥氣的兵長 vs 疫情期間上網課的兵長"></a><br><a href="../memes/m2844.md">以前帥氣的兵長 vs 疫情期間上網課的兵長</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2846.md"><img src="../images/m2846-surf-and-turf-chicken-octopus.png" width="240" alt="海陸大餐"></a><br><a href="../memes/m2846.md">海陸大餐</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2847.md"><img src="../images/m2847-dorm-gamer-vs-considerate-roommate.png" width="240" alt="室友半夜吵你，你早上卻不敢吵他"></a><br><a href="../memes/m2847.md">室友半夜吵你，你早上卻不敢吵他</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2848.md"><img src="../images/m2848-wife-curry-son-vs-me.png" width="240" alt="老婆做的咖哩：兒子 vs 我"></a><br><a href="../memes/m2848.md">老婆做的咖哩：兒子 vs 我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2853.md"><img src="../images/m2853-stockholm-subway-pacman-grate.png" width="240" alt="斯德哥爾摩地鐵站的小精靈彩蛋"></a><br><a href="../memes/m2853.md">斯德哥爾摩地鐵站的小精靈彩蛋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2854.md"><img src="../images/m2854-mrt-dont-lean-on-pole-megumin.png" width="240" alt="捷運：請勿倚靠中央立柱"></a><br><a href="../memes/m2854.md">捷運：請勿倚靠中央立柱</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2855.md"><img src="../images/m2855-cockpit-vs-understanding-women.png" width="240" alt="為什麼男人搞得懂儀表板，卻搞不懂女人在想什麼"></a><br><a href="../memes/m2855.md">為什麼男人搞得懂儀表板，卻搞不懂女人在想什麼</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

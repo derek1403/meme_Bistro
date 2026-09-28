@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 337 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 338 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -443,7 +443,7 @@
 </tr>
 </table>
 
-## ★★★（52）
+## ★★★（53）
 
 <table>
 <tr>
@@ -533,6 +533,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2780.md"><img src="../images/m2780-free-probability-bell-curve.png" width="240" alt="機率論不該是免費的？搜尋 free probability theory"></a><br><a href="../memes/m2780.md">機率論不該是免費的？搜尋 free probability theory</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2851.md"><img src="../images/m2851-ramanujan-yes-homework-no.png" width="240" alt="拉馬努金級數秒答，3×(7−4) 不回答"></a><br><a href="../memes/m2851.md">拉馬努金級數秒答，3×(7−4) 不回答</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 132 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（108）
+## ★（109）
 
 <table>
 <tr>
@@ -188,6 +188,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3200.md"><img src="../images/m3200-graduated-practical-skills-blank.png" width="240" alt="你大學畢業了？那一定學了不少專業又實用的技能囉！"></a><br><a href="../memes/m3200.md">你大學畢業了？那一定學了不少專業又實用的技能囉！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3205.md"><img src="../images/m3205-forest-destruction-this-paper.png" width="240" alt="請舉出一個造成森林被破壞的原因：這張紙"></a><br><a href="../memes/m3205.md">請舉出一個造成森林被破壞的原因：這張紙</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3207.md"><img src="../images/m3207-pe-class-stretch-shoes.png" width="240" alt="上體育課的我：拿鞋子碰手"></a><br><a href="../memes/m3207.md">上體育課的我：拿鞋子碰手</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3233.md"><img src="../images/m3233-teacher-scolding-three-heads.png" width="240" alt="老師罵人時：國高中生 vs 大學生"></a><br><a href="../memes/m3233.md">老師罵人時：國高中生 vs 大學生</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

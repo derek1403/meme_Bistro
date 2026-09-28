@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 289 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 290 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（112）
+## ★（113）
 
 <table>
 <tr>
@@ -196,6 +196,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3223.md"><img src="../images/m3223-mario-mickey-box-office-flip.png" width="240" alt="1993 vs 2023：瑪利歐與米老鼠的票房逆轉"></a><br><a href="../memes/m3223.md">1993 vs 2023：瑪利歐與米老鼠的票房逆轉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3240.md"><img src="../images/m3240-money-lesson-gamania.png" width="240" alt="兒子，是時候讓你了解金錢的用處：這孩子廢了"></a><br><a href="../memes/m3240.md">兒子，是時候讓你了解金錢的用處：這孩子廢了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

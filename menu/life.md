@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1517 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1521 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1139）
+## ★（1143）
 
 <table>
 <tr>
@@ -1907,6 +1907,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3230.md"><img src="../images/m3230-mirror-of-erised-ear-cleaning.png" width="240" alt="意若思鏡照出你內心最深的渴望：膝枕掏耳朵"></a><br><a href="../memes/m3230.md">意若思鏡照出你內心最深的渴望：膝枕掏耳朵</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3232.md"><img src="../images/m3232-husband-bought-mikan-bananas.png" width="240" alt="老公買的蜜柑"></a><br><a href="../memes/m3232.md">老公買的蜜柑</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3236.md"><img src="../images/m3236-ramen-30-nori-monster.png" width="240" alt="點餐機按了三次「加 10 片海苔」"></a><br><a href="../memes/m3236.md">點餐機按了三次「加 10 片海苔」</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3237.md"><img src="../images/m3237-ramen-20-quail-eggs.png" width="240" alt="點了 4 份鵪鶉蛋，才知道每份有 5 顆"></a><br><a href="../memes/m3237.md">點了 4 份鵪鶉蛋，才知道每份有 5 顆</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3238.md"><img src="../images/m3238-bocchi-trolley-problem.png" width="240" alt="小孤獨電車難題：停下電車，但每位倖存者都會跟你握手道謝"></a><br><a href="../memes/m3238.md">小孤獨電車難題：停下電車，但每位倖存者都會跟你握手道謝</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3239.md"><img src="../images/m3239-fastest-thing-ten-day-holiday.png" width="240" alt="地球上最快的東西：十天假放完的速度"></a><br><a href="../memes/m3239.md">地球上最快的東西：十天假放完的速度</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

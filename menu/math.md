@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 308 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 309 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（96）
 
@@ -409,7 +409,7 @@
 </tr>
 </table>
 
-## ★★★（46）
+## ★★★（47）
 
 <table>
 <tr>
@@ -489,6 +489,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2469.md"><img src="../images/m2469-non-smooth-everywhere-pudding.png" width="240" alt="滑順布丁 vs 處處不光滑布丁"></a><br><a href="../memes/m2469.md">滑順布丁 vs 處處不光滑布丁</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2496.md"><img src="../images/m2496-disjoint-curves-freshman-dream.png" width="240" alt="告訴我真相：(A+B)² = A² + B²"></a><br><a href="../memes/m2496.md">告訴我真相：(A+B)² = A² + B²</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

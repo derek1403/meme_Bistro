@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（831）
+## ★（841）
 
 <table>
 <tr>
@@ -1393,6 +1393,24 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2477.md"><img src="../images/m2477-travel-pay-with-courage.png" width="240" alt="旅行最重要的是勇氣？那哪家航空收勇氣付款"></a><br><a href="../memes/m2477.md">旅行最重要的是勇氣？那哪家航空收勇氣付款</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2482.md"><img src="../images/m2482-password-strength-love.png" width="240" alt="密碼強度：她對你的愛 vs 你對她的愛"></a><br><a href="../memes/m2482.md">密碼強度：她對你的愛 vs 你對她的愛</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2483.md"><img src="../images/m2483-forgot-to-change-wallpaper.png" width="240" alt="簡報前忘記換桌布"></a><br><a href="../memes/m2483.md">簡報前忘記換桌布</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2484.md"><img src="../images/m2484-anya-meets-pennywise.png" width="240" alt="安妮亞遇上下水道的小丑"></a><br><a href="../memes/m2484.md">安妮亞遇上下水道的小丑</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2486.md"><img src="../images/m2486-speed-bump-sign-irl.jpg" width="240" alt="考上駕照十幾年，終於在路上看到這個標誌本人"></a><br><a href="../memes/m2486.md">考上駕照十幾年，終於在路上看到這個標誌本人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2487.md"><img src="../images/m2487-temple-statue-shinchan-face.png" width="240" alt="廟裡神像 vs 蠟筆小新的表情"></a><br><a href="../memes/m2487.md">廟裡神像 vs 蠟筆小新的表情</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2488.md"><img src="../images/m2488-tien-vegeta-fusion-hiei.png" width="240" alt="天津飯＋達爾合體＝飛影"></a><br><a href="../memes/m2488.md">天津飯＋達爾合體＝飛影</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2489.md"><img src="../images/m2489-productive-co2-methane.png" width="240" alt="今天的工作產能不錯嗎？我生產了二氧化碳"></a><br><a href="../memes/m2489.md">今天的工作產能不錯嗎？我生產了二氧化碳</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2490.md"><img src="../images/m2490-romania-vampire-700-years.jpg" width="240" alt="羅馬尼亞沒有吸血鬼，我住這裡七百年了都沒看過"></a><br><a href="../memes/m2490.md">羅馬尼亞沒有吸血鬼，我住這裡七百年了都沒看過</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2491.md"><img src="../images/m2491-bible-cockroach-closest-to-god.jpg" width="240" alt="用新約聖經打蟑螂"></a><br><a href="../memes/m2491.md">用新約聖經打蟑螂</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2492.md"><img src="../images/m2492-chess-set-waited-two-years.jpg" width="240" alt="兄弟，我等了你兩年啊"></a><br><a href="../memes/m2492.md">兄弟，我等了你兩年啊</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2494.md"><img src="../images/m2494-anime-waifu-vs-kpop-dating.png" width="240" alt="我說動漫人物是我婆 vs 朋友幻想跟韓星交往"></a><br><a href="../memes/m2494.md">我說動漫人物是我婆 vs 朋友幻想跟韓星交往</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2495.md"><img src="../images/m2495-unfriendly-washing-machine.jpg" width="240" alt="在路上遇到非常不友善的洗衣機"></a><br><a href="../memes/m2495.md">在路上遇到非常不友善的洗衣機</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

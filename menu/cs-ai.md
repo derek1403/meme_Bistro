@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 319 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 320 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（232）
+## ★（233）
 
 <table>
 <tr>
@@ -396,6 +396,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2478.md"><img src="../images/m2478-me-plugged-into-languages.png" width="240" alt="我：被 Java、JavaScript、Python、PHP 同時插著"></a><br><a href="../memes/m2478.md">我：被 Java、JavaScript、Python、PHP 同時插著</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2493.md"><img src="../images/m2493-protest-sign-if-else.png" width="240" alt="抗議標語：if / else"></a><br><a href="../memes/m2493.md">抗議標語：if / else</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

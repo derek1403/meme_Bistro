@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 327 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 328 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（151）
+## ★★（152）
 
 <table>
 <tr>
@@ -429,6 +429,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2707.md"><img src="../images/m2707-homeomorphic-open-ball.png" width="240" alt="數學告訴你：凸開集同胚於 n 維開球"></a><br><a href="../memes/m2707.md">數學告訴你：凸開集同胚於 n 維開球</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2731.md"><img src="../images/m2731-metric-ring-topologist-geometer.png" width="240" alt="度量：拓樸學家說丟掉，幾何學家說不"></a><br><a href="../memes/m2731.md">度量：拓樸學家說丟掉，幾何學家說不</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

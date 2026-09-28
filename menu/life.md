@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1280 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1286 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（949）
+## ★（954）
 
 <table>
 <tr>
@@ -1591,6 +1591,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2728.md"><img src="../images/m2728-crow-bottle-cap-aya.png" width="240" alt="現實世界中的射命丸文"></a><br><a href="../memes/m2728.md">現實世界中的射命丸文</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2729.md"><img src="../images/m2729-cold-butter-boulder.png" width="240" alt="當我在吐司上塗冰的奶油"></a><br><a href="../memes/m2729.md">當我在吐司上塗冰的奶油</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2730.md"><img src="../images/m2730-long-arabic-name-intro.png" width="240" alt="怎麼稱呼你？請叫我郭土布丁·穆罕默德·本·阿努什的斤·加爾察"></a><br><a href="../memes/m2730.md">怎麼稱呼你？請叫我郭土布丁·穆罕默德·本·阿努什的斤·加爾察</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2732.md"><img src="../images/m2732-hand-things-wrong-way.png" width="240" alt="正確的把東西拿給別人"></a><br><a href="../memes/m2732.md">正確的把東西拿給別人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2733.md"><img src="../images/m2733-rider-frozen-icicles.png" width="240" alt="外面好冷喔——騎車的人："></a><br><a href="../memes/m2733.md">外面好冷喔——騎車的人：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2735.md"><img src="../images/m2735-diet-apple-mcdonalds.png" width="240" alt="減肥時又想吃點讓自己快樂的東西"></a><br><a href="../memes/m2735.md">減肥時又想吃點讓自己快樂的東西</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1749,7 +1756,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（241）
+## ⚠️ 需斟酌（242）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4158,6 +4165,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2702.md"><img src="../images/m2702-seagull-new-year-plans.png" width="240" alt="老兄跨年有什麼計畫？計畫有變，先殺了你再打遊戲"></a><br><a href="../memes/m2702.md">老兄跨年有什麼計畫？計畫有變，先殺了你再打遊戲</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這次考試應該不難：a) 英雄 b) 壞人 — ⚠️ 劇透</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2734.md"><img src="../images/m2734-exam-hero-or-villain-eren.png" width="240" alt="這次考試應該不難：a) 英雄 b) 壞人"></a><br><a href="../memes/m2734.md">這次考試應該不難：a) 英雄 b) 壞人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

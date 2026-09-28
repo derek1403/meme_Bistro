@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 347 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（256）
 
@@ -554,7 +554,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（25）
+## ⚠️ 需斟酌（26）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -803,6 +803,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2705.md"><img src="../images/m2705-chatgpt-blessing-cicada-wing.png" width="240" alt="ChatGPT 的祝福：福如蟬翼，壽比曇花"></a><br><a href="../memes/m2705.md">ChatGPT 的祝福：福如蟬翼，壽比曇花</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我 USB 插一次就進去：很明顯是個狠腳色 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2736.md"><img src="../images/m2736-usb-first-try-lucky.png" width="240" alt="我 USB 插一次就進去：很明顯是個狠腳色"></a><br><a href="../memes/m2736.md">我 USB 插一次就進去：很明顯是個狠腳色</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

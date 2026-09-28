@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 285 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 286 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（189）
+## ★（190）
 
 <table>
 <tr>
@@ -323,6 +323,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2667.md"><img src="../images/m2667-ps5-pain-stress-5h-sleep.png" width="240" alt="你有 PS5 嗎？有啊：痛苦、壓力、5 小時睡眠"></a><br><a href="../memes/m2667.md">你有 PS5 嗎？有啊：痛苦、壓力、5 小時睡眠</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2675.md"><img src="../images/m2675-cockroach-wood-knot.png" width="240" alt="入木三分：天然蟑木？"></a><br><a href="../memes/m2675.md">入木三分：天然蟑木？</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2686.md"><img src="../images/m2686-suitcase-yi-xiang-qing-yuan.png" width="240" alt="學會放下：一廂情願"></a><br><a href="../memes/m2686.md">學會放下：一廂情願</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2692.md"><img src="../images/m2692-cold-fa-do-shiver.png" width="240" alt="冷到：Fa Do（發抖）"></a><br><a href="../memes/m2692.md">冷到：Fa Do（發抖）</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

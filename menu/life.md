@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1257 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1261 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（929）
+## ★（931）
 
 <table>
 <tr>
@@ -1557,6 +1557,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2689.md"><img src="../images/m2689-vine-lamppost-monster.png" width="240" alt="爬滿枯藤的路燈，晚上變成怪物"></a><br><a href="../memes/m2689.md">爬滿枯藤的路燈，晚上變成怪物</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2690.md"><img src="../images/m2690-ruined-2024-day-5.png" width="240" alt="才第 5 天就把 2024 年過得一團糟，期待 2025"></a><br><a href="../memes/m2690.md">才第 5 天就把 2024 年過得一團糟，期待 2025</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2693.md"><img src="../images/m2693-new-year-shrine-vtuber-sc.png" width="240" alt="關於新年參拜的想法：去冷清的神社"></a><br><a href="../memes/m2693.md">關於新年參拜的想法：去冷清的神社</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2699.md"><img src="../images/m2699-emoji-sneeze-sequence.png" width="240" alt="如何用表情符號打噴嚏"></a><br><a href="../memes/m2699.md">如何用表情符號打噴嚏</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1715,7 +1719,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（238）
+## ⚠️ 需斟酌（240）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4094,6 +4098,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2684.md"><img src="../images/m2684-never-serial-killer-secret.jpg" width="240" alt="我永遠當不成連環殺手"></a><br><a href="../memes/m2684.md">我永遠當不成連環殺手</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不小心把我的阿爾敏蛋糕烤焦了 — ⚠️ 劇透、死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2697.md"><img src="../images/m2697-armin-cake-burnt-accurate.png" width="240" alt="不小心把我的阿爾敏蛋糕烤焦了"></a><br><a href="../memes/m2697.md">不小心把我的阿爾敏蛋糕烤焦了</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>那些在身邊卻找不到的東西 — ⚠️ 自嘲</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2698.md"><img src="../images/m2698-things-near-but-cant-find.png" width="240" alt="那些在身邊卻找不到的東西"></a><br><a href="../memes/m2698.md">那些在身邊卻找不到的東西</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

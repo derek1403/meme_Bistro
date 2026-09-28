@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 325 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 326 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -429,7 +429,7 @@
 </tr>
 </table>
 
-## ★★★（50）
+## ★★★（51）
 
 <table>
 <tr>
@@ -515,6 +515,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2525.md"><img src="../images/m2525-trailer-cubes-banach-tarski.png" width="240" alt="拖車上有幾個方塊？智商鐘形曲線：Banach–Tarski 版"></a><br><a href="../memes/m2525.md">拖車上有幾個方塊？智商鐘形曲線：Banach–Tarski 版</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2648.md"><img src="../images/m2648-q-r-archimedean-gojo.png" width="240" alt="你是 ℝ 因為你是全序阿基米德體？"></a><br><a href="../memes/m2648.md">你是 ℝ 因為你是全序阿基米德體？</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2691.md"><img src="../images/m2691-tree-3-brother.png" width="240" alt="媽，三弟是不是長得有點太超過了？TREE(3)"></a><br><a href="../memes/m2691.md">媽，三弟是不是長得有點太超過了？TREE(3)</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

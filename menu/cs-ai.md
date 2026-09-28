@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 402 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 403 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（294）
+## ★（295）
 
 <table>
 <tr>
@@ -498,6 +498,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3306.md"><img src="../images/m3306-control-flow-power-strips.png" width="240" alt="用延長線解釋程式控制結構"></a><br><a href="../memes/m3306.md">用延長線解釋程式控制結構</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3325.md"><img src="../images/m3325-ie-splinter-ninja-turtles-browsers.png" width="240" alt="IE 老鼠師父帶大四隻瀏覽器忍者龜"></a><br><a href="../memes/m3325.md">IE 老鼠師父帶大四隻瀏覽器忍者龜</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3342.md"><img src="../images/m3342-height-calculator-tool.png" width="240" alt="身高計算器：輸入你的身高——你的身高是 172 公分！"></a><br><a href="../memes/m3342.md">身高計算器：輸入你的身高——你的身高是 172 公分！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3372.md"><img src="../images/m3372-yama-backend-management-system.jpg" width="240" alt="夢到自己死了，閻羅王要我把生死簿做成後台管理系統"></a><br><a href="../memes/m3372.md">夢到自己死了，閻羅王要我把生死簿做成後台管理系統</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

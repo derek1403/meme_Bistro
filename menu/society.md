@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 317 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 319 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（134）
+## ★（136）
 
 <table>
 <tr>
@@ -232,6 +232,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3368.md"><img src="../images/m3368-scam-20-ps5-send-all.png" width="240" alt="詐騙電話：你重複下單買了 20 台 PS5——給我全部送來！"></a><br><a href="../memes/m3368.md">詐騙電話：你重複下單買了 20 台 PS5——給我全部送來！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3369.md"><img src="../images/m3369-joss-paper-virtual-currency.png" width="240" alt="虛擬貨幣"></a><br><a href="../memes/m3369.md">虛擬貨幣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3373.md"><img src="../images/m3373-rose-vs-durian.png" width="240" alt="長得美又帶刺的才叫玫瑰，你這種的叫榴槤"></a><br><a href="../memes/m3373.md">長得美又帶刺的才叫玫瑰，你這種的叫榴槤</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3376.md"><img src="../images/m3376-five-times-voucher-fridge-broken.png" width="240" alt="已經計畫好五倍券要怎麼用的我——媽媽：家裡的冰箱好像壞了"></a><br><a href="../memes/m3376.md">已經計畫好五倍券要怎麼用的我——媽媽：家裡的冰箱好像壞了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

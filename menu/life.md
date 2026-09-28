@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1561 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1567 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1174）
+## ★（1180）
 
 <table>
 <tr>
@@ -1966,6 +1966,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3363.md"><img src="../images/m3363-perona-parents-lee-sakura.png" width="240" alt="佩羅娜的親生父母找到了：小李 + 小櫻"></a><br><a href="../memes/m3363.md">佩羅娜的親生父母找到了：小李 + 小櫻</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3374.md"><img src="../images/m3374-aquarium-keeper-fish-look-tasty.jpg" width="240" alt="飼育員也覺得這裡的魚看起來很好吃嗎？——我每天都這麼覺得"></a><br><a href="../memes/m3374.md">飼育員也覺得這裡的魚看起來很好吃嗎？——我每天都這麼覺得</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3375.md"><img src="../images/m3375-every-hour-is-three-oclock-clock.png" width="240" alt="每個時刻都是三點鐘的時鐘"></a><br><a href="../memes/m3375.md">每個時刻都是三點鐘的時鐘</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3377.md"><img src="../images/m3377-four-dishes-one-soup-nine.png" width="240" alt="無論生活多麼艱難也要四菜一湯——我都是九菜一湯"></a><br><a href="../memes/m3377.md">無論生活多麼艱難也要四菜一湯——我都是九菜一湯</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3378.md"><img src="../images/m3378-dead-teammate-screaming-boo.png" width="240" alt="已經死去的隊友狂吼著告訴我敵人在哪裡——我："></a><br><a href="../memes/m3378.md">已經死去的隊友狂吼著告訴我敵人在哪裡——我：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3379.md"><img src="../images/m3379-dangerous-items-god-cards.jpg" width="240" alt="警察：身上有攜帶危險物品嗎？我：有（三幻神卡）"></a><br><a href="../memes/m3379.md">警察：身上有攜帶危險物品嗎？我：有（三幻神卡）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3380.md"><img src="../images/m3380-kid-printed-sock-revenge.jpg" width="240" alt="小朋友學會列印後開始搗蛋——報仇很簡單，今天晚餐用印的"></a><br><a href="../memes/m3380.md">小朋友學會列印後開始搗蛋——報仇很簡單，今天晚餐用印的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

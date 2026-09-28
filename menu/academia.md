@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 105 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 106 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（84）
+## ★（85）
 
 <table>
 <tr>
@@ -148,6 +148,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2862.md"><img src="../images/m2862-final-report-midterm-badminton.png" width="240" alt="期末報告和期中考在打羽毛球，大學生是那顆球"></a><br><a href="../memes/m2862.md">期末報告和期中考在打羽毛球，大學生是那顆球</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2867.md"><img src="../images/m2867-freshman-vs-senior-double-major.png" width="240" alt="大一：我要轉系雙主修輔系！大四：我想畢業"></a><br><a href="../memes/m2867.md">大一：我要轉系雙主修輔系！大四：我想畢業</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2880.md"><img src="../images/m2880-quantitative-research-questionnaire.png" width="240" alt="聽說你在做量化研究？喔，管院的問卷調查"></a><br><a href="../memes/m2880.md">聽說你在做量化研究？喔，管院的問卷調查</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2897.md"><img src="../images/m2897-lunch-with-magic-history-professor.png" width="240" alt="今天跟學校教魔法史的教授吃學餐"></a><br><a href="../memes/m2897.md">今天跟學校教魔法史的教授吃學餐</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

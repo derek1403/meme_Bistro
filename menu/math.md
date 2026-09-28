@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 341 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 343 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（161）
+## ★★（163）
 
 <table>
 <tr>
@@ -445,6 +445,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2870.md"><img src="../images/m2870-freshman-dream-binomial-mod-p.png" width="240" alt="你打不倒我：新手之夢的逆襲"></a><br><a href="../memes/m2870.md">你打不倒我：新手之夢的逆襲</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2872.md"><img src="../images/m2872-scroll-of-truth-truth-table.png" width="240" alt="真之捲軸：打開是一張真值表"></a><br><a href="../memes/m2872.md">真之捲軸：打開是一張真值表</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2888.md"><img src="../images/m2888-for-all-epsilon-among-us.png" width="240" alt="∀ε>0 變形成 Among Us 船員"></a><br><a href="../memes/m2888.md">∀ε>0 變形成 Among Us 船員</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2894.md"><img src="../images/m2894-math-clock-love-or-hate.png" width="240" alt="讓喜歡數學的人更喜歡、討厭數學的人更討厭的時鐘"></a><br><a href="../memes/m2894.md">讓喜歡數學的人更喜歡、討厭數學的人更討厭的時鐘</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

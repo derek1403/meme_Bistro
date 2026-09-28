@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 361 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 363 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（265）
 
@@ -454,7 +454,7 @@
 </tr>
 </table>
 
-## ★★（70）
+## ★★（71）
 
 <table>
 <tr>
@@ -574,10 +574,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2866.md"><img src="../images/m2866-meet-me-at-1st-table-zero-index.png" width="240" alt="在第一桌等我：Table 00 還是 Table 01？"></a><br><a href="../memes/m2866.md">在第一桌等我：Table 00 還是 Table 01？</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2892.md"><img src="../images/m2892-gpt4-dishruptance.png" width="240" alt="GPT-4 等了 15 秒發明的新字：Dishruptance"></a><br><a href="../memes/m2892.md">GPT-4 等了 15 秒發明的新字：Dishruptance</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（26）
+## ⚠️ 需斟酌（27）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -836,6 +837,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2736.md"><img src="../images/m2736-usb-first-try-lucky.png" width="240" alt="我 USB 插一次就進去：很明顯是個狠腳色"></a><br><a href="../memes/m2736.md">我 USB 插一次就進去：很明顯是個狠腳色</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>機器人不在家時都在幹嘛？看 USB hub — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2891.md"><img src="../images/m2891-robot-usb-hub.png" width="240" alt="機器人不在家時都在幹嘛？看 USB hub"></a><br><a href="../memes/m2891.md">機器人不在家時都在幹嘛？看 USB hub</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

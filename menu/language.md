@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 299 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 301 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（198）
+## ★（200）
 
 <table>
 <tr>
@@ -338,6 +338,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2816.md"><img src="../images/m2816-doctor-says-watch-your-drinking.png" width="240" alt="醫生說你要「注意」你的喝酒"></a><br><a href="../memes/m2816.md">醫生說你要「注意」你的喝酒</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2835.md"><img src="../images/m2835-thanks-for-cold-reply-feel-cooler.png" width="240" alt="謝謝妳對我那麼冷淡，我感覺涼快多了"></a><br><a href="../memes/m2835.md">謝謝妳對我那麼冷淡，我感覺涼快多了</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2864.md"><img src="../images/m2864-ignore-shiba-shiba-ignores-you.png" width="240" alt="你不理柴，柴不理你"></a><br><a href="../memes/m2864.md">你不理柴，柴不理你</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2890.md"><img src="../images/m2890-i-have-a-joke-but-series.png" width="240" alt="我有一個 XX 笑話，但它……"></a><br><a href="../memes/m2890.md">我有一個 XX 笑話，但它……</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2893.md"><img src="../images/m2893-halloween-poor-ghost.png" width="240" alt="萬聖節扮鬼：我是窮鬼"></a><br><a href="../memes/m2893.md">萬聖節扮鬼：我是窮鬼</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

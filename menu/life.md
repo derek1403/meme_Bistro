@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1369 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1373 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1029）
+## ★（1031）
 
 <table>
 <tr>
@@ -1724,9 +1724,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2886.md"><img src="../images/m2886-ferrero-wrapped-brussels-sprouts.png" width="240" alt="把蔬菜包進金莎包裝，萬聖節發給小鬼"></a><br><a href="../memes/m2886.md">把蔬菜包進金莎包裝，萬聖節發給小鬼</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2887.md"><img src="../images/m2887-high-school-life-drama-titles.png" width="240" alt="如果你的高中生涯拍成劇，應該叫什麼名字？"></a><br><a href="../memes/m2887.md">如果你的高中生涯拍成劇，應該叫什麼名字？</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2895.md"><img src="../images/m2895-salt-look-this-is-the-sea.png" width="240" alt="鹽啊，你看，這是海啊（這是你家啊）"></a><br><a href="../memes/m2895.md">鹽啊，你看，這是海啊（這是你家啊）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2896.md"><img src="../images/m2896-frieren-stronger-than-aura.png" width="240" alt="比斷頭台阿烏拉還強"></a><br><a href="../memes/m2896.md">比斷頭台阿烏拉還強</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（94）
+## ★★（95）
 
 <table>
 <tr>
@@ -1886,10 +1890,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2875.md"><img src="../images/m2875-magic-grandma-frieren.jpg" width="240" alt="我很喜歡魔法阿嬤！原來你也在追芙莉蓮"></a><br><a href="../memes/m2875.md">我很喜歡魔法阿嬤！原來你也在追芙莉蓮</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2889.md"><img src="../images/m2889-frieren-bocchi-title-drop-ep8.jpg" width="240" alt="第八話標題回收：葬送的芙莉蓮 vs 孤獨搖滾"></a><br><a href="../memes/m2889.md">第八話標題回收：葬送的芙莉蓮 vs 孤獨搖滾</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（246）
+## ⚠️ 需斟酌（247）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4348,6 +4353,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2879.md"><img src="../images/m2879-strawberry-jelly-bundt-fail.jpg" width="240" alt="用圓環蛋糕模做的草莓奶油凍：不會再做第二次了"></a><br><a href="../memes/m2879.md">用圓環蛋糕模做的草莓奶油凍：不會再做第二次了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你的身體有 70% 是由水構成，我渴了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2898.md"><img src="../images/m2898-body-70-percent-water-thirsty.png" width="240" alt="你的身體有 70% 是由水構成，我渴了"></a><br><a href="../memes/m2898.md">你的身體有 70% 是由水構成，我渴了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

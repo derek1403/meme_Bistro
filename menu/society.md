@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 332 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 333 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（148）
 
@@ -309,7 +309,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（157）
+## ⚠️ 需斟酌（158）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1878,6 +1878,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3391.md"><img src="../images/m3391-kakashi-team-wear-mask.png" width="240" alt="請一定要戴好口罩：全隊只剩戴口罩的卡卡西活著"></a><br><a href="../memes/m3391.md">請一定要戴好口罩：全隊只剩戴口罩的卡卡西活著</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>女生比男生活得還要久很奇怪？——你確定這樣是安全的嗎？安啦 — ⚠️ 危險行為</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3431.md"><img src="../images/m3431-why-women-live-longer-ladder.jpg" width="240" alt="女生比男生活得還要久很奇怪？——你確定這樣是安全的嗎？安啦"></a><br><a href="../memes/m3431.md">女生比男生活得還要久很奇怪？——你確定這樣是安全的嗎？安啦</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

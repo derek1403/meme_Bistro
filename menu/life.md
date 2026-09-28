@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1286 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1296 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（954）
+## ★（964）
 
 <table>
 <tr>
@@ -1598,6 +1598,24 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2732.md"><img src="../images/m2732-hand-things-wrong-way.png" width="240" alt="正確的把東西拿給別人"></a><br><a href="../memes/m2732.md">正確的把東西拿給別人</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2733.md"><img src="../images/m2733-rider-frozen-icicles.png" width="240" alt="外面好冷喔——騎車的人："></a><br><a href="../memes/m2733.md">外面好冷喔——騎車的人：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2735.md"><img src="../images/m2735-diet-apple-mcdonalds.png" width="240" alt="減肥時又想吃點讓自己快樂的東西"></a><br><a href="../memes/m2735.md">減肥時又想吃點讓自己快樂的東西</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2739.md"><img src="../images/m2739-curry-rice-phone-case.png" width="240" alt="自從換了這個手機殼，一直感覺好餓"></a><br><a href="../memes/m2739.md">自從換了這個手機殼，一直感覺好餓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2740.md"><img src="../images/m2740-frieren-blink-1024-2024.png" width="240" alt="芙莉蓮眨個眼：1024 → 2024"></a><br><a href="../memes/m2740.md">芙莉蓮眨個眼：1024 → 2024</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2741.md"><img src="../images/m2741-cat-duck-fish-bread-trade.png" width="240" alt="魚帶了嗎？先給我驗下麵包"></a><br><a href="../memes/m2741.md">魚帶了嗎？先給我驗下麵包</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2742.md"><img src="../images/m2742-robot-vacuum-pot-lid.png" width="240" alt="你家的掃地機器人好好看——那只是鍋蓋"></a><br><a href="../memes/m2742.md">你家的掃地機器人好好看——那只是鍋蓋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2743.md"><img src="../images/m2743-cake-eaten-by-yesterday-me.png" width="240" alt="蛋糕被昨天的自己吃掉了！"></a><br><a href="../memes/m2743.md">蛋糕被昨天的自己吃掉了！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2744.md"><img src="../images/m2744-escape-room-bed-winter.png" width="240" alt="密室逃脫（困難）：冬天早上起床"></a><br><a href="../memes/m2744.md">密室逃脫（困難）：冬天早上起床</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2745.md"><img src="../images/m2745-world-cat-playing-australia.png" width="240" alt="世界是一隻貓咪，在玩澳洲"></a><br><a href="../memes/m2745.md">世界是一隻貓咪，在玩澳洲</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2746.md"><img src="../images/m2746-trash-can-remilia.png" width="240" alt="粉紅垃圾桶：蕾米莉亞"></a><br><a href="../memes/m2746.md">粉紅垃圾桶：蕾米莉亞</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2747.md"><img src="../images/m2747-balding-uncle-eraser.png" width="240" alt="越用越禿的大叔橡皮擦"></a><br><a href="../memes/m2747.md">越用越禿的大叔橡皮擦</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2748.md"><img src="../images/m2748-foam-hand-thumb-zoomed.png" width="240" alt="泡沫手：近看 vs 遠看"></a><br><a href="../memes/m2748.md">泡沫手：近看 vs 遠看</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

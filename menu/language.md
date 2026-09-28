@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 360 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 361 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（234）
+## ★（235）
 
 <table>
 <tr>
@@ -398,6 +398,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3501.md"><img src="../images/m3501-won-diabetes.jpg" width="240" alt="每天買一杯飲料想中發票千萬，結果中了糖尿病"></a><br><a href="../memes/m3501.md">每天買一杯飲料想中發票千萬，結果中了糖尿病</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3526.md"><img src="../images/m3526-pink-panther-lion.jpg" width="240" alt="粉紅豹是獅子嗎？"></a><br><a href="../memes/m3526.md">粉紅豹是獅子嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3535.md"><img src="../images/m3535-rat-snitch-brain-destroyer-of-fun.png" width="240" alt="老闆禁止亂取浮誇綽號，大家都瞪向「老鼠告密者 Brain 之美好時光終結者」"></a><br><a href="../memes/m3535.md">老闆禁止亂取浮誇綽號，大家都瞪向「老鼠告密者 Brain 之美好時光終結者」</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3547.md"><img src="../images/m3547-oshita-bridge.png" width="240" alt="大志田橋 Oshita Bridge：噢幹是橋"></a><br><a href="../memes/m3547.md">大志田橋 Oshita Bridge：噢幹是橋</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

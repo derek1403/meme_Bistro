@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1650 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1654 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1248）
+## ★（1249）
 
 <table>
 <tr>
@@ -2089,9 +2089,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3542.md"><img src="../images/m3542-corgi-tooth-for-tooth.jpg" width="240" alt="以牙還牙：柯基咬壞鞋，主人咬柯基娃娃"></a><br><a href="../memes/m3542.md">以牙還牙：柯基咬壞鞋，主人咬柯基娃娃</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3543.md"><img src="../images/m3543-delayed-by-main-product.png" width="240" alt="麥當勞：被漢堡耽誤的薯條店"></a><br><a href="../memes/m3543.md">麥當勞：被漢堡耽誤的薯條店</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3549.md"><img src="../images/m3549-minecraft-villager-kept-yelling.png" width="240" alt="朋友：你怎麼把村莊滅掉了？我：因為他一直對我叫"></a><br><a href="../memes/m3549.md">朋友：你怎麼把村莊滅掉了？我：因為他一直對我叫</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（108）
+## ★★（109）
 
 <table>
 <tr>
@@ -2274,9 +2277,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3364.md"><img src="../images/m3364-ghost-breathing-then-and-now.png" width="240" alt="三十年前遇到鬼只能停止呼吸，現在有幾十種呼吸"></a><br><a href="../memes/m3364.md">三十年前遇到鬼只能停止呼吸，現在有幾十種呼吸</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3540.md"><img src="../images/m3540-hadouken-road-signs.jpg" width="240" alt="路標排出波動拳指令：↓↘→P"></a><br><a href="../memes/m3540.md">路標排出波動拳指令：↓↘→P</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3548.md"><img src="../images/m3548-ferrero-darlie-temple.png" width="240" alt="媽：你在幹嘛？我：網路上的人會懂的"></a><br><a href="../memes/m3548.md">媽：你在幹嘛？我：網路上的人會懂的</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（294）
+## ⚠️ 需斟酌（296）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5215,6 +5221,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3518.md"><img src="../images/m3518-kid-drowning-i-should-be-careful.jpg" width="240" alt="有小朋友溺水了！——我也要小心一點才行"></a><br><a href="../memes/m3518.md">有小朋友溺水了！——我也要小心一點才行</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>麵包超人：不行……別吃那裡……那裡不能換新的 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3546.md"><img src="../images/m3546-anpanman-dont-eat-there.jpg" width="240" alt="麵包超人：不行……別吃那裡……那裡不能換新的"></a><br><a href="../memes/m3546.md">麵包超人：不行……別吃那裡……那裡不能換新的</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Google 搜尋「我頭痛」：您是不是要查：癌症 — ⚠️ 疾病</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3550.md"><img src="../images/m3550-google-headache-cancer.jpg" width="240" alt="Google 搜尋「我頭痛」：您是不是要查：癌症"></a><br><a href="../memes/m3550.md">Google 搜尋「我頭痛」：您是不是要查：癌症</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1420 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1424 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1068）
+## ★（1072）
 
 <table>
 <tr>
@@ -1788,6 +1788,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2996.md"><img src="../images/m2996-misaligned-brick-bad-day.png" width="240" alt="再見，一整天的好心情"></a><br><a href="../memes/m2996.md">再見，一整天的好心情</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2997.md"><img src="../images/m2997-let-cousin-win-avatar-state.png" width="240" alt="故意讓表弟贏，他卻說你好爛"></a><br><a href="../memes/m2997.md">故意讓表弟贏，他卻說你好爛</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2999.md"><img src="../images/m2999-read-menu-order-same-dish.png" width="240" alt="每次看一遍菜單，然後點吃到膩的菜"></a><br><a href="../memes/m2999.md">每次看一遍菜單，然後點吃到膩的菜</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3000.md"><img src="../images/m3000-every-weather-stay-home.png" width="240" alt="下雨、好熱、好冷、天氣好：都該待在家裡"></a><br><a href="../memes/m3000.md">下雨、好熱、好冷、天氣好：都該待在家裡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3003.md"><img src="../images/m3003-repeat-sign-uno-reverse.png" width="240" alt="練琴：這段終於練完了——樂譜：這裡有反覆記號"></a><br><a href="../memes/m3003.md">練琴：這段終於練完了——樂譜：這裡有反覆記號</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3004.md"><img src="../images/m3004-hug-yourself-war-and-peas.png" width="240" alt="沒人抱你，那就抱自己吧"></a><br><a href="../memes/m3004.md">沒人抱你，那就抱自己吧</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3007.md"><img src="../images/m3007-pig-casserole-nosebleed.png" width="240" alt="新買的陶瓷鍋燉了個豬腳，被我媽打了一頓"></a><br><a href="../memes/m3007.md">新買的陶瓷鍋燉了個豬腳，被我媽打了一頓</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

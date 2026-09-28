@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 369 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 372 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（269）
+## ★（272）
 
 <table>
 <tr>
@@ -457,6 +457,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2970.md"><img src="../images/m2970-enter-password-third-try.png" width="240" alt="輸入密碼：第一次、第二次、第三次"></a><br><a href="../memes/m2970.md">輸入密碼：第一次、第二次、第三次</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2974.md"><img src="../images/m2974-cracked-game-computer-homer.png" width="240" alt="14 歲找到遊戲免費破解版，家裡的電腦："></a><br><a href="../memes/m2974.md">14 歲找到遊戲免費破解版，家裡的電腦：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3002.md"><img src="../images/m3002-docker-rebuild-missing-semicolon.png" width="240" alt="補一個分號後等 Docker 容器重建"></a><br><a href="../memes/m3002.md">補一個分號後等 Docker 容器重建</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3008.md"><img src="../images/m3008-bt-download-friend-ssd.png" width="240" alt="掛 BT 下載檔案，朋友直接拿隨身碟來"></a><br><a href="../memes/m3008.md">掛 BT 下載檔案，朋友直接拿隨身碟來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3010.md"><img src="../images/m3010-flip-phone-toilet-wallpaper.png" width="240" alt="完美的摺疊手機桌布：馬桶"></a><br><a href="../memes/m3010.md">完美的摺疊手機桌布：馬桶</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

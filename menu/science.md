@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 190 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 191 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（89）
 
@@ -160,7 +160,7 @@
 </tr>
 </table>
 
-## ★★（60）
+## ★★（61）
 
 <table>
 <tr>
@@ -262,6 +262,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2785.md"><img src="../images/m2785-t-rex-70-million-and-6.png" width="240" alt="這隻暴龍多老了？七千萬零六年"></a><br><a href="../memes/m2785.md">這隻暴龍多老了？七千萬零六年</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2978.md"><img src="../images/m2978-flex-tape-pseudo-scientist.png" width="240" alt="以為遇到民間科學家，實際上遇到民間科學家"></a><br><a href="../memes/m2978.md">以為遇到民間科學家，實際上遇到民間科學家</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2980.md"><img src="../images/m2980-schrodinger-signature.png" width="240" alt="你有多喜歡物理？連簽名都看成薛丁格方程"></a><br><a href="../memes/m2980.md">你有多喜歡物理？連簽名都看成薛丁格方程</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3006.md"><img src="../images/m3006-oscilloscope-expectation-anime.png" width="240" alt="教授以為我用示波器看波形，實際上我在畫動畫"></a><br><a href="../memes/m3006.md">教授以為我用示波器看波形，實際上我在畫動畫</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

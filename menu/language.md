@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 312 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 313 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（207）
 
@@ -426,7 +426,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（66）
+## ⚠️ 需斟酌（67）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1085,6 +1085,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2988.md"><img src="../images/m2988-stapler-jesus-nail.png" width="240" alt="釘穌機與釘穌針"></a><br><a href="../memes/m2988.md">釘穌機與釘穌針</a><br><sub>🔤🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>滅火器掉了幾筆變成「成人器」 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3001.md"><img src="../images/m3001-fire-extinguisher-sign-adult-device.png" width="240" alt="滅火器掉了幾筆變成「成人器」"></a><br><a href="../memes/m3001.md">滅火器掉了幾筆變成「成人器」</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

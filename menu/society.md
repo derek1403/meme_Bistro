@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 248 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 250 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（81）
+## ★（83）
 
 <table>
 <tr>
@@ -143,6 +143,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3005.md"><img src="../images/m3005-hold-music-saxophone.png" width="240" alt="轉接中請稍候：這音樂也太難聽"></a><br><a href="../memes/m3005.md">轉接中請稍候：這音樂也太難聽</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3020.md"><img src="../images/m3020-bamboo-shoot-two-reviews.png" width="240" alt="同一根玉米筍，兩則評論"></a><br><a href="../memes/m3020.md">同一根玉米筍，兩則評論</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3021.md"><img src="../images/m3021-flea-spray-ad-people-as-fleas.png" width="240" alt="除蟲噴霧廣告：路人被當成跳蚤"></a><br><a href="../memes/m3021.md">除蟲噴霧廣告：路人被當成跳蚤</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3027.md"><img src="../images/m3027-coworker-toilet-after-lunch.png" width="240" alt="有一種同事，每次吃完午餐回來就衝廁所"></a><br><a href="../memes/m3027.md">有一種同事，每次吃完午餐回來就衝廁所</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3030.md"><img src="../images/m3030-typhoon-wont-come-right.png" width="240" alt="颱風：你絕對不會過來的對吧！"></a><br><a href="../memes/m3030.md">颱風：你絕對不會過來的對吧！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

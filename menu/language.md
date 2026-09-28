@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 313 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 315 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（207）
+## ★（208）
 
 <table>
 <tr>
@@ -354,6 +354,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2982.md"><img src="../images/m2982-pen-ruler-pikachu.png" width="240" alt="筆跟尺的台語一起怎麼唸？Pikachu？"></a><br><a href="../memes/m2982.md">筆跟尺的台語一起怎麼唸？Pikachu？</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2986.md"><img src="../images/m2986-light-is-just-living.png" width="240" alt="光是什麼？光是活著就已經拼盡全力"></a><br><a href="../memes/m2986.md">光是什麼？光是活著就已經拼盡全力</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3032.md"><img src="../images/m3032-man-character-ultraman.png" width="240" alt="「曼」這個字特別有女人味？超人奧特曼"></a><br><a href="../memes/m3032.md">「曼」這個字特別有女人味？超人奧特曼</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（39）
@@ -426,7 +429,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（67）
+## ⚠️ 需斟酌（68）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1095,6 +1098,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3001.md"><img src="../images/m3001-fire-extinguisher-sign-adult-device.png" width="240" alt="滅火器掉了幾筆變成「成人器」"></a><br><a href="../memes/m3001.md">滅火器掉了幾筆變成「成人器」</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>dia 死 key — ⚠️ 上吊</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3025.md"><img src="../images/m3025-dia-si-key-hanging-keys.png" width="240" alt="dia 死 key"></a><br><a href="../memes/m3025.md">dia 死 key</a><br><sub>🔤🔥 ★★</sub></td>
 </tr>
 </table>
 

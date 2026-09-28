@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1430 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1435 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1077）
+## ★（1081）
 
 <table>
 <tr>
@@ -1804,6 +1804,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3018.md"><img src="../images/m3018-tortoise-hare-cat.png" width="240" alt="龜兔賽跑與貓"></a><br><a href="../memes/m3018.md">龜兔賽跑與貓</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3019.md"><img src="../images/m3019-piano-lesson-long-nails-lobster.png" width="240" alt="沒剪指甲就去上鋼琴課"></a><br><a href="../memes/m3019.md">沒剪指甲就去上鋼琴課</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3022.md"><img src="../images/m3022-chess-piece-mech.png" width="240" alt="從小玩西洋棋就沒人能贏過我"></a><br><a href="../memes/m3022.md">從小玩西洋棋就沒人能贏過我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3024.md"><img src="../images/m3024-six-oclock-am-or-pm.png" width="240" alt="6 點了啊……到底是上午還是下午呢？"></a><br><a href="../memes/m3024.md">6 點了啊……到底是上午還是下午呢？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3026.md"><img src="../images/m3026-burger-perfect-skin.png" width="240" alt="這漢堡擁有我從來沒有過的完美肌膚"></a><br><a href="../memes/m3026.md">這漢堡擁有我從來沒有過的完美肌膚</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3031.md"><img src="../images/m3031-black-banana-eat-me.png" width="240" alt="家裡沒東西吃了，那根放到發黑的香蕉：求你吃了我"></a><br><a href="../memes/m3031.md">家裡沒東西吃了，那根放到發黑的香蕉：求你吃了我</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（100）
@@ -1979,7 +1987,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（253）
+## ⚠️ 需斟酌（254）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4508,6 +4516,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3011.md"><img src="../images/m3011-moving-out-leave-doll-gift.png" width="240" alt="搬家時留個布偶給下一位房客"></a><br><a href="../memes/m3011.md">搬家時留個布偶給下一位房客</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>1000 歲的姊姊和 17 歲的小學生：都葬送了許多人 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3023.md"><img src="../images/m3023-frieren-conan-two-funerals.png" width="240" alt="1000 歲的姊姊和 17 歲的小學生：都葬送了許多人"></a><br><a href="../memes/m3023.md">1000 歲的姊姊和 17 歲的小學生：都葬送了許多人</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

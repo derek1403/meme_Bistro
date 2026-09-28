@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 224 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 225 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（65）
 
@@ -164,7 +164,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（136）
+## ⚠️ 需斟酌（137）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1523,6 +1523,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2842.md"><img src="../images/m2842-afford-one-kid-college-sword.png" width="240" alt="當你只付得起一個小孩的大學學費"></a><br><a href="../memes/m2842.md">當你只付得起一個小孩的大學學費</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>素食菜單只是把雞蛋打上馬賽克 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2856.md"><img src="../images/m2856-vegetarian-ramen-egg-mosaic.png" width="240" alt="素食菜單只是把雞蛋打上馬賽克"></a><br><a href="../memes/m2856.md">素食菜單只是把雞蛋打上馬賽克</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

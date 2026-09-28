@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1354 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1358 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1017）
+## ★（1021）
 
 <table>
 <tr>
@@ -1703,6 +1703,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2853.md"><img src="../images/m2853-stockholm-subway-pacman-grate.png" width="240" alt="斯德哥爾摩地鐵站的小精靈彩蛋"></a><br><a href="../memes/m2853.md">斯德哥爾摩地鐵站的小精靈彩蛋</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2854.md"><img src="../images/m2854-mrt-dont-lean-on-pole-megumin.png" width="240" alt="捷運：請勿倚靠中央立柱"></a><br><a href="../memes/m2854.md">捷運：請勿倚靠中央立柱</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2855.md"><img src="../images/m2855-cockpit-vs-understanding-women.png" width="240" alt="為什麼男人搞得懂儀表板，卻搞不懂女人在想什麼"></a><br><a href="../memes/m2855.md">為什麼男人搞得懂儀表板，卻搞不懂女人在想什麼</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2858.md"><img src="../images/m2858-spilled-pasta-art-school.png" width="240" alt="把麵倒在地上，不小心從藝術學院畢業了"></a><br><a href="../memes/m2858.md">把麵倒在地上，不小心從藝術學院畢業了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2861.md"><img src="../images/m2861-monkeys-pet-the-cat.png" width="240" alt="猴子進學校第一件事是擼貓"></a><br><a href="../memes/m2861.md">猴子進學校第一件事是擼貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2863.md"><img src="../images/m2863-indoor-vs-outdoor-plants.png" width="240" alt="室內植物 vs 室外植物"></a><br><a href="../memes/m2863.md">室內植物 vs 室外植物</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2865.md"><img src="../images/m2865-things-to-do-but-bed-nearby.png" width="240" alt="我知道還有事沒做完，但我旁邊有床欸"></a><br><a href="../memes/m2865.md">我知道還有事沒做完，但我旁邊有床欸</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

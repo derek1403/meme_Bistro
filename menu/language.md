@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 297 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 299 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（197）
+## ★（198）
 
 <table>
 <tr>
@@ -337,10 +337,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2816.md"><img src="../images/m2816-doctor-says-watch-your-drinking.png" width="240" alt="醫生說你要「注意」你的喝酒"></a><br><a href="../memes/m2816.md">醫生說你要「注意」你的喝酒</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2835.md"><img src="../images/m2835-thanks-for-cold-reply-feel-cooler.png" width="240" alt="謝謝妳對我那麼冷淡，我感覺涼快多了"></a><br><a href="../memes/m2835.md">謝謝妳對我那麼冷淡，我感覺涼快多了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2864.md"><img src="../images/m2864-ignore-shiba-shiba-ignores-you.png" width="240" alt="你不理柴，柴不理你"></a><br><a href="../memes/m2864.md">你不理柴，柴不理你</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（35）
+## ★★（36）
 
 <table>
 <tr>
@@ -401,6 +402,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2815.md"><img src="../images/m2815-educated-people-more-degrees.png" width="240" alt="受過教育的人很火辣：因為他們有更多 degrees"></a><br><a href="../memes/m2815.md">受過教育的人很火辣：因為他們有更多 degrees</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2819.md"><img src="../images/m2819-why-dark-spelled-with-k.png" width="240" alt="為什麼 Dark 用 K 不用 C？"></a><br><a href="../memes/m2819.md">為什麼 Dark 用 K 不用 C？</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2857.md"><img src="../images/m2857-six-equals-5201314.png" width="240" alt="6？我懂的 6=5+2+0+1+3−1−4"></a><br><a href="../memes/m2857.md">6？我懂的 6=5+2+0+1+3−1−4</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

@@ -25,6 +25,6 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1178.md"><img src="../images/m1178-first-time-change-tire-grinder.png" width="240" alt="第一次自己換輪胎"></a><br><a href="../memes/m1178.md">第一次自己換輪胎</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1335.md"><img src="../images/m1335-pope-teppanyaki.jpg" width="240" alt="無心褻瀆神靈，但畫面真的很像大埔鐵板燒"></a><br><a href="../memes/m1335.md">無心褻瀆神靈，但畫面真的很像大埔鐵板燒</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m2049.md"><img src="../images/m2049-maid-truck-driver.jpg" width="240" alt="為了生活開始工作，又不願放棄心中的夢想"></a><br><a href="../memes/m2049.md">為了生活開始工作，又不願放棄心中的夢想</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2760.md"><img src="../images/m2760-crying-cat-math-facts.png" width="240" alt="平方可以是負的、零乘積可以由非零元素組成……"></a><br><a href="../memes/m2760.md">平方可以是負的、零乘積可以由非零元素組成……</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>

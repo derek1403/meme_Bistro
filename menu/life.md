@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1301 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1307 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（969）
+## ★（975）
 
 <table>
 <tr>
@@ -1623,6 +1623,16 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2756.md"><img src="../images/m2756-dashboard-says-im-fine.jpg" width="240" alt="為什麼男人搞得懂儀表板卻搞不懂女人？"></a><br><a href="../memes/m2756.md">為什麼男人搞得懂儀表板卻搞不懂女人？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2757.md"><img src="../images/m2757-seal-tangyuan-lie-down.png" width="240" alt="小海豹吃湯圓：吃完就直接躺"></a><br><a href="../memes/m2757.md">小海豹吃湯圓：吃完就直接躺</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2758.md"><img src="../images/m2758-snow-parking-drift-marks.png" width="240" alt="冬天是駕車技術表露無遺的季節"></a><br><a href="../memes/m2758.md">冬天是駕車技術表露無遺的季節</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2759.md"><img src="../images/m2759-life-on-track-abandoned.png" width="240" alt="每件事都上軌道了——那條軌道："></a><br><a href="../memes/m2759.md">每件事都上軌道了——那條軌道：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2761.md"><img src="../images/m2761-monk-no-worldly-desire.png" width="240" alt="沒有那種世俗的欲望——有 5 個妹子：貧僧這就還俗"></a><br><a href="../memes/m2761.md">沒有那種世俗的欲望——有 5 個妹子：貧僧這就還俗</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2762.md"><img src="../images/m2762-mic-unmute-fart.jpg" width="240" alt="網課放屁前把麥克風靜音——結果原本就是靜音"></a><br><a href="../memes/m2762.md">網課放屁前把麥克風靜音——結果原本就是靜音</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2765.md"><img src="../images/m2765-onigiri-rank-only-one.png" width="240" alt="當比賽那組只有你一個人"></a><br><a href="../memes/m2765.md">當比賽那組只有你一個人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2766.md"><img src="../images/m2766-komi-please-stop-talking.png" width="240" alt="說了 10 次嗯嗯、20 次對啊，他們就是不肯閉嘴"></a><br><a href="../memes/m2766.md">說了 10 次嗯嗯、20 次對啊，他們就是不肯閉嘴</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2767.md"><img src="../images/m2767-hungry-everything-needs-cooking.png" width="240" alt="當你真的餓，但家裡每樣東西都需要煮"></a><br><a href="../memes/m2767.md">當你真的餓，但家裡每樣東西都需要煮</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

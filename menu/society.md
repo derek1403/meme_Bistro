@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 342 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 343 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（155）
+## ★（156）
 
 <table>
 <tr>
@@ -267,6 +267,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3456.md"><img src="../images/m3456-v8-player-reporters-banned.jpg" width="240" alt="您是 V8 玩家，檢舉您的三名玩家已被永久封號"></a><br><a href="../memes/m3456.md">您是 V8 玩家，檢舉您的三名玩家已被永久封號</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3466.md"><img src="../images/m3466-bill-gates-card-coke.jpg" width="240" alt="比爾蓋茲把卡給你買可樂，順便替自己買點什麼"></a><br><a href="../memes/m3466.md">比爾蓋茲把卡給你買可樂，順便替自己買點什麼</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3472.md"><img src="../images/m3472-do-girls-poop.jpg" width="240" alt="女生也會拉屎嗎？不會，會蒸發於天地之間並散發淡淡香氣"></a><br><a href="../memes/m3472.md">女生也會拉屎嗎？不會，會蒸發於天地之間並散發淡淡香氣</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

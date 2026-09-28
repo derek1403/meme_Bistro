@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1614 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1616 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1218）
+## ★（1220）
 
 <table>
 <tr>
@@ -2038,6 +2038,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3463.md"><img src="../images/m3463-wife-whatever-dinner.jpg" width="240" alt="老婆說晚餐隨便，結果每個提議都被否決"></a><br><a href="../memes/m3463.md">老婆說晚餐隨便，結果每個提議都被否決</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3465.md"><img src="../images/m3465-cats-in-jeans.jpg" width="240" alt="牛仔褲的兩隻褲管裡各躲一隻貓"></a><br><a href="../memes/m3465.md">牛仔褲的兩隻褲管裡各躲一隻貓</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3470.md"><img src="../images/m3470-tearful-beach-crab.jpg" width="240" alt="海邊含淚微笑的感人場面，其實是被螃蟹夾到腳趾"></a><br><a href="../memes/m3470.md">海邊含淚微笑的感人場面，其實是被螃蟹夾到腳趾</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3471.md"><img src="../images/m3471-moving-sleeping-baby-bomb-squad.jpg" width="240" alt="把熟睡的嬰兒移到嬰兒床，像在拆炸彈"></a><br><a href="../memes/m3471.md">把熟睡的嬰兒移到嬰兒床，像在拆炸彈</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3473.md"><img src="../images/m3473-cat-onigiri.jpg" width="240" alt="白貓屁股貼上海苔，變成一顆飯糰"></a><br><a href="../memes/m3473.md">白貓屁股貼上海苔，變成一顆飯糰</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1338 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1343 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1001）
+## ★（1006）
 
 <table>
 <tr>
@@ -1677,6 +1677,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2818.md"><img src="../images/m2818-no-bag-hold-out-your-hand.png" width="240" alt="不用袋子：那你手伸出來吧"></a><br><a href="../memes/m2818.md">不用袋子：那你手伸出來吧</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2820.md"><img src="../images/m2820-homemade-vs-chain-store-fries.png" width="240" alt="自家乾淨油薯條 vs 連鎖店薯條：謝謝你薯條大師"></a><br><a href="../memes/m2820.md">自家乾淨油薯條 vs 連鎖店薯條：謝謝你薯條大師</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2821.md"><img src="../images/m2821-concert-lights-actually-grass.png" width="240" alt="第一眼以為是演唱會，其實是一堆草"></a><br><a href="../memes/m2821.md">第一眼以為是演唱會，其實是一堆草</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2825.md"><img src="../images/m2825-piano-pedals-vs-organ-pedals.png" width="240" alt="鋼琴踏板好麻煩喔？看看管風琴"></a><br><a href="../memes/m2825.md">鋼琴踏板好麻煩喔？看看管風琴</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2826.md"><img src="../images/m2826-climber-mug-khaby.png" width="240" alt="攀岩愛好者設計的馬克杯"></a><br><a href="../memes/m2826.md">攀岩愛好者設計的馬克杯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2827.md"><img src="../images/m2827-low-cost-cosplay-yor-spatula.jpg" width="240" alt="低成本 cosplay：用鍋鏟湯匙扮約兒"></a><br><a href="../memes/m2827.md">低成本 cosplay：用鍋鏟湯匙扮約兒</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2828.md"><img src="../images/m2828-vomit-bag-wish-popcorn-bag.png" width="240" alt="嘔吐袋的真正想法：我希望我是爆米花袋"></a><br><a href="../memes/m2828.md">嘔吐袋的真正想法：我希望我是爆米花袋</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

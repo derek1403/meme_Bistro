@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 97 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 100 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（77）
+## ★（80）
 
 <table>
 <tr>
@@ -137,6 +137,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2793.md"><img src="../images/m2793-seventy-percent-find-love-in-college.png" width="240" alt="七成的人能在大學找到愛情"></a><br><a href="../memes/m2793.md">七成的人能在大學找到愛情</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2800.md"><img src="../images/m2800-headache-types-data-shaping.png" width="240" alt="各種頭痛：做專案時想把數據弄成想要的形狀"></a><br><a href="../memes/m2800.md">各種頭痛：做專案時想把數據弄成想要的形狀</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2824.md"><img src="../images/m2824-teacher-erases-board-notes-half.png" width="240" alt="老師毫無預警擦黑板，你的筆記才寫一半"></a><br><a href="../memes/m2824.md">老師毫無預警擦黑板，你的筆記才寫一半</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2831.md"><img src="../images/m2831-left-hand-writing-homework.png" width="240" alt="左右手交換寫：有點太亂了"></a><br><a href="../memes/m2831.md">左右手交換寫：有點太亂了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2832.md"><img src="../images/m2832-chocolate-bookmark-motivation.png" width="240" alt="讀書動力：巧克力當書籤"></a><br><a href="../memes/m2832.md">讀書動力：巧克力當書籤</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

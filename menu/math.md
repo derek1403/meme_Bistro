@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 333 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 334 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（155）
+## ★★（156）
 
 <table>
 <tr>
@@ -435,6 +435,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2787.md"><img src="../images/m2787-calculus-exam-monster-integral.png" width="240" alt="微積分老師出你考試題的樣子"></a><br><a href="../memes/m2787.md">微積分老師出你考試題的樣子</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2803.md"><img src="../images/m2803-marathon-last-sin-cos-pi-km.png" width="240" alt="馬拉松告示：最後 sin²θ+cos²θ 公里"></a><br><a href="../memes/m2803.md">馬拉松告示：最後 sin²θ+cos²θ 公里</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2829.md"><img src="../images/m2829-time-person-of-year-taylor-series.png" width="240" alt="時代雜誌年度風雲人物：Taylor（級數）"></a><br><a href="../memes/m2829.md">時代雜誌年度風雲人物：Taylor（級數）</a><br><sub>🧠🔤 ★★</sub></td>
 </tr>
 </table>
 

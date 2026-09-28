@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1694 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1697 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1280）
+## ★（1282）
 
 <table>
 <tr>
@@ -2142,10 +2142,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3612.md"><img src="../images/m3612-peppa-taller-than-charizard.png" width="240" alt="Google 查身高：佩佩豬 210 公分，噴火龍 170 公分"></a><br><a href="../memes/m3612.md">Google 查身高：佩佩豬 210 公分，噴火龍 170 公分</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3613.md"><img src="../images/m3613-eevee-swift-fail.jpg" width="240" alt="伊布學高速星星：還做不好啦！"></a><br><a href="../memes/m3613.md">伊布學高速星星：還做不好啦！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3615.md"><img src="../images/m3615-batman-blue-contacts.jpg" width="240" alt="蝙蝠俠拿下面罩，眼睛還是白的——原來是戴了隱形眼鏡"></a><br><a href="../memes/m3615.md">蝙蝠俠拿下面罩，眼睛還是白的——原來是戴了隱形眼鏡</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3618.md"><img src="../images/m3618-purse-geological-layers.jpg" width="240" alt="男人眼中的女用包包：地質分層"></a><br><a href="../memes/m3618.md">男人眼中的女用包包：地質分層</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（112）
+## ★★（113）
 
 <table>
 <tr>
@@ -2335,6 +2339,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3593.md"><img src="../images/m3593-thanos-takes-good-baby-sticker.jpg" width="240" alt="當你在幼稚園不乖，老師要把你的乖寶寶貼紙拿走時"></a><br><a href="../memes/m3593.md">當你在幼稚園不乖，老師要把你的乖寶寶貼紙拿走時</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3614.md"><img src="../images/m3614-purpose-of-visit-holy-grail-war.png" width="240" alt="入境日本的目的：聖杯戰爭——結果還過了"></a><br><a href="../memes/m3614.md">入境日本的目的：聖杯戰爭——結果還過了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

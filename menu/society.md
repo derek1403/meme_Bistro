@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 376 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 379 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（170）
+## ★（173）
 
 <table>
 <tr>
@@ -292,6 +292,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3604.md"><img src="../images/m3604-road-signs-office-life.jpg" width="240" alt="用交通號誌講上班族的一天"></a><br><a href="../memes/m3604.md">用交通號誌講上班族的一天</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3610.md"><img src="../images/m3610-traffic-light-minigun.png" width="240" alt="讓人們遵守交通規則的唯一方法：紅綠燈裝加特林機槍"></a><br><a href="../memes/m3610.md">讓人們遵守交通規則的唯一方法：紅綠燈裝加特林機槍</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3616.md"><img src="../images/m3616-pikachu-workday-wake-up.jpg" width="240" alt="生不如死或精神飽滿地在工作日醒來：都是「幹」"></a><br><a href="../memes/m3616.md">生不如死或精神飽滿地在工作日醒來：都是「幹」</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3617.md"><img src="../images/m3617-media-killer-watches-anime.jpg" width="240" alt="發生兇殺案，媒體：沒興趣——兇手會看動漫畫，媒體：眼睛爆亮"></a><br><a href="../memes/m3617.md">發生兇殺案，媒體：沒興趣——兇手會看動漫畫，媒體：眼睛爆亮</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3619.md"><img src="../images/m3619-shaolin-real-bricks.jpg" width="240" alt="建商把普通磚頭送到少林寺，多名武僧手指骨折"></a><br><a href="../memes/m3619.md">建商把普通磚頭送到少林寺，多名武僧手指骨折</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

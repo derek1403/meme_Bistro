@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 358 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 361 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（99）
 
@@ -176,7 +176,7 @@
 </tr>
 </table>
 
-## ★★（172）
+## ★★（174）
 
 <table>
 <tr>
@@ -466,10 +466,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3074.md"><img src="../images/m3074-antiderivative-x5-luigi.png" width="240" alt="∫1/x⁵ dx 輕鬆 vs ∫1/(x⁵+1) dx 崩潰"></a><br><a href="../memes/m3074.md">∫1/x⁵ dx 輕鬆 vs ∫1/(x⁵+1) dx 崩潰</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3079.md"><img src="../images/m3079-weierstrass-is-this-polynomial-limit.png" width="240" alt="Weierstrass：這是某個多項式序列的均勻極限嗎？"></a><br><a href="../memes/m3079.md">Weierstrass：這是某個多項式序列的均勻極限嗎？</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3085.md"><img src="../images/m3085-mathematicians-look-away-crisis.png" width="240" alt="社科有再現危機、物理不知道 95% 宇宙是什麼，數學家："></a><br><a href="../memes/m3085.md">社科有再現危機、物理不知道 95% 宇宙是什麼，數學家：</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（57）
+## ★★★（58）
 
 <table>
 <tr>
@@ -566,6 +568,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2964.md"><img src="../images/m2964-generalized-stokes-six-symbols.png" width="240" alt="只用 6 個符號統一微積分基本定理、Green、Stokes、散度定理"></a><br><a href="../memes/m2964.md">只用 6 個符號統一微積分基本定理、Green、Stokes、散度定理</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2977.md"><img src="../images/m2977-otter-omega-differential-form.png" width="240" alt="水獺是 ·ω·，數學系看到的是微分形式"></a><br><a href="../memes/m2977.md">水獺是 ·ω·，數學系看到的是微分形式</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2979.md"><img src="../images/m2979-yin-yang-vector-identities.png" width="240" alt="陰陽太極與向量恆等式：然後還有這個擊敗郎"></a><br><a href="../memes/m2979.md">陰陽太極與向量恆等式：然後還有這個擊敗郎</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3084.md"><img src="../images/m3084-recall-that-pairing-function.png" width="240" alt="Recall that：一個「顯然」的配對函數"></a><br><a href="../memes/m3084.md">Recall that：一個「顯然」的配對函數</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

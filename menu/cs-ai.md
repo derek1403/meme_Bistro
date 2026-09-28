@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 373 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 375 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（273）
+## ★（274）
 
 <table>
 <tr>
@@ -464,6 +464,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3010.md"><img src="../images/m3010-flip-phone-toilet-wallpaper.png" width="240" alt="完美的摺疊手機桌布：馬桶"></a><br><a href="../memes/m3010.md">完美的摺疊手機桌布：馬桶</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3051.md"><img src="../images/m3051-fig-example-of-recursion.png" width="240" alt="Fig. 0：遞迴的一個例子"></a><br><a href="../memes/m3051.md">Fig. 0：遞迴的一個例子</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3078.md"><img src="../images/m3078-stadium-seats-star-triangle.png" width="240" alt="觀眾席的空位排成巢狀迴圈印出的星號三角形"></a><br><a href="../memes/m3078.md">觀眾席的空位排成巢狀迴圈印出的星號三角形</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（73）
@@ -594,7 +597,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（27）
+## ⚠️ 需斟酌（28）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -863,6 +866,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2891.md"><img src="../images/m2891-robot-usb-hub.png" width="240" alt="機器人不在家時都在幹嘛？看 USB hub"></a><br><a href="../memes/m2891.md">機器人不在家時都在幹嘛？看 USB hub</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>終於知道為什麼手機螢幕越做越大了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3081.md"><img src="../images/m3081-phone-screens-bigger-video.png" width="240" alt="終於知道為什麼手機螢幕越做越大了"></a><br><a href="../memes/m3081.md">終於知道為什麼手機螢幕越做越大了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

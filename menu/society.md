@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 261 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 262 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（91）
+## ★（92）
 
 <table>
 <tr>
@@ -161,6 +161,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3077.md"><img src="../images/m3077-surstromming-ex-wedding-job.png" width="240" alt="偏門工作：到前女友婚宴吃鯡魚罐頭"></a><br><a href="../memes/m3077.md">偏門工作：到前女友婚宴吃鯡魚罐頭</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3087.md"><img src="../images/m3087-intern-anything-but-coffee.png" width="240" alt="實習生：除了沖咖啡我什麼都可以做"></a><br><a href="../memes/m3087.md">實習生：除了沖咖啡我什麼都可以做</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

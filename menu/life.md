@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1455 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1458 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1094）
+## ★（1097）
 
 <table>
 <tr>
@@ -1832,6 +1832,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3070.md"><img src="../images/m3070-sink-above-urinal-design.png" width="240" alt="洗手台直接裝在小便斗正上方"></a><br><a href="../memes/m3070.md">洗手台直接裝在小便斗正上方</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3072.md"><img src="../images/m3072-sheet-music-last-page-one-bar.png" width="240" alt="如何證明你寫的曲子很值錢？這一小節要花你 3 塊錢印出來"></a><br><a href="../memes/m3072.md">如何證明你寫的曲子很值錢？這一小節要花你 3 塊錢印出來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3082.md"><img src="../images/m3082-dragon-mild-sichuan.png" width="240" alt="龍：川菜微辣謝謝"></a><br><a href="../memes/m3082.md">龍：川菜微辣謝謝</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3083.md"><img src="../images/m3083-goodnight-not-sleeping.png" width="240" alt="晚安 ≠ 我要睡覺了"></a><br><a href="../memes/m3083.md">晚安 ≠ 我要睡覺了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3088.md"><img src="../images/m3088-railroad-crossing-dont-sign.png" width="240" alt="平交道警告牌：請不要用各種姿勢勉強穿越"></a><br><a href="../memes/m3088.md">平交道警告牌：請不要用各種姿勢勉強穿越</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

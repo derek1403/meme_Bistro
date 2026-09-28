@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 264 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 267 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（94）
+## ★（95）
 
 <table>
 <tr>
@@ -166,6 +166,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3093.md"><img src="../images/m3093-coffee-own-money-company-efficiency.png" width="240" alt="你花自己的錢幫公司提高效率"></a><br><a href="../memes/m3093.md">你花自己的錢幫公司提高效率</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3103.md"><img src="../images/m3103-bring-drink-hotel-curry.png" width="240" alt="客人來了：拿點什麼喝的來都好——煮了一包咖哩"></a><br><a href="../memes/m3103.md">客人來了：拿點什麼喝的來都好——煮了一包咖哩</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -217,7 +218,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（145）
+## ⚠️ 需斟酌（147）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1666,6 +1667,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3071.md"><img src="../images/m3071-amusement-park-alone-1500.png" width="240" alt="遊樂園門票 3000，我只花 1500 玩一整天"></a><br><a href="../memes/m3071.md">遊樂園門票 3000，我只花 1500 玩一整天</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>2000 年前的苦力 vs 現在的苦力 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3098.md"><img src="../images/m3098-galley-slaves-graduation-caps.png" width="240" alt="2000 年前的苦力 vs 現在的苦力"></a><br><a href="../memes/m3098.md">2000 年前的苦力 vs 現在的苦力</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>老闆又買一輛新車了：別放棄，只要你繼續努力 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3100.md"><img src="../images/m3100-boss-new-car-work-harder.png" width="240" alt="老闆又買一輛新車了：別放棄，只要你繼續努力"></a><br><a href="../memes/m3100.md">老闆又買一輛新車了：別放棄，只要你繼續努力</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

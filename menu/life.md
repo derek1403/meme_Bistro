@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1463 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1465 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1102）
+## ★（1103）
 
 <table>
 <tr>
@@ -1846,6 +1846,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3097.md"><img src="../images/m3097-vow-no-more-staying-up.png" width="240" alt="我發誓再也不熬夜了；如果再熬夜，那我就再發誓"></a><br><a href="../memes/m3097.md">我發誓再也不熬夜了；如果再熬夜，那我就再發誓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3099.md"><img src="../images/m3099-just-one-slice-raccoon-pizza.png" width="240" alt="我在減肥，那就吃一片——那一片："></a><br><a href="../memes/m3099.md">我在減肥，那就吃一片——那一片：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2027,7 +2028,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（258）
+## ⚠️ 需斟酌（259）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4606,6 +4607,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3067.md"><img src="../images/m3067-blueberry-waffle-mold.png" width="240" alt="吃了兩個藍莓口味的餅，才發現包裝上寫的是原味"></a><br><a href="../memes/m3067.md">吃了兩個藍莓口味的餅，才發現包裝上寫的是原味</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>蟑螂媽媽：媽咪給你抱抱，讓你舒服一些 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3104.md"><img src="../images/m3104-cockroach-mom-hug-boygon.png" width="240" alt="蟑螂媽媽：媽咪給你抱抱，讓你舒服一些"></a><br><a href="../memes/m3104.md">蟑螂媽媽：媽咪給你抱抱，讓你舒服一些</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

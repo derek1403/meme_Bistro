@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 361 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 363 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（99）
 
@@ -176,7 +176,7 @@
 </tr>
 </table>
 
-## ★★（174）
+## ★★（176）
 
 <table>
 <tr>
@@ -468,6 +468,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3074.md"><img src="../images/m3074-antiderivative-x5-luigi.png" width="240" alt="∫1/x⁵ dx 輕鬆 vs ∫1/(x⁵+1) dx 崩潰"></a><br><a href="../memes/m3074.md">∫1/x⁵ dx 輕鬆 vs ∫1/(x⁵+1) dx 崩潰</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3079.md"><img src="../images/m3079-weierstrass-is-this-polynomial-limit.png" width="240" alt="Weierstrass：這是某個多項式序列的均勻極限嗎？"></a><br><a href="../memes/m3079.md">Weierstrass：這是某個多項式序列的均勻極限嗎？</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3085.md"><img src="../images/m3085-mathematicians-look-away-crisis.png" width="240" alt="社科有再現危機、物理不知道 95% 宇宙是什麼，數學家："></a><br><a href="../memes/m3085.md">社科有再現危機、物理不知道 95% 宇宙是什麼，數學家：</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3102.md"><img src="../images/m3102-hartshorne-something-to-cry-about.png" width="240" alt="你再哭哭啼啼，我就賞你一個值得哭的理由"></a><br><a href="../memes/m3102.md">你再哭哭啼啼，我就賞你一個值得哭的理由</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3105.md"><img src="../images/m3105-sum-integral-contour-cow.png" width="240" alt="Σ、∫、∮ 分別是三種牛"></a><br><a href="../memes/m3105.md">Σ、∫、∮ 分別是三種牛</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

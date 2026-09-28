@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 368 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 369 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（269）
 
@@ -460,7 +460,7 @@
 </tr>
 </table>
 
-## ★★（72）
+## ★★（73）
 
 <table>
 <tr>
@@ -582,6 +582,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2866.md"><img src="../images/m2866-meet-me-at-1st-table-zero-index.png" width="240" alt="在第一桌等我：Table 00 還是 Table 01？"></a><br><a href="../memes/m2866.md">在第一桌等我：Table 00 還是 Table 01？</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2892.md"><img src="../images/m2892-gpt4-dishruptance.png" width="240" alt="GPT-4 等了 15 秒發明的新字：Dishruptance"></a><br><a href="../memes/m2892.md">GPT-4 等了 15 秒發明的新字：Dishruptance</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2912.md"><img src="../images/m2912-which-lasso-did-you-use.png" width="240" alt="你到底是用了哪種套索啦？"></a><br><a href="../memes/m2912.md">你到底是用了哪種套索啦？</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2992.md"><img src="../images/m2992-iphone-headline-generator-loop.png" width="240" alt="用 for 迴圈自動產生年度 iPhone 新聞標題"></a><br><a href="../memes/m2992.md">用 for 迴圈自動產生年度 iPhone 新聞標題</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

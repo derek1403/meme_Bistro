@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1416 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1420 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1064）
+## ★（1068）
 
 <table>
 <tr>
@@ -1782,6 +1782,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2983.md"><img src="../images/m2983-fate-rin-long-arm-point.png" width="240" alt="凜隔著桌子點士郎額頭：手臂到底多長"></a><br><a href="../memes/m2983.md">凜隔著桌子點士郎額頭：手臂到底多長</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2989.md"><img src="../images/m2989-late-10-min-vs-30-min-cat.png" width="240" alt="還有 10 分鐘遲到 vs 已經遲到半小時"></a><br><a href="../memes/m2989.md">還有 10 分鐘遲到 vs 已經遲到半小時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2995.md"><img src="../images/m2995-show-ad-dad-remote.png" width="240" alt="節目進廣告，爸爸立刻轉台"></a><br><a href="../memes/m2995.md">節目進廣告，爸爸立刻轉台</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2996.md"><img src="../images/m2996-misaligned-brick-bad-day.png" width="240" alt="再見，一整天的好心情"></a><br><a href="../memes/m2996.md">再見，一整天的好心情</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2997.md"><img src="../images/m2997-let-cousin-win-avatar-state.png" width="240" alt="故意讓表弟贏，他卻說你好爛"></a><br><a href="../memes/m2997.md">故意讓表弟贏，他卻說你好爛</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2999.md"><img src="../images/m2999-read-menu-order-same-dish.png" width="240" alt="每次看一遍菜單，然後點吃到膩的菜"></a><br><a href="../memes/m2999.md">每次看一遍菜單，然後點吃到膩的菜</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

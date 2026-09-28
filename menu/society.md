@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 241 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 244 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（76）
+## ★（78）
 
 <table>
 <tr>
@@ -136,6 +136,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2990.md"><img src="../images/m2990-turn-life-around-rule-one.png" width="240" alt="男人如何在一年內翻身：直接卡在第一關"></a><br><a href="../memes/m2990.md">男人如何在一年內翻身：直接卡在第一關</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2993.md"><img src="../images/m2993-iphone-wait-for-next-every-year.png" width="240" alt="幾乎沒亮點！iPhone 12、13、14、15 都等下一代再換"></a><br><a href="../memes/m2993.md">幾乎沒亮點！iPhone 12、13、14、15 都等下一代再換</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2994.md"><img src="../images/m2994-hot-bento-should-buy-cold-noodles.png" width="240" alt="買了熱騰騰的便當，看到爆衝的工作量：早知道買涼麵"></a><br><a href="../memes/m2994.md">買了熱騰騰的便當，看到爆衝的工作量：早知道買涼麵</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -187,7 +189,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（140）
+## ⚠️ 需斟酌（141）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1586,6 +1588,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2975.md"><img src="../images/m2975-saved-or-not-same-broke.png" width="240" alt="有存錢和沒存錢，最後一樣沒有錢"></a><br><a href="../memes/m2975.md">有存錢和沒存錢，最後一樣沒有錢</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你發現雞都過得比你好 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2998.md"><img src="../images/m2998-chicken-stress-free-life.png" width="240" alt="當你發現雞都過得比你好"></a><br><a href="../memes/m2998.md">當你發現雞都過得比你好</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

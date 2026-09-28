@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 369 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 370 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（102）
+## ★（103）
 
 <table>
 <tr>
@@ -178,6 +178,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3147.md"><img src="../images/m3147-asked-understand-proof-pepe.png" width="240" alt="被問到懂不懂證明過程，但你連定理在講什麼都不懂"></a><br><a href="../memes/m3147.md">被問到懂不懂證明過程，但你連定理在講什麼都不懂</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3156.md"><img src="../images/m3156-explain-integrals-briefly-chad.png" width="240" alt="你可以簡短地解釋積分給我聽嗎？"></a><br><a href="../memes/m3156.md">你可以簡短地解釋積分給我聽嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3157.md"><img src="../images/m3157-math-trivia-overflow-cup.png" width="240" alt="我知道的所有數學冷知識 vs 似乎有點願意聽的倒楣鬼"></a><br><a href="../memes/m3157.md">我知道的所有數學冷知識 vs 似乎有點願意聽的倒楣鬼</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3177.md"><img src="../images/m3177-dont-shoot-proof-left-to-reader.png" width="240" alt="別開槍我是數學家：證明留給讀者作練習"></a><br><a href="../memes/m3177.md">別開槍我是數學家：證明留給讀者作練習</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

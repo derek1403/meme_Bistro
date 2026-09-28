@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 124 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 126 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（102）
+## ★（103）
 
 <table>
 <tr>
@@ -179,6 +179,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3151.md"><img src="../images/m3151-teacher-returns-freeze.png" width="240" alt="老師說要離開卻突然折返，剛準備做亂的我們："></a><br><a href="../memes/m3151.md">老師說要離開卻突然折返，剛準備做亂的我們：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3162.md"><img src="../images/m3162-true-false-ambiguous-handwriting.png" width="240" alt="答案寫 True 或 False：學生寫了 Frlse"></a><br><a href="../memes/m3162.md">答案寫 True 或 False：學生寫了 Frlse</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3174.md"><img src="../images/m3174-professor-thinks-i-should-know.png" width="240" alt="教授覺得我應該要會的 vs 我會的"></a><br><a href="../memes/m3174.md">教授覺得我應該要會的 vs 我會的</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（11）
@@ -205,7 +208,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（11）
+## ⚠️ 需斟酌（12）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -314,6 +317,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3046.md"><img src="../images/m3046-close-15-tabs-after-homework.png" width="240" alt="完成作業後一次關掉 15 個分頁"></a><br><a href="../memes/m3046.md">完成作業後一次關掉 15 個分頁</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>考試週結束 vs 老師發回考卷 — ⚠️ 血</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3173.md"><img src="../images/m3173-after-exam-week-vs-test-returned.png" width="240" alt="考試週結束 vs 老師發回考卷"></a><br><a href="../memes/m3173.md">考試週結束 vs 老師發回考卷</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 201 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 202 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（95）
 
@@ -283,7 +283,7 @@
 </tr>
 </table>
 
-## ★★★（5）
+## ★★★（6）
 
 <table>
 <tr>
@@ -294,6 +294,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2408.md"><img src="../images/m2408-rossby-phase-group-naruto-run.png" width="240" alt="自由正壓 Rossby 波：相速度 vs 群速度"></a><br><a href="../memes/m2408.md">自由正壓 Rossby 波：相速度 vs 群速度</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2972.md"><img src="../images/m2972-child-texting-control-theory.png" width="240" alt="你的孩子在傳控制理論的簡訊嗎？"></a><br><a href="../memes/m2972.md">你的孩子在傳控制理論的簡訊嗎？</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3171.md"><img src="../images/m3171-harmonic-oscillator-ansatz-teacher.png" width="240" alt="解諧振子的薛丁格方程：假設解長這樣——你看它成立了！"></a><br><a href="../memes/m3171.md">解諧振子的薛丁格方程：假設解長這樣——你看它成立了！</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

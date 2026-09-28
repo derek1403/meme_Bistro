@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 381 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 382 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（279）
+## ★（280）
 
 <table>
 <tr>
@@ -473,6 +473,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3145.md"><img src="../images/m3145-twitter-bird-becomes-x.png" width="240" alt="推特小鳥轉身變成 X"></a><br><a href="../memes/m3145.md">推特小鳥轉身變成 X</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3148.md"><img src="../images/m3148-slowest-things-ie-crush-reply.png" width="240" alt="世界上最慢的東西：IE 都比暗戀對象回訊息快"></a><br><a href="../memes/m3148.md">世界上最慢的東西：IE 都比暗戀對象回訊息快</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3165.md"><img src="../images/m3165-girls-boys-folder-names.png" width="240" alt="女生 vs 男生的資料夾命名"></a><br><a href="../memes/m3165.md">女生 vs 男生的資料夾命名</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3175.md"><img src="../images/m3175-grandpa-nokia-fell-10-floors.png" width="240" alt="阿公，再講一次你從 10 樓掉下來的故事"></a><br><a href="../memes/m3175.md">阿公，再講一次你從 10 樓掉下來的故事</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

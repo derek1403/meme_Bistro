@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 320 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 324 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（212）
+## ★（215）
 
 <table>
 <tr>
@@ -362,10 +362,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3117.md"><img src="../images/m3117-reality-tea-hard-to-swallow.png" width="240" alt="什麼茶難以吞下？現實的茶（Reality）"></a><br><a href="../memes/m3117.md">什麼茶難以吞下？現實的茶（Reality）</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3135.md"><img src="../images/m3135-sumimasen-four-panels.png" width="240" alt="日語難搞程度：四格全都是「すみません」"></a><br><a href="../memes/m3135.md">日語難搞程度：四格全都是「すみません」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3172.md"><img src="../images/m3172-no-eee-no-eggs.png" width="240" alt="NO Eee：沒有蛋了"></a><br><a href="../memes/m3172.md">NO Eee：沒有蛋了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3176.md"><img src="../images/m3176-song-10-10-most-are-4-4.png" width="240" alt="有什麼歌明明是 10/10 卻沒多少人聽過？"></a><br><a href="../memes/m3176.md">有什麼歌明明是 10/10 卻沒多少人聽過？</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3178.md"><img src="../images/m3178-crocodile-turtle-war.png" width="240" alt="鱷魚吃烏龜：著名的「烏俄大戰」"></a><br><a href="../memes/m3178.md">鱷魚吃烏龜：著名的「烏俄大戰」</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（40）
+## ★★（41）
 
 <table>
 <tr>
@@ -435,6 +440,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3049.md"><img src="../images/m3049-song-dynasty-no-delivery-khitan.png" width="240" alt="為什麼宋朝都沒有外送？因為很多契丹人"></a><br><a href="../memes/m3049.md">為什麼宋朝都沒有外送？因為很多契丹人</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3179.md"><img src="../images/m3179-teacher-bbq-never-burnt.png" width="240" alt="誰最會烤肉？是老師：老師烤的都沒有焦"></a><br><a href="../memes/m3179.md">誰最會烤肉？是老師：老師烤的都沒有焦</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

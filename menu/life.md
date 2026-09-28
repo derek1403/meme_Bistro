@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1492 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1493 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（1124）
 
@@ -2063,7 +2063,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（265）
+## ⚠️ 需斟酌（266）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4712,6 +4712,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3154.md"><img src="../images/m3154-mushroom-tv-unplugged-dog-asks.png" width="240" alt="吃了野菇：電視沒插電，狗狗問你菇菇好吃嗎"></a><br><a href="../memes/m3154.md">吃了野菇：電視沒插電，狗狗問你菇菇好吃嗎</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>過世前吞下一整袋爆米花仁，你的火葬將會是史詩級的 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3170.md"><img src="../images/m3170-popcorn-kernels-epic-cremation.png" width="240" alt="過世前吞下一整袋爆米花仁，你的火葬將會是史詩級的"></a><br><a href="../memes/m3170.md">過世前吞下一整袋爆米花仁，你的火葬將會是史詩級的</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

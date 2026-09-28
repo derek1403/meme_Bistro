@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1245 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（910）
+## ★（919）
 
 <table>
 <tr>
@@ -1526,6 +1526,21 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2657.md"><img src="../images/m2657-milk-among-wine-decision.png" width="240" alt="看來有人在這裡做了個決定"></a><br><a href="../memes/m2657.md">看來有人在這裡做了個決定</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2660.md"><img src="../images/m2660-resignation-letter-card-holder.jpg" width="240" alt="實用卡套：辭表"></a><br><a href="../memes/m2660.md">實用卡套：辭表</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2661.md"><img src="../images/m2661-hydro-characters-gloves-pruney.png" width="240" alt="為什麼五星水系角色都要戴手套？"></a><br><a href="../memes/m2661.md">為什麼五星水系角色都要戴手套？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2663.md"><img src="../images/m2663-jake-go-face-the-wall.jpg" width="240" alt="去蹲在那邊的牆角面壁思過"></a><br><a href="../memes/m2663.md">去蹲在那邊的牆角面壁思過</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2664.md"><img src="../images/m2664-jake-ugly-but-proud.png" width="240" alt="我很醜但我很有骨氣"></a><br><a href="../memes/m2664.md">我很醜但我很有骨氣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2666.md"><img src="../images/m2666-adult-cockroach-flies.png" width="240" alt="我已經成年了，我一定能做到的！"></a><br><a href="../memes/m2666.md">我已經成年了，我一定能做到的！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2668.md"><img src="../images/m2668-violin-held-backwards.png" width="240" alt="如何用一張圖讓學音樂的人中風"></a><br><a href="../memes/m2668.md">如何用一張圖讓學音樂的人中風</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2669.md"><img src="../images/m2669-scissors-zip-tied.png" width="240" alt="我會買它就是因為我沒有剪刀"></a><br><a href="../memes/m2669.md">我會買它就是因為我沒有剪刀</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2671.md"><img src="../images/m2671-door-handle-surprised-face.png" width="240" alt="不小心把門把拉出來，它的反應跟我一樣驚訝"></a><br><a href="../memes/m2671.md">不小心把門把拉出來，它的反應跟我一樣驚訝</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2673.md"><img src="../images/m2673-poop-philosophy-poem.png" width="240" alt="拉屎：人生當中最不可或缺的儀式"></a><br><a href="../memes/m2673.md">拉屎：人生當中最不可或缺的儀式</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1684,7 +1699,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（235）
+## ⚠️ 需斟酌（236）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4033,6 +4048,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2658.md"><img src="../images/m2658-woody-buzz-no-future.png" width="240" alt="看到了嗎？那是未來——我什麼都沒看到"></a><br><a href="../memes/m2658.md">看到了嗎？那是未來——我什麼都沒看到</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>抱孩子飛高高前要注意天花板有沒有風扇 — ⚠️ 受傷</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2662.md"><img src="../images/m2662-ceiling-fan-cage-kid-toss.png" width="240" alt="抱孩子飛高高前要注意天花板有沒有風扇"></a><br><a href="../memes/m2662.md">抱孩子飛高高前要注意天花板有沒有風扇</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

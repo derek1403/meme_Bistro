@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 280 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 282 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（185）
+## ★（187）
 
 <table>
 <tr>
@@ -317,6 +317,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2592.md"><img src="../images/m2592-haggard-smile-notes.png" width="240" alt="憔悴的微笑"></a><br><a href="../memes/m2592.md">憔悴的微笑</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2610.md"><img src="../images/m2610-chinglish-homophone-duck-bubi.png" width="240" alt="不要 now 了：duck 不必"></a><br><a href="../memes/m2610.md">不要 now 了：duck 不必</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2665.md"><img src="../images/m2665-slanted-door-xiemen.png" width="240" alt="真是斜門"></a><br><a href="../memes/m2665.md">真是斜門</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2667.md"><img src="../images/m2667-ps5-pain-stress-5h-sleep.png" width="240" alt="你有 PS5 嗎？有啊：痛苦、壓力、5 小時睡眠"></a><br><a href="../memes/m2667.md">你有 PS5 嗎？有啊：痛苦、壓力、5 小時睡眠</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 204 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（96）
 
@@ -171,7 +171,7 @@
 </tr>
 </table>
 
-## ★★（65）
+## ★★（70）
 
 <table>
 <tr>
@@ -282,10 +282,19 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3096.md"><img src="../images/m3096-astronomers-blame-three.png" width="240" alt="天文學家：為什麼每次出事都有你們三個？"></a><br><a href="../memes/m3096.md">天文學家：為什麼每次出事都有你們三個？</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3184.md"><img src="../images/m3184-pooh-ok-k-potassium-absolute-zero.png" width="240" alt="OK → K → Potassium → 0k → −273.15°C"></a><br><a href="../memes/m3184.md">OK → K → Potassium → 0k → −273.15°C</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3248.md"><img src="../images/m3248-heisenberg-new-year-grades.png" width="240" alt="過年親戚問成績？海森堡：不可同時問我位置與動量"></a><br><a href="../memes/m3248.md">過年親戚問成績？海森堡：不可同時問我位置與動量</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3249.md"><img src="../images/m3249-schrodinger-new-year-graduate.png" width="240" alt="過年親戚問會不會畢業？薛丁格：波函數還沒塌陷"></a><br><a href="../memes/m3249.md">過年親戚問會不會畢業？薛丁格：波函數還沒塌陷</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3250.md"><img src="../images/m3250-boltzmann-new-year-cleaning.png" width="240" alt="過年叫你打掃？波茲曼：亂度趨向最大是宇宙的命運"></a><br><a href="../memes/m3250.md">過年叫你打掃？波茲曼：亂度趨向最大是宇宙的命運</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3252.md"><img src="../images/m3252-maxwell-new-year-no-monopole.png" width="240" alt="過年說你會找不到對象？馬克士威：磁單極不存在，必成對偶"></a><br><a href="../memes/m3252.md">過年說你會找不到對象？馬克士威：磁單極不存在，必成對偶</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3253.md"><img src="../images/m3253-bohr-new-year-promotion.png" width="240" alt="過年問什麼時候升職加薪？波耳：能量最低的基態才最穩定"></a><br><a href="../memes/m3253.md">過年問什麼時候升職加薪？波耳：能量最低的基態才最穩定</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（6）
+## ★★★（7）
 
 <table>
 <tr>
@@ -297,6 +306,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2408.md"><img src="../images/m2408-rossby-phase-group-naruto-run.png" width="240" alt="自由正壓 Rossby 波：相速度 vs 群速度"></a><br><a href="../memes/m2408.md">自由正壓 Rossby 波：相速度 vs 群速度</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2972.md"><img src="../images/m2972-child-texting-control-theory.png" width="240" alt="你的孩子在傳控制理論的簡訊嗎？"></a><br><a href="../memes/m2972.md">你的孩子在傳控制理論的簡訊嗎？</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3171.md"><img src="../images/m3171-harmonic-oscillator-ansatz-teacher.png" width="240" alt="解諧振子的薛丁格方程：假設解長這樣——你看它成立了！"></a><br><a href="../memes/m3171.md">解諧振子的薛丁格方程：假設解長這樣——你看它成立了！</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3251.md"><img src="../images/m3251-bcs-new-year-no-partner.png" width="240" alt="過年被問沒交男女朋友？BCS：溫度不夠低無法形成配對"></a><br><a href="../memes/m3251.md">過年被問沒交男女朋友？BCS：溫度不夠低無法形成配對</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

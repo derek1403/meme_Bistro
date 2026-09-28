@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1522 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1523 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1144）
+## ★（1145）
 
 <table>
 <tr>
@@ -1916,6 +1916,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3242.md"><img src="../images/m3242-only-see-you-as-boyfriend.png" width="240" alt="我只把你當男朋友看：任務成功地失敗了"></a><br><a href="../memes/m3242.md">我只把你當男朋友看：任務成功地失敗了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3247.md"><img src="../images/m3247-grandma-new-year-more-food.png" width="240" alt="全家：年菜還剩好多好飽；阿嬤：炒三盤菜下一包關廟麵"></a><br><a href="../memes/m3247.md">全家：年菜還剩好多好飽；阿嬤：炒三盤菜下一包關廟麵</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

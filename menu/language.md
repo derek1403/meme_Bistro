@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 330 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 331 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（219）
 
@@ -376,7 +376,7 @@
 </tr>
 </table>
 
-## ★★（42）
+## ★★（43）
 
 <table>
 <tr>
@@ -448,6 +448,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3049.md"><img src="../images/m3049-song-dynasty-no-delivery-khitan.png" width="240" alt="為什麼宋朝都沒有外送？因為很多契丹人"></a><br><a href="../memes/m3049.md">為什麼宋朝都沒有外送？因為很多契丹人</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3179.md"><img src="../images/m3179-teacher-bbq-never-burnt.png" width="240" alt="誰最會烤肉？是老師：老師烤的都沒有焦"></a><br><a href="../memes/m3179.md">誰最會烤肉？是老師：老師烤的都沒有焦</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3180.md"><img src="../images/m3180-ignorance-apathy-dont-know-dont-care.png" width="240" alt="無知和冷漠有什麼區別？不知道，別問我"></a><br><a href="../memes/m3180.md">無知和冷漠有什麼區別？不知道，別問我</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3245.md"><img src="../images/m3245-pekora-mask-please.png" width="240" alt="請 Pe 戴 ko 罩"></a><br><a href="../memes/m3245.md">請 Pe 戴 ko 罩</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

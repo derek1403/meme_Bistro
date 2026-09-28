@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 291 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 292 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（114）
 
@@ -249,7 +249,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（152）
+## ⚠️ 需斟酌（153）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1768,6 +1768,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3212.md"><img src="../images/m3212-simpsons-predict-titan-sub.jpg" width="240" alt="辛普森再次預言：潛艇氧氣不足"></a><br><a href="../memes/m3212.md">辛普森再次預言：潛艇氧氣不足</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>世界上第一位程式設計師是女性——難怪程式語言那麼難懂 — ⚠️ 性別刻板印象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3246.md"><img src="../images/m3246-first-programmer-woman-comment.png" width="240" alt="世界上第一位程式設計師是女性——難怪程式語言那麼難懂"></a><br><a href="../memes/m3246.md">世界上第一位程式設計師是女性——難怪程式語言那麼難懂</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

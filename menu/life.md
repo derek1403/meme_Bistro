@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（818）
+## ★（824）
 
 <table>
 <tr>
@@ -1372,6 +1372,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2432.md"><img src="../images/m2432-borrow-50k-have-48k.png" width="240" alt="借我五萬？我只有四萬八"></a><br><a href="../memes/m2432.md">借我五萬？我只有四萬八</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2433.md"><img src="../images/m2433-elden-ring-first-game-for-kids.jpg" width="240" alt="給小朋友的第一款遊戲軟體：艾爾登法環"></a><br><a href="../memes/m2433.md">給小朋友的第一款遊戲軟體：艾爾登法環</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2439.md"><img src="../images/m2439-90s-kid-phone-cord.png" width="240" alt="你是 90 後的話，這個一定讓你很煩"></a><br><a href="../memes/m2439.md">你是 90 後的話，這個一定讓你很煩</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2442.md"><img src="../images/m2442-musicians-make-monopoly.png" width="240" alt="當音樂家們決定開發一款大富翁遊戲"></a><br><a href="../memes/m2442.md">當音樂家們決定開發一款大富翁遊戲</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2448.md"><img src="../images/m2448-line-sticker-taiwan-buffet.png" width="240" alt="哥你看這個貼圖：自助餐"></a><br><a href="../memes/m2448.md">哥你看這個貼圖：自助餐</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2450.md"><img src="../images/m2450-bidet-vs-pee-kamehameha.png" width="240" alt="男子想買免治馬桶，只為了跟它比水柱"></a><br><a href="../memes/m2450.md">男子想買免治馬桶，只為了跟它比水柱</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2452.md"><img src="../images/m2452-cows-car-far-side.png" width="240" alt="牛：「有車！」"></a><br><a href="../memes/m2452.md">牛：「有車！」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2456.md"><img src="../images/m2456-round-apartment-maze.png" width="240" alt="屋型有點特殊，有沒有裝潢的好點子？"></a><br><a href="../memes/m2456.md">屋型有點特殊，有沒有裝潢的好點子？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

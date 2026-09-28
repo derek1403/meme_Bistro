@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 299 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 304 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（93）
+## ★（96）
 
 <table>
 <tr>
@@ -163,6 +163,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2337.md"><img src="../images/m2337-ddx-throws-ex-comes-back.png" width="240" alt="d/dx 把 eˣ 趕出去——eˣ 又回來了"></a><br><a href="../memes/m2337.md">d/dx 把 eˣ 趕出去——eˣ 又回來了</a><br><sub>🧠 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2406.md"><img src="../images/m2406-touhou-equals-100-percent.png" width="240" alt="Knowledge 96%、Workhard 98%……Touhou = 100%"></a><br><a href="../memes/m2406.md">Knowledge 96%、Workhard 98%……Touhou = 100%</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2418.md"><img src="../images/m2418-textbook-outdated-math-chad.png" width="240" alt="物理化學的課本會過時，數學的不會"></a><br><a href="../memes/m2418.md">物理化學的課本會過時，數學的不會</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2435.md"><img src="../images/m2435-i-dont-need-math-videogames.png" width="240" alt="我不需要數學！長大要做電玩！"></a><br><a href="../memes/m2435.md">我不需要數學！長大要做電玩！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2436.md"><img src="../images/m2436-mahjong-formula-naaa-mabc-dd.jpg" width="240" alt="理科資優生的麻將教學：n·aaa + m·ABC + DD"></a><br><a href="../memes/m2436.md">理科資優生的麻將教學：n·aaa + m·ABC + DD</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2441.md"><img src="../images/m2441-casio-65-div-6-fraction.png" width="240" alt="計算機：65÷6 = 65/6"></a><br><a href="../memes/m2441.md">計算機：65÷6 = 65/6</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -479,7 +484,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（25）
+## ⚠️ 需斟酌（27）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -728,6 +733,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2335.md"><img src="../images/m2335-bayesian-prior-in-your-pocket.png" width="240" alt="Is that a hierarchical prior in your pocket, or are you just glad to see me?"></a><br><a href="../memes/m2335.md">Is that a hierarchical prior in your pocket, or are you just glad to see me?</a><br><sub>🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>封閉曲線積分的那個洞，好想用我的 Green theorem 填滿 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2447.md"><img src="../images/m2447-green-theorem-fill-the-hole.png" width="240" alt="封閉曲線積分的那個洞，好想用我的 Green theorem 填滿"></a><br><a href="../memes/m2447.md">封閉曲線積分的那個洞，好想用我的 Green theorem 填滿</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Loring 博士，人生不只有數學 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2454.md"><img src="../images/m2454-dr-loring-more-to-life-than-math.png" width="240" alt="Loring 博士，人生不只有數學"></a><br><a href="../memes/m2454.md">Loring 博士，人生不只有數學</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

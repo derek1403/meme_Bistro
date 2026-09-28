@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 195 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 199 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（50）
+## ★（53）
 
 <table>
 <tr>
@@ -92,6 +92,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2381.md"><img src="../images/m2381-guarding-bench-wet-paint.png" width="240" alt="This is how traditions are born——油漆還沒乾嗎？"></a><br><a href="../memes/m2381.md">This is how traditions are born——油漆還沒乾嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2385.md"><img src="../images/m2385-tool-person-reverse-logic.png" width="240" alt="她把你當工具人，滿足了你當舔狗的慾望——那她才是你的工具人"></a><br><a href="../memes/m2385.md">她把你當工具人，滿足了你當舔狗的慾望——那她才是你的工具人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2446.md"><img src="../images/m2446-equality-justice-no-ticket.png" width="240" alt="這是平等、這是正義——這是犯法"></a><br><a href="../memes/m2446.md">這是平等、這是正義——這是犯法</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2449.md"><img src="../images/m2449-dominos-paving-for-pizza.png" width="240" alt="達美樂幫忙補路面坑洞：是的，這是我們做的"></a><br><a href="../memes/m2449.md">達美樂幫忙補路面坑洞：是的，這是我們做的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2451.md"><img src="../images/m2451-man-impossible-triangle-romance-scam.png" width="240" alt="男人的不可能三角：帥、有錢、專一"></a><br><a href="../memes/m2451.md">男人的不可能三角：帥、有錢、專一</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -138,7 +143,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（123）
+## ⚠️ 需斟酌（124）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1367,6 +1372,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2431.md"><img src="../images/m2431-may-35-date-line.png" width="240" alt="一年一度國際換日線：5 月 35 日 vs 6 月 4 日"></a><br><a href="../memes/m2431.md">一年一度國際換日線：5 月 35 日 vs 6 月 4 日</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>有沒有台灣用語？六四 — ⚠️ 政治、歷史事件</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2443.md"><img src="../images/m2443-taiwan-term-liusi.png" width="240" alt="有沒有台灣用語？六四"></a><br><a href="../memes/m2443.md">有沒有台灣用語？六四</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

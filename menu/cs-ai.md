@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 301 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 308 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（218）
+## ★（224）
 
 <table>
 <tr>
@@ -372,10 +372,20 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2426.md"><img src="../images/m2426-connectors-old-vs-usb-c.png" width="240" alt="以前小孩的接頭困擾 vs 現在小孩的接頭困擾"></a><br><a href="../memes/m2426.md">以前小孩的接頭困擾 vs 現在小孩的接頭困擾</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2429.md"><img src="../images/m2429-shower-cannot-be-displayed.png" width="240" alt="The shower cannot be displayed"></a><br><a href="../memes/m2429.md">The shower cannot be displayed</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2437.md"><img src="../images/m2437-artist-vs-programmer-copying.png" width="240" alt="美術設計師 vs 程式設計師：對抄襲的態度"></a><br><a href="../memes/m2437.md">美術設計師 vs 程式設計師：對抄襲的態度</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2438.md"><img src="../images/m2438-pip-install-love.png" width="240" alt="$ pip install love"></a><br><a href="../memes/m2438.md">$ pip install love</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2440.md"><img src="../images/m2440-hello-world-so-good-at-coding.png" width="240" alt="印出 Hello World 之後的我：為什麼我這麼會寫程式"></a><br><a href="../memes/m2440.md">印出 Hello World 之後的我：為什麼我這麼會寫程式</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2444.md"><img src="../images/m2444-my-job-here-is-done-documentation.png" width="240" alt="我的任務完成了——那文件呢？"></a><br><a href="../memes/m2444.md">我的任務完成了——那文件呢？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2445.md"><img src="../images/m2445-windows-recycle-bin-10-vs-11.png" width="240" alt="Windows 10 vs Windows 11 的資源回收筒"></a><br><a href="../memes/m2445.md">Windows 10 vs Windows 11 的資源回收筒</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2453.md"><img src="../images/m2453-ctrl-z-thought-id-lost-you.png" width="240" alt="刪掉沒複製的程式碼，按 Ctrl+Z 救回來"></a><br><a href="../memes/m2453.md">刪掉沒複製的程式碼，按 Ctrl+Z 救回來</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（62）
+## ★★（63）
 
 <table>
 <tr>
@@ -481,6 +491,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2343.md"><img src="../images/m2343-brute-force-protection-sick.png" width="240" alt="brute-force attack protection——Sick bastard!"></a><br><a href="../memes/m2343.md">brute-force attack protection——Sick bastard!</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2415.md"><img src="../images/m2415-cant-delete-tool-has-children.png" width="240" alt="無法刪除：這個工具有子代"></a><br><a href="../memes/m2415.md">無法刪除：這個工具有子代</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2455.md"><img src="../images/m2455-free-sandwich-js-encryption.png" width="240" alt="看得懂這段程式碼，就對店員說通關密語換免費三明治"></a><br><a href="../memes/m2455.md">看得懂這段程式碼，就對店員說通關密語換免費三明治</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

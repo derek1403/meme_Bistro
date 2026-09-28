@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1573 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1581 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1185）
+## ★（1192）
 
 <table>
 <tr>
@@ -1984,6 +1984,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3388.md"><img src="../images/m3388-high-capacity-assault-unicorn.jpg" width="240" alt="獨角獸 vs 重裝突擊獨角獸"></a><br><a href="../memes/m3388.md">獨角獸 vs 重裝突擊獨角獸</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3390.md"><img src="../images/m3390-tsundere-salad-chef.jpg" width="240" alt="實力派餐廳：主廚的特製傲嬌沙拉"></a><br><a href="../memes/m3390.md">實力派餐廳：主廚的特製傲嬌沙拉</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3393.md"><img src="../images/m3393-platypus-tea-infuser.png" width="240" alt="鴨嘴獸泡茶器"></a><br><a href="../memes/m3393.md">鴨嘴獸泡茶器</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3394.md"><img src="../images/m3394-broccoli-middle-finger.png" width="240" alt="小孩說花椰菜好噁心——花椰菜："></a><br><a href="../memes/m3394.md">小孩說花椰菜好噁心——花椰菜：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3395.md"><img src="../images/m3395-sunroof-car-stuck-ditch.png" width="240" alt="總算明白了，為何有開天窗的車子比較貴"></a><br><a href="../memes/m3395.md">總算明白了，為何有開天窗的車子比較貴</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3396.md"><img src="../images/m3396-shoelaces-single-character.png" width="240" alt="詔告：鞋帶綁成「單身」"></a><br><a href="../memes/m3396.md">詔告：鞋帶綁成「單身」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3397.md"><img src="../images/m3397-pichu-phone-charger-wink.png" width="240" alt="比丘寶寶無線充電座"></a><br><a href="../memes/m3397.md">比丘寶寶無線充電座</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3399.md"><img src="../images/m3399-powerpuff-cutout-tiny-face.png" width="240" alt="飛天小女警拍照立牌 vs 把臉放進去的人"></a><br><a href="../memes/m3399.md">飛天小女警拍照立牌 vs 把臉放進去的人</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3400.md"><img src="../images/m3400-recirculation-button-undo-crash.png" width="240" alt="這按鈕是幹嘛用的？——撞車了就按它，會還原整場車禍"></a><br><a href="../memes/m3400.md">這按鈕是幹嘛用的？——撞車了就按它，會還原整場車禍</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（107）
@@ -2170,7 +2183,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（281）
+## ⚠️ 需斟酌（282）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4979,6 +4992,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3383.md"><img src="../images/m3383-cat-headbutt-breast-cancer-perv.png" width="240" alt="貓一直用頭撞我的胸部，檢查後發現牠只是單純變態"></a><br><a href="../memes/m3383.md">貓一直用頭撞我的胸部，檢查後發現牠只是單純變態</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>蟲：好吃好吃——鳥：你的晚餐咧？ — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3401.md"><img src="../images/m3401-worm-eats-bird-dinner.jpg" width="240" alt="蟲：好吃好吃——鳥：你的晚餐咧？"></a><br><a href="../memes/m3401.md">蟲：好吃好吃——鳥：你的晚餐咧？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

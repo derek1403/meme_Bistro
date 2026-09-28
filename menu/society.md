@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 322 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 325 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（139）
+## ★（141）
 
 <table>
 <tr>
@@ -241,6 +241,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3389.md"><img src="../images/m3389-mcdonalds-social-distancing-cones.png" width="240" alt="麥當勞的防疫工作沒在跟你開玩笑的"></a><br><a href="../memes/m3389.md">麥當勞的防疫工作沒在跟你開玩笑的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3392.md"><img src="../images/m3392-rings-she-wants-onion-rings.png" width="240" alt="她想要的圈圈、我想要的圈圈、我負擔得起的圈圈"></a><br><a href="../memes/m3392.md">她想要的圈圈、我想要的圈圈、我負擔得起的圈圈</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3398.md"><img src="../images/m3398-boss-message-chinese-new-year.png" width="240" alt="年初四收到上司「明天記得上班」"></a><br><a href="../memes/m3398.md">年初四收到上司「明天記得上班」</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -294,7 +296,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（156）
+## ⚠️ 需斟酌（157）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1853,6 +1855,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3352.md"><img src="../images/m3352-save-four-drowning-rich.jpg" width="240" alt="四個人掉入水裡，你先救誰？——先把老闆淹死，其他三個開始競標"></a><br><a href="../memes/m3352.md">四個人掉入水裡，你先救誰？——先把老闆淹死，其他三個開始競標</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>請一定要戴好口罩：全隊只剩戴口罩的卡卡西活著 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3391.md"><img src="../images/m3391-kakashi-team-wear-mask.png" width="240" alt="請一定要戴好口罩：全隊只剩戴口罩的卡卡西活著"></a><br><a href="../memes/m3391.md">請一定要戴好口罩：全隊只剩戴口罩的卡卡西活著</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

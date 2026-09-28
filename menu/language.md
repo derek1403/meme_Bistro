@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 346 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 347 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（230）
 
@@ -395,7 +395,7 @@
 </tr>
 </table>
 
-## ★★（45）
+## ★★（46）
 
 <table>
 <tr>
@@ -472,6 +472,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3245.md"><img src="../images/m3245-pekora-mask-please.png" width="240" alt="請 Pe 戴 ko 罩"></a><br><a href="../memes/m3245.md">請 Pe 戴 ko 罩</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3292.md"><img src="../images/m3292-poor-tongue-happy-tongue.png" width="240" alt="不管吃什麼都好吃，不是「貧乏舌」而是「Happy 舌」"></a><br><a href="../memes/m3292.md">不管吃什麼都好吃，不是「貧乏舌」而是「Happy 舌」</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3412.md"><img src="../images/m3412-late-night-song-recommendations.jpg" width="240" alt="夜深了推薦幾首歌：黃立行〈睡〉、田馥甄〈你〉、亂彈〈痲痺〉"></a><br><a href="../memes/m3412.md">夜深了推薦幾首歌：黃立行〈睡〉、田馥甄〈你〉、亂彈〈痲痺〉</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3462.md"><img src="../images/m3462-old-pickled-radish-grandma.jpg" width="240" alt="上菜喔，老菜脯——老菜脯是在叫你"></a><br><a href="../memes/m3462.md">上菜喔，老菜脯——老菜脯是在叫你</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

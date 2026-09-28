@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1607 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1612 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1212）
+## ★（1217）
 
 <table>
 <tr>
@@ -2028,6 +2028,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3453.md"><img src="../images/m3453-landlord-polite-cat.jpg" width="240" alt="公寓不能養寵物——好啦，牠看起來好有禮貌"></a><br><a href="../memes/m3453.md">公寓不能養寵物——好啦，牠看起來好有禮貌</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3457.md"><img src="../images/m3457-money-in-memories.jpg" width="240" alt="錢都放家裡還是銀行裡？都放在我的回憶裡"></a><br><a href="../memes/m3457.md">錢都放家裡還是銀行裡？都放在我的回憶裡</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3458.md"><img src="../images/m3458-spiral-of-desire-cats.jpg" width="240" alt="慾望的螺旋：三隻貓頭尾相連"></a><br><a href="../memes/m3458.md">慾望的螺旋：三隻貓頭尾相連</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3459.md"><img src="../images/m3459-silver-armored-cockroach.jpg" width="240" alt="把殺蟲劑拿成銀粉漆，蟑螂現在既裝甲化又憤怒"></a><br><a href="../memes/m3459.md">把殺蟲劑拿成銀粉漆，蟑螂現在既裝甲化又憤怒</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3460.md"><img src="../images/m3460-mint-choco-broccoli-pineapple-pizza.jpg" width="240" alt="薄荷巧克力花椰菜鳳梨披薩"></a><br><a href="../memes/m3460.md">薄荷巧克力花椰菜鳳梨披薩</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3461.md"><img src="../images/m3461-dragon-boat-holiday-stages.jpg" width="240" alt="端午連假三階段：睡掉、粽子吃到吐、無法面對收假"></a><br><a href="../memes/m3461.md">端午連假三階段：睡掉、粽子吃到吐、無法面對收假</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3463.md"><img src="../images/m3463-wife-whatever-dinner.jpg" width="240" alt="老婆說晚餐隨便，結果每個提議都被否決"></a><br><a href="../memes/m3463.md">老婆說晚餐隨便，結果每個提議都被否決</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3465.md"><img src="../images/m3465-cats-in-jeans.jpg" width="240" alt="牛仔褲的兩隻褲管裡各躲一隻貓"></a><br><a href="../memes/m3465.md">牛仔褲的兩隻褲管裡各躲一隻貓</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

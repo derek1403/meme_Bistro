@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1179 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（864）
+## ★（877）
 
 <table>
 <tr>
@@ -1449,6 +1449,29 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2555.md"><img src="../images/m2555-valentine-table-for-one.png" width="240" alt="已經預訂我情人節桌位了"></a><br><a href="../memes/m2555.md">已經預訂我情人節桌位了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2557.md"><img src="../images/m2557-screw-dumpling-avoid-chores.png" width="240" alt="不想過年被家人使喚：把餃子鎖螺絲"></a><br><a href="../memes/m2557.md">不想過年被家人使喚：把餃子鎖螺絲</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2566.md"><img src="../images/m2566-hokkaido-bear-squid-magnet.jpg" width="240" alt="北海道的熊頭魷魚冰箱磁鐵"></a><br><a href="../memes/m2566.md">北海道的熊頭魷魚冰箱磁鐵</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2567.md"><img src="../images/m2567-small-youtubers-5-views.png" width="240" alt="小 YouTuber 剪一支只會有 5 個觀看的影片"></a><br><a href="../memes/m2567.md">小 YouTuber 剪一支只會有 5 個觀看的影片</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2571.md"><img src="../images/m2571-viking-broom.png" width="240" alt="維京掃把"></a><br><a href="../memes/m2571.md">維京掃把</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2572.md"><img src="../images/m2572-hotpot-boils-over-3-seconds.png" width="240" alt="離開火鍋 3 秒後，我的火鍋："></a><br><a href="../memes/m2572.md">離開火鍋 3 秒後，我的火鍋：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2574.md"><img src="../images/m2574-korean-pork-cutlet-closed-notice.jpg" width="240" alt="韓國炸豬排店的停業通知：去越南抓姦"></a><br><a href="../memes/m2574.md">韓國炸豬排店的停業通知：去越南抓姦</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2575.md"><img src="../images/m2575-drunk-kiss-moved-to-poland.jpg" width="240" alt="喝醉斷片後看到影片，已經定居波蘭了"></a><br><a href="../memes/m2575.md">喝醉斷片後看到影片，已經定居波蘭了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2576.md"><img src="../images/m2576-police-cat-very-heavy.jpg" width="240" alt="派出所受理民眾送交動物：特徵「非常重」"></a><br><a href="../memes/m2576.md">派出所受理民眾送交動物：特徵「非常重」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2579.md"><img src="../images/m2579-beethoven-urinals.png" width="240" alt="貝多芬真的是無所不在：登登登 登！"></a><br><a href="../memes/m2579.md">貝多芬真的是無所不在：登登登 登！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2580.md"><img src="../images/m2580-wifi-genshin-dogs.png" width="240" alt="附近的 Wi-Fi：楓原萬葉的狗、神里綾人的狗、神里綾華的狗"></a><br><a href="../memes/m2580.md">附近的 Wi-Fi：楓原萬葉的狗、神里綾人的狗、神里綾華的狗</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2581.md"><img src="../images/m2581-tea-is-blanched-greens.png" width="240" alt="泡茶其實就是燙青菜"></a><br><a href="../memes/m2581.md">泡茶其實就是燙青菜</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2582.md"><img src="../images/m2582-road-rage-coin-jars.png" width="240" alt="開車罵一次人就存一次錢"></a><br><a href="../memes/m2582.md">開車罵一次人就存一次錢</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2583.md"><img src="../images/m2583-meme-reposted-trillion-times.png" width="240" alt="當你看到那張被轉發了幾兆次的迷因"></a><br><a href="../memes/m2583.md">當你看到那張被轉發了幾兆次的迷因</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2584.md"><img src="../images/m2584-thaw-chicken-hair-dryer.png" width="240" alt="有記得把雞肉拿出來退冰嗎？有啊！"></a><br><a href="../memes/m2584.md">有記得把雞肉拿出來退冰嗎？有啊！</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（88）
@@ -1604,7 +1627,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（227）
+## ⚠️ 需斟酌（229）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3873,6 +3896,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2560.md"><img src="../images/m2560-dumpling-blue-pill.png" width="240" alt="吃了這個餃子該注意什麼？"></a><br><a href="../memes/m2560.md">吃了這個餃子該注意什麼？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>猜猜是什麼寶可夢：十六夜咲夜的墓 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2564.md"><img src="../images/m2564-whos-that-pokemon-sakuya-grave.png" width="240" alt="猜猜是什麼寶可夢：十六夜咲夜的墓"></a><br><a href="../memes/m2564.md">猜猜是什麼寶可夢：十六夜咲夜的墓</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>他要我拿下耳機，一定有很重要的事——「你好嗎」 — ⚠️ 暴力、死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2568.md"><img src="../images/m2568-take-off-headphones-how-are-you.png" width="240" alt="他要我拿下耳機，一定有很重要的事——「你好嗎」"></a><br><a href="../memes/m2568.md">他要我拿下耳機，一定有很重要的事——「你好嗎」</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

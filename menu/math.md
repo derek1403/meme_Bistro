@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 317 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 318 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（144）
+## ★★（145）
 
 <table>
 <tr>
@@ -416,6 +416,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2533.md"><img src="../images/m2533-desmos-e-minus-infinity.png" width="240" alt="e^(−∞) = 0：數學家 vs Desmos"></a><br><a href="../memes/m2533.md">e^(−∞) = 0：數學家 vs Desmos</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2551.md"><img src="../images/m2551-dirac-comb-literal.png" width="240" alt="Dirac comb：梳子與狄拉克"></a><br><a href="../memes/m2551.md">Dirac comb：梳子與狄拉克</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2561.md"><img src="../images/m2561-phase-portrait-man.png" width="240" alt="相圖人：他看起來令人不安，但他傷不了你"></a><br><a href="../memes/m2561.md">相圖人：他看起來令人不安，但他傷不了你</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2585.md"><img src="../images/m2585-monty-hall-doors-cant-open.png" width="240" alt="門打不開的平行宇宙裡的蒙提霍爾問題"></a><br><a href="../memes/m2585.md">門打不開的平行宇宙裡的蒙提霍爾問題</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

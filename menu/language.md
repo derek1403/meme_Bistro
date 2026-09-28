@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 271 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 274 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（179）
+## ★（182）
 
 <table>
 <tr>
@@ -307,6 +307,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2543.md"><img src="../images/m2543-potato-where-is-soil.png" width="240" alt="馬鈴薯：馬的土在哪啦！"></a><br><a href="../memes/m2543.md">馬鈴薯：馬的土在哪啦！</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2544.md"><img src="../images/m2544-tongyi-bu-ding-screws.png" width="240" alt="師傅，這什麼釘法？統一不釘"></a><br><a href="../memes/m2544.md">師傅，這什麼釘法？統一不釘</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2562.md"><img src="../images/m2562-toilet-lid-let-go.png" width="240" alt="哲理：馬桶蓋一再告訴我們放下的重要"></a><br><a href="../memes/m2562.md">哲理：馬桶蓋一再告訴我們放下的重要</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2563.md"><img src="../images/m2563-i-got-your-back-stick.png" width="240" alt="別擔心，我挺你（字面上）"></a><br><a href="../memes/m2563.md">別擔心，我挺你（字面上）</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2569.md"><img src="../images/m2569-short-lame-toilet-jokes.png" width="240" alt="很短很廢的廁所笑話"></a><br><a href="../memes/m2569.md">很短很廢的廁所笑話</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

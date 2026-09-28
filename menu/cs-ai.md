@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 332 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 334 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（243）
+## ★（245）
 
 <table>
 <tr>
@@ -413,6 +413,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2553.md"><img src="../images/m2553-brave-guys-code-without-tests.png" width="240" alt="我喜歡勇敢的男生——我寫程式不寫測試"></a><br><a href="../memes/m2553.md">我喜歡勇敢的男生——我寫程式不寫測試</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2558.md"><img src="../images/m2558-tell-me-about-yourself-programmer.png" width="240" alt="說說你自己吧——我是工程師"></a><br><a href="../memes/m2558.md">說說你自己吧——我是工程師</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2559.md"><img src="../images/m2559-mom-deletes-desktop-icons.png" width="240" alt="媽媽想刪掉我所有電腦遊戲"></a><br><a href="../memes/m2559.md">媽媽想刪掉我所有電腦遊戲</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2565.md"><img src="../images/m2565-vga-lightning-cable.png" width="240" alt="閉嘴，拿我的錢！VGA 造型 Lightning 線"></a><br><a href="../memes/m2565.md">閉嘴，拿我的錢！VGA 造型 Lightning 線</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2573.md"><img src="../images/m2573-no-permission-shutdown-unplug.png" width="240" alt="你沒有權限關閉這台電腦——我：拔插頭"></a><br><a href="../memes/m2573.md">你沒有權限關閉這台電腦——我：拔插頭</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

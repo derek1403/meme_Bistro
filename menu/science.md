@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 167 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 169 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（74）
+## ★（76）
 
 <table>
 <tr>
@@ -132,6 +132,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2480.md"><img src="../images/m2480-solar-powerbank-flashlight.png" width="240" alt="用手電筒照太陽能行動電源幫手機充電"></a><br><a href="../memes/m2480.md">用手電筒照太陽能行動電源幫手機充電</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2522.md"><img src="../images/m2522-rethink-diet-megacalories.png" width="240" alt="重新思考你的飲食：1500 大卡 vs 124 兆大卡"></a><br><a href="../memes/m2522.md">重新思考你的飲食：1500 大卡 vs 124 兆大卡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2577.md"><img src="../images/m2577-newton-chase-harder-reaction.jpg" width="240" alt="牛頓：要用力一點追啊——會有反作用力啦，懂？"></a><br><a href="../memes/m2577.md">牛頓：要用力一點追啊——會有反作用力啦，懂？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2578.md"><img src="../images/m2578-einstein-grandchildren-energy.jpg" width="240" alt="愛因斯坦：要產生新物質，需要絕大的能量"></a><br><a href="../memes/m2578.md">愛因斯坦：要產生新物質，需要絕大的能量</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

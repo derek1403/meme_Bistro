@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 114 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 116 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（92）
+## ★（94）
 
 <table>
 <tr>
@@ -162,6 +162,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3013.md"><img src="../images/m3013-dora-professor-venn.png" width="240" alt="愛探險的 Dora 與大學教授的交集"></a><br><a href="../memes/m3013.md">愛探險的 Dora 與大學教授的交集</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3047.md"><img src="../images/m3047-pens-space-battleship.png" width="240" alt="老師：不要再玩筆了；我：放尊重點，這是宇宙戰艦"></a><br><a href="../memes/m3047.md">老師：不要再玩筆了；我：放尊重點，這是宇宙戰艦</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3061.md"><img src="../images/m3061-exam-scope-ocean-to-drop.png" width="240" alt="考試範圍是大海，我的分數是一滴水"></a><br><a href="../memes/m3061.md">考試範圍是大海，我的分數是一滴水</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3066.md"><img src="../images/m3066-highlight-what-you-dont-understand.png" width="240" alt="老師：不明白的地方用螢光筆註記"></a><br><a href="../memes/m3066.md">老師：不明白的地方用螢光筆註記</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

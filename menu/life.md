@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1448 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1453 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1090）
+## ★（1092）
 
 <table>
 <tr>
@@ -1826,10 +1826,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3058.md"><img src="../images/m3058-alarm-not-rung-sleep-more.png" width="240" alt="鬧鐘還沒響，不然再睡一下？"></a><br><a href="../memes/m3058.md">鬧鐘還沒響，不然再睡一下？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3062.md"><img src="../images/m3062-cat-disguised-as-husky.png" width="240" alt="潛入敵人內部，敵人完全沒察覺"></a><br><a href="../memes/m3062.md">潛入敵人內部，敵人完全沒察覺</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3064.md"><img src="../images/m3064-your-plan-vs-reality-bike.png" width="240" alt="你的計畫 vs 現實"></a><br><a href="../memes/m3064.md">你的計畫 vs 現實</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（102）
+## ★★（103）
 
 <table>
 <tr>
@@ -2002,9 +2004,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3039.md"><img src="../images/m3039-bocchi-hair-clips-hammer-sickle.png" width="240" alt="孤獨搖滾髮夾組合技：錘子與鐮刀"></a><br><a href="../memes/m3039.md">孤獨搖滾髮夾組合技：錘子與鐮刀</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3055.md"><img src="../images/m3055-kobayashi-makima-past.jpg" width="240" alt="托爾妳想知道我的過去？那要從對魔四科開始"></a><br><a href="../memes/m3055.md">托爾妳想知道我的過去？那要從對魔四科開始</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3068.md"><img src="../images/m3068-first-base-two-stage-left-turn.png" width="240" alt="避免一壘壘包棒球活動事故方案：兩段式跑壘"></a><br><a href="../memes/m3068.md">避免一壘壘包棒球活動事故方案：兩段式跑壘</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（256）
+## ⚠️ 需斟酌（258）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4563,6 +4568,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3043.md"><img src="../images/m3043-sea-turtle-longevity-secret.png" width="240" alt="海龜長壽的秘密：沒有負擔的生活"></a><br><a href="../memes/m3043.md">海龜長壽的秘密：沒有負擔的生活</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>是時候該走了——不，BONK — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3063.md"><img src="../images/m3063-cheems-bonk-death.png" width="240" alt="是時候該走了——不，BONK"></a><br><a href="../memes/m3063.md">是時候該走了——不，BONK</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>吃了兩個藍莓口味的餅，才發現包裝上寫的是原味 — ⚠️ 發霉</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3067.md"><img src="../images/m3067-blueberry-waffle-mold.png" width="240" alt="吃了兩個藍莓口味的餅，才發現包裝上寫的是原味"></a><br><a href="../memes/m3067.md">吃了兩個藍莓口味的餅，才發現包裝上寫的是原味</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

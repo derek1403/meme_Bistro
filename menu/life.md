@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1268 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1274 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（937）
+## ★（943）
 
 <table>
 <tr>
@@ -1571,6 +1571,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2708.md"><img src="../images/m2708-curry-on-ice-cream.jpg" width="240" alt="咖哩淋在小美冰淇淋上"></a><br><a href="../memes/m2708.md">咖哩淋在小美冰淇淋上</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2710.md"><img src="../images/m2710-taco-funnel-3033.png" width="240" alt="這個人活在 3033 年"></a><br><a href="../memes/m2710.md">這個人活在 3033 年</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2712.md"><img src="../images/m2712-what-to-eat-wrong-right.png" width="240" alt="要吃什麼？錯誤 vs 正確問法"></a><br><a href="../memes/m2712.md">要吃什麼？錯誤 vs 正確問法</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2713.md"><img src="../images/m2713-new-year-one-minute-joy.png" width="240" alt="11:59 → 00:01 → 00:02 的跨年"></a><br><a href="../memes/m2713.md">11:59 → 00:01 → 00:02 的跨年</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2714.md"><img src="../images/m2714-designer-new-year-firework.png" width="240" alt="設計師的跨年：23:58、23:59 設計中，00:00 舉煙火，00:01 設計中"></a><br><a href="../memes/m2714.md">設計師的跨年：23:58、23:59 設計中，00:00 舉煙火，00:01 設計中</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2715.md"><img src="../images/m2715-grandma-rooftop-shotgun.jpg" width="240" alt="阿嬤拿著獵槍說：我要嫁給那個男人"></a><br><a href="../memes/m2715.md">阿嬤拿著獵槍說：我要嫁給那個男人</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2718.md"><img src="../images/m2718-titanic-lobster-miracle.png" width="240" alt="鐵達尼號沉沒，對船上廚房的龍蝦而言是奇蹟"></a><br><a href="../memes/m2718.md">鐵達尼號沉沒，對船上廚房的龍蝦而言是奇蹟</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

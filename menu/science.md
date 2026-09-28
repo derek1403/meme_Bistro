@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 174 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 175 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（81）
+## ★（82）
 
 <table>
 <tr>
@@ -143,6 +143,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2672.md"><img src="../images/m2672-plankton-eats-projection.png" width="240" alt="皮老闆為什麼吃投影機投射的食物？"></a><br><a href="../memes/m2672.md">皮老闆為什麼吃投影機投射的食物？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2687.md"><img src="../images/m2687-newton-apple-sticker-cj.png" width="240" alt="牛頓拿到蘋果 vs 我拿到蘋果"></a><br><a href="../memes/m2687.md">牛頓拿到蘋果 vs 我拿到蘋果</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2695.md"><img src="../images/m2695-mammoth-history-community-note.png" width="240" alt="歷史都是亂講的？社群備註：長毛象骨架有矛頭"></a><br><a href="../memes/m2695.md">歷史都是亂講的？社群備註：長毛象骨架有矛頭</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2711.md"><img src="../images/m2711-girlfriend-seesaw-physics.png" width="240" alt="女友至高無上，兄弟重於泰山"></a><br><a href="../memes/m2711.md">女友至高無上，兄弟重於泰山</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

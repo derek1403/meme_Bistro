@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1467 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1470 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（1105）
 
@@ -2032,7 +2032,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（259）
+## ⚠️ 需斟酌（262）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4621,6 +4621,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3104.md"><img src="../images/m3104-cockroach-mom-hug-boygon.png" width="240" alt="蟑螂媽媽：媽咪給你抱抱，讓你舒服一些"></a><br><a href="../memes/m3104.md">蟑螂媽媽：媽咪給你抱抱，讓你舒服一些</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>什麼壞事才算大事？綁架連恩尼遜的女兒 — ⚠️ 綁架</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3116.md"><img src="../images/m3116-gru-kidnap-liam-neeson-daughter.jpg" width="240" alt="什麼壞事才算大事？綁架連恩尼遜的女兒"></a><br><a href="../memes/m3116.md">什麼壞事才算大事？綁架連恩尼遜的女兒</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>兒童卡通區混進了 Happy Tree Friends — ⚠️ 血腥</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3119.md"><img src="../images/m3119-happy-tree-friends-kids-section.png" width="240" alt="兒童卡通區混進了 Happy Tree Friends"></a><br><a href="../memes/m3119.md">兒童卡通區混進了 Happy Tree Friends</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>三個願望，仇人都得雙倍：45 度泡澡、睡 12 小時 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3121.md"><img src="../images/m3121-genie-double-enemy-wishes.png" width="240" alt="三個願望，仇人都得雙倍：45 度泡澡、睡 12 小時"></a><br><a href="../memes/m3121.md">三個願望，仇人都得雙倍：45 度泡澡、睡 12 小時</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

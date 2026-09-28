@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 121 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（99）
+## ★（100）
 
 <table>
 <tr>
@@ -173,6 +173,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3076.md"><img src="../images/m3076-what-can-you-do-your-major.png" width="240" alt="你長這麼大到底會什麼？你會那個要幹嘛？"></a><br><a href="../memes/m3076.md">你長這麼大到底會什麼？你會那個要幹嘛？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3080.md"><img src="../images/m3080-notes-now-vs-week-later.png" width="240" alt="剛寫好的筆記 vs 一個星期後回來看的筆記"></a><br><a href="../memes/m3080.md">剛寫好的筆記 vs 一個星期後回來看的筆記</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3101.md"><img src="../images/m3101-mom-found-connection-wenchang.png" width="240" alt="老媽已經幫你找好關係了：文昌帝君"></a><br><a href="../memes/m3101.md">老媽已經幫你找好關係了：文昌帝君</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3120.md"><img src="../images/m3120-louder-later-dismissal.png" width="240" alt="老師：越大聲就越晚下課；全班同學："></a><br><a href="../memes/m3120.md">老師：越大聲就越晚下課；全班同學：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

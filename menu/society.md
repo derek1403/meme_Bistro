@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 268 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 270 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（96）
+## ★（98）
 
 <table>
 <tr>
@@ -168,6 +168,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3093.md"><img src="../images/m3093-coffee-own-money-company-efficiency.png" width="240" alt="你花自己的錢幫公司提高效率"></a><br><a href="../memes/m3093.md">你花自己的錢幫公司提高效率</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3103.md"><img src="../images/m3103-bring-drink-hotel-curry.png" width="240" alt="客人來了：拿點什麼喝的來都好——煮了一包咖哩"></a><br><a href="../memes/m3103.md">客人來了：拿點什麼喝的來都好——煮了一包咖哩</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3111.md"><img src="../images/m3111-food-at-office-typhoon-day.png" width="240" alt="把食物放在公司，結果放颱風假"></a><br><a href="../memes/m3111.md">把食物放在公司，結果放颱風假</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3114.md"><img src="../images/m3114-typhoon-holiday-central-taiwan-wolves.png" width="240" alt="放四天的南部、放一天的北部、什麼都沒有的中部"></a><br><a href="../memes/m3114.md">放四天的南部、放一天的北部、什麼都沒有的中部</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3115.md"><img src="../images/m3115-payday-giant-fries.png" width="240" alt="你最近剛領薪水哦？很明顯嗎？"></a><br><a href="../memes/m3115.md">你最近剛領薪水哦？很明顯嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

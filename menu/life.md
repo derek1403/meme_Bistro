@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1497 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1501 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1128）
+## ★（1130）
 
 <table>
 <tr>
@@ -1889,6 +1889,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3188.md"><img src="../images/m3188-awkward-quiet-or-talking.png" width="240" alt="選一條路：沉默而尷尬 vs 開口而尷尬"></a><br><a href="../memes/m3188.md">選一條路：沉默而尷尬 vs 開口而尷尬</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3190.md"><img src="../images/m3190-anya-cute-kanna-rival.png" width="240" alt="全世界都覺得安妮亞可愛，康娜：終於遇到對手了"></a><br><a href="../memes/m3190.md">全世界都覺得安妮亞可愛，康娜：終於遇到對手了</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3192.md"><img src="../images/m3192-girl-forgot-glasses-spiderverse.png" width="240" alt="想起《我喜歡的女孩忘記戴眼鏡》今晚播第一話"></a><br><a href="../memes/m3192.md">想起《我喜歡的女孩忘記戴眼鏡》今晚播第一話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3196.md"><img src="../images/m3196-duck-feel-useless-eat.png" width="240" alt="覺得自己好廢應該充實自己——好累喔吃東西"></a><br><a href="../memes/m3196.md">覺得自己好廢應該充實自己——好累喔吃東西</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（103）
@@ -2069,7 +2073,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（266）
+## ⚠️ 需斟酌（268）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4728,6 +4732,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3170.md"><img src="../images/m3170-popcorn-kernels-epic-cremation.png" width="240" alt="過世前吞下一整袋爆米花仁，你的火葬將會是史詩級的"></a><br><a href="../memes/m3170.md">過世前吞下一整袋爆米花仁，你的火葬將會是史詩級的</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>遊覽車上播鬼滅給小朋友看，推薦換成進擊的巨人或小圓 — ⚠️ 輕微地獄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3191.md"><img src="../images/m3191-tour-bus-kids-anime-demon-slayer.png" width="240" alt="遊覽車上播鬼滅給小朋友看，推薦換成進擊的巨人或小圓"></a><br><a href="../memes/m3191.md">遊覽車上播鬼滅給小朋友看，推薦換成進擊的巨人或小圓</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>希望你來我家，然後弄髒我的床——用醬油 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3195.md"><img src="../images/m3195-dirty-my-bed-soy-sauce.png" width="240" alt="希望你來我家，然後弄髒我的床——用醬油"></a><br><a href="../memes/m3195.md">希望你來我家，然後弄髒我的床——用醬油</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

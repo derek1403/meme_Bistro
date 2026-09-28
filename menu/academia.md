@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 128 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（104）
+## ★（105）
 
 <table>
 <tr>
@@ -182,6 +182,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3174.md"><img src="../images/m3174-professor-thinks-i-should-know.png" width="240" alt="教授覺得我應該要會的 vs 我會的"></a><br><a href="../memes/m3174.md">教授覺得我應該要會的 vs 我會的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3182.md"><img src="../images/m3182-gang-boss-engineering-math-duel.png" width="240" alt="挑戰極致高校老大：比工程數學考試"></a><br><a href="../memes/m3182.md">挑戰極致高校老大：比工程數學考試</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3198.md"><img src="../images/m3198-military-instructor-zipper.png" width="240" alt="學校教官：毀損公物、翹課都不管，只抓外套拉鍊沒拉"></a><br><a href="../memes/m3198.md">學校教官：毀損公物、翹課都不管，只抓外套拉鍊沒拉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 327 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 328 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（217）
 
@@ -449,7 +449,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（68）
+## ⚠️ 需斟酌（69）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1128,6 +1128,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3025.md"><img src="../images/m3025-dia-si-key-hanging-keys.png" width="240" alt="dia 死 key"></a><br><a href="../memes/m3025.md">dia 死 key</a><br><sub>🔤🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>On accident 還是 By accident？吵到同歸於盡 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3194.md"><img src="../images/m3194-on-accident-by-accident-fight.png" width="240" alt="On accident 還是 By accident？吵到同歸於盡"></a><br><a href="../memes/m3194.md">On accident 還是 By accident？吵到同歸於盡</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

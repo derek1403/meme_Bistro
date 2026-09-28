@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 331 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 332 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（219）
+## ★（220）
 
 <table>
 <tr>
@@ -373,6 +373,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3185.md"><img src="../images/m3185-tomato-on-subway.png" width="240" alt="為啥地鐵上會有番茄？因為這裡是 Subway"></a><br><a href="../memes/m3185.md">為啥地鐵上會有番茄？因為這裡是 Subway</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3225.md"><img src="../images/m3225-raccoon-no-sleep-cult.png" width="240" alt="浣上不睡教：不准睡覺！"></a><br><a href="../memes/m3225.md">浣上不睡教：不准睡覺！</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3243.md"><img src="../images/m3243-notebook-date-no.png" width="240" alt="筆記本上的 Date 和 No 欄位"></a><br><a href="../memes/m3243.md">筆記本上的 Date 和 No 欄位</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3266.md"><img src="../images/m3266-raiden-bake-90-degrees.png" width="240" alt="放烤箱 90 度烤 1 小時——把烤箱傾斜 90 度"></a><br><a href="../memes/m3266.md">放烤箱 90 度烤 1 小時——把烤箱傾斜 90 度</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

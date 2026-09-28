@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1526 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1530 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1147）
+## ★（1150）
 
 <table>
 <tr>
@@ -1921,10 +1921,15 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3264.md"><img src="../images/m3264-remember-killing-parents-breakfast.png" width="240" alt="你還記得十年前殺死我父母嗎？——你會記得十年前早餐吃什麼嗎？"></a><br><a href="../memes/m3264.md">你還記得十年前殺死我父母嗎？——你會記得十年前早餐吃什麼嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3267.md"><img src="../images/m3267-shiba-butt-bread.png" width="240" alt="日本麵包店的日常：柴犬屁股麵包"></a><br><a href="../memes/m3267.md">日本麵包店的日常：柴犬屁股麵包</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3270.md"><img src="../images/m3270-wine-glass-fireworks-bomber.png" width="240" alt="本來想拍透過玻璃杯看煙火，結果像欣賞自己引爆炸彈的炸彈客"></a><br><a href="../memes/m3270.md">本來想拍透過玻璃杯看煙火，結果像欣賞自己引爆炸彈的炸彈客</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3271.md"><img src="../images/m3271-century-egg-pudding.jpg" width="240" alt="今天的點心是皮蛋布丁"></a><br><a href="../memes/m3271.md">今天的點心是皮蛋布丁</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（105）
+## ★★（106）
 
 <table>
 <tr>
@@ -2101,6 +2106,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3068.md"><img src="../images/m3068-first-base-two-stage-left-turn.png" width="240" alt="避免一壘壘包棒球活動事故方案：兩段式跑壘"></a><br><a href="../memes/m3068.md">避免一壘壘包棒球活動事故方案：兩段式跑壘</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3214.md"><img src="../images/m3214-how-bad-anime-recommendation.png" width="240" alt="你有多壞？看完四月是你的謊言，推薦末日時在做什麼"></a><br><a href="../memes/m3214.md">你有多壞？看完四月是你的謊言，推薦末日時在做什麼</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3220.md"><img src="../images/m3220-ganondorf-master-sword-log-contraption.png" width="240" alt="連破魔之劍都不足為懼的魔王，被林克的木頭裝置打倒"></a><br><a href="../memes/m3220.md">連破魔之劍都不足為懼的魔王，被林克的木頭裝置打倒</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3265.md"><img src="../images/m3265-eiko-fame-stolen-bocchi.png" width="240" alt="大家都去下北澤看小孤獨，沒人記得澀谷的英子和孔明"></a><br><a href="../memes/m3265.md">大家都去下北澤看小孤獨，沒人記得澀谷的英子和孔明</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

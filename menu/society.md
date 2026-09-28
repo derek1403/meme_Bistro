@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 296 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 297 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（118）
+## ★（119）
 
 <table>
 <tr>
@@ -206,6 +206,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3259.md"><img src="../images/m3259-vegan-saint-mother-hotpot-4.jpg" width="240" alt="素食聖母（完）：我家也不歡迎你"></a><br><a href="../memes/m3259.md">素食聖母（完）：我家也不歡迎你</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3268.md"><img src="../images/m3268-unavailable-in-your-region.png" width="240" alt="我在歐洲，想看酷酷的日本音樂和遊戲——此區域不提供"></a><br><a href="../memes/m3268.md">我在歐洲，想看酷酷的日本音樂和遊戲——此區域不提供</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

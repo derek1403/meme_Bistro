@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 391 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 392 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（286）
+## ★（287）
 
 <table>
 <tr>
@@ -486,6 +486,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3235.md"><img src="../images/m3235-chatgpt-repeat-i-am-genius.png" width="240" alt="叫 ChatGPT 重複我的話：我是智障→您說您是智障"></a><br><a href="../memes/m3235.md">叫 ChatGPT 重複我的話：我是智障→您說您是智障</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3269.md"><img src="../images/m3269-waiting-triple-for-loop.png" width="240" alt="寧可等程式跑完，也不想改掉三層 for 迴圈"></a><br><a href="../memes/m3269.md">寧可等程式跑完，也不想改掉三層 for 迴圈</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

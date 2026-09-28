@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 227 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 228 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（66）
+## ★（67）
 
 <table>
 <tr>
@@ -118,6 +118,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2822.md"><img src="../images/m2822-joke-to-girl-vs-with-swimsuit.png" width="240" alt="我講笑話給妹子聽 vs 妹子把笑話轉給網友還附泳裝照"></a><br><a href="../memes/m2822.md">我講笑話給妹子聽 vs 妹子把笑話轉給網友還附泳裝照</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2830.md"><img src="../images/m2830-elevator-wedding-divorce-lawyer.png" width="240" alt="電梯廣告：婚紗照一打開是離婚律師"></a><br><a href="../memes/m2830.md">電梯廣告：婚紗照一打開是離婚律師</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2876.md"><img src="../images/m2876-boss-call-weekend-monday-850.png" width="240" alt="老闆週末叫你來公司：大概下週一 8:50 到"></a><br><a href="../memes/m2876.md">老闆週末叫你來公司：大概下週一 8:50 到</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2883.md"><img src="../images/m2883-foreign-internship-photocopy.png" width="240" alt="外資大公司實習：流程優化與自動化（影印、蓋章、訂便當）"></a><br><a href="../memes/m2883.md">外資大公司實習：流程優化與自動化（影印、蓋章、訂便當）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

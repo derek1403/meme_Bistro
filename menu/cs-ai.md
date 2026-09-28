@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 360 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 361 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（264）
+## ★（265）
 
 <table>
 <tr>
@@ -448,6 +448,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2834.md"><img src="../images/m2834-bus-extract-here-crowd.png" width="240" alt="公車右鍵「解壓縮到這裡」"></a><br><a href="../memes/m2834.md">公車右鍵「解壓縮到這裡」</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2843.md"><img src="../images/m2843-programmers-dark-mode-bugs.png" width="240" alt="為什麼工程師喜歡深色模式？因為光會吸引蟲"></a><br><a href="../memes/m2843.md">為什麼工程師喜歡深色模式？因為光會吸引蟲</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2849.md"><img src="../images/m2849-google-ai-chatbot-not-ready.png" width="240" alt="Google：我們也有 AI 聊天機器人，只是還沒好"></a><br><a href="../memes/m2849.md">Google：我們也有 AI 聊天機器人，只是還沒好</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2881.md"><img src="../images/m2881-how-vpn-works-coconut.png" width="240" alt="VPN 的運作原理"></a><br><a href="../memes/m2881.md">VPN 的運作原理</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

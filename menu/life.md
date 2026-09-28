@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1362 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1369 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1023）
+## ★（1029）
 
 <table>
 <tr>
@@ -1714,6 +1714,16 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2868.md"><img src="../images/m2868-pisa-tower-lets-me-shoot-moon.png" width="240" alt="比薩斜塔：抱歉抱歉，你拍月亮"></a><br><a href="../memes/m2868.md">比薩斜塔：抱歉抱歉，你拍月亮</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2874.md"><img src="../images/m2874-im-an-adult-now-crying.png" width="240" alt="我現在長大了，我能做到的——然後崩潰大哭"></a><br><a href="../memes/m2874.md">我現在長大了，我能做到的——然後崩潰大哭</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2878.md"><img src="../images/m2878-echo-hello-i-like-you-read.png" width="240" alt="對山喊哈囉有回音，喊我喜歡你只剩已讀"></a><br><a href="../memes/m2878.md">對山喊哈囉有回音，喊我喜歡你只剩已讀</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2882.md"><img src="../images/m2882-woman-yelling-at-cat-pumpkins.png" width="240" alt="萬聖節南瓜：女人罵貓"></a><br><a href="../memes/m2882.md">萬聖節南瓜：女人罵貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2884.md"><img src="../images/m2884-periodic-table-vs-hololive.png" width="240" alt="背不出元素週期表，但記得所有 Holo 成員"></a><br><a href="../memes/m2884.md">背不出元素週期表，但記得所有 Holo 成員</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2885.md"><img src="../images/m2885-bird-covers-speed-camera.png" width="240" alt="超速被照到，但公園餵過的鳥決定罩你"></a><br><a href="../memes/m2885.md">超速被照到，但公園餵過的鳥決定罩你</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2886.md"><img src="../images/m2886-ferrero-wrapped-brussels-sprouts.png" width="240" alt="把蔬菜包進金莎包裝，萬聖節發給小鬼"></a><br><a href="../memes/m2886.md">把蔬菜包進金莎包裝，萬聖節發給小鬼</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2887.md"><img src="../images/m2887-high-school-life-drama-titles.png" width="240" alt="如果你的高中生涯拍成劇，應該叫什麼名字？"></a><br><a href="../memes/m2887.md">如果你的高中生涯拍成劇，應該叫什麼名字？</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（94）
@@ -1879,7 +1889,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（245）
+## ⚠️ 需斟酌（246）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4328,6 +4338,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2797.md"><img src="../images/m2797-sushi-date-on-the-beach.png" width="240" alt="回到它們的故鄉，在親戚朋友面前吃掉它們"></a><br><a href="../memes/m2797.md">回到它們的故鄉，在親戚朋友面前吃掉它們</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>用圓環蛋糕模做的草莓奶油凍：不會再做第二次了 — ⚠️ 看起來像人體組織</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2879.md"><img src="../images/m2879-strawberry-jelly-bundt-fail.jpg" width="240" alt="用圓環蛋糕模做的草莓奶油凍：不會再做第二次了"></a><br><a href="../memes/m2879.md">用圓環蛋糕模做的草莓奶油凍：不會再做第二次了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

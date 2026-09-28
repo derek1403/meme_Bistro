@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 367 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 370 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（166）
+## ★（168）
 
 <table>
 <tr>
@@ -286,10 +286,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3566.md"><img src="../images/m3566-kaguya-poster-copied.jpg" width="240" alt="《輝夜姬》海報 vs 手遊《食物語》廣告：構圖一模一樣"></a><br><a href="../memes/m3566.md">《輝夜姬》海報 vs 手遊《食物語》廣告：構圖一模一樣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3576.md"><img src="../images/m3576-strategic-marriage-get-your-dad.jpg" width="240" alt="策略婚姻：得到你芭芭的……這樣嗎？"></a><br><a href="../memes/m3576.md">策略婚姻：得到你芭芭的……這樣嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3580.md"><img src="../images/m3580-masks-for-money-then-now.jpg" width="240" alt="以前是戴口罩去搶錢，現在是帶錢去搶口罩"></a><br><a href="../memes/m3580.md">以前是戴口罩去搶錢，現在是帶錢去搶口罩</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（36）
+## ★★（37）
 
 <table>
 <tr>
@@ -351,6 +353,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3545.md"><img src="../images/m3545-beach-social-distance-circle.png" width="240" alt="海灘上的最佳社交距離：準備好抵禦海熊的攻擊了"></a><br><a href="../memes/m3545.md">海灘上的最佳社交距離：準備好抵禦海熊的攻擊了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3552.md"><img src="../images/m3552-group-player-power-pyramid.png" width="240" alt="本群玩家實力結構圖：萌新最強，我在最底"></a><br><a href="../memes/m3552.md">本群玩家實力結構圖：萌新最強，我在最底</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3565.md"><img src="../images/m3565-italy-empty-streets-cs-map.png" width="240" alt="意大利空無一人的街頭——其實是 CS 地圖"></a><br><a href="../memes/m3565.md">意大利空無一人的街頭——其實是 CS 地圖</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3579.md"><img src="../images/m3579-guild-pyramid-newbie-top.png" width="240" alt="公會人設金字塔：萌新 > 大佬 > 大腿 > 熟手 > 渣渣"></a><br><a href="../memes/m3579.md">公會人設金字塔：萌新 > 大佬 > 大腿 > 熟手 > 渣渣</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

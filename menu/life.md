@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1670 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1673 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1261）
+## ★（1263）
 
 <table>
 <tr>
@@ -2111,6 +2111,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3574.md"><img src="../images/m3574-peel-banana-whale.jpg" width="240" alt="老師：你在笑什麼？我的大腦：剝香蕉鯨魚"></a><br><a href="../memes/m3574.md">老師：你在笑什麼？我的大腦：剝香蕉鯨魚</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3575.md"><img src="../images/m3575-can-i-slap.jpg" width="240" alt="「可以和我——」（還沒說完就被巴掌）"></a><br><a href="../memes/m3575.md">「可以和我——」（還沒說完就被巴掌）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3581.md"><img src="../images/m3581-parents-fear-teen-vices-gamer-cat.png" width="240" alt="家長怕孩子青春期學壞，20 歲的我：抱著搖桿的哭哭貓"></a><br><a href="../memes/m3581.md">家長怕孩子青春期學壞，20 歲的我：抱著搖桿的哭哭貓</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2304,7 +2306,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（298）
+## ⚠️ 需斟酌（299）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5283,6 +5285,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3562.md"><img src="../images/m3562-monk-bells-bend-over.jpg" width="240" alt="出家考驗：雞雞掛鈴鐺，見美女鈴不響才算成功"></a><br><a href="../memes/m3562.md">出家考驗：雞雞掛鈴鐺，見美女鈴不響才算成功</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>蘭：找到可以變大的藥之後才來找我？你真夠低級的 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3577.md"><img src="../images/m3577-ran-find-shrinking-cure-first.jpg" width="240" alt="蘭：找到可以變大的藥之後才來找我？你真夠低級的"></a><br><a href="../memes/m3577.md">蘭：找到可以變大的藥之後才來找我？你真夠低級的</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

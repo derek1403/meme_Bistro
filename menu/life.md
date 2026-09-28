@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1716 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1719 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1293）
+## ★（1295）
 
 <table>
 <tr>
@@ -2164,6 +2164,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3650.md"><img src="../images/m3650-skeletor-i-am-annoying.png" width="240" alt="別人說你這樣有點機掰欸——我本來就很機掰啊"></a><br><a href="../memes/m3650.md">別人說你這樣有點機掰欸——我本來就很機掰啊</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3651.md"><img src="../images/m3651-baby-yoda-mom-mcdonalds.png" width="240" alt="等著媽媽同意我們買麥當勞的我還有爸爸"></a><br><a href="../memes/m3651.md">等著媽媽同意我們買麥當勞的我還有爸爸</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3653.md"><img src="../images/m3653-zenitsu-infinite-accounts.png" width="240" alt="善逸到底有幾個帳號啊？為了禰豆子可以開千千萬萬個"></a><br><a href="../memes/m3653.md">善逸到底有幾個帳號啊？為了禰豆子可以開千千萬萬個</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3654.md"><img src="../images/m3654-hot-girl-traits-annabelle.jpg" width="240" alt="辣妹的特徵：染髮、假睫毛、隱眼變色片、鮮豔的唇色、一個致命的微笑"></a><br><a href="../memes/m3654.md">辣妹的特徵：染髮、假睫毛、隱眼變色片、鮮豔的唇色、一個致命的微笑</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（116）
@@ -2365,7 +2369,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（307）
+## ⚠️ 需斟酌（308）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5434,6 +5438,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3636.md"><img src="../images/m3636-baby-yoda-parents-wrestling.jpg" width="240" alt="6 歲的我好奇父母為什麼要在凌晨三點玩摔角"></a><br><a href="../memes/m3636.md">6 歲的我好奇父母為什麼要在凌晨三點玩摔角</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>星期五抱你、星期六牽你、星期日陪你睡——星期一早上五點肌肉猛男來了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3652.md"><img src="../images/m3652-weekday-lovers-monday-muscle.png" width="240" alt="星期五抱你、星期六牽你、星期日陪你睡——星期一早上五點肌肉猛男來了"></a><br><a href="../memes/m3652.md">星期五抱你、星期六牽你、星期日陪你睡——星期一早上五點肌肉猛男來了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

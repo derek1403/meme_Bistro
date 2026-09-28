@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 379 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 382 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（173）
+## ★（174）
 
 <table>
 <tr>
@@ -297,6 +297,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3617.md"><img src="../images/m3617-media-killer-watches-anime.jpg" width="240" alt="發生兇殺案，媒體：沒興趣——兇手會看動漫畫，媒體：眼睛爆亮"></a><br><a href="../memes/m3617.md">發生兇殺案，媒體：沒興趣——兇手會看動漫畫，媒體：眼睛爆亮</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3619.md"><img src="../images/m3619-shaolin-real-bricks.jpg" width="240" alt="建商把普通磚頭送到少林寺，多名武僧手指骨折"></a><br><a href="../memes/m3619.md">建商把普通磚頭送到少林寺，多名武僧手指骨折</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3621.md"><img src="../images/m3621-tainan-sugar-free-beaten.jpg" width="240" alt="我只是在台南點了一杯無糖綠，就被追著打"></a><br><a href="../memes/m3621.md">我只是在台南點了一杯無糖綠，就被追著打</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -369,7 +370,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（168）
+## ⚠️ 需斟酌（170）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2048,6 +2049,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3608.md"><img src="../images/m3608-chicken-wheelchair-deep-fry.png" width="240" alt="被救援的雞用雞輪椅重新走路——直接丟進油鍋別浪費稅金"></a><br><a href="../memes/m3608.md">被救援的雞用雞輪椅重新走路——直接丟進油鍋別浪費稅金</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你衣服上找不到半根頭髮——你是不是有了光頭小三？ — ⚠️ 外遇</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3622.md"><img src="../images/m3622-bald-mistress-no-hair.jpg" width="240" alt="你衣服上找不到半根頭髮——你是不是有了光頭小三？"></a><br><a href="../memes/m3622.md">你衣服上找不到半根頭髮——你是不是有了光頭小三？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>室友想過聖誕節、我想過光明節：做成燭台聖誕樹 — ⚠️ 宗教</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3624.md"><img src="../images/m3624-christmas-tree-menorah.png" width="240" alt="室友想過聖誕節、我想過光明節：做成燭台聖誕樹"></a><br><a href="../memes/m3624.md">室友想過聖誕節、我想過光明節：做成燭台聖誕樹</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

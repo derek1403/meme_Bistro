@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1697 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1699 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（1282）
 
@@ -2149,7 +2149,7 @@
 </tr>
 </table>
 
-## ★★（113）
+## ★★（114）
 
 <table>
 <tr>
@@ -2340,10 +2340,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3593.md"><img src="../images/m3593-thanos-takes-good-baby-sticker.jpg" width="240" alt="當你在幼稚園不乖，老師要把你的乖寶寶貼紙拿走時"></a><br><a href="../memes/m3593.md">當你在幼稚園不乖，老師要把你的乖寶寶貼紙拿走時</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3614.md"><img src="../images/m3614-purpose-of-visit-holy-grail-war.png" width="240" alt="入境日本的目的：聖杯戰爭——結果還過了"></a><br><a href="../memes/m3614.md">入境日本的目的：聖杯戰爭——結果還過了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3623.md"><img src="../images/m3623-paint-olaf-league-olaf.jpg" width="240" alt="今天我們要來畫歐拉夫——一個小孩畫的是 LOL 的歐拉夫"></a><br><a href="../memes/m3623.md">今天我們要來畫歐拉夫——一個小孩畫的是 LOL 的歐拉夫</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（302）
+## ⚠️ 需斟酌（303）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5362,6 +5363,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3609.md"><img src="../images/m3609-tainan-bath-shop-funeral-home.png" width="240" alt="台南有推薦洗澡的店嗎？動物之家、殯儀館"></a><br><a href="../memes/m3609.md">台南有推薦洗澡的店嗎？動物之家、殯儀館</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>小孩保住了，但媽媽——哈哈開玩笑的，兩個都死了 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3625.md"><img src="../images/m3625-baby-saved-but-mom-joke.jpg" width="240" alt="小孩保住了，但媽媽——哈哈開玩笑的，兩個都死了"></a><br><a href="../memes/m3625.md">小孩保住了，但媽媽——哈哈開玩笑的，兩個都死了</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

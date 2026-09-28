@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1435 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1441 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1081）
+## ★（1084）
 
 <table>
 <tr>
@@ -1811,10 +1811,15 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3031.md"><img src="../images/m3031-black-banana-eat-me.png" width="240" alt="家裡沒東西吃了，那根放到發黑的香蕉：求你吃了我"></a><br><a href="../memes/m3031.md">家裡沒東西吃了，那根放到發黑的香蕉：求你吃了我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3037.md"><img src="../images/m3037-not-that-spicy-cat.png" width="240" alt="朋友說：這個好吃，沒有很辣的"></a><br><a href="../memes/m3037.md">朋友說：這個好吃，沒有很辣的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3038.md"><img src="../images/m3038-door-handle-broke-surprised.png" width="240" alt="把門把拉斷了，它的反應和我一樣驚訝"></a><br><a href="../memes/m3038.md">把門把拉斷了，它的反應和我一樣驚訝</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3042.md"><img src="../images/m3042-stegosaurus-pencil-sharpener.png" width="240" alt="削鉛筆就能變成劍龍的削鉛筆器"></a><br><a href="../memes/m3042.md">削鉛筆就能變成劍龍的削鉛筆器</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（100）
+## ★★（101）
 
 <table>
 <tr>
@@ -1984,10 +1989,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2963.md"><img src="../images/m2963-tank-to-oarai-girls-und-panzer.png" width="240" alt="警察：去大洗？啊，是少女與戰車嗎？沒問題！"></a><br><a href="../memes/m2963.md">警察：去大洗？啊，是少女與戰車嗎？沒問題！</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3039.md"><img src="../images/m3039-bocchi-hair-clips-hammer-sickle.png" width="240" alt="孤獨搖滾髮夾組合技：錘子與鐮刀"></a><br><a href="../memes/m3039.md">孤獨搖滾髮夾組合技：錘子與鐮刀</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（254）
+## ⚠️ 需斟酌（256）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4526,6 +4532,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3023.md"><img src="../images/m3023-frieren-conan-two-funerals.png" width="240" alt="1000 歲的姊姊和 17 歲的小學生：都葬送了許多人"></a><br><a href="../memes/m3023.md">1000 歲的姊姊和 17 歲的小學生：都葬送了許多人</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>網球獎盃摔壞之後 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3036.md"><img src="../images/m3036-broken-tennis-trophy.png" width="240" alt="網球獎盃摔壞之後"></a><br><a href="../memes/m3036.md">網球獎盃摔壞之後</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>海龜長壽的秘密：沒有負擔的生活 — ⚠️ 棄養</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3043.md"><img src="../images/m3043-sea-turtle-longevity-secret.png" width="240" alt="海龜長壽的秘密：沒有負擔的生活"></a><br><a href="../memes/m3043.md">海龜長壽的秘密：沒有負擔的生活</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

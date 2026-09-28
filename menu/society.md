@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 250 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 255 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（83）
+## ★（88）
 
 <table>
 <tr>
@@ -147,6 +147,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3027.md"><img src="../images/m3027-coworker-toilet-after-lunch.png" width="240" alt="有一種同事，每次吃完午餐回來就衝廁所"></a><br><a href="../memes/m3027.md">有一種同事，每次吃完午餐回來就衝廁所</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3030.md"><img src="../images/m3030-typhoon-wont-come-right.png" width="240" alt="颱風：你絕對不會過來的對吧！"></a><br><a href="../memes/m3030.md">颱風：你絕對不會過來的對吧！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3034.md"><img src="../images/m3034-package-blown-away-by-typhoon.jpg" width="240" alt="貨態追蹤：包裹被颱風吹走了"></a><br><a href="../memes/m3034.md">貨態追蹤：包裹被颱風吹走了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3035.md"><img src="../images/m3035-taiwan-muscle-lucky-cats.png" width="240" alt="台灣標準的招財貓"></a><br><a href="../memes/m3035.md">台灣標準的招財貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3040.md"><img src="../images/m3040-typhoon-haikui-wont-land-again.png" width="240" alt="海葵颱風進台灣海峽了，不會再登陸了吧？"></a><br><a href="../memes/m3040.md">海葵颱風進台灣海峽了，不會再登陸了吧？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3041.md"><img src="../images/m3041-scam-terminator-reply.png" width="240" alt="詐騙終結者：我是你想詐騙的對象"></a><br><a href="../memes/m3041.md">詐騙終結者：我是你想詐騙的對象</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3044.md"><img src="../images/m3044-money-cant-buy-happiness-salary.png" width="240" alt="金錢買不到快樂——發薪水囉：快樂"></a><br><a href="../memes/m3044.md">金錢買不到快樂——發薪水囉：快樂</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

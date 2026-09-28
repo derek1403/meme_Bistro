@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1646 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1650 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1245）
+## ★（1248）
 
 <table>
 <tr>
@@ -2084,9 +2084,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3533.md"><img src="../images/m3533-mom-cousin-is-here-cougar.jpg" width="240" alt="老媽，表哥來了……"></a><br><a href="../memes/m3533.md">老媽，表哥來了……</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3536.md"><img src="../images/m3536-calico-cat-guinea-pig-mom.jpg" width="240" alt="看起來有點像我生的，但我還是有很多問號……"></a><br><a href="../memes/m3536.md">看起來有點像我生的，但我還是有很多問號……</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3538.md"><img src="../images/m3538-facebook-memories-chuuni-post.png" width="240" alt="Facebook 顯示 5 年前貼的中二貼文：不要啊，不想再回想起來"></a><br><a href="../memes/m3538.md">Facebook 顯示 5 年前貼的中二貼文：不要啊，不想再回想起來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3542.md"><img src="../images/m3542-corgi-tooth-for-tooth.jpg" width="240" alt="以牙還牙：柯基咬壞鞋，主人咬柯基娃娃"></a><br><a href="../memes/m3542.md">以牙還牙：柯基咬壞鞋，主人咬柯基娃娃</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3543.md"><img src="../images/m3543-delayed-by-main-product.png" width="240" alt="麥當勞：被漢堡耽誤的薯條店"></a><br><a href="../memes/m3543.md">麥當勞：被漢堡耽誤的薯條店</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（107）
+## ★★（108）
 
 <table>
 <tr>
@@ -2267,6 +2272,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3265.md"><img src="../images/m3265-eiko-fame-stolen-bocchi.png" width="240" alt="大家都去下北澤看小孤獨，沒人記得澀谷的英子和孔明"></a><br><a href="../memes/m3265.md">大家都去下北澤看小孤獨，沒人記得澀谷的英子和孔明</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3364.md"><img src="../images/m3364-ghost-breathing-then-and-now.png" width="240" alt="三十年前遇到鬼只能停止呼吸，現在有幾十種呼吸"></a><br><a href="../memes/m3364.md">三十年前遇到鬼只能停止呼吸，現在有幾十種呼吸</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3540.md"><img src="../images/m3540-hadouken-road-signs.jpg" width="240" alt="路標排出波動拳指令：↓↘→P"></a><br><a href="../memes/m3540.md">路標排出波動拳指令：↓↘→P</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 358 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 360 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（163）
 
@@ -284,7 +284,7 @@
 </tr>
 </table>
 
-## ★★（32）
+## ★★（33）
 
 <table>
 <tr>
@@ -340,10 +340,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3510.md"><img src="../images/m3510-archaeologist-coin-jars-shrinking.png" width="240" alt="考古學家：我們找到 5 罐金幣！——對！1 罐金幣！"></a><br><a href="../memes/m3510.md">考古學家：我們找到 5 罐金幣！——對！1 罐金幣！</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3516.md"><img src="../images/m3516-taiwan-least-likely-all-happened.png" width="240" alt="下列何者在台灣最不可能發生？——答案：全都發生過"></a><br><a href="../memes/m3516.md">下列何者在台灣最不可能發生？——答案：全都發生過</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3539.md"><img src="../images/m3539-jojo-operations-kicks-players.png" width="240" alt="營運看著台戰和外掛踢玩家，喝完紅酒也加入一起踢"></a><br><a href="../memes/m3539.md">營運看著台戰和外掛踢玩家，喝完紅酒也加入一起踢</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（163）
+## ⚠️ 需斟酌（164）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1972,6 +1973,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3527.md"><img src="../images/m3527-japan-school-vs-us-school.jpg" width="240" alt="日本學校 vs 美國學校（輝夜姬片頭版）"></a><br><a href="../memes/m3527.md">日本學校 vs 美國學校（輝夜姬片頭版）</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>爸爸把兒子一整年的麥塊世界刪了——還好我沒有爸爸 — ⚠️ 家庭創傷</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3541.md"><img src="../images/m3541-minecraft-world-deleted-no-dad.png" width="240" alt="爸爸把兒子一整年的麥塊世界刪了——還好我沒有爸爸"></a><br><a href="../memes/m3541.md">爸爸把兒子一整年的麥塊世界刪了——還好我沒有爸爸</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

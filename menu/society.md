@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 319 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 321 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（136）
+## ★（138）
 
 <table>
 <tr>
@@ -236,6 +236,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3376.md"><img src="../images/m3376-five-times-voucher-fridge-broken.png" width="240" alt="已經計畫好五倍券要怎麼用的我——媽媽：家裡的冰箱好像壞了"></a><br><a href="../memes/m3376.md">已經計畫好五倍券要怎麼用的我——媽媽：家裡的冰箱好像壞了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3381.md"><img src="../images/m3381-typhoon-delivery-death-stranding.png" width="240" alt="颱風天出門買飯好危險，叫外送好了——外送員："></a><br><a href="../memes/m3381.md">颱風天出門買飯好危險，叫外送好了——外送員：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3382.md"><img src="../images/m3382-big-shots-humble-argument.png" width="240" alt="大佬們的交流就像：大佬你好厲害——您才佬"></a><br><a href="../memes/m3382.md">大佬們的交流就像：大佬你好厲害——您才佬</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

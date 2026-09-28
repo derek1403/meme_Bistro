@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1567 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1570 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1180）
+## ★（1182）
 
 <table>
 <tr>
@@ -1976,6 +1976,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3380.md"><img src="../images/m3380-kid-printed-sock-revenge.jpg" width="240" alt="小朋友學會列印後開始搗蛋——報仇很簡單，今天晚餐用印的"></a><br><a href="../memes/m3380.md">小朋友學會列印後開始搗蛋——報仇很簡單，今天晚餐用印的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3384.md"><img src="../images/m3384-carried-teammate-baby-yoda.png" width="240" alt="隊友已經幹掉 10 幾個敵人，在旁邊划水打嘴砲的你："></a><br><a href="../memes/m3384.md">隊友已經幹掉 10 幾個敵人，在旁邊划水打嘴砲的你：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3385.md"><img src="../images/m3385-kaguya-rich-dad-yen-bills.png" width="240" alt="叛逆期妹子，老爹一直扔錢"></a><br><a href="../memes/m3385.md">叛逆期妹子，老爹一直扔錢</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2163,7 +2165,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（280）
+## ⚠️ 需斟酌（281）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4962,6 +4964,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3371.md"><img src="../images/m3371-dont-flush-anything-but-paper-pocket.jpg" width="240" alt="請不要將衛生紙以外的東西丟進馬桶"></a><br><a href="../memes/m3371.md">請不要將衛生紙以外的東西丟進馬桶</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>貓一直用頭撞我的胸部，檢查後發現牠只是單純變態 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3383.md"><img src="../images/m3383-cat-headbutt-breast-cancer-perv.png" width="240" alt="貓一直用頭撞我的胸部，檢查後發現牠只是單純變態"></a><br><a href="../memes/m3383.md">貓一直用頭撞我的胸部，檢查後發現牠只是單純變態</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

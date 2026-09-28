@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 377 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 379 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（276）
+## ★（277）
 
 <table>
 <tr>
@@ -469,9 +469,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3113.md"><img src="../images/m3113-crow-standup-my-life-jokes.png" width="240" alt="工程師為何都用暗色主題？——觀眾：聽膩了"></a><br><a href="../memes/m3113.md">工程師為何都用暗色主題？——觀眾：聽膩了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3133.md"><img src="../images/m3133-car-pay-attention-screens.png" width="240" alt="車：駕駛時請注意路況；還是車："></a><br><a href="../memes/m3133.md">車：駕駛時請注意路況；還是車：</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3145.md"><img src="../images/m3145-twitter-bird-becomes-x.png" width="240" alt="推特小鳥轉身變成 X"></a><br><a href="../memes/m3145.md">推特小鳥轉身變成 X</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（73）
+## ★★（74）
 
 <table>
 <tr>
@@ -596,6 +599,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2992.md"><img src="../images/m2992-iphone-headline-generator-loop.png" width="240" alt="用 for 迴圈自動產生年度 iPhone 新聞標題"></a><br><a href="../memes/m2992.md">用 for 迴圈自動產生年度 iPhone 新聞標題</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3146.md"><img src="../images/m3146-fb-rating-up-did-nothing.png" width="240" alt="FB 好評率大幅上升：我沒有亂改商標、沒有炸掉火箭"></a><br><a href="../memes/m3146.md">FB 好評率大幅上升：我沒有亂改商標、沒有炸掉火箭</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

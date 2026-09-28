@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 272 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 275 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（100）
+## ★（103）
 
 <table>
 <tr>
@@ -176,6 +176,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3126.md"><img src="../images/m3126-graduate-vs-three-years-socialized.png" width="240" alt="剛畢業的老弟 vs 畢業三年已社會化的我"></a><br><a href="../memes/m3126.md">剛畢業的老弟 vs 畢業三年已社會化的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3140.md"><img src="../images/m3140-wake-up-thought-process-quit.png" width="240" alt="起床心路歷程：要不要請假→再躺一下→還是辭職好了"></a><br><a href="../memes/m3140.md">起床心路歷程：要不要請假→再躺一下→還是辭職好了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3143.md"><img src="../images/m3143-steepled-hands-real-estate.png" width="240" alt="關於手勢的肢體語言：擁有大量房產"></a><br><a href="../memes/m3143.md">關於手勢的肢體語言：擁有大量房產</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3144.md"><img src="../images/m3144-doksuri-typhoon-left-exit.png" width="240" alt="杜蘇芮颱風：台灣直走，太平洋右轉——結果它往台灣甩尾"></a><br><a href="../memes/m3144.md">杜蘇芮颱風：台灣直走，太平洋右轉——結果它往台灣甩尾</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

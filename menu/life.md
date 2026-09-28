@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1479 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1484 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1113）
+## ★（1118）
 
 <table>
 <tr>
@@ -1863,6 +1863,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3131.md"><img src="../images/m3131-killer-carpet-stairs.png" width="240" alt="你說這裡的地毯會殺人是什麼意思？"></a><br><a href="../memes/m3131.md">你說這裡的地毯會殺人是什麼意思？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3134.md"><img src="../images/m3134-old-vs-new-air-conditioner.png" width="240" alt="舊冷氣 vs 新冷氣"></a><br><a href="../memes/m3134.md">舊冷氣 vs 新冷氣</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3136.md"><img src="../images/m3136-youtube-premium-vs-game-pass.png" width="240" alt="每月 179 買 YouTube Premium vs 每月 500 課金買月卡"></a><br><a href="../memes/m3136.md">每月 179 買 YouTube Premium vs 每月 500 課金買月卡</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3137.md"><img src="../images/m3137-miku-cosplay-praised-inner.png" width="240" alt="被稱讚 cos 得很還原：表面謙虛，內心狂喜"></a><br><a href="../memes/m3137.md">被稱讚 cos 得很還原：表面謙虛，內心狂喜</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3138.md"><img src="../images/m3138-full-but-new-cookie-flavor.png" width="240" alt="晚餐吃超飽後，看到沒看過的新口味餅餅"></a><br><a href="../memes/m3138.md">晚餐吃超飽後，看到沒看過的新口味餅餅</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3139.md"><img src="../images/m3139-fulfilling-sunday-monday-painting.png" width="240" alt="星期日過得很充實，星期一的你："></a><br><a href="../memes/m3139.md">星期日過得很充實，星期一的你：</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3141.md"><img src="../images/m3141-parents-ask-where-money-went-pooh.png" width="240" alt="爸媽問你的錢都跑到哪裡去"></a><br><a href="../memes/m3141.md">爸媽問你的錢都跑到哪裡去</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3142.md"><img src="../images/m3142-fake-vacation-sausage-legs.png" width="240" alt="如何拍攝偽渡假"></a><br><a href="../memes/m3142.md">如何拍攝偽渡假</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

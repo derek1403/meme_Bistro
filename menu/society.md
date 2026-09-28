@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 386 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 391 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（177）
+## ★（181）
 
 <table>
 <tr>
@@ -304,6 +304,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3640.md"><img src="../images/m3640-why-choose-smallest-road.png" width="240" alt="甚麼路不選，偏偏選最小條的"></a><br><a href="../memes/m3640.md">甚麼路不選，偏偏選最小條的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3646.md"><img src="../images/m3646-protect-girl-by-chasing.png" width="240" alt="我要保護走夜路的國中女生！——結果我追她跑"></a><br><a href="../memes/m3646.md">我要保護走夜路的國中女生！——結果我追她跑</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3658.md"><img src="../images/m3658-sixth-whole-world.png" width="240" alt="他是我的全世界——老妹，這是你找的第六個世界了"></a><br><a href="../memes/m3658.md">他是我的全世界——老妹，這是你找的第六個世界了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3660.md"><img src="../images/m3660-tainan-coffee-sugar-cup.png" width="240" alt="台南咖啡：杯子是用方糖疊的"></a><br><a href="../memes/m3660.md">台南咖啡：杯子是用方糖疊的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3662.md"><img src="../images/m3662-controlled-by-wife.jpg" width="240" alt="你有被你老婆控制住嗎？沒有，他沒有"></a><br><a href="../memes/m3662.md">你有被你老婆控制住嗎？沒有，他沒有</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3663.md"><img src="../images/m3663-sister-insult-spoiler.png" width="240" alt="被弟弟劇透鬼滅，小六妹妹：你簡直就是人類史的污點"></a><br><a href="../memes/m3663.md">被弟弟劇透鬼滅，小六妹妹：你簡直就是人類史的污點</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（39）
@@ -376,7 +384,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（170）
+## ⚠️ 需斟酌（171）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2075,6 +2083,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3624.md"><img src="../images/m3624-christmas-tree-menorah.png" width="240" alt="室友想過聖誕節、我想過光明節：做成燭台聖誕樹"></a><br><a href="../memes/m3624.md">室友想過聖誕節、我想過光明節：做成燭台聖誕樹</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>為什麼不信任何宗教？牧師誤把汽油當聖水 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3659.md"><img src="../images/m3659-gasoline-holy-water.png" width="240" alt="為什麼不信任何宗教？牧師誤把汽油當聖水"></a><br><a href="../memes/m3659.md">為什麼不信任何宗教？牧師誤把汽油當聖水</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 193 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（89）
+## ★（90）
 
 <table>
 <tr>
@@ -157,6 +157,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2915.md"><img src="../images/m2915-physics-textbook-made-me-cry.jpg" width="240" alt="讓你讀到哭的書：普通物理學第 14 版——作者：喜極而泣"></a><br><a href="../memes/m2915.md">讓你讀到哭的書：普通物理學第 14 版——作者：喜極而泣</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2917.md"><img src="../images/m2917-its-a-chemistree.png" width="240" alt="It's a chemistree"></a><br><a href="../memes/m2917.md">It's a chemistree</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3069.md"><img src="../images/m3069-prove-ghosts-nobel-presents.png" width="240" alt="證明鬼存在能拿諾貝爾獎嗎？諾貝爾親自頒獎"></a><br><a href="../memes/m3069.md">證明鬼存在能拿諾貝爾獎嗎？諾貝爾親自頒獎</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

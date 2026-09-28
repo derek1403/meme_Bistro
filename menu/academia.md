@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 116 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（94）
+## ★（97）
 
 <table>
 <tr>
@@ -166,6 +166,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3066.md"><img src="../images/m3066-highlight-what-you-dont-understand.png" width="240" alt="老師：不明白的地方用螢光筆註記"></a><br><a href="../memes/m3066.md">老師：不明白的地方用螢光筆註記</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3073.md"><img src="../images/m3073-exam-multiple-choice-as-single.png" width="240" alt="走出考場才發現多選寫成單選"></a><br><a href="../memes/m3073.md">走出考場才發現多選寫成單選</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3075.md"><img src="../images/m3075-math-new-chapter-slide-collapse.png" width="240" alt="這章好像聽得懂欸——進行到下一單元"></a><br><a href="../memes/m3075.md">這章好像聽得懂欸——進行到下一單元</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3076.md"><img src="../images/m3076-what-can-you-do-your-major.png" width="240" alt="你長這麼大到底會什麼？你會那個要幹嘛？"></a><br><a href="../memes/m3076.md">你長這麼大到底會什麼？你會那個要幹嘛？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

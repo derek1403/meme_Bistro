@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1453 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1455 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1092）
+## ★（1094）
 
 <table>
 <tr>
@@ -1828,6 +1828,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3058.md"><img src="../images/m3058-alarm-not-rung-sleep-more.png" width="240" alt="鬧鐘還沒響，不然再睡一下？"></a><br><a href="../memes/m3058.md">鬧鐘還沒響，不然再睡一下？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3062.md"><img src="../images/m3062-cat-disguised-as-husky.png" width="240" alt="潛入敵人內部，敵人完全沒察覺"></a><br><a href="../memes/m3062.md">潛入敵人內部，敵人完全沒察覺</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3064.md"><img src="../images/m3064-your-plan-vs-reality-bike.png" width="240" alt="你的計畫 vs 現實"></a><br><a href="../memes/m3064.md">你的計畫 vs 現實</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3070.md"><img src="../images/m3070-sink-above-urinal-design.png" width="240" alt="洗手台直接裝在小便斗正上方"></a><br><a href="../memes/m3070.md">洗手台直接裝在小便斗正上方</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3072.md"><img src="../images/m3072-sheet-music-last-page-one-bar.png" width="240" alt="如何證明你寫的曲子很值錢？這一小節要花你 3 塊錢印出來"></a><br><a href="../memes/m3072.md">如何證明你寫的曲子很值錢？這一小節要花你 3 塊錢印出來</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

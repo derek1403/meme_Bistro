@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 259 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 261 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（90）
+## ★（91）
 
 <table>
 <tr>
@@ -159,6 +159,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3053.md"><img src="../images/m3053-not-staying-up-night-but-freedom.png" width="240" alt="我熬的不是夜，是自由"></a><br><a href="../memes/m3053.md">我熬的不是夜，是自由</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3065.md"><img src="../images/m3065-resume-lies-cat-penguins.png" width="240" alt="履歷胡說八道卻還是被錄取：混進企鵝群的貓"></a><br><a href="../memes/m3065.md">履歷胡說八道卻還是被錄取：混進企鵝群的貓</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3077.md"><img src="../images/m3077-surstromming-ex-wedding-job.png" width="240" alt="偏門工作：到前女友婚宴吃鯡魚罐頭"></a><br><a href="../memes/m3077.md">偏門工作：到前女友婚宴吃鯡魚罐頭</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（25）
@@ -209,7 +212,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（144）
+## ⚠️ 需斟酌（145）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1648,6 +1651,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3060.md"><img src="../images/m3060-job-avoid-social-cremator.png" width="240" alt="有什麼職業可以避免社交？火化師"></a><br><a href="../memes/m3060.md">有什麼職業可以避免社交？火化師</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>遊樂園門票 3000，我只花 1500 玩一整天 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3071.md"><img src="../images/m3071-amusement-park-alone-1500.png" width="240" alt="遊樂園門票 3000，我只花 1500 玩一整天"></a><br><a href="../memes/m3071.md">遊樂園門票 3000，我只花 1500 玩一整天</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1570 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1573 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1182）
+## ★（1185）
 
 <table>
 <tr>
@@ -1978,6 +1978,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3380.md"><img src="../images/m3380-kid-printed-sock-revenge.jpg" width="240" alt="小朋友學會列印後開始搗蛋——報仇很簡單，今天晚餐用印的"></a><br><a href="../memes/m3380.md">小朋友學會列印後開始搗蛋——報仇很簡單，今天晚餐用印的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3384.md"><img src="../images/m3384-carried-teammate-baby-yoda.png" width="240" alt="隊友已經幹掉 10 幾個敵人，在旁邊划水打嘴砲的你："></a><br><a href="../memes/m3384.md">隊友已經幹掉 10 幾個敵人，在旁邊划水打嘴砲的你：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3385.md"><img src="../images/m3385-kaguya-rich-dad-yen-bills.png" width="240" alt="叛逆期妹子，老爹一直扔錢"></a><br><a href="../memes/m3385.md">叛逆期妹子，老爹一直扔錢</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3386.md"><img src="../images/m3386-jungler-mage-blame-feeder-laughing.png" width="240" alt="打野罵法師、法師罵打野，0/10/2 的我：對面好強喔"></a><br><a href="../memes/m3386.md">打野罵法師、法師罵打野，0/10/2 的我：對面好強喔</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3388.md"><img src="../images/m3388-high-capacity-assault-unicorn.jpg" width="240" alt="獨角獸 vs 重裝突擊獨角獸"></a><br><a href="../memes/m3388.md">獨角獸 vs 重裝突擊獨角獸</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3390.md"><img src="../images/m3390-tsundere-salad-chef.jpg" width="240" alt="實力派餐廳：主廚的特製傲嬌沙拉"></a><br><a href="../memes/m3390.md">實力派餐廳：主廚的特製傲嬌沙拉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

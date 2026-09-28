@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1493 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1497 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1124）
+## ★（1128）
 
 <table>
 <tr>
@@ -1882,6 +1882,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3166.md"><img src="../images/m3166-eat-from-bowl-look-outside-anime.png" width="240" alt="我是吃碗裡看碗外的人：2023/07 新番"></a><br><a href="../memes/m3166.md">我是吃碗裡看碗外的人：2023/07 新番</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3167.md"><img src="../images/m3167-too-busy-for-anime-finding-neverland.png" width="240" alt="我學業太忙沒空看動畫——我工作太忙也沒空看"></a><br><a href="../memes/m3167.md">我學業太忙沒空看動畫——我工作太忙也沒空看</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3186.md"><img src="../images/m3186-skip-confession-yandere.png" width="240" alt="跳過酸臭對話：欸不是，為啥！？"></a><br><a href="../memes/m3186.md">跳過酸臭對話：欸不是，為啥！？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3187.md"><img src="../images/m3187-soft-serve-chili-sauce.png" width="240" alt="霜淇淋淋上東泉辣椒醬"></a><br><a href="../memes/m3187.md">霜淇淋淋上東泉辣椒醬</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3188.md"><img src="../images/m3188-awkward-quiet-or-talking.png" width="240" alt="選一條路：沉默而尷尬 vs 開口而尷尬"></a><br><a href="../memes/m3188.md">選一條路：沉默而尷尬 vs 開口而尷尬</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3190.md"><img src="../images/m3190-anya-cute-kanna-rival.png" width="240" alt="全世界都覺得安妮亞可愛，康娜：終於遇到對手了"></a><br><a href="../memes/m3190.md">全世界都覺得安妮亞可愛，康娜：終於遇到對手了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

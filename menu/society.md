@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 282 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 283 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（108）
+## ★（109）
 
 <table>
 <tr>
@@ -188,6 +188,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3164.md"><img src="../images/m3164-not-working-money-problem-only.jpg" width="240" alt="不上班只有經濟出問題，上班經濟身體精神都出問題"></a><br><a href="../memes/m3164.md">不上班只有經濟出問題，上班經濟身體精神都出問題</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3168.md"><img src="../images/m3168-mihoyo-lore-too-complex-hired.png" width="240" alt="設定太多玩家看不懂？讓角色吐槽自己也搞不懂——錄取"></a><br><a href="../memes/m3168.md">設定太多玩家看不懂？讓角色吐槽自己也搞不懂——錄取</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3169.md"><img src="../images/m3169-ai-stocks-up-bi-sad.png" width="240" alt="為什麼有些股票一直漲？有 AI；我的一直跌？BI（悲哀）"></a><br><a href="../memes/m3169.md">為什麼有些股票一直漲？有 AI；我的一直跌？BI（悲哀）</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3183.md"><img src="../images/m3183-no-ok-mart-corner.png" width="240" alt="不 OK 歐"></a><br><a href="../memes/m3183.md">不 OK 歐</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

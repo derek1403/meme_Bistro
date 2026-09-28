@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 382 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 383 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（280）
 
@@ -479,7 +479,7 @@
 </tr>
 </table>
 
-## ★★（74）
+## ★★（75）
 
 <table>
 <tr>
@@ -605,6 +605,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2992.md"><img src="../images/m2992-iphone-headline-generator-loop.png" width="240" alt="用 for 迴圈自動產生年度 iPhone 新聞標題"></a><br><a href="../memes/m2992.md">用 for 迴圈自動產生年度 iPhone 新聞標題</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3146.md"><img src="../images/m3146-fb-rating-up-did-nothing.png" width="240" alt="FB 好評率大幅上升：我沒有亂改商標、沒有炸掉火箭"></a><br><a href="../memes/m3146.md">FB 好評率大幅上升：我沒有亂改商標、沒有炸掉火箭</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3189.md"><img src="../images/m3189-smallest-number-sort-interviewer.png" width="240" alt="面試寫找最小值：a.sort(); print(a[0])"></a><br><a href="../memes/m3189.md">面試寫找最小值：a.sort(); print(a[0])</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

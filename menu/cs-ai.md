@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 390 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 391 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（286）
 
@@ -489,7 +489,7 @@
 </tr>
 </table>
 
-## ★★（76）
+## ★★（77）
 
 <table>
 <tr>
@@ -619,6 +619,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3231.md"><img src="../images/m3231-chatgpt-remove-bad-eggplant.png" width="240" alt="太棒了！現在終於能幹這種事了：問 ChatGPT 怎麼除掉壞茄子"></a><br><a href="../memes/m3231.md">太棒了！現在終於能幹這種事了：問 ChatGPT 怎麼除掉壞茄子</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3255.md"><img src="../images/m3255-int-pointer-anya-yor.png" width="240" alt="int、int*、int**：安妮亞指向約兒"></a><br><a href="../memes/m3255.md">int、int*、int**：安妮亞指向約兒</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

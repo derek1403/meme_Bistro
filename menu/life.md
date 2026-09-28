@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1523 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1526 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1145）
+## ★（1147）
 
 <table>
 <tr>
@@ -1917,6 +1917,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3242.md"><img src="../images/m3242-only-see-you-as-boyfriend.png" width="240" alt="我只把你當男朋友看：任務成功地失敗了"></a><br><a href="../memes/m3242.md">我只把你當男朋友看：任務成功地失敗了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3247.md"><img src="../images/m3247-grandma-new-year-more-food.png" width="240" alt="全家：年菜還剩好多好飽；阿嬤：炒三盤菜下一包關廟麵"></a><br><a href="../memes/m3247.md">全家：年菜還剩好多好飽；阿嬤：炒三盤菜下一包關廟麵</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3260.md"><img src="../images/m3260-follow-car-spirited-away-ending.jpg" width="240" alt="老子跟車跟了一個多小時，就為了看到結局"></a><br><a href="../memes/m3260.md">老子跟車跟了一個多小時，就為了看到結局</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3264.md"><img src="../images/m3264-remember-killing-parents-breakfast.png" width="240" alt="你還記得十年前殺死我父母嗎？——你會記得十年前早餐吃什麼嗎？"></a><br><a href="../memes/m3264.md">你還記得十年前殺死我父母嗎？——你會記得十年前早餐吃什麼嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2100,7 +2104,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（273）
+## ⚠️ 需斟酌（274）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4829,6 +4833,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3228.md"><img src="../images/m3228-oshi-no-ko-trailer-only-fans.jpg" width="240" alt="只看過預告的動畫黨：希望我推的孩子是好看的偶像番"></a><br><a href="../memes/m3228.md">只看過預告的動畫黨：希望我推的孩子是好看的偶像番</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>白雪公主：這蘋果太大顆了，可以幫忙切小塊嗎？ — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3262.md"><img src="../images/m3262-snow-white-poison-apple-cut.png" width="240" alt="白雪公主：這蘋果太大顆了，可以幫忙切小塊嗎？"></a><br><a href="../memes/m3262.md">白雪公主：這蘋果太大顆了，可以幫忙切小塊嗎？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

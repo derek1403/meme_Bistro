@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 292 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 296 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（114）
+## ★（118）
 
 <table>
 <tr>
@@ -198,6 +198,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3223.md"><img src="../images/m3223-mario-mickey-box-office-flip.png" width="240" alt="1993 vs 2023：瑪利歐與米老鼠的票房逆轉"></a><br><a href="../memes/m3223.md">1993 vs 2023：瑪利歐與米老鼠的票房逆轉</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3240.md"><img src="../images/m3240-money-lesson-gamania.png" width="240" alt="兒子，是時候讓你了解金錢的用處：這孩子廢了"></a><br><a href="../memes/m3240.md">兒子，是時候讓你了解金錢的用處：這孩子廢了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3244.md"><img src="../images/m3244-travel-courage-not-money.png" width="240" alt="旅行不是錢的問題，是勇氣的問題——可以給我用勇氣付款的航空公司嗎？"></a><br><a href="../memes/m3244.md">旅行不是錢的問題，是勇氣的問題——可以給我用勇氣付款的航空公司嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3256.md"><img src="../images/m3256-vegan-saint-mother-hotpot-1.jpg" width="240" alt="素食聖母（一）：火鍋聚會前才說我女友吃全素"></a><br><a href="../memes/m3256.md">素食聖母（一）：火鍋聚會前才說我女友吃全素</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3257.md"><img src="../images/m3257-vegan-saint-mother-hotpot-2.jpg" width="240" alt="素食聖母（二）：大家一起嘗試吃一次素——我家不歡迎她"></a><br><a href="../memes/m3257.md">素食聖母（二）：大家一起嘗試吃一次素——我家不歡迎她</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3258.md"><img src="../images/m3258-vegan-saint-mother-hotpot-3.jpg" width="240" alt="素食聖母（三）：我只是想吃牠，又沒有要跟牠結婚"></a><br><a href="../memes/m3258.md">素食聖母（三）：我只是想吃牠，又沒有要跟牠結婚</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3259.md"><img src="../images/m3259-vegan-saint-mother-hotpot-4.jpg" width="240" alt="素食聖母（完）：我家也不歡迎你"></a><br><a href="../memes/m3259.md">素食聖母（完）：我家也不歡迎你</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（96）
 
@@ -171,7 +171,7 @@
 </tr>
 </table>
 
-## ★★（70）
+## ★★（71）
 
 <table>
 <tr>
@@ -291,6 +291,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3253.md"><img src="../images/m3253-bohr-new-year-promotion.png" width="240" alt="過年問什麼時候升職加薪？波耳：能量最低的基態才最穩定"></a><br><a href="../memes/m3253.md">過年問什麼時候升職加薪？波耳：能量最低的基態才最穩定</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3254.md"><img src="../images/m3254-maupertuis-least-action-lazy.png" width="240" alt="過年叫你出去走走？莫佩爾蒂：宇宙萬物都遵守最小作用量原理"></a><br><a href="../memes/m3254.md">過年叫你出去走走？莫佩爾蒂：宇宙萬物都遵守最小作用量原理</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

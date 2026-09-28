@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 186 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 187 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（89）
 
@@ -276,7 +276,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（35）
+## ⚠️ 需斟酌（36）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -625,6 +625,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2500.md"><img src="../images/m2500-crab-roe-is-sperm-sac.png" width="240" alt="沒用的小常識：蟹膏就是公蟹的精囊"></a><br><a href="../memes/m2500.md">沒用的小常識：蟹膏就是公蟹的精囊</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>外星人在地球做的事 vs 地球人在火星做的事 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2922.md"><img src="../images/m2922-aliens-crop-circles-humans-mars.png" width="240" alt="外星人在地球做的事 vs 地球人在火星做的事"></a><br><a href="../memes/m2922.md">外星人在地球做的事 vs 地球人在火星做的事</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

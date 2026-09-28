@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1383 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1389 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1040）
+## ★（1042）
 
 <table>
 <tr>
@@ -1742,10 +1742,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2916.md"><img src="../images/m2916-map-cars-sometimes-dont-lie.png" width="240" alt="有時候地圖沒有騙人"></a><br><a href="../memes/m2916.md">有時候地圖沒有騙人</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2918.md"><img src="../images/m2918-laptop-charger-food-warmer.png" width="240" alt="宿舍怎麼加熱食物：筆電變壓器"></a><br><a href="../memes/m2918.md">宿舍怎麼加熱食物：筆電變壓器</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2920.md"><img src="../images/m2920-idol-lying-on-piano-vs-me.png" width="240" alt="偶像躺在鋼琴上 vs 我躺在鋼琴上"></a><br><a href="../memes/m2920.md">偶像躺在鋼琴上 vs 我躺在鋼琴上</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2921.md"><img src="../images/m2921-chase-taxi-drive-slowly.png" width="240" alt="追上計程車才發現手機在手上：下雨天，開慢點"></a><br><a href="../memes/m2921.md">追上計程車才發現手機在手上：下雨天，開慢點</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（95）
+## ★★（97）
 
 <table>
 <tr>
@@ -1906,10 +1910,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2875.md"><img src="../images/m2875-magic-grandma-frieren.jpg" width="240" alt="我很喜歡魔法阿嬤！原來你也在追芙莉蓮"></a><br><a href="../memes/m2875.md">我很喜歡魔法阿嬤！原來你也在追芙莉蓮</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2889.md"><img src="../images/m2889-frieren-bocchi-title-drop-ep8.jpg" width="240" alt="第八話標題回收：葬送的芙莉蓮 vs 孤獨搖滾"></a><br><a href="../memes/m2889.md">第八話標題回收：葬送的芙莉蓮 vs 孤獨搖滾</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2923.md"><img src="../images/m2923-reply-before-question.png" width="240" alt="為什麼你每次回訊息都那麼快？"></a><br><a href="../memes/m2923.md">為什麼你每次回訊息都那麼快？</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2929.md"><img src="../images/m2929-frieren-himmel-chat-wrong.png" width="240" alt="勇者去世後 30 年：不對"></a><br><a href="../memes/m2929.md">勇者去世後 30 年：不對</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（248）
+## ⚠️ 需斟酌（250）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4388,6 +4396,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2907.md"><img src="../images/m2907-complicated-xp-puzzle-piece.png" width="240" alt="當你的 XP 過於複雜時"></a><br><a href="../memes/m2907.md">當你的 XP 過於複雜時</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>壞掉的東西直接丟垃圾桶就好 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2919.md"><img src="../images/m2919-broken-things-go-in-trash.png" width="240" alt="壞掉的東西直接丟垃圾桶就好"></a><br><a href="../memes/m2919.md">壞掉的東西直接丟垃圾桶就好</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>武士要斬遲到的上班族：我在趕時間，3 秒搞定你 — ⚠️ 槍</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2926.md"><img src="../images/m2926-samurai-late-for-work-gun.png" width="240" alt="武士要斬遲到的上班族：我在趕時間，3 秒搞定你"></a><br><a href="../memes/m2926.md">武士要斬遲到的上班族：我在趕時間，3 秒搞定你</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

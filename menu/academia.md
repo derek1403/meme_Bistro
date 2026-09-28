@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 108 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 109 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（87）
+## ★（88）
 
 <table>
 <tr>
@@ -153,6 +153,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2897.md"><img src="../images/m2897-lunch-with-magic-history-professor.png" width="240" alt="今天跟學校教魔法史的教授吃學餐"></a><br><a href="../memes/m2897.md">今天跟學校教魔法史的教授吃學餐</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2904.md"><img src="../images/m2904-brain-before-vs-during-exam.png" width="240" alt="考試前五分鐘的大腦 vs 考試開始五分鐘的大腦"></a><br><a href="../memes/m2904.md">考試前五分鐘的大腦 vs 考試開始五分鐘的大腦</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2914.md"><img src="../images/m2914-skip-exam-friends-online.png" width="240" alt="決定放棄明天的考試，發現好友全都在線上"></a><br><a href="../memes/m2914.md">決定放棄明天的考試，發現好友全都在線上</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2928.md"><img src="../images/m2928-real-gambler-skip-class.png" width="240" alt="一般的賭徒 vs 真正的賭徒：今天翹課好了"></a><br><a href="../memes/m2928.md">一般的賭徒 vs 真正的賭徒：今天翹課好了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

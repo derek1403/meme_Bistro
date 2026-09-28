@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 230 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 232 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（68）
+## ★（70）
 
 <table>
 <tr>
@@ -122,6 +122,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2883.md"><img src="../images/m2883-foreign-internship-photocopy.png" width="240" alt="外資大公司實習：流程優化與自動化（影印、蓋章、訂便當）"></a><br><a href="../memes/m2883.md">外資大公司實習：流程優化與自動化（影印、蓋章、訂便當）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2899.md"><img src="../images/m2899-adult-speech-translation.jpg" width="240" alt="成年人的話術：懂的都懂"></a><br><a href="../memes/m2899.md">成年人的話術：懂的都懂</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2924.md"><img src="../images/m2924-prove-you-are-in-taiwan.png" width="240" alt="如何用一張照片證明你在台灣？"></a><br><a href="../memes/m2924.md">如何用一張照片證明你在台灣？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2927.md"><img src="../images/m2927-justice-can-be-late-why-not-work.png" width="240" alt="正義都能遲到，為什麼上班不能遲到"></a><br><a href="../memes/m2927.md">正義都能遲到，為什麼上班不能遲到</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

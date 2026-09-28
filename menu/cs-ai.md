@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 399 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 400 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（292）
+## ★（293）
 
 <table>
 <tr>
@@ -496,6 +496,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3306.md"><img src="../images/m3306-control-flow-power-strips.png" width="240" alt="用延長線解釋程式控制結構"></a><br><a href="../memes/m3306.md">用延長線解釋程式控制結構</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3325.md"><img src="../images/m3325-ie-splinter-ninja-turtles-browsers.png" width="240" alt="IE 老鼠師父帶大四隻瀏覽器忍者龜"></a><br><a href="../memes/m3325.md">IE 老鼠師父帶大四隻瀏覽器忍者龜</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

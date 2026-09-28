@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1542 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1546 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1160）
+## ★（1164）
 
 <table>
 <tr>
@@ -1942,6 +1942,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3321.md"><img src="../images/m3321-composer-birds-on-wires.png" width="240" alt="你怎麼想出這段旋律的呢？作曲家："></a><br><a href="../memes/m3321.md">你怎麼想出這段旋律的呢？作曲家：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3322.md"><img src="../images/m3322-luffy-tattoo-gum-gum-arm.png" width="240" alt="完美的刺青不存在……存在："></a><br><a href="../memes/m3322.md">完美的刺青不存在……存在：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3326.md"><img src="../images/m3326-irasshaimase-restaurant-spongebob.png" width="240" alt="當我踏進日式餐廳：以拉蝦依媽ㄙㄟ～"></a><br><a href="../memes/m3326.md">當我踏進日式餐廳：以拉蝦依媽ㄙㄟ～</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3327.md"><img src="../images/m3327-where-is-the-tv-remote-camouflage.png" width="240" alt="遙控器在哪？——遙控器本人："></a><br><a href="../memes/m3327.md">遙控器在哪？——遙控器本人：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3328.md"><img src="../images/m3328-mudskipper-playing-a-tree.png" width="240" alt="他們總是以我為榮：我飾演一棵樹"></a><br><a href="../memes/m3328.md">他們總是以我為榮：我飾演一棵樹</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3329.md"><img src="../images/m3329-guitar-teacher-easy-chord.png" width="240" alt="吉他老師：這個和弦很簡單啦"></a><br><a href="../memes/m3329.md">吉他老師：這個和弦很簡單啦</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

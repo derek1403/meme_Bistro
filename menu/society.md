@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 305 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 307 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（126）
+## ★（128）
 
 <table>
 <tr>
@@ -218,6 +218,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3317.md"><img src="../images/m3317-plane-spotter-for-one-day.png" width="240" alt="你當航空迷多久啦？——一天"></a><br><a href="../memes/m3317.md">你當航空迷多久啦？——一天</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3318.md"><img src="../images/m3318-todays-buns-are-yesterdays.png" width="240" alt="今天早上的包子沒有昨天好吃？——這就是昨天的包子啊"></a><br><a href="../memes/m3318.md">今天早上的包子沒有昨天好吃？——這就是昨天的包子啊</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3320.md"><img src="../images/m3320-feng-shui-master-no-signal.png" width="240" alt="風水師：這靈骨塔不好，平板一點訊號都沒有"></a><br><a href="../memes/m3320.md">風水師：這靈骨塔不好，平板一點訊號都沒有</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3330.md"><img src="../images/m3330-work-smart-not-hard-square-block.jpg" width="240" alt="辦事努力不如辦事機靈——我叫你拿的方塊咧？"></a><br><a href="../memes/m3330.md">辦事努力不如辦事機靈——我叫你拿的方塊咧？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3332.md"><img src="../images/m3332-asian-parents-no-sex-ed-yes-calculus.png" width="240" alt="亞洲爸媽：性教育不准教，高等微積分沒問題"></a><br><a href="../memes/m3332.md">亞洲爸媽：性教育不准教，高等微積分沒問題</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

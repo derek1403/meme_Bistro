@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 145 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 146 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（120）
+## ★（121）
 
 <table>
 <tr>
@@ -208,6 +208,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3293.md"><img src="../images/m3293-grad-student-doing-great-cinderella.png" width="240" alt="你最近還好嗎？喔不錯啊（黑眼圈版灰姑娘）"></a><br><a href="../memes/m3293.md">你最近還好嗎？喔不錯啊（黑眼圈版灰姑娘）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3312.md"><img src="../images/m3312-freshman-guide-to-vtuber-copypasta.png" width="240" alt="大一新生入學十項須知（前七點正經，後三點推 VTuber）"></a><br><a href="../memes/m3312.md">大一新生入學十項須知（前七點正經，後三點推 VTuber）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3324.md"><img src="../images/m3324-final-report-nonsense-jutsu.png" width="240" alt="期末報告亂寫結果成績還不錯：你中我的忍術胡說八道術"></a><br><a href="../memes/m3324.md">期末報告亂寫結果成績還不錯：你中我的忍術胡說八道術</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3331.md"><img src="../images/m3331-professor-this-homework-wont-take-long.png" width="240" alt="教授：這次作業不用花太多時間"></a><br><a href="../memes/m3331.md">教授：這次作業不用花太多時間</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

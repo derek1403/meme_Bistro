@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 277 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 279 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（184）
+## ★（185）
 
 <table>
 <tr>
@@ -316,6 +316,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2592.md"><img src="../images/m2592-haggard-smile-notes.png" width="240" alt="憔悴的微笑"></a><br><a href="../memes/m2592.md">憔悴的微笑</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2610.md"><img src="../images/m2610-chinglish-homophone-duck-bubi.png" width="240" alt="不要 now 了：duck 不必"></a><br><a href="../memes/m2610.md">不要 now 了：duck 不必</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -373,7 +374,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（64）
+## ⚠️ 需斟酌（65）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1012,6 +1013,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2506.md"><img src="../images/m2506-bubble-tea-suck-my-balls.png" width="240" alt="這間餐廳真的需要換一個廣告商"></a><br><a href="../memes/m2506.md">這間餐廳真的需要換一個廣告商</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>貓派 vs 狗派——我：歐派 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2607.md"><img src="../images/m2607-cat-dog-oppai-faction.png" width="240" alt="貓派 vs 狗派——我：歐派"></a><br><a href="../memes/m2607.md">貓派 vs 狗派——我：歐派</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

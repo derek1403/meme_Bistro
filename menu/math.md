@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 320 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 321 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（146）
+## ★★（147）
 
 <table>
 <tr>
@@ -420,6 +420,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2585.md"><img src="../images/m2585-monty-hall-doors-cant-open.png" width="240" alt="門打不開的平行宇宙裡的蒙提霍爾問題"></a><br><a href="../memes/m2585.md">門打不開的平行宇宙裡的蒙提霍爾問題</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2597.md"><img src="../images/m2597-linearize-this-problem.png" width="240" alt="世界殘酷不公——幾分鐘後：我可以把它線性化！"></a><br><a href="../memes/m2597.md">世界殘酷不公——幾分鐘後：我可以把它線性化！</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2603.md"><img src="../images/m2603-time-travel-riemann-hypothesis.png" width="240" alt="時空旅行後問「最近有什麼數學新聞？」"></a><br><a href="../memes/m2603.md">時空旅行後問「最近有什麼數學新聞？」</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1202 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（884）
+## ★（891）
 
 <table>
 <tr>
@@ -1482,6 +1482,17 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2599.md"><img src="../images/m2599-drunk-friend-befriends-dolphins.png" width="240" alt="朋友喝醉後就開始亂交朋友"></a><br><a href="../memes/m2599.md">朋友喝醉後就開始亂交朋友</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2600.md"><img src="../images/m2600-not-far-we-can-walk.png" width="240" alt="那裡又不遠，我們可以用走的過去"></a><br><a href="../memes/m2600.md">那裡又不遠，我們可以用走的過去</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2602.md"><img src="../images/m2602-childhood-anime-touhou-teletubby.png" width="240" alt="跟同學討論最喜歡的童年作品時"></a><br><a href="../memes/m2602.md">跟同學討論最喜歡的童年作品時</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2604.md"><img src="../images/m2604-favorite-shop-closed-today.png" width="240" alt="想吃的那間店今天休息沒開"></a><br><a href="../memes/m2604.md">想吃的那間店今天休息沒開</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2606.md"><img src="../images/m2606-jesus-mala-hotpot-eleven.png" width="240" alt="十一次，阿明：你發誓再也不吃麻辣鍋的次數"></a><br><a href="../memes/m2606.md">十一次，阿明：你發誓再也不吃麻辣鍋的次數</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2609.md"><img src="../images/m2609-escalator-power-outage-stuck.png" width="240" alt="電梯停電，受困了將近兩小時"></a><br><a href="../memes/m2609.md">電梯停電，受困了將近兩小時</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2613.md"><img src="../images/m2613-haidilao-waiter-clown.png" width="240" alt="普通餐廳服務生 vs 海底撈服務生的工作內容"></a><br><a href="../memes/m2613.md">普通餐廳服務生 vs 海底撈服務生的工作內容</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2614.md"><img src="../images/m2614-cat-head-of-family-groceries.jpg" width="240" alt="政府：只有一家之主可以出去買菜——我的貓："></a><br><a href="../memes/m2614.md">政府：只有一家之主可以出去買菜——我的貓：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2615.md"><img src="../images/m2615-washing-machine-pasta-undo.png" width="240" alt="人生小撇步：選錯義大利麵醬就用洗衣機洗掉"></a><br><a href="../memes/m2615.md">人生小撇步：選錯義大利麵醬就用洗衣機洗掉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1639,7 +1650,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（229）
+## ⚠️ 需斟酌（230）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3928,6 +3939,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2568.md"><img src="../images/m2568-take-off-headphones-how-are-you.png" width="240" alt="他要我拿下耳機，一定有很重要的事——「你好嗎」"></a><br><a href="../memes/m2568.md">他要我拿下耳機，一定有很重要的事——「你好嗎」</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>追女生三分運氣七分努力，剩下九十分靠臉 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2601.md"><img src="../images/m2601-heartbreak-quote-signs.png" width="240" alt="追女生三分運氣七分努力，剩下九十分靠臉"></a><br><a href="../memes/m2601.md">追女生三分運氣七分努力，剩下九十分靠臉</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 208 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 209 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（57）
+## ★（58）
 
 <table>
 <tr>
@@ -103,6 +103,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2524.md"><img src="../images/m2524-taiwan-scooter-battle-button.png" width="240" alt="台灣機車按鈕全圖解：戰鬥邀請按鈕"></a><br><a href="../memes/m2524.md">台灣機車按鈕全圖解：戰鬥邀請按鈕</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2527.md"><img src="../images/m2527-clay-becomes-brick.png" width="240" alt="我是一塊黏土，可以成為任何我想成為的東西！"></a><br><a href="../memes/m2527.md">我是一塊黏土，可以成為任何我想成為的東西！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2570.md"><img src="../images/m2570-scalper-vs-investor-house.png" width="240" alt="黃牛、黃牛、黃牛……投資者"></a><br><a href="../memes/m2570.md">黃牛、黃牛、黃牛……投資者</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2611.md"><img src="../images/m2611-mcdonalds-depressing-redesign.png" width="240" alt="麥當勞為什麼從歡樂變得這麼抑鬱？"></a><br><a href="../memes/m2611.md">麥當勞為什麼從歡樂變得這麼抑鬱？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

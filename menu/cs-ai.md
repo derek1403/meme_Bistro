@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 336 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 338 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（247）
+## ★（249）
 
 <table>
 <tr>
@@ -421,6 +421,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2595.md"><img src="../images/m2595-cat-baguette-html.png" width="240" alt="程式語言麵包堆裡混進一隻貓：HTML"></a><br><a href="../memes/m2595.md">程式語言麵包堆裡混進一隻貓：HTML</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2608.md"><img src="../images/m2608-hack-wifi-play-store.png" width="240" alt="想用 Play 商店的 App 駭鄰居 Wi-Fi"></a><br><a href="../memes/m2608.md">想用 Play 商店的 App 駭鄰居 Wi-Fi</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2612.md"><img src="../images/m2612-google-assistant-cockroach-name.png" width="240" alt="有蟑螂——好棒喔，你幫他想好名字了嗎？"></a><br><a href="../memes/m2612.md">有蟑螂——好棒喔，你幫他想好名字了嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

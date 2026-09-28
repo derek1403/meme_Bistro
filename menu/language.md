@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 332 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 333 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（220）
 
@@ -379,7 +379,7 @@
 </tr>
 </table>
 
-## ★★（43）
+## ★★（44）
 
 <table>
 <tr>
@@ -454,6 +454,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3245.md"><img src="../images/m3245-pekora-mask-please.png" width="240" alt="請 Pe 戴 ko 罩"></a><br><a href="../memes/m3245.md">請 Pe 戴 ko 罩</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3292.md"><img src="../images/m3292-poor-tongue-happy-tongue.png" width="240" alt="不管吃什麼都好吃，不是「貧乏舌」而是「Happy 舌」"></a><br><a href="../memes/m3292.md">不管吃什麼都好吃，不是「貧乏舌」而是「Happy 舌」</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

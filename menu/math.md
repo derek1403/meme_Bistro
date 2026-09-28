@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 374 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 375 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（107）
 
@@ -190,7 +190,7 @@
 </tr>
 </table>
 
-## ★★（177）
+## ★★（178）
 
 <table>
 <tr>
@@ -487,6 +487,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3102.md"><img src="../images/m3102-hartshorne-something-to-cry-about.png" width="240" alt="你再哭哭啼啼，我就賞你一個值得哭的理由"></a><br><a href="../memes/m3102.md">你再哭哭啼啼，我就賞你一個值得哭的理由</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3105.md"><img src="../images/m3105-sum-integral-contour-cow.png" width="240" alt="Σ、∫、∮ 分別是三種牛"></a><br><a href="../memes/m3105.md">Σ、∫、∮ 分別是三種牛</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3108.md"><img src="../images/m3108-pi-from-e-bad-math.png" width="240" alt="只用 e 逼近 π 的嘗試"></a><br><a href="../memes/m3108.md">只用 e 逼近 π 的嘗試</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3298.md"><img src="../images/m3298-lycoris-rps-probability-textbook.png" width="240" alt="為什麼我的大學課本裡有動畫？莉可麗絲猜拳機率題"></a><br><a href="../memes/m3298.md">為什麼我的大學課本裡有動畫？莉可麗絲猜拳機率題</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 142 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（116）
+## ★（118）
 
 <table>
 <tr>
@@ -202,6 +202,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3283.md"><img src="../images/m3283-second-class-drug-is-you.jpg" width="240" alt="請問二級毒品有哪些？——是你，你讓我上癮"></a><br><a href="../memes/m3283.md">請問二級毒品有哪些？——是你，你讓我上癮</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3285.md"><img src="../images/m3285-santa-unicorn-or-finals.png" width="240" alt="聖誕老人：你想要多大隻的獨角獸娃娃？"></a><br><a href="../memes/m3285.md">聖誕老人：你想要多大隻的獨角獸娃娃？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3291.md"><img src="../images/m3291-potato-stew-teacher-poor.png" width="240" alt="馬鈴薯燉肉是芋料理——那不是因為老師家裡很窮嗎"></a><br><a href="../memes/m3291.md">馬鈴薯燉肉是芋料理——那不是因為老師家裡很窮嗎</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3293.md"><img src="../images/m3293-grad-student-doing-great-cinderella.png" width="240" alt="你最近還好嗎？喔不錯啊（黑眼圈版灰姑娘）"></a><br><a href="../memes/m3293.md">你最近還好嗎？喔不錯啊（黑眼圈版灰姑娘）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

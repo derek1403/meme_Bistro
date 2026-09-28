@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1171 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（849）
+## ★（858）
 
 <table>
 <tr>
@@ -1424,6 +1424,21 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2512.md"><img src="../images/m2512-ufo-abduct-cat-stretch.png" width="240" alt="外星人：抓住那隻貓！"></a><br><a href="../memes/m2512.md">外星人：抓住那隻貓！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2514.md"><img src="../images/m2514-boss-proposal-pinned-to-wall.png" width="240" alt="老闆：你去提案就可以了，一定會過"></a><br><a href="../memes/m2514.md">老闆：你去提案就可以了，一定會過</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2529.md"><img src="../images/m2529-booking-gay-only-hotels.jpg" width="240" alt="Booking.com 推薦：僅限男同性戀者入住"></a><br><a href="../memes/m2529.md">Booking.com 推薦：僅限男同性戀者入住</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2530.md"><img src="../images/m2530-bro-you-smell-nice.jpg" width="240" alt="會場人擠人，陌生人：兄弟你好香"></a><br><a href="../memes/m2530.md">會場人擠人，陌生人：兄弟你好香</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2531.md"><img src="../images/m2531-conan-cards-kiss-gun.jpg" width="240" alt="兩張柯南透明卡疊起來：索吻變槍口"></a><br><a href="../memes/m2531.md">兩張柯南透明卡疊起來：索吻變槍口</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2535.md"><img src="../images/m2535-peppa-pig-true-face.png" width="240" alt="佩佩豬的真面目"></a><br><a href="../memes/m2535.md">佩佩豬的真面目</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2537.md"><img src="../images/m2537-clean-room-one-sock.png" width="240" alt="應該要整理房間了——收好一隻襪子後"></a><br><a href="../memes/m2537.md">應該要整理房間了——收好一隻襪子後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2538.md"><img src="../images/m2538-wall-light-why-not-daytime.png" width="240" alt="請問鑿壁借光為什麼白天不學習？"></a><br><a href="../memes/m2538.md">請問鑿壁借光為什麼白天不學習？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2541.md"><img src="../images/m2541-why-no-husband-uncle-mike.png" width="240" alt="那你為什麼沒有老公？"></a><br><a href="../memes/m2541.md">那你為什麼沒有老公？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2542.md"><img src="../images/m2542-elden-ring-glass-half.png" width="240" alt="半杯水：樂觀、悲觀、艾爾登法環玩家"></a><br><a href="../memes/m2542.md">半杯水：樂觀、悲觀、艾爾登法環玩家</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2545.md"><img src="../images/m2545-running-inside-train.png" width="240" alt="朋友：那你快點！"></a><br><a href="../memes/m2545.md">朋友：那你快點！</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（88）
@@ -1579,7 +1594,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（224）
+## ⚠️ 需斟酌（225）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3818,6 +3833,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2513.md"><img src="../images/m2513-eye-chart-bee-surgery.png" width="240" alt="視力檢查：「bee」"></a><br><a href="../memes/m2513.md">視力檢查：「bee」</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我 23 歲，富二代，有樓有車——女：（躺平） — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2534.md"><img src="../images/m2534-rich-23-kermit-lies-down.jpg" width="240" alt="我 23 歲，富二代，有樓有車——女：（躺平）"></a><br><a href="../memes/m2534.md">我 23 歲，富二代，有樓有車——女：（躺平）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

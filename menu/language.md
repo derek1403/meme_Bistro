@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 267 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 271 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（175）
+## ★（179）
 
 <table>
 <tr>
@@ -301,6 +301,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2523.md"><img src="../images/m2523-yiran-ramen-flammable.png" width="240" alt="易燃拉麵"></a><br><a href="../memes/m2523.md">易燃拉麵</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2536.md"><img src="../images/m2536-surprise-me-punctuation-barber.png" width="240" alt="「Surprise me」：標點符號理髮"></a><br><a href="../memes/m2536.md">「Surprise me」：標點符號理髮</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2539.md"><img src="../images/m2539-drink-shop-xiang-bu-dao-ba.png" width="240" alt="喝什麼？想不到吧"></a><br><a href="../memes/m2539.md">喝什麼？想不到吧</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2543.md"><img src="../images/m2543-potato-where-is-soil.png" width="240" alt="馬鈴薯：馬的土在哪啦！"></a><br><a href="../memes/m2543.md">馬鈴薯：馬的土在哪啦！</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2544.md"><img src="../images/m2544-tongyi-bu-ding-screws.png" width="240" alt="師傅，這什麼釘法？統一不釘"></a><br><a href="../memes/m2544.md">師傅，這什麼釘法？統一不釘</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

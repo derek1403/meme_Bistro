@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 203 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 206 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（55）
+## ★（56）
 
 <table>
 <tr>
@@ -101,6 +101,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2524.md"><img src="../images/m2524-taiwan-scooter-battle-button.png" width="240" alt="台灣機車按鈕全圖解：戰鬥邀請按鈕"></a><br><a href="../memes/m2524.md">台灣機車按鈕全圖解：戰鬥邀請按鈕</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2527.md"><img src="../images/m2527-clay-becomes-brick.png" width="240" alt="我是一塊黏土，可以成為任何我想成為的東西！"></a><br><a href="../memes/m2527.md">我是一塊黏土，可以成為任何我想成為的東西！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -148,7 +149,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（125）
+## ⚠️ 需斟酌（127）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1397,6 +1398,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2485.md"><img src="../images/m2485-earth-bull-shaking-taiwan.png" width="240" alt="地牛：只是提醒你早點睡"></a><br><a href="../memes/m2485.md">地牛：只是提醒你早點睡</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我兒子在創世基金會……當植物人 — ⚠️ 疾病</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2528.md"><img src="../images/m2528-genesis-foundation-vegetative.jpg" width="240" alt="我兒子在創世基金會……當植物人"></a><br><a href="../memes/m2528.md">我兒子在創世基金會……當植物人</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>粗獷主義肛塞 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2540.md"><img src="../images/m2540-brutalist-buttplug.png" width="240" alt="粗獷主義肛塞"></a><br><a href="../memes/m2540.md">粗獷主義肛塞</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

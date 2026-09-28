@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 313 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 314 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（96）
 
@@ -171,7 +171,7 @@
 </tr>
 </table>
 
-## ★★（141）
+## ★★（142）
 
 <table>
 <tr>
@@ -408,6 +408,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2481.md"><img src="../images/m2481-sonic-grind-weierstrass.png" width="240" alt="音速小子：滑欄杆？小菜一碟——Weierstrass 函數"></a><br><a href="../memes/m2481.md">音速小子：滑欄杆？小菜一碟——Weierstrass 函數</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2510.md"><img src="../images/m2510-frieren-trig-hexagon-defense.jpg" width="240" alt="其實每個人都學過防禦魔法：三角函數六邊形"></a><br><a href="../memes/m2510.md">其實每個人都學過防禦魔法：三角函數六邊形</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2521.md"><img src="../images/m2521-diagonalisation-at-home-jordan.png" width="240" alt="我們家有對角化：Jordan 標準型"></a><br><a href="../memes/m2521.md">我們家有對角化：Jordan 標準型</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2533.md"><img src="../images/m2533-desmos-e-minus-infinity.png" width="240" alt="e^(−∞) = 0：數學家 vs Desmos"></a><br><a href="../memes/m2533.md">e^(−∞) = 0：數學家 vs Desmos</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

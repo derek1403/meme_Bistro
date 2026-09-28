@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1484 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1487 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1118）
+## ★（1119）
 
 <table>
 <tr>
@@ -1872,6 +1872,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3141.md"><img src="../images/m3141-parents-ask-where-money-went-pooh.png" width="240" alt="爸媽問你的錢都跑到哪裡去"></a><br><a href="../memes/m3141.md">爸媽問你的錢都跑到哪裡去</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3142.md"><img src="../images/m3142-fake-vacation-sausage-legs.png" width="240" alt="如何拍攝偽渡假"></a><br><a href="../memes/m3142.md">如何拍攝偽渡假</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3152.md"><img src="../images/m3152-skip-tutorial-bowling-golf.png" width="240" alt="當你跳過教學直接進入遊戲"></a><br><a href="../memes/m3152.md">當你跳過教學直接進入遊戲</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2053,7 +2054,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（263）
+## ⚠️ 需斟酌（265）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4682,6 +4683,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3130.md"><img src="../images/m3130-grim-reaper-30-minutes-delete.png" width="240" alt="死神，給我 30 分鐘，我不想兒子認為我很猥瑣"></a><br><a href="../memes/m3130.md">死神，給我 30 分鐘，我不想兒子認為我很猥瑣</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我的筆刷、我的顏料、我的畫布 — ⚠️ 屎尿</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3150.md"><img src="../images/m3150-my-brush-paint-canvas.png" width="240" alt="我的筆刷、我的顏料、我的畫布"></a><br><a href="../memes/m3150.md">我的筆刷、我的顏料、我的畫布</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>吃了野菇：電視沒插電，狗狗問你菇菇好吃嗎 — ⚠️ 中毒</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3154.md"><img src="../images/m3154-mushroom-tv-unplugged-dog-asks.png" width="240" alt="吃了野菇：電視沒插電，狗狗問你菇菇好吃嗎"></a><br><a href="../memes/m3154.md">吃了野菇：電視沒插電，狗狗問你菇菇好吃嗎</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

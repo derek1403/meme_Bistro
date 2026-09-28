@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 275 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 277 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（103）
+## ★（104）
 
 <table>
 <tr>
@@ -181,6 +181,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3144.md"><img src="../images/m3144-doksuri-typhoon-left-exit.png" width="240" alt="杜蘇芮颱風：台灣直走，太平洋右轉——結果它往台灣甩尾"></a><br><a href="../memes/m3144.md">杜蘇芮颱風：台灣直走，太平洋右轉——結果它往台灣甩尾</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3149.md"><img src="../images/m3149-client-revision-microscope.png" width="240" alt="一般人 vs 部分客戶提出稿件修改"></a><br><a href="../memes/m3149.md">一般人 vs 部分客戶提出稿件修改</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -232,7 +233,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（147）
+## ⚠️ 需斟酌（148）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1701,6 +1702,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3100.md"><img src="../images/m3100-boss-new-car-work-harder.png" width="240" alt="老闆又買一輛新車了：別放棄，只要你繼續努力"></a><br><a href="../memes/m3100.md">老闆又買一輛新車了：別放棄，只要你繼續努力</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>最新研發掃地機器人：用過的從來沒有人給過負評 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3155.md"><img src="../images/m3155-landmine-sweeping-robot.png" width="240" alt="最新研發掃地機器人：用過的從來沒有人給過負評"></a><br><a href="../memes/m3155.md">最新研發掃地機器人：用過的從來沒有人給過負評</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

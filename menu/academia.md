@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 122 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 123 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（100）
+## ★（101）
 
 <table>
 <tr>
@@ -176,6 +176,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3120.md"><img src="../images/m3120-louder-later-dismissal.png" width="240" alt="老師：越大聲就越晚下課；全班同學："></a><br><a href="../memes/m3120.md">老師：越大聲就越晚下課；全班同學：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3151.md"><img src="../images/m3151-teacher-returns-freeze.png" width="240" alt="老師說要離開卻突然折返，剛準備做亂的我們："></a><br><a href="../memes/m3151.md">老師說要離開卻突然折返，剛準備做亂的我們：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

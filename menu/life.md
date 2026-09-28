@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1150 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（841）
+## ★（847）
 
 <table>
 <tr>
@@ -1411,6 +1411,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2495.md"><img src="../images/m2495-unfriendly-washing-machine.jpg" width="240" alt="在路上遇到非常不友善的洗衣機"></a><br><a href="../memes/m2495.md">在路上遇到非常不友善的洗衣機</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2501.md"><img src="../images/m2501-cat-bread-making-process.jpg" width="240" alt="一個貓咪麵包的製作過程"></a><br><a href="../memes/m2501.md">一個貓咪麵包的製作過程</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2503.md"><img src="../images/m2503-ill-feed-you-rice-vs-shoes.png" width="240" alt="「我養你啊」：男生的意思 vs 女生的理解"></a><br><a href="../memes/m2503.md">「我養你啊」：男生的意思 vs 女生的理解</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2504.md"><img src="../images/m2504-parking-per-wheel-spare-tire.png" width="240" alt="停車 5 元 × 輪子 × 小時：我是備胎"></a><br><a href="../memes/m2504.md">停車 5 元 × 輪子 × 小時：我是備胎</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2507.md"><img src="../images/m2507-demon-king-waiting-sad-pablo.png" width="240" alt="勇者一行人在花田玩，魔王在城裡苦等"></a><br><a href="../memes/m2507.md">勇者一行人在花田玩，魔王在城裡苦等</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2508.md"><img src="../images/m2508-one-spoon-giant-spoon.png" width="240" alt="媽媽限制我只能吃一勺冰淇淋，但她忘了限制餐具"></a><br><a href="../memes/m2508.md">媽媽限制我只能吃一勺冰淇淋，但她忘了限制餐具</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2511.md"><img src="../images/m2511-dominos-pizza-rip-obituary.png" width="240" alt="達美樂訃聞：海鮮披薩與夏威夷披薩壽終正寢"></a><br><a href="../memes/m2511.md">達美樂訃聞：海鮮披薩與夏威夷披薩壽終正寢</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1567,7 +1577,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（221）
+## ⚠️ 需斟酌（223）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3776,6 +3786,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2430.md"><img src="../images/m2430-pikachu-tackle-onix.png" width="240" alt="皮卡丘，一直用撞擊！"></a><br><a href="../memes/m2430.md">皮卡丘，一直用撞擊！</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>兄弟，幫我拉出來 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2498.md"><img src="../images/m2498-hachiware-keychain-pull-me-out.jpg" width="240" alt="兄弟，幫我拉出來"></a><br><a href="../memes/m2498.md">兄弟，幫我拉出來</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這麼好吃的蟹膏哪來的？我巨蟹座的 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2499.md"><img src="../images/m2499-cancer-crab-roe-sushi.png" width="240" alt="這麼好吃的蟹膏哪來的？我巨蟹座的"></a><br><a href="../memes/m2499.md">這麼好吃的蟹膏哪來的？我巨蟹座的</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

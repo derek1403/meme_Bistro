@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 320 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 322 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（233）
+## ★（235）
 
 <table>
 <tr>
@@ -397,6 +397,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2478.md"><img src="../images/m2478-me-plugged-into-languages.png" width="240" alt="我：被 Java、JavaScript、Python、PHP 同時插著"></a><br><a href="../memes/m2478.md">我：被 Java、JavaScript、Python、PHP 同時插著</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2493.md"><img src="../images/m2493-protest-sign-if-else.png" width="240" alt="抗議標語：if / else"></a><br><a href="../memes/m2493.md">抗議標語：if / else</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2502.md"><img src="../images/m2502-linux-32gb-ram-kitten.png" width="240" alt="我幫筆電裝了 32GB RAM，我的 Linux 只用這麼一點"></a><br><a href="../memes/m2502.md">我幫筆電裝了 32GB RAM，我的 Linux 只用這麼一點</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2505.md"><img src="../images/m2505-ai-generated-meme-gibberish.png" width="240" alt="如果你請 AI 生成梗圖"></a><br><a href="../memes/m2505.md">如果你請 AI 生成梗圖</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

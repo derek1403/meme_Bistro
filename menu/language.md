@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 264 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 266 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（174）
 
@@ -301,7 +301,7 @@
 </tr>
 </table>
 
-## ★★（27）
+## ★★（28）
 
 <table>
 <tr>
@@ -349,9 +349,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2391.md"><img src="../images/m2391-key-bent-qiao-qiao.png" width="240" alt="鑰匙翹翹了"></a><br><a href="../memes/m2391.md">鑰匙翹翹了</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2399.md"><img src="../images/m2399-landlord-rent-increase-mermaid.jpg" width="240" alt="房東其實是真珠美人魚吧——品種是增租美人魚"></a><br><a href="../memes/m2399.md">房東其實是真珠美人魚吧——品種是增租美人魚</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2497.md"><img src="../images/m2497-pakuchi-sugite-kusa-mori.jpg" width="240" alt="香菜多到草，超越草變成森林"></a><br><a href="../memes/m2497.md">香菜多到草，超越草變成森林</a><br><sub>🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（63）
+## ⚠️ 需斟酌（64）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -980,6 +983,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2324.md"><img src="../images/m2324-breakup-still-do-friends.png" width="240" alt="分手了還能做朋友嗎？太卑微了——應該說分手了還能做嗎朋友"></a><br><a href="../memes/m2324.md">分手了還能做朋友嗎？太卑微了——應該說分手了還能做嗎朋友</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這間餐廳真的需要換一個廣告商 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2506.md"><img src="../images/m2506-bubble-tea-suck-my-balls.png" width="240" alt="這間餐廳真的需要換一個廣告商"></a><br><a href="../memes/m2506.md">這間餐廳真的需要換一個廣告商</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

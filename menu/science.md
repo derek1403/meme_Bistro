@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 169 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 170 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（76）
+## ★（77）
 
 <table>
 <tr>
@@ -136,6 +136,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2578.md"><img src="../images/m2578-einstein-grandchildren-energy.jpg" width="240" alt="愛因斯坦：要產生新物質，需要絕大的能量"></a><br><a href="../memes/m2578.md">愛因斯坦：要產生新物質，需要絕大的能量</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2622.md"><img src="../images/m2622-baby-catapult-trebuchet.png" width="240" alt="寶寶投石機？應該叫寶寶彈射器"></a><br><a href="../memes/m2622.md">寶寶投石機？應該叫寶寶彈射器</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

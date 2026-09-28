@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1217 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（891）
+## ★（896）
 
 <table>
 <tr>
@@ -1494,6 +1494,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2614.md"><img src="../images/m2614-cat-head-of-family-groceries.jpg" width="240" alt="政府：只有一家之主可以出去買菜——我的貓："></a><br><a href="../memes/m2614.md">政府：只有一家之主可以出去買菜——我的貓：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2615.md"><img src="../images/m2615-washing-machine-pasta-undo.png" width="240" alt="人生小撇步：選錯義大利麵醬就用洗衣機洗掉"></a><br><a href="../memes/m2615.md">人生小撇步：選錯義大利麵醬就用洗衣機洗掉</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2616.md"><img src="../images/m2616-soda-tier-list-water.png" width="240" alt="汽水排行榜：S 級只有白開水"></a><br><a href="../memes/m2616.md">汽水排行榜：S 級只有白開水</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2617.md"><img src="../images/m2617-east-west-food-abuse.png" width="240" alt="東方人如何惡搞西方食物 vs 西方人如何惡搞東方食物"></a><br><a href="../memes/m2617.md">東方人如何惡搞西方食物 vs 西方人如何惡搞東方食物</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2619.md"><img src="../images/m2619-taiwan-cold-wave-quilt-scooter.png" width="240" alt="台灣寒流騎機車"></a><br><a href="../memes/m2619.md">台灣寒流騎機車</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2623.md"><img src="../images/m2623-fuel-gauge-angle-problem.png" width="240" alt="一切都是角度問題"></a><br><a href="../memes/m2623.md">一切都是角度問題</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2625.md"><img src="../images/m2625-am-i-fat-girls-vs-boys.png" width="240" alt="我胖嗎？女孩們 vs 男孩們"></a><br><a href="../memes/m2625.md">我胖嗎？女孩們 vs 男孩們</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（89）
@@ -1650,7 +1659,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（230）
+## ⚠️ 需斟酌（232）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3949,6 +3958,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2601.md"><img src="../images/m2601-heartbreak-quote-signs.png" width="240" alt="追女生三分運氣七分努力，剩下九十分靠臉"></a><br><a href="../memes/m2601.md">追女生三分運氣七分努力，剩下九十分靠臉</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>想把什麼放進去哪裡？在我的戶頭放個十億 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2618.md"><img src="../images/m2618-bl-put-billion-in-account.png" width="240" alt="想把什麼放進去哪裡？在我的戶頭放個十億"></a><br><a href="../memes/m2618.md">想把什麼放進去哪裡？在我的戶頭放個十億</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我憋不住想尿尿，我想喝點溫暖的東西 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2620.md"><img src="../images/m2620-vtuber-pee-warm-drink.png" width="240" alt="我憋不住想尿尿，我想喝點溫暖的東西"></a><br><a href="../memes/m2620.md">我憋不住想尿尿，我想喝點溫暖的東西</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

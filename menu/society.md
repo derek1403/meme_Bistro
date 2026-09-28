@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 362 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 364 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（163）
+## ★（164）
 
 <table>
 <tr>
@@ -281,10 +281,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3537.md"><img src="../images/m3537-cats-holding-up-economy.jpg" width="240" alt="感謝那些在非常時期為我們撐住經濟的人（貓）"></a><br><a href="../memes/m3537.md">感謝那些在非常時期為我們撐住經濟的人（貓）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3554.md"><img src="../images/m3554-social-distance-baptism-water-gun.jpg" width="240" alt="社交安全距離洗禮：用水槍"></a><br><a href="../memes/m3554.md">社交安全距離洗禮：用水槍</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（34）
+## ★★（35）
 
 <table>
 <tr>
@@ -344,6 +345,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3545.md"><img src="../images/m3545-beach-social-distance-circle.png" width="240" alt="海灘上的最佳社交距離：準備好抵禦海熊的攻擊了"></a><br><a href="../memes/m3545.md">海灘上的最佳社交距離：準備好抵禦海熊的攻擊了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3552.md"><img src="../images/m3552-group-player-power-pyramid.png" width="240" alt="本群玩家實力結構圖：萌新最強，我在最底"></a><br><a href="../memes/m3552.md">本群玩家實力結構圖：萌新最強，我在最底</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

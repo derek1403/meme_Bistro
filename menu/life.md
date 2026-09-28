@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1319 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1325 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（986）
+## ★（991）
 
 <table>
 <tr>
@@ -1652,6 +1652,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2782.md"><img src="../images/m2782-elevator-button-1-worn.png" width="240" alt="從電梯按鈕看出想下班的心"></a><br><a href="../memes/m2782.md">從電梯按鈕看出想下班的心</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2786.md"><img src="../images/m2786-dont-worry-he-doesnt-bite.png" width="240" alt="放心兄弟，他不會咬人的"></a><br><a href="../memes/m2786.md">放心兄弟，他不會咬人的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2788.md"><img src="../images/m2788-sensor-faucet-99-percent-sensing.png" width="240" alt="感應式水龍頭：1% 沖水，99% 感應"></a><br><a href="../memes/m2788.md">感應式水龍頭：1% 沖水，99% 感應</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2789.md"><img src="../images/m2789-how-to-make-money-book.png" width="240" alt="室友寫了一本《如何賺大錢》，但沒錢出版"></a><br><a href="../memes/m2789.md">室友寫了一本《如何賺大錢》，但沒錢出版</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2792.md"><img src="../images/m2792-fed-up-with-life-window.png" width="240" alt="我受夠人生了……看來得買些啤酒來喝喝"></a><br><a href="../memes/m2792.md">我受夠人生了……看來得買些啤酒來喝喝</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2795.md"><img src="../images/m2795-beware-people-who-get-up-in-winter.png" width="240" alt="小心那些冬天能一下起床的人"></a><br><a href="../memes/m2795.md">小心那些冬天能一下起床的人</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2796.md"><img src="../images/m2796-fries-vegetable-ketchup-fruit-salad.png" width="240" alt="薯條是蔬菜，番茄醬是水果，合起來是沙拉"></a><br><a href="../memes/m2796.md">薯條是蔬菜，番茄醬是水果，合起來是沙拉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1810,7 +1819,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（243）
+## ⚠️ 需斟酌（244）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4239,6 +4248,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2775.md"><img src="../images/m2775-spongebob-movie-with-parents.png" width="240" alt="跟爸媽看電影，男女主角突然開始瑟瑟"></a><br><a href="../memes/m2775.md">跟爸媽看電影，男女主角突然開始瑟瑟</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>小心地滑（已經有人滑過了） — ⚠️ 血跡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2791.md"><img src="../images/m2791-wet-floor-sign-bloody.png" width="240" alt="小心地滑（已經有人滑過了）"></a><br><a href="../memes/m2791.md">小心地滑（已經有人滑過了）</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

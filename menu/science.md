@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 217 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 219 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（99）
 
@@ -176,7 +176,7 @@
 </tr>
 </table>
 
-## ★★（72）
+## ★★（74）
 
 <table>
 <tr>
@@ -298,6 +298,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3253.md"><img src="../images/m3253-bohr-new-year-promotion.png" width="240" alt="過年問什麼時候升職加薪？波耳：能量最低的基態才最穩定"></a><br><a href="../memes/m3253.md">過年問什麼時候升職加薪？波耳：能量最低的基態才最穩定</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3254.md"><img src="../images/m3254-maupertuis-least-action-lazy.png" width="240" alt="過年叫你出去走走？莫佩爾蒂：宇宙萬物都遵守最小作用量原理"></a><br><a href="../memes/m3254.md">過年叫你出去走走？莫佩爾蒂：宇宙萬物都遵守最小作用量原理</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3272.md"><img src="../images/m3272-flight-2023-to-2022.png" width="240" alt="從 2023 年起飛，降落在 2022 年"></a><br><a href="../memes/m3272.md">從 2023 年起飛，降落在 2022 年</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3304.md"><img src="../images/m3304-typhoon-hinnamnor-is-chisato.png" width="240" alt="如果你老婆有迷人的大眼、極強的破壞力——那她是錦木千束（颱風版）"></a><br><a href="../memes/m3304.md">如果你老婆有迷人的大眼、極強的破壞力——那她是錦木千束（颱風版）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3305.md"><img src="../images/m3305-chisato-is-typhoon-hinnamnor.png" width="240" alt="如果你老婆有迷人的大眼、極強的破壞力——那她是強烈颱風軒嵐諾（千束版）"></a><br><a href="../memes/m3305.md">如果你老婆有迷人的大眼、極強的破壞力——那她是強烈颱風軒嵐諾（千束版）</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

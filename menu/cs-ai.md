@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 398 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 399 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（291）
+## ★（292）
 
 <table>
 <tr>
@@ -493,6 +493,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3281.md"><img src="../images/m3281-pandas-600mb-csv-bullet.png" width="240" alt="用 Pandas DataFrame 讀 600 MB 的 csv"></a><br><a href="../memes/m3281.md">用 Pandas DataFrame 讀 600 MB 的 csv</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3284.md"><img src="../images/m3284-latex-index-infinite-loop-252.png" width="240" alt="LaTeX 手冊索引：infinite loop, 252——就在第 252 頁"></a><br><a href="../memes/m3284.md">LaTeX 手冊索引：infinite loop, 252——就在第 252 頁</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3296.md"><img src="../images/m3296-pm-how-long-find-bugs.png" width="240" alt="專案經理：找到所有 bug 要多久？——一小時到 11 個月之間"></a><br><a href="../memes/m3296.md">專案經理：找到所有 bug 要多久？——一小時到 11 個月之間</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3306.md"><img src="../images/m3306-control-flow-power-strips.png" width="240" alt="用延長線解釋程式控制結構"></a><br><a href="../memes/m3306.md">用延長線解釋程式控制結構</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

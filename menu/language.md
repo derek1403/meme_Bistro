@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 365 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 366 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（237）
 
@@ -500,7 +500,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（75）
+## ⚠️ 需斟酌（76）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1249,6 +1249,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3568.md"><img src="../images/m3568-kindergarten-cook-cooks-kids.jpg" width="240" alt="誠聘幼兒園做飯阿姨：擅長做飯，負責烹製小朋友"></a><br><a href="../memes/m3568.md">誠聘幼兒園做飯阿姨：擅長做飯，負責烹製小朋友</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>天靈靈地靈靈，把你的屌變蒼蠅 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3595.md"><img src="../images/m3595-turn-your-poop-into-fly.png" width="240" alt="天靈靈地靈靈，把你的屌變蒼蠅"></a><br><a href="../memes/m3595.md">天靈靈地靈靈，把你的屌變蒼蠅</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

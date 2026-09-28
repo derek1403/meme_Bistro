@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 230 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 231 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（102）
 
@@ -335,7 +335,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（42）
+## ⚠️ 需斟酌（43）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -754,6 +754,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3588.md"><img src="../images/m3588-carrot-terminal-velocity.jpg" width="240" alt="空投胡蘿蔔救野生動物：活過了野火卻被超高速胡蘿蔔砸爆"></a><br><a href="../memes/m3588.md">空投胡蘿蔔救野生動物：活過了野火卻被超高速胡蘿蔔砸爆</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不同元素可以讓煙火有不同顏色：鋇、鍶、鎂、鈉、鈾、銅 — ⚠️ 核爆</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3598.md"><img src="../images/m3598-firework-colors-uranium.jpg" width="240" alt="不同元素可以讓煙火有不同顏色：鋇、鍶、鎂、鈉、鈾、銅"></a><br><a href="../memes/m3598.md">不同元素可以讓煙火有不同顏色：鋇、鍶、鎂、鈉、鈾、銅</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

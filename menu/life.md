@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1680 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1685 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1269）
+## ★（1273）
 
 <table>
 <tr>
@@ -2124,6 +2124,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3587.md"><img src="../images/m3587-scratch-congo-back-tattoo.jpg" width="240" alt="可以幫我抓癢嗎？哪裡？剛果共和國"></a><br><a href="../memes/m3587.md">可以幫我抓癢嗎？哪裡？剛果共和國</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3590.md"><img src="../images/m3590-oysters-look-like-pugs.png" width="240" alt="不完全一樣但總覺得很像：巴哥犬和牡蠣"></a><br><a href="../memes/m3590.md">不完全一樣但總覺得很像：巴哥犬和牡蠣</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3594.md"><img src="../images/m3594-gamer-breakup-phone-call.jpg" width="240" alt="美式機車父子吵架：她不讓我玩遊戲——分手啦幹！"></a><br><a href="../memes/m3594.md">美式機車父子吵架：她不讓我玩遊戲——分手啦幹！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3597.md"><img src="../images/m3597-only-you-didnt-change-season.jpg" width="240" alt="全班就你不知道換季"></a><br><a href="../memes/m3597.md">全班就你不知道換季</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3599.md"><img src="../images/m3599-sign-language-kamehameha.jpg" width="240" alt="如何把手語學好？"></a><br><a href="../memes/m3599.md">如何把手語學好？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3600.md"><img src="../images/m3600-open-bottle-strength-levels.jpg" width="240" alt="開瓶器的強度等級：從開瓶器到用牙齒"></a><br><a href="../memes/m3600.md">開瓶器的強度等級：從開瓶器到用牙齒</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（112）
@@ -2319,7 +2327,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（299）
+## ⚠️ 需斟酌（300）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5308,6 +5316,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3577.md"><img src="../images/m3577-ran-find-shrinking-cure-first.jpg" width="240" alt="蘭：找到可以變大的藥之後才來找我？你真夠低級的"></a><br><a href="../memes/m3577.md">蘭：找到可以變大的藥之後才來找我？你真夠低級的</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>身分證上寫未滿 18 歲請勿觀看——可是它露點了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3596.md"><img src="../images/m3596-patrick-id-card-nsfw.jpg" width="240" alt="身分證上寫未滿 18 歲請勿觀看——可是它露點了"></a><br><a href="../memes/m3596.md">身分證上寫未滿 18 歲請勿觀看——可是它露點了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

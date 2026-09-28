@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 292 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 293 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（195）
 
@@ -336,7 +336,7 @@
 </tr>
 </table>
 
-## ★★（32）
+## ★★（33）
 
 <table>
 <tr>
@@ -392,6 +392,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2680.md"><img src="../images/m2680-frieren-evangelion-pun.jpg" width="240" alt="欣　世紀　福音　戰士"></a><br><a href="../memes/m2680.md">欣　世紀　福音　戰士</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2794.md"><img src="../images/m2794-confucius-bury-you-here.png" width="240" alt="子曰：既來之，則安之（安葬在這裡）"></a><br><a href="../memes/m2794.md">子曰：既來之，則安之（安葬在這裡）</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2802.md"><img src="../images/m2802-lost-the-case-airline-luggage.png" width="240" alt="告航空公司弄丟行李：I lost the case"></a><br><a href="../memes/m2802.md">告航空公司弄丟行李：I lost the case</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

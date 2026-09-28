@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 219 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 220 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（63）
 
@@ -160,7 +160,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（133）
+## ⚠️ 需斟酌（134）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1489,6 +1489,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2763.md"><img src="../images/m2763-demon-why-tang-monk.png" width="240" alt="老百姓隨便捉，幹嘛非捉唐僧？老百姓太苦了"></a><br><a href="../memes/m2763.md">老百姓隨便捉，幹嘛非捉唐僧？老百姓太苦了</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>為什麼別人二十幾歲就猝死，而你氣色很好 — ⚠️ 過勞死</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2798.md"><img src="../images/m2798-why-others-die-young-at-work.png" width="240" alt="為什麼別人二十幾歲就猝死，而你氣色很好"></a><br><a href="../memes/m2798.md">為什麼別人二十幾歲就猝死，而你氣色很好</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

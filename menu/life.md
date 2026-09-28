@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1325 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1329 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（991）
+## ★（992）
 
 <table>
 <tr>
@@ -1661,10 +1661,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2796.md"><img src="../images/m2796-fries-vegetable-ketchup-fruit-salad.png" width="240" alt="薯條是蔬菜，番茄醬是水果，合起來是沙拉"></a><br><a href="../memes/m2796.md">薯條是蔬菜，番茄醬是水果，合起來是沙拉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2801.md"><img src="../images/m2801-gta-rare-car-everywhere.png" width="240" alt="GTA 裡終於找到稀有車，然後滿街都是"></a><br><a href="../memes/m2801.md">GTA 裡終於找到稀有車，然後滿街都是</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（90）
+## ★★（92）
 
 <table>
 <tr>
@@ -1817,9 +1818,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2586.md"><img src="../images/m2586-groundhog-day-feb-7.png" width="240" alt="又是 2 月 2 日？我活在今天暫時停止裡！"></a><br><a href="../memes/m2586.md">又是 2 月 2 日？我活在今天暫時停止裡！</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2641.md"><img src="../images/m2641-time-signature-countdown-5432.png" width="240" alt="樂譜拍號沒寫？我在跨年倒數 5 4 3 2"></a><br><a href="../memes/m2641.md">樂譜拍號沒寫？我在跨年倒數 5 4 3 2</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2799.md"><img src="../images/m2799-me-around-dudes-vs-girls.png" width="240" alt="在男生面前的我 vs 在女生面前的我"></a><br><a href="../memes/m2799.md">在男生面前的我 vs 在女生面前的我</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2804.md"><img src="../images/m2804-that-genius-jotaro-woody.jpg" width="240" alt="又是那個天才：這次居然還是承太郎"></a><br><a href="../memes/m2804.md">又是那個天才：這次居然還是承太郎</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（244）
+## ⚠️ 需斟酌（245）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4258,6 +4263,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2791.md"><img src="../images/m2791-wet-floor-sign-bloody.png" width="240" alt="小心地滑（已經有人滑過了）"></a><br><a href="../memes/m2791.md">小心地滑（已經有人滑過了）</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>回到它們的故鄉，在親戚朋友面前吃掉它們 — ⚠️ 輕微地獄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2797.md"><img src="../images/m2797-sushi-date-on-the-beach.png" width="240" alt="回到它們的故鄉，在親戚朋友面前吃掉它們"></a><br><a href="../memes/m2797.md">回到它們的故鄉，在親戚朋友面前吃掉它們</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

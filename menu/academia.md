@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 96 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 97 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（76）
+## ★（77）
 
 <table>
 <tr>
@@ -136,6 +136,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2793.md"><img src="../images/m2793-seventy-percent-find-love-in-college.png" width="240" alt="七成的人能在大學找到愛情"></a><br><a href="../memes/m2793.md">七成的人能在大學找到愛情</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2800.md"><img src="../images/m2800-headache-types-data-shaping.png" width="240" alt="各種頭痛：做專案時想把數據弄成想要的形狀"></a><br><a href="../memes/m2800.md">各種頭痛：做專案時想把數據弄成想要的形狀</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

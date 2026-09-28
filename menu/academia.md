@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 87 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 88 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（68）
 
@@ -125,7 +125,7 @@
 </tr>
 </table>
 
-## ★★（10）
+## ★★（11）
 
 <table>
 <tr>
@@ -145,6 +145,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2382.md"><img src="../images/m2382-parisi-deadline-registration-log.png" width="240" alt="諾貝爾獎得主 Parisi：會議報名人數 N(t) = c·ln[T*/(T*−t)]"></a><br><a href="../memes/m2382.md">諾貝爾獎得主 Parisi：會議報名人數 N(t) = c·ln[T*/(T*−t)]</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2519.md"><img src="../images/m2519-brilliance-self-vs-outsider-rating.png" width="240" alt="各學科的自評聰明度 vs 外人評分"></a><br><a href="../memes/m2519.md">各學科的自評聰明度 vs 外人評分</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

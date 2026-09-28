@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（847）
+## ★（849）
 
 <table>
 <tr>
@@ -1421,6 +1421,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2511.md"><img src="../images/m2511-dominos-pizza-rip-obituary.png" width="240" alt="達美樂訃聞：海鮮披薩與夏威夷披薩壽終正寢"></a><br><a href="../memes/m2511.md">達美樂訃聞：海鮮披薩與夏威夷披薩壽終正寢</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2512.md"><img src="../images/m2512-ufo-abduct-cat-stretch.png" width="240" alt="外星人：抓住那隻貓！"></a><br><a href="../memes/m2512.md">外星人：抓住那隻貓！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2514.md"><img src="../images/m2514-boss-proposal-pinned-to-wall.png" width="240" alt="老闆：你去提案就可以了，一定會過"></a><br><a href="../memes/m2514.md">老闆：你去提案就可以了，一定會過</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1577,7 +1579,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（223）
+## ⚠️ 需斟酌（224）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3806,6 +3808,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2499.md"><img src="../images/m2499-cancer-crab-roe-sushi.png" width="240" alt="這麼好吃的蟹膏哪來的？我巨蟹座的"></a><br><a href="../memes/m2499.md">這麼好吃的蟹膏哪來的？我巨蟹座的</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>視力檢查：「bee」 — ⚠️ 醫療</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2513.md"><img src="../images/m2513-eye-chart-bee-surgery.png" width="240" alt="視力檢查：「bee」"></a><br><a href="../memes/m2513.md">視力檢查：「bee」</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

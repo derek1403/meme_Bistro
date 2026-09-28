@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 166 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 167 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（73）
+## ★（74）
 
 <table>
 <tr>
@@ -131,6 +131,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2480.md"><img src="../images/m2480-solar-powerbank-flashlight.png" width="240" alt="用手電筒照太陽能行動電源幫手機充電"></a><br><a href="../memes/m2480.md">用手電筒照太陽能行動電源幫手機充電</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2522.md"><img src="../images/m2522-rethink-diet-megacalories.png" width="240" alt="重新思考你的飲食：1500 大卡 vs 124 兆大卡"></a><br><a href="../memes/m2522.md">重新思考你的飲食：1500 大卡 vs 124 兆大卡</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

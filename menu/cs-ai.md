@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 322 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 327 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（235）
+## ★（239）
 
 <table>
 <tr>
@@ -401,6 +401,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2505.md"><img src="../images/m2505-ai-generated-meme-gibberish.png" width="240" alt="如果你請 AI 生成梗圖"></a><br><a href="../memes/m2505.md">如果你請 AI 生成梗圖</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2515.md"><img src="../images/m2515-chatgpt-docker-error-loki.png" width="240" alt="拿超冷門的 Docker 錯誤訊息問 ChatGPT"></a><br><a href="../memes/m2515.md">拿超冷門的 Docker 錯誤訊息問 ChatGPT</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2516.md"><img src="../images/m2516-free-wifi-shark-lure.png" width="240" alt="免費 Wi-Fi：底下是駭客鯊魚"></a><br><a href="../memes/m2516.md">免費 Wi-Fi：底下是駭客鯊魚</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2518.md"><img src="../images/m2518-baby-hello-world-programmer.png" width="240" alt="男孩還是女孩？「Hello, world」——是工程師"></a><br><a href="../memes/m2518.md">男孩還是女孩？「Hello, world」——是工程師</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2526.md"><img src="../images/m2526-sleep-in-coding-class-time.png" width="240" alt="程式課打瞌睡：9:10 → 9:05"></a><br><a href="../memes/m2526.md">程式課打瞌睡：9:10 → 9:05</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -518,7 +524,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（22）
+## ⚠️ 需斟酌（23）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -737,6 +743,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2473.md"><img src="../images/m2473-santa-os-in-html.png" width="240" alt="親愛的聖誕老人，我想用 HTML 寫作業系統"></a><br><a href="../memes/m2473.md">親愛的聖誕老人，我想用 HTML 寫作業系統</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>怎麼確認他們都死了？「C++ 很簡單」 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2520.md"><img src="../images/m2520-cpp-is-easy-battlefield.png" width="240" alt="怎麼確認他們都死了？「C++ 很簡單」"></a><br><a href="../memes/m2520.md">怎麼確認他們都死了？「C++ 很簡單」</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

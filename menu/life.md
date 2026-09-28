@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1296 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1301 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（964）
+## ★（969）
 
 <table>
 <tr>
@@ -1616,6 +1616,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2748.md"><img src="../images/m2748-foam-hand-thumb-zoomed.png" width="240" alt="泡沫手：近看 vs 遠看"></a><br><a href="../memes/m2748.md">泡沫手：近看 vs 遠看</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2752.md"><img src="../images/m2752-bad-boy-speed-limit-13.png" width="240" alt="女生只愛壞壞的男生：限速 12½，我開 13"></a><br><a href="../memes/m2752.md">女生只愛壞壞的男生：限速 12½，我開 13</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2754.md"><img src="../images/m2754-technically-kettle-teapot.png" width="240" alt="喝冰水排出溫熱的尿，技術上你是熱水壺"></a><br><a href="../memes/m2754.md">喝冰水排出溫熱的尿，技術上你是熱水壺</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2756.md"><img src="../images/m2756-dashboard-says-im-fine.jpg" width="240" alt="為什麼男人搞得懂儀表板卻搞不懂女人？"></a><br><a href="../memes/m2756.md">為什麼男人搞得懂儀表板卻搞不懂女人？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2757.md"><img src="../images/m2757-seal-tangyuan-lie-down.png" width="240" alt="小海豹吃湯圓：吃完就直接躺"></a><br><a href="../memes/m2757.md">小海豹吃湯圓：吃完就直接躺</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2758.md"><img src="../images/m2758-snow-parking-drift-marks.png" width="240" alt="冬天是駕車技術表露無遺的季節"></a><br><a href="../memes/m2758.md">冬天是駕車技術表露無遺的季節</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

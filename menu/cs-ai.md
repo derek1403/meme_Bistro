@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 349 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（256）
+## ★（257）
 
 <table>
 <tr>
@@ -436,6 +436,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2717.md"><img src="../images/m2717-onigiri-zip-7zip.png" width="240" alt="飯糰變成了「飯糰.zip」"></a><br><a href="../memes/m2717.md">飯糰變成了「飯糰.zip」</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2753.md"><img src="../images/m2753-cyber-security-guard.png" width="240" alt="資安：專業人士以為 vs 家人親戚以為"></a><br><a href="../memes/m2753.md">資安：專業人士以為 vs 家人親戚以為</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 138 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（114）
+## ★（116）
 
 <table>
 <tr>
@@ -198,6 +198,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3263.md"><img src="../images/m3263-phone-unread-papers.png" width="240" alt="她翻你手機想抓偷吃，只找到 2GB 沒讀的論文"></a><br><a href="../memes/m3263.md">她翻你手機想抓偷吃，只找到 2GB 沒讀的論文</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3275.md"><img src="../images/m3275-world-cup-final-vs-final-exam.png" width="240" alt="我想去看世界盃冠軍賽，期末考把我拉回來"></a><br><a href="../memes/m3275.md">我想去看世界盃冠軍賽，期末考把我拉回來</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3279.md"><img src="../images/m3279-school-best-system-error.png" width="240" alt="學校：我們擁有最優秀的系統"></a><br><a href="../memes/m3279.md">學校：我們擁有最優秀的系統</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3283.md"><img src="../images/m3283-second-class-drug-is-you.jpg" width="240" alt="請問二級毒品有哪些？——是你，你讓我上癮"></a><br><a href="../memes/m3283.md">請問二級毒品有哪些？——是你，你讓我上癮</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3285.md"><img src="../images/m3285-santa-unicorn-or-finals.png" width="240" alt="聖誕老人：你想要多大隻的獨角獸娃娃？"></a><br><a href="../memes/m3285.md">聖誕老人：你想要多大隻的獨角獸娃娃？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

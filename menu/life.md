@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1530 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1531 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1150）
+## ★（1151）
 
 <table>
 <tr>
@@ -1926,6 +1926,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3271.md"><img src="../images/m3271-century-egg-pudding.jpg" width="240" alt="今天的點心是皮蛋布丁"></a><br><a href="../memes/m3271.md">今天的點心是皮蛋布丁</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3282.md"><img src="../images/m3282-bocchi-weekday-cycle.png" width="240" alt="小孤獨的一週：月曜到日曜就寢時，無限循環"></a><br><a href="../memes/m3282.md">小孤獨的一週：月曜到日曜就寢時，無限循環</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

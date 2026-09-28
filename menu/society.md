@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 298 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 301 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（120）
+## ★（122）
 
 <table>
 <tr>
@@ -209,9 +209,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3268.md"><img src="../images/m3268-unavailable-in-your-region.png" width="240" alt="我在歐洲，想看酷酷的日本音樂和遊戲——此區域不提供"></a><br><a href="../memes/m3268.md">我在歐洲，想看酷酷的日本音樂和遊戲——此區域不提供</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3276.md"><img src="../images/m3276-marathon-only-last-place-finishes.png" width="240" alt="馬拉松第一名跑錯，只有最後一名完賽"></a><br><a href="../memes/m3276.md">馬拉松第一名跑錯，只有最後一名完賽</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3288.md"><img src="../images/m3288-before-after-work-cat.jpg" width="240" alt="上班前：今天要溫柔對待所有人；上班後：把你們都鯊了！"></a><br><a href="../memes/m3288.md">上班前：今天要溫柔對待所有人；上班後：把你們都鯊了！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3289.md"><img src="../images/m3289-cyclist-third-sat-behind-second.jpg" width="240" alt="第三名很滿意，畢竟忘了騎腳踏車來"></a><br><a href="../memes/m3289.md">第三名很滿意，畢竟忘了騎腳踏車來</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（25）
+## ★★（26）
 
 <table>
 <tr>
@@ -256,6 +260,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2987.md"><img src="../images/m2987-cao-cao-your-wife-is-great.jpg" width="240" alt="WIFE_HUNTER_CAO_CAO：你老婆真棒！"></a><br><a href="../memes/m2987.md">WIFE_HUNTER_CAO_CAO：你老婆真棒！</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3286.md"><img src="../images/m3286-germany-yonko-japan-won.png" width="240" alt="德國是四皇等級，那日本呢？大概是惡龍吧——居然贏了！"></a><br><a href="../memes/m3286.md">德國是四皇等級，那日本呢？大概是惡龍吧——居然贏了！</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

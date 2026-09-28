@@ -459,7 +459,7 @@
 - 🍺 [如果我變成蚊子](../memes/m0191.md) ★ ⚠️ 輕微性暗示
 - 💻 [Claude Mythos 登基](../memes/m0194.md) ★
 - 🎓 [用博碩士論文系統看玄幻故事](../memes/m0197.md) ★
-- 🍺 [撞穿牆壁的兩人](../memes/m0199.md) ★★
+- 🍺 [人形洞要接吻才能過？妹紅和輝夜選擇直接撞牆](../memes/m0199.md) ★★
 - 🌍 [一句話就被惹怒](../memes/m0201.md) ★ ⚠️ 宗教
 - 🎓 [The data are… vs The data is…](../memes/m0202.md) ★★
 - 💻 [一堆證照 vs 隨便一個 Linux 使用者](../memes/m0203.md) ★

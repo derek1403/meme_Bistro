@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1227 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（903）
+## ★（910）
 
 <table>
 <tr>
@@ -1514,6 +1514,19 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2639.md"><img src="../images/m2639-typo-friend-understands.png" width="240" alt="聊天打錯字，朋友還是看懂了"></a><br><a href="../memes/m2639.md">聊天打錯字，朋友還是看懂了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2647.md"><img src="../images/m2647-alarm-in-1h32m-mr-krabs.png" width="240" alt="鬧鐘將於 1 小時 32 分鐘後響鈴"></a><br><a href="../memes/m2647.md">鬧鐘將於 1 小時 32 分鐘後響鈴</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2649.md"><img src="../images/m2649-pizza-dough-blanket-long-side.png" width="240" alt="睡前找被子哪一邊是長邊"></a><br><a href="../memes/m2649.md">睡前找被子哪一邊是長邊</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2650.md"><img src="../images/m2650-cracker-dash-line-liar.png" width="240" alt="沿著虛線掰——騙子！"></a><br><a href="../memes/m2650.md">沿著虛線掰——騙子！</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2651.md"><img src="../images/m2651-dad-work-for-toys.jpg" width="240" alt="爸，為什麼你每天都要上班？"></a><br><a href="../memes/m2651.md">爸，為什麼你每天都要上班？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2652.md"><img src="../images/m2652-quit-drinking-liquor-sellers-family.png" width="240" alt="想過戒酒，但賣酒的人也有家要養"></a><br><a href="../memes/m2652.md">想過戒酒，但賣酒的人也有家要養</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2653.md"><img src="../images/m2653-toddlers-laptops-i-ate-mud.png" width="240" alt="現在的三歲小孩會開筆電，我三歲在吃土"></a><br><a href="../memes/m2653.md">現在的三歲小孩會開筆電，我三歲在吃土</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2655.md"><img src="../images/m2655-candle-in-wind-wood-carving.png" width="240" alt="你的生命已如風中殘燭（真）"></a><br><a href="../memes/m2655.md">你的生命已如風中殘燭（真）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2657.md"><img src="../images/m2657-milk-among-wine-decision.png" width="240" alt="看來有人在這裡做了個決定"></a><br><a href="../memes/m2657.md">看來有人在這裡做了個決定</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（90）
@@ -1671,7 +1684,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（234）
+## ⚠️ 需斟酌（235）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4010,6 +4023,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2636.md"><img src="../images/m2636-wild-sweet-potato-mortar.png" width="240" alt="這種野生地瓜要烤多久才會熟？"></a><br><a href="../memes/m2636.md">這種野生地瓜要烤多久才會熟？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>看到了嗎？那是未來——我什麼都沒看到 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2658.md"><img src="../images/m2658-woody-buzz-no-future.png" width="240" alt="看到了嗎？那是未來——我什麼都沒看到"></a><br><a href="../memes/m2658.md">看到了嗎？那是未來——我什麼都沒看到</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

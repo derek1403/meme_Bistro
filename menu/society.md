@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 212 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 213 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（59）
 
@@ -154,7 +154,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（130）
+## ⚠️ 需斟酌（131）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1453,6 +1453,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2629.md"><img src="../images/m2629-white-paper-unplug.png" width="240" alt="白紙運動"></a><br><a href="../memes/m2629.md">白紙運動</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>燒報紙煮飯的飯鍋，地震後家人不再說話了 — ⚠️ 天災</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2659.md"><img src="../images/m2659-newspaper-rice-cooker-earthquake.png" width="240" alt="燒報紙煮飯的飯鍋，地震後家人不再說話了"></a><br><a href="../memes/m2659.md">燒報紙煮飯的飯鍋，地震後家人不再說話了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

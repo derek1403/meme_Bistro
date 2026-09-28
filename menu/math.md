@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 323 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 324 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（148）
+## ★★（149）
 
 <table>
 <tr>
@@ -424,6 +424,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2624.md"><img src="../images/m2624-chicken-egg-bijection-russell.png" width="240" alt="先有雞還是先有蛋？羅素：有一個對射函數"></a><br><a href="../memes/m2624.md">先有雞還是先有蛋？羅素：有一個對射函數</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2656.md"><img src="../images/m2656-taylor-remainder-among-us.png" width="240" alt="泰勒展開的餘項被投出太空"></a><br><a href="../memes/m2656.md">泰勒展開的餘項被投出太空</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

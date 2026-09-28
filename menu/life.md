@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1626 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1629 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1230）
+## ★（1232）
 
 <table>
 <tr>
@@ -2059,6 +2059,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3486.md"><img src="../images/m3486-mom-weighs-42-tons.jpg" width="240" alt="媽媽的體重 42（t）：今天盡量不在兒子的飯裡下毒"></a><br><a href="../memes/m3486.md">媽媽的體重 42（t）：今天盡量不在兒子的飯裡下毒</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3488.md"><img src="../images/m3488-kabedon-salt-shaker.png" width="240" alt="壁咚造型胡椒罐：一壁咚就撒出胡椒"></a><br><a href="../memes/m3488.md">壁咚造型胡椒罐：一壁咚就撒出胡椒</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3492.md"><img src="../images/m3492-lost-friend-at-party-kitten.jpg" width="240" alt="去陌生派對，結果找不到帶你去的朋友"></a><br><a href="../memes/m3492.md">去陌生派對，結果找不到帶你去的朋友</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3493.md"><img src="../images/m3493-hesitate-vs-consider.png" width="240" alt="會猶豫就是想要，會考慮就是不想要"></a><br><a href="../memes/m3493.md">會猶豫就是想要，會考慮就是不想要</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（107）
@@ -2245,7 +2249,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（289）
+## ⚠️ 需斟酌（290）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5134,6 +5138,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3467.md"><img src="../images/m3467-charmander-put-out-fire.jpg" width="240" alt="剛收服小火龍的男人：敵人接近了，把火滅了"></a><br><a href="../memes/m3467.md">剛收服小火龍的男人：敵人接近了，把火滅了</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>牙醫：接下來會有點痛喔——我睡過妳老公了 — ⚠️ 外遇</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3490.md"><img src="../images/m3490-dentist-this-will-hurt.jpg" width="240" alt="牙醫：接下來會有點痛喔——我睡過妳老公了"></a><br><a href="../memes/m3490.md">牙醫：接下來會有點痛喔——我睡過妳老公了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

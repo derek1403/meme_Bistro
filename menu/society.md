@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 347 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（159）
+## ★（160）
 
 <table>
 <tr>
@@ -273,6 +273,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3479.md"><img src="../images/m3479-tainan-sugar-free-illegal.jpg" width="240" alt="客人點無糖飲料怎麼辦？報警，因為無糖違法——台南飲料店錄取"></a><br><a href="../memes/m3479.md">客人點無糖飲料怎麼辦？報警，因為無糖違法——台南飲料店錄取</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3480.md"><img src="../images/m3480-social-distance-cpr.jpg" width="240" alt="顧及社交距離的救命訓練"></a><br><a href="../memes/m3480.md">顧及社交距離的救命訓練</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3487.md"><img src="../images/m3487-otaku-revenge.jpeg" width="240" alt="肥宅的復仇：女友跟人跑了，於是我……"></a><br><a href="../memes/m3487.md">肥宅的復仇：女友跟人跑了，於是我……</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3491.md"><img src="../images/m3491-typhoon-day-three-treasures.jpg" width="240" alt="颱風天有三寶：麻將、泡麵、睡到飽——服務業：去你的三寶"></a><br><a href="../memes/m3491.md">颱風天有三寶：麻將、泡麵、睡到飽——服務業：去你的三寶</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

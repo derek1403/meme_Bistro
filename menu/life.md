@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1379 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1383 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1036）
+## ★（1040）
 
 <table>
 <tr>
@@ -1736,6 +1736,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2909.md"><img src="../images/m2909-wont-think-about-it-again.png" width="240" alt="好了我不會再想那件事了——接下來一整天的我"></a><br><a href="../memes/m2909.md">好了我不會再想那件事了——接下來一整天的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2910.md"><img src="../images/m2910-birthday-cake-screenshot-conversation.png" width="240" alt="生日蛋糕不知道要印什麼？那就印這段對話"></a><br><a href="../memes/m2910.md">生日蛋糕不知道要印什麼？那就印這段對話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2911.md"><img src="../images/m2911-achievement-open-main-menu.png" width="240" alt="成就：成功打開遊戲主選單（剩下 0.6% 的玩家）"></a><br><a href="../memes/m2911.md">成就：成功打開遊戲主選單（剩下 0.6% 的玩家）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2916.md"><img src="../images/m2916-map-cars-sometimes-dont-lie.png" width="240" alt="有時候地圖沒有騙人"></a><br><a href="../memes/m2916.md">有時候地圖沒有騙人</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2918.md"><img src="../images/m2918-laptop-charger-food-warmer.png" width="240" alt="宿舍怎麼加熱食物：筆電變壓器"></a><br><a href="../memes/m2918.md">宿舍怎麼加熱食物：筆電變壓器</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

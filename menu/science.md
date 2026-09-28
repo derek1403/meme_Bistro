@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 184 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 186 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（87）
+## ★（89）
 
 <table>
 <tr>
@@ -153,6 +153,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2750.md"><img src="../images/m2750-intelligent-life-too-many-idiots.png" width="240" alt="宇宙有智慧生物嗎？地球：笨蛋太多所以沒有"></a><br><a href="../memes/m2750.md">宇宙有智慧生物嗎？地球：笨蛋太多所以沒有</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2845.md"><img src="../images/m2845-molten-steel-failed-casting-art.png" width="240" alt="研究室裡的「藝術品」：溶鋼倒歪了"></a><br><a href="../memes/m2845.md">研究室裡的「藝術品」：溶鋼倒歪了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2877.md"><img src="../images/m2877-engineering-flowchart-wd40-duct-tape.png" width="240" alt="工程流程圖：WD-40 與膠帶"></a><br><a href="../memes/m2877.md">工程流程圖：WD-40 與膠帶</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2915.md"><img src="../images/m2915-physics-textbook-made-me-cry.jpg" width="240" alt="讓你讀到哭的書：普通物理學第 14 版——作者：喜極而泣"></a><br><a href="../memes/m2915.md">讓你讀到哭的書：普通物理學第 14 版——作者：喜極而泣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2917.md"><img src="../images/m2917-its-a-chemistree.png" width="240" alt="It's a chemistree"></a><br><a href="../memes/m2917.md">It's a chemistree</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

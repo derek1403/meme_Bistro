@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 383 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 385 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（175）
+## ★（176）
 
 <table>
 <tr>
@@ -301,10 +301,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3635.md"><img src="../images/m3635-tainan-breakfast-beef-hotpot.png" width="240" alt="台南人的早午餐就是樸實無華：一桌溫體牛火鍋"></a><br><a href="../memes/m3635.md">台南人的早午餐就是樸實無華：一桌溫體牛火鍋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3640.md"><img src="../images/m3640-why-choose-smallest-road.png" width="240" alt="甚麼路不選，偏偏選最小條的"></a><br><a href="../memes/m3640.md">甚麼路不選，偏偏選最小條的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（38）
+## ★★（39）
 
 <table>
 <tr>
@@ -370,6 +371,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3579.md"><img src="../images/m3579-guild-pyramid-newbie-top.png" width="240" alt="公會人設金字塔：萌新 > 大佬 > 大腿 > 熟手 > 渣渣"></a><br><a href="../memes/m3579.md">公會人設金字塔：萌新 > 大佬 > 大腿 > 熟手 > 渣渣</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3603.md"><img src="../images/m3603-wrong-stamp-emperor-knows.png" width="240" alt="投票帶錯印章：「朕知道了」"></a><br><a href="../memes/m3603.md">投票帶錯印章：「朕知道了」</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3638.md"><img src="../images/m3638-point-at-moon-sniper.png" width="240" alt="食指指月亮會被割耳朵——月球上的狙擊手：還有誰"></a><br><a href="../memes/m3638.md">食指指月亮會被割耳朵——月球上的狙擊手：還有誰</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

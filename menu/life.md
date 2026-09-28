@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1709 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1714 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1287）
+## ★（1291）
 
 <table>
 <tr>
@@ -2154,9 +2154,17 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3631.md"><img src="../images/m3631-years-of-effort-coffee.jpg" width="240" alt="經過多年的努力，我終於買得起這杯咖啡了"></a><br><a href="../memes/m3631.md">經過多年的努力，我終於買得起這杯咖啡了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3637.md"><img src="../images/m3637-kirby-doctor-inhale.jpg" width="240" alt="卡比看醫生：好的，吸氣——雪倫，讓下一位病人進來"></a><br><a href="../memes/m3637.md">卡比看醫生：好的，吸氣——雪倫，讓下一位病人進來</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3639.md"><img src="../images/m3639-grandparents-cake-cry.png" width="240" alt="祖父想偷買蛋糕給祖母被罵，祖母擔心老爺子不見了，兩人一起大哭"></a><br><a href="../memes/m3639.md">祖父想偷買蛋糕給祖母被罵，祖母擔心老爺子不見了，兩人一起大哭</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3643.md"><img src="../images/m3643-olaf-taller-than-levi.png" width="240" alt="Google 查身高：雪寶 162 公分，兵長 160 公分"></a><br><a href="../memes/m3643.md">Google 查身高：雪寶 162 公分，兵長 160 公分</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3644.md"><img src="../images/m3644-why-not-answer-kitten-on-phone.jpg" width="240" alt="媽媽：為什麼我打電話你都不接？我：（小貓坐在手機上）"></a><br><a href="../memes/m3644.md">媽媽：為什麼我打電話你都不接？我：（小貓坐在手機上）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3645.md"><img src="../images/m3645-baby-yoda-no-loot.png" width="240" alt="回到了我死掉的地方，卻沒看到任何掉落物"></a><br><a href="../memes/m3645.md">回到了我死掉的地方，卻沒看到任何掉落物</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（115）
+## ★★（116）
 
 <table>
 <tr>
@@ -2351,6 +2359,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3627.md"><img src="../images/m3627-snowball-fight-men-vs-women.jpg" width="240" alt="打雪仗（女）vs 打雪仗（男）"></a><br><a href="../memes/m3627.md">打雪仗（女）vs 打雪仗（男）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3642.md"><img src="../images/m3642-the-world-jojo-poster.png" width="240" alt="《The WORLD》：不論世界如何崩壞，我想再給你一臺壓路機"></a><br><a href="../memes/m3642.md">《The WORLD》：不論世界如何崩壞，我想再給你一臺壓路機</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

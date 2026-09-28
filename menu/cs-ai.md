@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 407 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 408 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（297）
+## ★（298）
 
 <table>
 <tr>
@@ -503,6 +503,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3372.md"><img src="../images/m3372-yama-backend-management-system.jpg" width="240" alt="夢到自己死了，閻羅王要我把生死簿做成後台管理系統"></a><br><a href="../memes/m3372.md">夢到自己死了，閻羅王要我把生死簿做成後台管理系統</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3569.md"><img src="../images/m3569-excel-untitled-goose.jpg" width="240" alt="你會 Excel 嗎？請寄一個你在用的檔案——一隻像素鵝"></a><br><a href="../memes/m3569.md">你會 Excel 嗎？請寄一個你在用的檔案——一隻像素鵝</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3620.md"><img src="../images/m3620-photoshop-sounds-premium.jpg" width="240" alt="能用 Photoshop 嗎？聽起來比 PS 高級一點"></a><br><a href="../memes/m3620.md">能用 Photoshop 嗎？聽起來比 PS 高級一點</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3641.md"><img src="../images/m3641-hello-world-first-program.png" width="240" alt="第一次寫程式語言就像是：HELLO WORLD"></a><br><a href="../memes/m3641.md">第一次寫程式語言就像是：HELLO WORLD</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

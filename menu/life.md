@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1505 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1507 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1132）
+## ★（1133）
 
 <table>
 <tr>
@@ -1896,10 +1896,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3204.md"><img src="../images/m3204-girls-outfits-daily-guy-yearly.png" width="240" alt="女生一天換三套，男生三年同一套"></a><br><a href="../memes/m3204.md">女生一天換三套，男生三年同一套</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3218.md"><img src="../images/m3218-stop-wasting-money-nessie-ladle.png" width="240" alt="不會再浪費錢亂買東西——尼斯湖水怪湯勺！"></a><br><a href="../memes/m3218.md">不會再浪費錢亂買東西——尼斯湖水怪湯勺！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（103）
+## ★★（104）
 
 <table>
 <tr>
@@ -2074,6 +2075,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3068.md"><img src="../images/m3068-first-base-two-stage-left-turn.png" width="240" alt="避免一壘壘包棒球活動事故方案：兩段式跑壘"></a><br><a href="../memes/m3068.md">避免一壘壘包棒球活動事故方案：兩段式跑壘</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3214.md"><img src="../images/m3214-how-bad-anime-recommendation.png" width="240" alt="你有多壞？看完四月是你的謊言，推薦末日時在做什麼"></a><br><a href="../memes/m3214.md">你有多壞？看完四月是你的謊言，推薦末日時在做什麼</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

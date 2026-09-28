@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 385 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 387 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（282）
+## ★（284）
 
 <table>
 <tr>
@@ -478,6 +478,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3175.md"><img src="../images/m3175-grandpa-nokia-fell-10-floors.png" width="240" alt="阿公，再講一次你從 10 樓掉下來的故事"></a><br><a href="../memes/m3175.md">阿公，再講一次你從 10 樓掉下來的故事</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3197.md"><img src="../images/m3197-robot-binary-poem.png" width="240" alt="我為你寫了首詩：一串二進位，好美"></a><br><a href="../memes/m3197.md">我為你寫了首詩：一串二進位，好美</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3203.md"><img src="../images/m3203-nobody-listens-google-facebook-ads.png" width="240" alt="沒有人想聽我說話——Google 和 Facebook 廣告：我們聽"></a><br><a href="../memes/m3203.md">沒有人想聽我說話——Google 和 Facebook 廣告：我們聽</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3209.md"><img src="../images/m3209-ai-violin-concerto-cello.png" width="240" alt="請 AI 生成小提琴協奏曲，AI："></a><br><a href="../memes/m3209.md">請 AI 生成小提琴協奏曲，AI：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3216.md"><img src="../images/m3216-software-quality-e-mc2.png" width="240" alt="軟體品質第一定律：e = mc²"></a><br><a href="../memes/m3216.md">軟體品質第一定律：e = mc²</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

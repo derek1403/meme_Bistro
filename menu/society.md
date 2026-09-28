@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 285 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 288 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（111）
 
@@ -244,7 +244,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（149）
+## ⚠️ 需斟酌（152）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1733,6 +1733,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3160.md"><img src="../images/m3160-photoshop-remove-cleaning-lady.png" width="240" alt="請幫我把後面的清潔大媽修掉——完成囉"></a><br><a href="../memes/m3160.md">請幫我把後面的清潔大媽修掉——完成囉</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當觀光潛艇裡的人「醒來」時 — ⚠️ 死亡、真實災難</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3210.md"><img src="../images/m3210-titan-sub-wake-up-titanic.jpg" width="240" alt="當觀光潛艇裡的人「醒來」時"></a><br><a href="../memes/m3210.md">當觀光潛艇裡的人「醒來」時</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>大富翁一輩子不缺錢，最後居然是缺氧 — ⚠️ 死亡、真實災難</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3211.md"><img src="../images/m3211-rich-never-lack-money-lack-oxygen.jpg" width="240" alt="大富翁一輩子不缺錢，最後居然是缺氧"></a><br><a href="../memes/m3211.md">大富翁一輩子不缺錢，最後居然是缺氧</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>辛普森再次預言：潛艇氧氣不足 — ⚠️ 真實災難</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3212.md"><img src="../images/m3212-simpsons-predict-titan-sub.jpg" width="240" alt="辛普森再次預言：潛艇氧氣不足"></a><br><a href="../memes/m3212.md">辛普森再次預言：潛艇氧氣不足</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

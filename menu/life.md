@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1399 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1405 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1050）
+## ★（1054）
 
 <table>
 <tr>
@@ -1759,6 +1759,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2944.md"><img src="../images/m2944-shout-attack-names-poker.png" width="240" alt="看動漫嫌喊招式名羞恥，打牌時：10JQKA！"></a><br><a href="../memes/m2944.md">看動漫嫌喊招式名羞恥，打牌時：10JQKA！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2947.md"><img src="../images/m2947-grilled-pumpkin-still-hard.png" width="240" alt="吃燒肉時的烤南瓜：我還很硬呢"></a><br><a href="../memes/m2947.md">吃燒肉時的烤南瓜：我還很硬呢</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2950.md"><img src="../images/m2950-cool-dream-forgotten-7-seconds.png" width="240" alt="這個夢超酷——七秒後：什麼夢？"></a><br><a href="../memes/m2950.md">這個夢超酷——七秒後：什麼夢？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2951.md"><img src="../images/m2951-family-harmony-vs-board-game-combo.png" width="240" alt="家庭和諧還是超強 combo 比較重要？"></a><br><a href="../memes/m2951.md">家庭和諧還是超強 combo 比較重要？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2954.md"><img src="../images/m2954-blanch-first-then-sukiyaki.png" width="240" alt="媽媽：先把食材燙熟，這樣就不怕烤沒熟"></a><br><a href="../memes/m2954.md">媽媽：先把食材燙熟，這樣就不怕烤沒熟</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2956.md"><img src="../images/m2956-banana-dolphins-talent.png" width="240" alt="老闆問我有什麼才藝：香蕉海豚"></a><br><a href="../memes/m2956.md">老闆問我有什麼才藝：香蕉海豚</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（99）
@@ -1931,7 +1939,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（250）
+## ⚠️ 需斟酌（252）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4430,6 +4438,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2926.md"><img src="../images/m2926-samurai-late-for-work-gun.png" width="240" alt="武士要斬遲到的上班族：我在趕時間，3 秒搞定你"></a><br><a href="../memes/m2926.md">武士要斬遲到的上班族：我在趕時間，3 秒搞定你</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>把龍蝦擺成了你吃不起的樣子 — ⚠️ 看起來像蟑螂</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2952.md"><img src="../images/m2952-lobster-plated-like-cockroach.png" width="240" alt="把龍蝦擺成了你吃不起的樣子"></a><br><a href="../memes/m2952.md">把龍蝦擺成了你吃不起的樣子</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>惡靈古堡反派變成怪物，打贏之後怎麼辦？ — ⚠️ 血肉</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2955.md"><img src="../images/m2955-resident-evil-villain-after-winning.png" width="240" alt="惡靈古堡反派變成怪物，打贏之後怎麼辦？"></a><br><a href="../memes/m2955.md">惡靈古堡反派變成怪物，打贏之後怎麼辦？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 236 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（72）
+## ★（73）
 
 <table>
 <tr>
@@ -128,6 +128,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2927.md"><img src="../images/m2927-justice-can-be-late-why-not-work.png" width="240" alt="正義都能遲到，為什麼上班不能遲到"></a><br><a href="../memes/m2927.md">正義都能遲到，為什麼上班不能遲到</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2930.md"><img src="../images/m2930-online-dating-secret-handsome-face.png" width="240" alt="網路交友約出女生的秘訣：一張帥臉"></a><br><a href="../memes/m2930.md">網路交友約出女生的秘訣：一張帥臉</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2932.md"><img src="../images/m2932-vacation-parasailing-laptop.png" width="240" alt="度假中，但客戶要最後一刻改設計"></a><br><a href="../memes/m2932.md">度假中，但客戶要最後一刻改設計</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2953.md"><img src="../images/m2953-company-management-cart.png" width="240" alt="管理差的公司 vs 好的公司 vs 我工作的公司"></a><br><a href="../memes/m2953.md">管理差的公司 vs 好的公司 vs 我工作的公司</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

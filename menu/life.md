@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1621 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1626 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1225）
+## ★（1230）
 
 <table>
 <tr>
@@ -2051,6 +2051,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3482.md"><img src="../images/m3482-how-i-spend-money.jpg" width="240" alt="我怎樣花錢：其他都省，只有書店揮金如土"></a><br><a href="../memes/m3482.md">我怎樣花錢：其他都省，只有書店揮金如土</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3483.md"><img src="../images/m3483-crossdresser-that-girl-is-me.jpg" width="240" alt="把女裝的時間拿去交女友——「那女生是我」"></a><br><a href="../memes/m3483.md">把女裝的時間拿去交女友——「那女生是我」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3484.md"><img src="../images/m3484-prehistoric-vs-ubereats.jpg" width="240" alt="史前人類肚子餓就去打獵，現代人：我的 Uber Eats 怎麼還沒來"></a><br><a href="../memes/m3484.md">史前人類肚子餓就去打獵，現代人：我的 Uber Eats 怎麼還沒來</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3485.md"><img src="../images/m3485-glass-table-needs-assembly.jpg" width="240" alt="玻璃桌販售 $3600，需組裝"></a><br><a href="../memes/m3485.md">玻璃桌販售 $3600，需組裝</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3486.md"><img src="../images/m3486-mom-weighs-42-tons.jpg" width="240" alt="媽媽的體重 42（t）：今天盡量不在兒子的飯裡下毒"></a><br><a href="../memes/m3486.md">媽媽的體重 42（t）：今天盡量不在兒子的飯裡下毒</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3488.md"><img src="../images/m3488-kabedon-salt-shaker.png" width="240" alt="壁咚造型胡椒罐：一壁咚就撒出胡椒"></a><br><a href="../memes/m3488.md">壁咚造型胡椒罐：一壁咚就撒出胡椒</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

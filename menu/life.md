@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1217 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1224 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（896）
+## ★（901）
 
 <table>
 <tr>
@@ -1502,6 +1502,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2623.md"><img src="../images/m2623-fuel-gauge-angle-problem.png" width="240" alt="一切都是角度問題"></a><br><a href="../memes/m2623.md">一切都是角度問題</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2625.md"><img src="../images/m2625-am-i-fat-girls-vs-boys.png" width="240" alt="我胖嗎？女孩們 vs 男孩們"></a><br><a href="../memes/m2625.md">我胖嗎？女孩們 vs 男孩們</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2626.md"><img src="../images/m2626-home-after-work-still-alive.png" width="240" alt="上了一整天班，終於下班回到家：還活著"></a><br><a href="../memes/m2626.md">上了一整天班，終於下班回到家：還活著</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2627.md"><img src="../images/m2627-drunk-forgot-uber-eats.png" width="240" alt="醉到忘記自己叫了外送"></a><br><a href="../memes/m2627.md">醉到忘記自己叫了外送</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2628.md"><img src="../images/m2628-tainan-three-restaurants.jpg" width="240" alt="台南人貼三間餐廳，不是要你選一家"></a><br><a href="../memes/m2628.md">台南人貼三間餐廳，不是要你選一家</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2632.md"><img src="../images/m2632-kfc-work-mcdonalds-life.png" width="240" alt="肯德基是工作，麥當勞是生活"></a><br><a href="../memes/m2632.md">肯德基是工作，麥當勞是生活</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2633.md"><img src="../images/m2633-ikea-customers-buy-sharks.png" width="240" alt="IKEA 客人實際上買的：鯊魚"></a><br><a href="../memes/m2633.md">IKEA 客人實際上買的：鯊魚</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1659,7 +1668,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（232）
+## ⚠️ 需斟酌（234）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3978,6 +3987,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2620.md"><img src="../images/m2620-vtuber-pee-warm-drink.png" width="240" alt="我憋不住想尿尿，我想喝點溫暖的東西"></a><br><a href="../memes/m2620.md">我憋不住想尿尿，我想喝點溫暖的東西</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>美術老師要你回收家中垃圾當材料 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2630.md"><img src="../images/m2630-condom-butterfly-net-art.png" width="240" alt="美術老師要你回收家中垃圾當材料"></a><br><a href="../memes/m2630.md">美術老師要你回收家中垃圾當材料</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這種野生地瓜要烤多久才會熟？ — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2636.md"><img src="../images/m2636-wild-sweet-potato-mortar.png" width="240" alt="這種野生地瓜要烤多久才會熟？"></a><br><a href="../memes/m2636.md">這種野生地瓜要烤多久才會熟？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 338 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 340 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（249）
+## ★（250）
 
 <table>
 <tr>
@@ -424,6 +424,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2608.md"><img src="../images/m2608-hack-wifi-play-store.png" width="240" alt="想用 Play 商店的 App 駭鄰居 Wi-Fi"></a><br><a href="../memes/m2608.md">想用 Play 商店的 App 駭鄰居 Wi-Fi</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2612.md"><img src="../images/m2612-google-assistant-cockroach-name.png" width="240" alt="有蟑螂——好棒喔，你幫他想好名字了嗎？"></a><br><a href="../memes/m2612.md">有蟑螂——好棒喔，你幫他想好名字了嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2634.md"><img src="../images/m2634-train-junior-devs-pushpins.png" width="240" alt="如何訓練新手工程師"></a><br><a href="../memes/m2634.md">如何訓練新手工程師</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（66）
@@ -541,7 +544,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（23）
+## ⚠️ 需斟酌（24）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -770,6 +773,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2520.md"><img src="../images/m2520-cpp-is-easy-battlefield.png" width="240" alt="怎麼確認他們都死了？「C++ 很簡單」"></a><br><a href="../memes/m2520.md">怎麼確認他們都死了？「C++ 很簡單」</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>發現自己一直在用行動數據而不是 Wi-Fi — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2635.md"><img src="../images/m2635-mobile-data-instead-of-wifi.png" width="240" alt="發現自己一直在用行動數據而不是 Wi-Fi"></a><br><a href="../memes/m2635.md">發現自己一直在用行動數據而不是 Wi-Fi</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

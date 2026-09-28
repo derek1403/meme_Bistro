@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 210 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（58）
 
@@ -153,7 +153,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（129）
+## ⚠️ 需斟酌（130）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1442,6 +1442,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2621.md"><img src="../images/m2621-milk-tea-china-flood.png" width="240" alt="台灣奶茶、香港奶茶、泰國奶茶、中國奶茶"></a><br><a href="../memes/m2621.md">台灣奶茶、香港奶茶、泰國奶茶、中國奶茶</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>白紙運動 — ⚠️ 政治、死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2629.md"><img src="../images/m2629-white-paper-unplug.png" width="240" alt="白紙運動"></a><br><a href="../memes/m2629.md">白紙運動</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

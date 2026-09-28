@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 195 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 196 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（91）
 
@@ -164,7 +164,7 @@
 </tr>
 </table>
 
-## ★★（63）
+## ★★（64）
 
 <table>
 <tr>
@@ -271,6 +271,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3006.md"><img src="../images/m3006-oscilloscope-expectation-anime.png" width="240" alt="教授以為我用示波器看波形，實際上我在畫動畫"></a><br><a href="../memes/m3006.md">教授以為我用示波器看波形，實際上我在畫動畫</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3017.md"><img src="../images/m3017-one-horse-15-horsepower.png" width="240" alt="當我發現一匹馬有 15 馬力"></a><br><a href="../memes/m3017.md">當我發現一匹馬有 15 馬力</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3028.md"><img src="../images/m3028-time-travel-failed-physics-student.png" width="240" alt="時空旅行成功了？問問物理系學生就知道"></a><br><a href="../memes/m3028.md">時空旅行成功了？問問物理系學生就知道</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3096.md"><img src="../images/m3096-astronomers-blame-three.png" width="240" alt="天文學家：為什麼每次出事都有你們三個？"></a><br><a href="../memes/m3096.md">天文學家：為什麼每次出事都有你們三個？</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

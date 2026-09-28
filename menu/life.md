@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1458 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1463 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1097）
+## ★（1102）
 
 <table>
 <tr>
@@ -1837,6 +1837,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3083.md"><img src="../images/m3083-goodnight-not-sleeping.png" width="240" alt="晚安 ≠ 我要睡覺了"></a><br><a href="../memes/m3083.md">晚安 ≠ 我要睡覺了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3088.md"><img src="../images/m3088-railroad-crossing-dont-sign.png" width="240" alt="平交道警告牌：請不要用各種姿勢勉強穿越"></a><br><a href="../memes/m3088.md">平交道警告牌：請不要用各種姿勢勉強穿越</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3090.md"><img src="../images/m3090-gym-mcdonalds-sign.png" width="240" alt="你人在哪？健身房啦！傳照片來"></a><br><a href="../memes/m3090.md">你人在哪？健身房啦！傳照片來</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3091.md"><img src="../images/m3091-cancel-interview-long-plank.png" width="240" alt="臨時取消面試，只為了看這位老兄最後會怎樣"></a><br><a href="../memes/m3091.md">臨時取消面試，只為了看這位老兄最後會怎樣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3094.md"><img src="../images/m3094-cardboard-gecko-cats.png" width="240" alt="用紙板剪一隻壁虎貼牆上，貓全部來了"></a><br><a href="../memes/m3094.md">用紙板剪一隻壁虎貼牆上，貓全部來了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3095.md"><img src="../images/m3095-sequel-announced-crying-thumbs-up.png" width="240" alt="作品放送完，結尾直接續作製作決定"></a><br><a href="../memes/m3095.md">作品放送完，結尾直接續作製作決定</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3097.md"><img src="../images/m3097-vow-no-more-staying-up.png" width="240" alt="我發誓再也不熬夜了；如果再熬夜，那我就再發誓"></a><br><a href="../memes/m3097.md">我發誓再也不熬夜了；如果再熬夜，那我就再發誓</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

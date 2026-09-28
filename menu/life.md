@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1603 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1607 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1209）
+## ★（1212）
 
 <table>
 <tr>
@@ -2024,6 +2024,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3449.md"><img src="../images/m3449-wrong-weapon-wrong-room.jpg" width="240" alt="看來有人拿錯武器了——不，是你走錯房間"></a><br><a href="../memes/m3449.md">看來有人拿錯武器了——不，是你走錯房間</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3451.md"><img src="../images/m3451-cat-brings-snake.jpg" width="240" alt="你每次抓東西回來我都睜隻眼閉隻眼，但這次死也不開門"></a><br><a href="../memes/m3451.md">你每次抓東西回來我都睜隻眼閉隻眼，但這次死也不開門</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3453.md"><img src="../images/m3453-landlord-polite-cat.jpg" width="240" alt="公寓不能養寵物——好啦，牠看起來好有禮貌"></a><br><a href="../memes/m3453.md">公寓不能養寵物——好啦，牠看起來好有禮貌</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3457.md"><img src="../images/m3457-money-in-memories.jpg" width="240" alt="錢都放家裡還是銀行裡？都放在我的回憶裡"></a><br><a href="../memes/m3457.md">錢都放家裡還是銀行裡？都放在我的回憶裡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3458.md"><img src="../images/m3458-spiral-of-desire-cats.jpg" width="240" alt="慾望的螺旋：三隻貓頭尾相連"></a><br><a href="../memes/m3458.md">慾望的螺旋：三隻貓頭尾相連</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（107）
@@ -2210,7 +2215,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（287）
+## ⚠️ 需斟酌（288）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5079,6 +5084,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3444.md"><img src="../images/m3444-masturbation-hell-portals.jpg" width="240" alt="自慰會開啟地獄傳送門？我的房間"></a><br><a href="../memes/m3444.md">自慰會開啟地獄傳送門？我的房間</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這是什麼？只准說錯的答案：舊式掃地機器人 — ⚠️ 爆炸</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3452.md"><img src="../images/m3452-landmine-wrong-answers-only.jpg" width="240" alt="這是什麼？只准說錯的答案：舊式掃地機器人"></a><br><a href="../memes/m3452.md">這是什麼？只准說錯的答案：舊式掃地機器人</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

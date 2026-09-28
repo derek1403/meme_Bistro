@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 345 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 346 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（229）
+## ★（230）
 
 <table>
 <tr>
@@ -391,6 +391,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3440.md"><img src="../images/m3440-drizzle-sama.jpg" width="240" alt="在下毛毛雨——失敬，原來是毛毛雨大人"></a><br><a href="../memes/m3440.md">在下毛毛雨——失敬，原來是毛毛雨大人</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3454.md"><img src="../images/m3454-fastest-is-dont-eat.jpg" width="240" alt="老闆有沒有比較快的？不要吃最快！"></a><br><a href="../memes/m3454.md">老闆有沒有比較快的？不要吃最快！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

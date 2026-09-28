@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 338 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 340 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（152）
+## ★（154）
 
 <table>
 <tr>
@@ -262,6 +262,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3445.md"><img src="../images/m3445-bank-face-covering.jpg" width="240" alt="銀行口罩須知：一般口罩適當，搶匪頭套不適當"></a><br><a href="../memes/m3445.md">銀行口罩須知：一般口罩適當，搶匪頭套不適當</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3450.md"><img src="../images/m3450-disney-good-pirate.jpg" width="240" alt="我覺得迪士尼不太知道什麼是海盜"></a><br><a href="../memes/m3450.md">我覺得迪士尼不太知道什麼是海盜</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3455.md"><img src="../images/m3455-slacking-is-earning.jpg" width="240" alt="認真上班不叫賺錢，摸魚才是從老闆那裡賺到錢"></a><br><a href="../memes/m3455.md">認真上班不叫賺錢，摸魚才是從老闆那裡賺到錢</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3456.md"><img src="../images/m3456-v8-player-reporters-banned.jpg" width="240" alt="您是 V8 玩家，檢舉您的三名玩家已被永久封號"></a><br><a href="../memes/m3456.md">您是 V8 玩家，檢舉您的三名玩家已被永久封號</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

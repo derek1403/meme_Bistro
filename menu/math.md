@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 350 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 352 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（167）
+## ★★（168）
 
 <table>
 <tr>
@@ -455,10 +455,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2966.md"><img src="../images/m2966-lawn-edge-mandelbrot.png" width="240" alt="修草坪邊緣要多久？邊緣是曼德博集合"></a><br><a href="../memes/m2966.md">修草坪邊緣要多久？邊緣是曼德博集合</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2976.md"><img src="../images/m2976-normal-matrix-spiderman.png" width="240" alt="正規矩陣存在時：AA† 和 A†A 互指"></a><br><a href="../memes/m2976.md">正規矩陣存在時：AA† 和 A†A 互指</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2981.md"><img src="../images/m2981-special-angle-37-degrees.png" width="240" alt="舉出一個三角函數特殊角：37 度"></a><br><a href="../memes/m2981.md">舉出一個三角函數特殊角：37 度</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（56）
+## ★★★（57）
 
 <table>
 <tr>
@@ -554,6 +555,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2964.md"><img src="../images/m2964-generalized-stokes-six-symbols.png" width="240" alt="只用 6 個符號統一微積分基本定理、Green、Stokes、散度定理"></a><br><a href="../memes/m2964.md">只用 6 個符號統一微積分基本定理、Green、Stokes、散度定理</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2977.md"><img src="../images/m2977-otter-omega-differential-form.png" width="240" alt="水獺是 ·ω·，數學系看到的是微分形式"></a><br><a href="../memes/m2977.md">水獺是 ·ω·，數學系看到的是微分形式</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2979.md"><img src="../images/m2979-yin-yang-vector-identities.png" width="240" alt="陰陽太極與向量恆等式：然後還有這個擊敗郎"></a><br><a href="../memes/m2979.md">陰陽太極與向量恆等式：然後還有這個擊敗郎</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

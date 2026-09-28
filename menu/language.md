@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 309 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 312 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（205）
+## ★（207）
 
 <table>
 <tr>
@@ -351,6 +351,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2969.md"><img src="../images/m2969-add-ketchup-to-shopping-list.png" width="240" alt="麻煩在購物清單上加一條番茄醬"></a><br><a href="../memes/m2969.md">麻煩在購物清單上加一條番茄醬</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2982.md"><img src="../images/m2982-pen-ruler-pikachu.png" width="240" alt="筆跟尺的台語一起怎麼唸？Pikachu？"></a><br><a href="../memes/m2982.md">筆跟尺的台語一起怎麼唸？Pikachu？</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2986.md"><img src="../images/m2986-light-is-just-living.png" width="240" alt="光是什麼？光是活著就已經拼盡全力"></a><br><a href="../memes/m2986.md">光是什麼？光是活著就已經拼盡全力</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -424,7 +426,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（65）
+## ⚠️ 需斟酌（66）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1073,6 +1075,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2607.md"><img src="../images/m2607-cat-dog-oppai-faction.png" width="240" alt="貓派 vs 狗派——我：歐派"></a><br><a href="../memes/m2607.md">貓派 vs 狗派——我：歐派</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>釘穌機與釘穌針 — ⚠️ 宗教</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2988.md"><img src="../images/m2988-stapler-jesus-nail.png" width="240" alt="釘穌機與釘穌針"></a><br><a href="../memes/m2988.md">釘穌機與釘穌針</a><br><sub>🔤🔥 ★</sub></td>
 </tr>
 </table>
 

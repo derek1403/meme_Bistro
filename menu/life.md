@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1414 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1416 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1062）
+## ★（1064）
 
 <table>
 <tr>
@@ -1778,6 +1778,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2968.md"><img src="../images/m2968-auntie-hula-hoop-garbage-truck.png" width="240" alt="阿姨丟呼拉圈的姿態，害我差點跳進去"></a><br><a href="../memes/m2968.md">阿姨丟呼拉圈的姿態，害我差點跳進去</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2971.md"><img src="../images/m2971-buffet-auntie-pricing-mystery.png" width="240" alt="世界四大未解之謎：自助餐阿姨算的錢"></a><br><a href="../memes/m2971.md">世界四大未解之謎：自助餐阿姨算的錢</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2973.md"><img src="../images/m2973-box-as-table-no-assembly.png" width="240" alt="你有多懶？不用組裝它也能當桌子用"></a><br><a href="../memes/m2973.md">你有多懶？不用組裝它也能當桌子用</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2983.md"><img src="../images/m2983-fate-rin-long-arm-point.png" width="240" alt="凜隔著桌子點士郎額頭：手臂到底多長"></a><br><a href="../memes/m2983.md">凜隔著桌子點士郎額頭：手臂到底多長</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2989.md"><img src="../images/m2989-late-10-min-vs-30-min-cat.png" width="240" alt="還有 10 分鐘遲到 vs 已經遲到半小時"></a><br><a href="../memes/m2989.md">還有 10 分鐘遲到 vs 已經遲到半小時</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 361 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 363 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（235）
+## ★（236）
 
 <table>
 <tr>
@@ -401,6 +401,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3547.md"><img src="../images/m3547-oshita-bridge.png" width="240" alt="大志田橋 Oshita Bridge：噢幹是橋"></a><br><a href="../memes/m3547.md">大志田橋 Oshita Bridge：噢幹是橋</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3571.md"><img src="../images/m3571-you-messed-with-wrong-lobster.png" width="240" alt="你惹錯龍蝦了：去你媽的"></a><br><a href="../memes/m3571.md">你惹錯龍蝦了：去你媽的</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -497,7 +498,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（74）
+## ⚠️ 需斟酌（75）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1236,6 +1237,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3520.md"><img src="../images/m3520-driver-yamaishi-30cm.png" width="240" alt="我以為是日本司機：駕駛員「山石宮分」"></a><br><a href="../memes/m3520.md">我以為是日本司機：駕駛員「山石宮分」</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>誠聘幼兒園做飯阿姨：擅長做飯，負責烹製小朋友 — ⚠️ 輕微地獄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3568.md"><img src="../images/m3568-kindergarten-cook-cooks-kids.jpg" width="240" alt="誠聘幼兒園做飯阿姨：擅長做飯，負責烹製小朋友"></a><br><a href="../memes/m3568.md">誠聘幼兒園做飯阿姨：擅長做飯，負責烹製小朋友</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

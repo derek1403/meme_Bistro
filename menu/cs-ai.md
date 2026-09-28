@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 405 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 406 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（295）
+## ★（296）
 
 <table>
 <tr>
@@ -501,6 +501,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3372.md"><img src="../images/m3372-yama-backend-management-system.jpg" width="240" alt="夢到自己死了，閻羅王要我把生死簿做成後台管理系統"></a><br><a href="../memes/m3372.md">夢到自己死了，閻羅王要我把生死簿做成後台管理系統</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3569.md"><img src="../images/m3569-excel-untitled-goose.jpg" width="240" alt="你會 Excel 嗎？請寄一個你在用的檔案——一隻像素鵝"></a><br><a href="../memes/m3569.md">你會 Excel 嗎？請寄一個你在用的檔案——一隻像素鵝</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

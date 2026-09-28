@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1666 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1670 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1258）
+## ★（1261）
 
 <table>
 <tr>
@@ -2106,10 +2106,15 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3567.md"><img src="../images/m3567-zombie-treadmill-defense.png" width="240" alt="殭屍來了如何保護你家：一圈跑步機"></a><br><a href="../memes/m3567.md">殭屍來了如何保護你家：一圈跑步機</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3570.md"><img src="../images/m3570-gaming-bed.jpg" width="240" alt="電競床：床、螢幕、泡麵、能量飲料一次到位"></a><br><a href="../memes/m3570.md">電競床：床、螢幕、泡麵、能量飲料一次到位</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3572.md"><img src="../images/m3572-minecraft-sheep-after-grass.jpg" width="240" alt="Minecraft 裡吃了草之後的羊：長毛"></a><br><a href="../memes/m3572.md">Minecraft 裡吃了草之後的羊：長毛</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3574.md"><img src="../images/m3574-peel-banana-whale.jpg" width="240" alt="老師：你在笑什麼？我的大腦：剝香蕉鯨魚"></a><br><a href="../memes/m3574.md">老師：你在笑什麼？我的大腦：剝香蕉鯨魚</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（110）
+## ★★（111）
 
 <table>
 <tr>
@@ -2295,6 +2300,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3548.md"><img src="../images/m3548-ferrero-darlie-temple.png" width="240" alt="媽：你在幹嘛？我：網路上的人會懂的"></a><br><a href="../memes/m3548.md">媽：你在幹嘛？我：網路上的人會懂的</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3553.md"><img src="../images/m3553-fork-with-a-chain.jpg" width="240" alt="別氣餒，你又不是一無是處——我：綁了鏈子的叉子"></a><br><a href="../memes/m3553.md">別氣餒，你又不是一無是處——我：綁了鏈子的叉子</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3573.md"><img src="../images/m3573-breath-of-stink-kimetsu.jpg" width="240" alt="粑粑真臭呢，臭之呼吸壹之型——那個我不用全集中都使得出來"></a><br><a href="../memes/m3573.md">粑粑真臭呢，臭之呼吸壹之型——那個我不用全集中都使得出來</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

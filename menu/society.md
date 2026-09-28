@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 199 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 200 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（53）
+## ★（54）
 
 <table>
 <tr>
@@ -97,6 +97,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2449.md"><img src="../images/m2449-dominos-paving-for-pizza.png" width="240" alt="達美樂幫忙補路面坑洞：是的，這是我們做的"></a><br><a href="../memes/m2449.md">達美樂幫忙補路面坑洞：是的，這是我們做的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2451.md"><img src="../images/m2451-man-impossible-triangle-romance-scam.png" width="240" alt="男人的不可能三角：帥、有錢、專一"></a><br><a href="../memes/m2451.md">男人的不可能三角：帥、有錢、專一</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2463.md"><img src="../images/m2463-hearsay-opinion-fact-fight.png" width="240" alt="道聽塗說的證據、主觀的意見，遇上客觀的事實"></a><br><a href="../memes/m2463.md">道聽塗說的證據、主觀的意見，遇上客觀的事實</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

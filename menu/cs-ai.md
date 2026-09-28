@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 308 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 319 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（224）
+## ★（232）
 
 <table>
 <tr>
@@ -382,10 +382,24 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2445.md"><img src="../images/m2445-windows-recycle-bin-10-vs-11.png" width="240" alt="Windows 10 vs Windows 11 的資源回收筒"></a><br><a href="../memes/m2445.md">Windows 10 vs Windows 11 的資源回收筒</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2453.md"><img src="../images/m2453-ctrl-z-thought-id-lost-you.png" width="240" alt="刪掉沒複製的程式碼，按 Ctrl+Z 救回來"></a><br><a href="../memes/m2453.md">刪掉沒複製的程式碼，按 Ctrl+Z 救回來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2460.md"><img src="../images/m2460-password-cannot-be-same-ghajini.png" width="240" alt="新密碼不能跟舊密碼相同"></a><br><a href="../memes/m2460.md">新密碼不能跟舊密碼相同</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2461.md"><img src="../images/m2461-python-required-pet-snake.png" width="240" alt="程式叫我去養一條蛇"></a><br><a href="../memes/m2461.md">程式叫我去養一條蛇</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2462.md"><img src="../images/m2462-ctrl-alt-del-gang.png" width="240" alt="承認吧，出問題時你都找他們"></a><br><a href="../memes/m2462.md">承認吧，出問題時你都找他們</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2464.md"><img src="../images/m2464-vision-pro-tombstone-2024.png" width="240" alt="Apple Vision Pro：2024–2024"></a><br><a href="../memes/m2464.md">Apple Vision Pro：2024–2024</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2465.md"><img src="../images/m2465-googling-doesnt-make-you-doctor.png" width="240" alt="醫生：上網查資料不會讓你變成醫生"></a><br><a href="../memes/m2465.md">醫生：上網查資料不會讓你變成醫生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2470.md"><img src="../images/m2470-keyboard-garden-edging.png" width="240" alt="科技在農業上扮演的角色"></a><br><a href="../memes/m2470.md">科技在農業上扮演的角色</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2475.md"><img src="../images/m2475-staring-at-code-fix-itself.png" width="240" alt="盯著程式碼，希望它自己修好"></a><br><a href="../memes/m2475.md">盯著程式碼，希望它自己修好</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2478.md"><img src="../images/m2478-me-plugged-into-languages.png" width="240" alt="我：被 Java、JavaScript、Python、PHP 同時插著"></a><br><a href="../memes/m2478.md">我：被 Java、JavaScript、Python、PHP 同時插著</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（63）
+## ★★（65）
 
 <table>
 <tr>
@@ -493,9 +507,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2415.md"><img src="../images/m2415-cant-delete-tool-has-children.png" width="240" alt="無法刪除：這個工具有子代"></a><br><a href="../memes/m2415.md">無法刪除：這個工具有子代</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2455.md"><img src="../images/m2455-free-sandwich-js-encryption.png" width="240" alt="看得懂這段程式碼，就對店員說通關密語換免費三明治"></a><br><a href="../memes/m2455.md">看得懂這段程式碼，就對店員說通關密語換免費三明治</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2466.md"><img src="../images/m2466-matlab-index-errors-cough.png" width="240" alt="Matlab 寫的原型演算法：噴你一臉 Index Error"></a><br><a href="../memes/m2466.md">Matlab 寫的原型演算法：噴你一臉 Index Error</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2479.md"><img src="../images/m2479-what-is-your-address-ip-mac.png" width="240" alt="你的地址？實體地址？"></a><br><a href="../memes/m2479.md">你的地址？實體地址？</a><br><sub>🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（21）
+## ⚠️ 需斟酌（22）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -704,6 +722,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2340.md"><img src="../images/m2340-cpp-friends-private-parts.png" width="240" alt="在 C++ 裡，friend 可以存取 private parts"></a><br><a href="../memes/m2340.md">在 C++ 裡，friend 可以存取 private parts</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>親愛的聖誕老人，我想用 HTML 寫作業系統 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2473.md"><img src="../images/m2473-santa-os-in-html.png" width="240" alt="親愛的聖誕老人，我想用 HTML 寫作業系統"></a><br><a href="../memes/m2473.md">親愛的聖誕老人，我想用 HTML 寫作業系統</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

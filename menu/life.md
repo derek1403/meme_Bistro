@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1140 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（824）
+## ★（831）
 
 <table>
 <tr>
@@ -1382,6 +1382,17 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2452.md"><img src="../images/m2452-cows-car-far-side.png" width="240" alt="牛：「有車！」"></a><br><a href="../memes/m2452.md">牛：「有車！」</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2456.md"><img src="../images/m2456-round-apartment-maze.png" width="240" alt="屋型有點特殊，有沒有裝潢的好點子？"></a><br><a href="../memes/m2456.md">屋型有點特殊，有沒有裝潢的好點子？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2457.md"><img src="../images/m2457-new-idea-loop-never-finish.png" width="240" alt="新點子→開新專案→昭告天下→新點子……"></a><br><a href="../memes/m2457.md">新點子→開新專案→昭告天下→新點子……</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2471.md"><img src="../images/m2471-pompompurin-lemon-face.jpg" width="240" alt="布丁狗吃檸檬"></a><br><a href="../memes/m2471.md">布丁狗吃檸檬</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2472.md"><img src="../images/m2472-nested-drawers-dont-know-you.png" width="240" alt="當有人自以為很了解你，但其實一點都不"></a><br><a href="../memes/m2472.md">當有人自以為很了解你，但其實一點都不</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2474.md"><img src="../images/m2474-southeast-asia-touching-sun.png" width="240" alt="東南亞：已經貼到太陽上了"></a><br><a href="../memes/m2474.md">東南亞：已經貼到太陽上了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2477.md"><img src="../images/m2477-travel-pay-with-courage.png" width="240" alt="旅行最重要的是勇氣？那哪家航空收勇氣付款"></a><br><a href="../memes/m2477.md">旅行最重要的是勇氣？那哪家航空收勇氣付款</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2482.md"><img src="../images/m2482-password-strength-love.png" width="240" alt="密碼強度：她對你的愛 vs 你對她的愛"></a><br><a href="../memes/m2482.md">密碼強度：她對你的愛 vs 你對她的愛</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2483.md"><img src="../images/m2483-forgot-to-change-wallpaper.png" width="240" alt="簡報前忘記換桌布"></a><br><a href="../memes/m2483.md">簡報前忘記換桌布</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

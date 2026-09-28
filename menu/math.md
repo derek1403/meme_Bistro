@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 304 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 308 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（96）
 
@@ -171,7 +171,7 @@
 </tr>
 </table>
 
-## ★★（136）
+## ★★（139）
 
 <table>
 <tr>
@@ -401,10 +401,15 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2425.md"><img src="../images/m2425-tropical-semiring-1x1-2.png" width="240" alt="1×1=2……在 max-plus 熱帶半環裡！"></a><br><a href="../memes/m2425.md">1×1=2……在 max-plus 熱帶半環裡！</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2459.md"><img src="../images/m2459-netflix-adaptation-regression.png" width="240" alt="原作角色 vs Netflix 改編：迴歸曲線版"></a><br><a href="../memes/m2459.md">原作角色 vs Netflix 改編：迴歸曲線版</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2467.md"><img src="../images/m2467-engineer-fermat-pythagoras.png" width="240" alt="工程師：這是哪一種畢氏定理？"></a><br><a href="../memes/m2467.md">工程師：這是哪一種畢氏定理？</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2481.md"><img src="../images/m2481-sonic-grind-weierstrass.png" width="240" alt="音速小子：滑欄杆？小菜一碟——Weierstrass 函數"></a><br><a href="../memes/m2481.md">音速小子：滑欄杆？小菜一碟——Weierstrass 函數</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（45）
+## ★★★（46）
 
 <table>
 <tr>
@@ -481,6 +486,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1754.md"><img src="../images/m1754-hilbert-space-factory-l-infinity.png" width="240" alt="ℓ^∞?? in the Hilbert space factory?? how queer!!"></a><br><a href="../memes/m1754.md">ℓ^∞?? in the Hilbert space factory?? how queer!!</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2352.md"><img src="../images/m2352-sheaf-definitions-weaker.png" width="240" alt="Sheaf 的三種定義：越抽象寫得越短"></a><br><a href="../memes/m2352.md">Sheaf 的三種定義：越抽象寫得越短</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2420.md"><img src="../images/m2420-exceptions-to-theorems.png" width="240" alt="他一直在弄出反例來破壞我們的定理"></a><br><a href="../memes/m2420.md">他一直在弄出反例來破壞我們的定理</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2469.md"><img src="../images/m2469-non-smooth-everywhere-pudding.png" width="240" alt="滑順布丁 vs 處處不光滑布丁"></a><br><a href="../memes/m2469.md">滑順布丁 vs 處處不光滑布丁</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

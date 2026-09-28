@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 86 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 87 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（67）
+## ★（68）
 
 <table>
 <tr>
@@ -121,6 +121,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2428.md"><img src="../images/m2428-reviewer-2-le-chiffre.png" width="240" alt="Reviewer #2：一個拼字錯誤，真可惜啊龐德先生"></a><br><a href="../memes/m2428.md">Reviewer #2：一個拼字錯誤，真可惜啊龐德先生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2476.md"><img src="../images/m2476-thesis-embargo-academic-trash.png" width="240" alt="為什麼你的論文要鎖那麼久？別碰我的學術垃圾"></a><br><a href="../memes/m2476.md">為什麼你的論文要鎖那麼久？別碰我的學術垃圾</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

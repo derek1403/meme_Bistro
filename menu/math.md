@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 344 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 345 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（163）
+## ★★（164）
 
 <table>
 <tr>
@@ -449,6 +449,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2894.md"><img src="../images/m2894-math-clock-love-or-hate.png" width="240" alt="讓喜歡數學的人更喜歡、討厭數學的人更討厭的時鐘"></a><br><a href="../memes/m2894.md">讓喜歡數學的人更喜歡、討厭數學的人更討厭的時鐘</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2946.md"><img src="../images/m2946-observations-not-independent-stop.png" width="240" alt="睡前：如果我們的觀測值不獨立呢？"></a><br><a href="../memes/m2946.md">睡前：如果我們的觀測值不獨立呢？</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 305 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 307 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（202）
+## ★（203）
 
 <table>
 <tr>
@@ -346,10 +346,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2935.md"><img src="../images/m2935-saved-two-yi-memories.png" width="240" alt="我天天上班存了兩個億：一個失憶，一個回憶"></a><br><a href="../memes/m2935.md">我天天上班存了兩個億：一個失憶，一個回憶</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2943.md"><img src="../images/m2943-pencil-case-safe-word.png" width="240" alt="吵架暗語「鉛筆盒」：鉛你媽"></a><br><a href="../memes/m2943.md">吵架暗語「鉛筆盒」：鉛你媽</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（38）
+## ★★（39）
 
 <table>
 <tr>
@@ -415,6 +416,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2901.md"><img src="../images/m2901-debt-doesnt-travel.png" width="240" alt="為什麼欠錢的人敢到處旅行？因為他的債務不旅行"></a><br><a href="../memes/m2901.md">為什麼欠錢的人敢到處旅行？因為他的債務不旅行</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2903.md"><img src="../images/m2903-can-february-march-april-may.png" width="240" alt="Can February March? No, but April May."></a><br><a href="../memes/m2903.md">Can February March? No, but April May.</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2945.md"><img src="../images/m2945-frieren-welfare-bear.png" width="240" alt="想看葬送的福利熊"></a><br><a href="../memes/m2945.md">想看葬送的福利熊</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

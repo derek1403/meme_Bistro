@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1395 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1399 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1046）
+## ★（1050）
 
 <table>
 <tr>
@@ -1752,6 +1752,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2939.md"><img src="../images/m2939-breakfast-not-choosing-husband.jpg" width="240" alt="選早餐不是選老公，不用想太久"></a><br><a href="../memes/m2939.md">選早餐不是選老公，不用想太久</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2940.md"><img src="../images/m2940-five-minutes-late-dinner-ice.png" width="240" alt="我只是晚五分鐘吃飯：我媽看到的是一盤冰塊"></a><br><a href="../memes/m2940.md">我只是晚五分鐘吃飯：我媽看到的是一盤冰塊</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2941.md"><img src="../images/m2941-arrived-but-song-still-playing.png" width="240" alt="已經到了，但喜歡的歌還在播：聽完才下車"></a><br><a href="../memes/m2941.md">已經到了，但喜歡的歌還在播：聽完才下車</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2942.md"><img src="../images/m2942-full-but-room-for-dessert.png" width="240" alt="說吃飽了，不代表吃不下甜點"></a><br><a href="../memes/m2942.md">說吃飽了，不代表吃不下甜點</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2944.md"><img src="../images/m2944-shout-attack-names-poker.png" width="240" alt="看動漫嫌喊招式名羞恥，打牌時：10JQKA！"></a><br><a href="../memes/m2944.md">看動漫嫌喊招式名羞恥，打牌時：10JQKA！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2947.md"><img src="../images/m2947-grilled-pumpkin-still-hard.png" width="240" alt="吃燒肉時的烤南瓜：我還很硬呢"></a><br><a href="../memes/m2947.md">吃燒肉時的烤南瓜：我還很硬呢</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

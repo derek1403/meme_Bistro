@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 345 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 346 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（255）
 
@@ -551,7 +551,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（24）
+## ⚠️ 需斟酌（25）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -790,6 +790,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2635.md"><img src="../images/m2635-mobile-data-instead-of-wifi.png" width="240" alt="發現自己一直在用行動數據而不是 Wi-Fi"></a><br><a href="../memes/m2635.md">發現自己一直在用行動數據而不是 Wi-Fi</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>ChatGPT 的祝福：福如蟬翼，壽比曇花 — ⚠️ 詛咒</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2705.md"><img src="../images/m2705-chatgpt-blessing-cicada-wing.png" width="240" alt="ChatGPT 的祝福：福如蟬翼，壽比曇花"></a><br><a href="../memes/m2705.md">ChatGPT 的祝福：福如蟬翼，壽比曇花</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

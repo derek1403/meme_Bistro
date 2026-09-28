@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1261 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1268 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（931）
+## ★（937）
 
 <table>
 <tr>
@@ -1561,6 +1561,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2699.md"><img src="../images/m2699-emoji-sneeze-sequence.png" width="240" alt="如何用表情符號打噴嚏"></a><br><a href="../memes/m2699.md">如何用表情符號打噴嚏</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2700.md"><img src="../images/m2700-famous-painting-mom-mopping.png" width="240" alt="世界名畫：《我媽在拖地》"></a><br><a href="../memes/m2700.md">世界名畫：《我媽在拖地》</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2701.md"><img src="../images/m2701-dog-plane-seat-customs.png" width="240" alt="你再踢我椅子，我就跟海關說你行李有毒品"></a><br><a href="../memes/m2701.md">你再踢我椅子，我就跟海關說你行李有毒品</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2703.md"><img src="../images/m2703-stairs-skip-steps.png" width="240" alt="其他人上樓梯 vs 我上樓梯"></a><br><a href="../memes/m2703.md">其他人上樓梯 vs 我上樓梯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2704.md"><img src="../images/m2704-flowerhorn-turban.png" width="240" alt="中東進口來的花羅漢魚"></a><br><a href="../memes/m2704.md">中東進口來的花羅漢魚</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2706.md"><img src="../images/m2706-good-morning-frieren-elder.png" width="240" alt="早安的三種傳法"></a><br><a href="../memes/m2706.md">早安的三種傳法</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2708.md"><img src="../images/m2708-curry-on-ice-cream.jpg" width="240" alt="咖哩淋在小美冰淇淋上"></a><br><a href="../memes/m2708.md">咖哩淋在小美冰淇淋上</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1719,7 +1729,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（240）
+## ⚠️ 需斟酌（241）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4118,6 +4128,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2698.md"><img src="../images/m2698-things-near-but-cant-find.png" width="240" alt="那些在身邊卻找不到的東西"></a><br><a href="../memes/m2698.md">那些在身邊卻找不到的東西</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>老兄跨年有什麼計畫？計畫有變，先殺了你再打遊戲 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2702.md"><img src="../images/m2702-seagull-new-year-plans.png" width="240" alt="老兄跨年有什麼計畫？計畫有變，先殺了你再打遊戲"></a><br><a href="../memes/m2702.md">老兄跨年有什麼計畫？計畫有變，先殺了你再打遊戲</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

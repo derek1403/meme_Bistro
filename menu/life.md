@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1685 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1690 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1273）
+## ★（1277）
 
 <table>
 <tr>
@@ -2131,6 +2131,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3600.md"><img src="../images/m3600-open-bottle-strength-levels.jpg" width="240" alt="開瓶器的強度等級：從開瓶器到用牙齒"></a><br><a href="../memes/m3600.md">開瓶器的強度等級：從開瓶器到用牙齒</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3601.md"><img src="../images/m3601-not-frugal-just-poor.png" width="240" alt="我哪是什麼樸實節儉會過日子的人，我只是單純的窮而已"></a><br><a href="../memes/m3601.md">我哪是什麼樸實節儉會過日子的人，我只是單純的窮而已</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3602.md"><img src="../images/m3602-gatchaman-visor-colors.jpg" width="240" alt="是要追藍色的那台車嗎？你們要不要把面罩脫下來"></a><br><a href="../memes/m3602.md">是要追藍色的那台車嗎？你們要不要把面罩脫下來</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3606.md"><img src="../images/m3606-i-am-super-annoying-now.jpg" width="240" alt="幾個月前的我擔心自己講話太雞掰，現在的我：我超雞掰！"></a><br><a href="../memes/m3606.md">幾個月前的我擔心自己講話太雞掰，現在的我：我超雞掰！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3607.md"><img src="../images/m3607-baby-first-word-daddy.jpg" width="240" alt="寶寶的第一句話：拔拔"></a><br><a href="../memes/m3607.md">寶寶的第一句話：拔拔</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2327,7 +2333,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（300）
+## ⚠️ 需斟酌（301）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5326,6 +5332,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3596.md"><img src="../images/m3596-patrick-id-card-nsfw.jpg" width="240" alt="身分證上寫未滿 18 歲請勿觀看——可是它露點了"></a><br><a href="../memes/m3596.md">身分證上寫未滿 18 歲請勿觀看——可是它露點了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>好吃嗎千尋～那是妳爸媽！ — ⚠️ 食人暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3605.md"><img src="../images/m3605-spirited-away-thats-your-parents.jpg" width="240" alt="好吃嗎千尋～那是妳爸媽！"></a><br><a href="../memes/m3605.md">好吃嗎千尋～那是妳爸媽！</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

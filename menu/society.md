@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 372 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 375 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（168）
+## ★（169）
 
 <table>
 <tr>
@@ -289,9 +289,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3576.md"><img src="../images/m3576-strategic-marriage-get-your-dad.jpg" width="240" alt="策略婚姻：得到你芭芭的……這樣嗎？"></a><br><a href="../memes/m3576.md">策略婚姻：得到你芭芭的……這樣嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3580.md"><img src="../images/m3580-masks-for-money-then-now.jpg" width="240" alt="以前是戴口罩去搶錢，現在是帶錢去搶口罩"></a><br><a href="../memes/m3580.md">以前是戴口罩去搶錢，現在是帶錢去搶口罩</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3604.md"><img src="../images/m3604-road-signs-office-life.jpg" width="240" alt="用交通號誌講上班族的一天"></a><br><a href="../memes/m3604.md">用交通號誌講上班族的一天</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（37）
+## ★★（38）
 
 <table>
 <tr>
@@ -356,10 +359,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3579.md"><img src="../images/m3579-guild-pyramid-newbie-top.png" width="240" alt="公會人設金字塔：萌新 > 大佬 > 大腿 > 熟手 > 渣渣"></a><br><a href="../memes/m3579.md">公會人設金字塔：萌新 > 大佬 > 大腿 > 熟手 > 渣渣</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3603.md"><img src="../images/m3603-wrong-stamp-emperor-knows.png" width="240" alt="投票帶錯印章：「朕知道了」"></a><br><a href="../memes/m3603.md">投票帶錯印章：「朕知道了」</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（167）
+## ⚠️ 需斟酌（168）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2028,6 +2032,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3592.md"><img src="../images/m3592-russian-dad-pink-hammer.jpg" width="240" alt="俄羅斯爸爸：被欺負就用鎚子招呼他——女生？那就用粉紅色的鎚子"></a><br><a href="../memes/m3592.md">俄羅斯爸爸：被欺負就用鎚子招呼他——女生？那就用粉紅色的鎚子</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>被救援的雞用雞輪椅重新走路——直接丟進油鍋別浪費稅金 — ⚠️ 動物</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3608.md"><img src="../images/m3608-chicken-wheelchair-deep-fry.png" width="240" alt="被救援的雞用雞輪椅重新走路——直接丟進油鍋別浪費稅金"></a><br><a href="../memes/m3608.md">被救援的雞用雞輪椅重新走路——直接丟進油鍋別浪費稅金</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

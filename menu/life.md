@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1656 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1663 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1250）
+## ★（1256）
 
 <table>
 <tr>
@@ -2092,6 +2092,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3549.md"><img src="../images/m3549-minecraft-villager-kept-yelling.png" width="240" alt="朋友：你怎麼把村莊滅掉了？我：因為他一直對我叫"></a><br><a href="../memes/m3549.md">朋友：你怎麼把村莊滅掉了？我：因為他一直對我叫</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3551.md"><img src="../images/m3551-concert-where-is-toilet.jpg" width="240" alt="表演到一半被觀眾問廁所在哪裡"></a><br><a href="../memes/m3551.md">表演到一半被觀眾問廁所在哪裡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3555.md"><img src="../images/m3555-senior-junior-neighbor-classmate.png" width="240" alt="學姐、學妹、隔壁班的、我們班的"></a><br><a href="../memes/m3555.md">學姐、學妹、隔壁班的、我們班的</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3556.md"><img src="../images/m3556-old-man-watering-mind-your-business.jpg" width="240" alt="老爺爺每天幫全村澆花，為什麼？干你屁事"></a><br><a href="../memes/m3556.md">老爺爺每天幫全村澆花，為什麼？干你屁事</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3558.md"><img src="../images/m3558-8-hour-movie-vs-8-episodes.jpg" width="240" alt="8 小時的電影沒人看，拆成 8 集就有人一口氣看完"></a><br><a href="../memes/m3558.md">8 小時的電影沒人看，拆成 8 集就有人一口氣看完</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3559.md"><img src="../images/m3559-reborn-as-caterpillar-pigeons.jpg" width="240" alt="你終於醒了，這就是你的來生——轉生成鴿子了？才不是呢，是毛毛蟲"></a><br><a href="../memes/m3559.md">你終於醒了，這就是你的來生——轉生成鴿子了？才不是呢，是毛毛蟲</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3560.md"><img src="../images/m3560-ex-wedding-hair-emergency.jpg" width="240" alt="要參加前男友的婚禮？快把沙龍總監和整個化妝團隊找過來！"></a><br><a href="../memes/m3560.md">要參加前男友的婚禮？快把沙龍總監和整個化妝團隊找過來！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3561.md"><img src="../images/m3561-buy-or-not-two-questions.jpg" width="240" alt="買東西猶豫時問自己：買了會破產嗎？不買會發財嗎？"></a><br><a href="../memes/m3561.md">買東西猶豫時問自己：買了會破產嗎？不買會發財嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2284,7 +2294,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（296）
+## ⚠️ 需斟酌（297）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5243,6 +5253,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3550.md"><img src="../images/m3550-google-headache-cancer.jpg" width="240" alt="Google 搜尋「我頭痛」：您是不是要查：癌症"></a><br><a href="../memes/m3550.md">Google 搜尋「我頭痛」：您是不是要查：癌症</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>猜猜今晚我要用這雙手指做甚麼呀？離開你，再見 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3557.md"><img src="../images/m3557-two-fingers-leave-you.jpg" width="240" alt="猜猜今晚我要用這雙手指做甚麼呀？離開你，再見"></a><br><a href="../memes/m3557.md">猜猜今晚我要用這雙手指做甚麼呀？離開你，再見</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

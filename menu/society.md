@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 232 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（70）
+## ★（72）
 
 <table>
 <tr>
@@ -126,6 +126,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2927.md"><img src="../images/m2927-justice-can-be-late-why-not-work.png" width="240" alt="正義都能遲到，為什麼上班不能遲到"></a><br><a href="../memes/m2927.md">正義都能遲到，為什麼上班不能遲到</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2930.md"><img src="../images/m2930-online-dating-secret-handsome-face.png" width="240" alt="網路交友約出女生的秘訣：一張帥臉"></a><br><a href="../memes/m2930.md">網路交友約出女生的秘訣：一張帥臉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2932.md"><img src="../images/m2932-vacation-parasailing-laptop.png" width="240" alt="度假中，但客戶要最後一刻改設計"></a><br><a href="../memes/m2932.md">度假中，但客戶要最後一刻改設計</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -174,7 +176,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（138）
+## ⚠️ 需斟酌（139）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1553,6 +1555,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2873.md"><img src="../images/m2873-four-leaf-clover-seven-leaf.jpg" width="240" alt="四葉酢漿草是幸運的象徵，那七葉的呢？"></a><br><a href="../memes/m2873.md">四葉酢漿草是幸運的象徵，那七葉的呢？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>世代創傷可在我這裡終止！ — ⚠️ 原生家庭</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2937.md"><img src="../images/m2937-generational-trauma-ends-here.png" width="240" alt="世代創傷可在我這裡終止！"></a><br><a href="../memes/m2937.md">世代創傷可在我這裡終止！</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

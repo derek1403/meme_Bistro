@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1389 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1395 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1042）
+## ★（1046）
 
 <table>
 <tr>
@@ -1746,10 +1746,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2921.md"><img src="../images/m2921-chase-taxi-drive-slowly.png" width="240" alt="追上計程車才發現手機在手上：下雨天，開慢點"></a><br><a href="../memes/m2921.md">追上計程車才發現手機在手上：下雨天，開慢點</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2931.md"><img src="../images/m2931-turtle-types-slowly.png" width="240" alt="謝謝你，我打字比較慢"></a><br><a href="../memes/m2931.md">謝謝你，我打字比較慢</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2933.md"><img src="../images/m2933-both-wrong-mock-each-other.png" width="240" alt="吵到最後發現都錯了，只好開始模仿嘲諷對方"></a><br><a href="../memes/m2933.md">吵到最後發現都錯了，只好開始模仿嘲諷對方</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2939.md"><img src="../images/m2939-breakfast-not-choosing-husband.jpg" width="240" alt="選早餐不是選老公，不用想太久"></a><br><a href="../memes/m2939.md">選早餐不是選老公，不用想太久</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2940.md"><img src="../images/m2940-five-minutes-late-dinner-ice.png" width="240" alt="我只是晚五分鐘吃飯：我媽看到的是一盤冰塊"></a><br><a href="../memes/m2940.md">我只是晚五分鐘吃飯：我媽看到的是一盤冰塊</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（97）
+## ★★（99）
 
 <table>
 <tr>
@@ -1914,6 +1920,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2929.md"><img src="../images/m2929-frieren-himmel-chat-wrong.png" width="240" alt="勇者去世後 30 年：不對"></a><br><a href="../memes/m2929.md">勇者去世後 30 年：不對</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2934.md"><img src="../images/m2934-fern-legend-weaker-than-me.png" width="240" alt="發現寫進教科書的傳奇人物水準遠不如自己"></a><br><a href="../memes/m2934.md">發現寫進教科書的傳奇人物水準遠不如自己</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2936.md"><img src="../images/m2936-frieren-gundam-time-flies.jpg" width="240" alt="勇者死後 27 年：SEED 不是近期的鋼彈"></a><br><a href="../memes/m2936.md">勇者死後 27 年：SEED 不是近期的鋼彈</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

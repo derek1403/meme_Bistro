@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 133 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 134 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（109）
+## ★（110）
 
 <table>
 <tr>
@@ -191,6 +191,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3233.md"><img src="../images/m3233-teacher-scolding-three-heads.png" width="240" alt="老師罵人時：國高中生 vs 大學生"></a><br><a href="../memes/m3233.md">老師罵人時：國高中生 vs 大學生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3241.md"><img src="../images/m3241-answer-a-four-times-trap.png" width="240" alt="考試時：答案應該是 A……但已經連續四題 A 了，這是陷阱嗎？"></a><br><a href="../memes/m3241.md">考試時：答案應該是 A……但已經連續四題 A 了，這是陷阱嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

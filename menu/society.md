@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 290 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 291 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（113）
+## ★（114）
 
 <table>
 <tr>
@@ -197,6 +197,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3223.md"><img src="../images/m3223-mario-mickey-box-office-flip.png" width="240" alt="1993 vs 2023：瑪利歐與米老鼠的票房逆轉"></a><br><a href="../memes/m3223.md">1993 vs 2023：瑪利歐與米老鼠的票房逆轉</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3240.md"><img src="../images/m3240-money-lesson-gamania.png" width="240" alt="兒子，是時候讓你了解金錢的用處：這孩子廢了"></a><br><a href="../memes/m3240.md">兒子，是時候讓你了解金錢的用處：這孩子廢了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3244.md"><img src="../images/m3244-travel-courage-not-money.png" width="240" alt="旅行不是錢的問題，是勇氣的問題——可以給我用勇氣付款的航空公司嗎？"></a><br><a href="../memes/m3244.md">旅行不是錢的問題，是勇氣的問題——可以給我用勇氣付款的航空公司嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

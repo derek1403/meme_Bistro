@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1533 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1534 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1153）
+## ★（1154）
 
 <table>
 <tr>
@@ -1931,6 +1931,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3295.md"><img src="../images/m3295-frilled-lizard-pencil-sharpener.png" width="240" alt="削鉛筆就變成傘蜥蜴的削鉛筆器"></a><br><a href="../memes/m3295.md">削鉛筆就變成傘蜥蜴的削鉛筆器</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3303.md"><img src="../images/m3303-my-blanket-is-sick.png" width="240" alt="我的棉被生病了，我要在家裡照顧他"></a><br><a href="../memes/m3303.md">我的棉被生病了，我要在家裡照顧他</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

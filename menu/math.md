@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 375 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 376 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（107）
+## ★（108）
 
 <table>
 <tr>
@@ -187,6 +187,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3234.md"><img src="../images/m3234-wall-92-degrees-jojo.png" width="240" alt="牆壁是 92 度：這樣就能靠著走"></a><br><a href="../memes/m3234.md">牆壁是 92 度：這樣就能靠著走</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3278.md"><img src="../images/m3278-fourier-vs-courier-transform.png" width="240" alt="傅立葉轉換 vs 快遞轉換"></a><br><a href="../memes/m3278.md">傅立葉轉換 vs 快遞轉換</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3301.md"><img src="../images/m3301-sin-45-syntax-error.png" width="240" alt="用計算機算 sin 45°：Syntax ERROR"></a><br><a href="../memes/m3301.md">用計算機算 sin 45°：Syntax ERROR</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

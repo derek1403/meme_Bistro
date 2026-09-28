@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 387 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 388 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（284）
+## ★（285）
 
 <table>
 <tr>
@@ -482,6 +482,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3209.md"><img src="../images/m3209-ai-violin-concerto-cello.png" width="240" alt="請 AI 生成小提琴協奏曲，AI："></a><br><a href="../memes/m3209.md">請 AI 生成小提琴協奏曲，AI：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3216.md"><img src="../images/m3216-software-quality-e-mc2.png" width="240" alt="軟體品質第一定律：e = mc²"></a><br><a href="../memes/m3216.md">軟體品質第一定律：e = mc²</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3219.md"><img src="../images/m3219-intel-graphics-vs-geforce.png" width="240" alt="Intel 內顯 vs NVIDIA GeForce 顯卡"></a><br><a href="../memes/m3219.md">Intel 內顯 vs NVIDIA GeForce 顯卡</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

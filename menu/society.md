@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 288 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 289 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（111）
+## ★（112）
 
 <table>
 <tr>
@@ -193,6 +193,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3183.md"><img src="../images/m3183-no-ok-mart-corner.png" width="240" alt="不 OK 歐"></a><br><a href="../memes/m3183.md">不 OK 歐</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3193.md"><img src="../images/m3193-late-traffic-boss-my-fault.png" width="240" alt="遲到被老闆叫去：我怪你了嗎？"></a><br><a href="../memes/m3193.md">遲到被老闆叫去：我怪你了嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3206.md"><img src="../images/m3206-gorilla-stopped-evolving-work.png" width="240" alt="為什麼猩猩會停止進化？因為再進化就要上班了"></a><br><a href="../memes/m3206.md">為什麼猩猩會停止進化？因為再進化就要上班了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3223.md"><img src="../images/m3223-mario-mickey-box-office-flip.png" width="240" alt="1993 vs 2023：瑪利歐與米老鼠的票房逆轉"></a><br><a href="../memes/m3223.md">1993 vs 2023：瑪利歐與米老鼠的票房逆轉</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

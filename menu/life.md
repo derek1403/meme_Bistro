@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1507 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1513 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1133）
+## ★（1136）
 
 <table>
 <tr>
@@ -1897,10 +1897,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3204.md"><img src="../images/m3204-girls-outfits-daily-guy-yearly.png" width="240" alt="女生一天換三套，男生三年同一套"></a><br><a href="../memes/m3204.md">女生一天換三套，男生三年同一套</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3218.md"><img src="../images/m3218-stop-wasting-money-nessie-ladle.png" width="240" alt="不會再浪費錢亂買東西——尼斯湖水怪湯勺！"></a><br><a href="../memes/m3218.md">不會再浪費錢亂買東西——尼斯湖水怪湯勺！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3221.md"><img src="../images/m3221-pretty-trash-item.png" width="240" alt="好看的垃圾：它無價值的樣子是那麼美麗"></a><br><a href="../memes/m3221.md">好看的垃圾：它無價值的樣子是那麼美麗</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3222.md"><img src="../images/m3222-love-triangle-nobody.png" width="240" alt="我陷入了三角關係：我愛她、她愛 nobody、nobody 愛我"></a><br><a href="../memes/m3222.md">我陷入了三角關係：我愛她、她愛 nobody、nobody 愛我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3227.md"><img src="../images/m3227-spilled-coffee-more-awake.png" width="240" alt="研究顯示：打翻的咖啡比喝下去的咖啡更提神"></a><br><a href="../memes/m3227.md">研究顯示：打翻的咖啡比喝下去的咖啡更提神</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（104）
+## ★★（105）
 
 <table>
 <tr>
@@ -2076,10 +2081,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3068.md"><img src="../images/m3068-first-base-two-stage-left-turn.png" width="240" alt="避免一壘壘包棒球活動事故方案：兩段式跑壘"></a><br><a href="../memes/m3068.md">避免一壘壘包棒球活動事故方案：兩段式跑壘</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3214.md"><img src="../images/m3214-how-bad-anime-recommendation.png" width="240" alt="你有多壞？看完四月是你的謊言，推薦末日時在做什麼"></a><br><a href="../memes/m3214.md">你有多壞？看完四月是你的謊言，推薦末日時在做什麼</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3220.md"><img src="../images/m3220-ganondorf-master-sword-log-contraption.png" width="240" alt="連破魔之劍都不足為懼的魔王，被林克的木頭裝置打倒"></a><br><a href="../memes/m3220.md">連破魔之劍都不足為懼的魔王，被林克的木頭裝置打倒</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（270）
+## ⚠️ 需斟酌（272）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4778,6 +4784,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3208.md"><img src="../images/m3208-school-days-trending.png" width="240" alt="現在學校流行什麼？School Days"></a><br><a href="../memes/m3208.md">現在學校流行什麼？School Days</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>廣告裡怎麼用這張椅子 vs 我會怎麼用 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3224.md"><img src="../images/m3224-ad-chair-vs-my-use.png" width="240" alt="廣告裡怎麼用這張椅子 vs 我會怎麼用"></a><br><a href="../memes/m3224.md">廣告裡怎麼用這張椅子 vs 我會怎麼用</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>佐賀偶像是傳奇的新成員：星野愛 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3226.md"><img src="../images/m3226-hoshino-ai-joins-franchouchou.png" width="240" alt="佐賀偶像是傳奇的新成員：星野愛"></a><br><a href="../memes/m3226.md">佐賀偶像是傳奇的新成員：星野愛</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

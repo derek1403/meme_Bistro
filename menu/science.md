@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 220 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 224 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（100）
+## ★（101）
 
 <table>
 <tr>
@@ -176,10 +176,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3313.md"><img src="../images/m3313-toilet-general-relativity-grid.png" width="240" alt="這個設計師可能學過廣義相對論"></a><br><a href="../memes/m3313.md">這個設計師可能學過廣義相對論</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3360.md"><img src="../images/m3360-aliens-celebrate-one-orbit.png" width="240" alt="他們在慶祝啥？他們的行星繞著恆星轉了一整圈"></a><br><a href="../memes/m3360.md">他們在慶祝啥？他們的行星繞著恆星轉了一整圈</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（74）
+## ★★（77）
 
 <table>
 <tr>
@@ -305,6 +306,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3304.md"><img src="../images/m3304-typhoon-hinnamnor-is-chisato.png" width="240" alt="如果你老婆有迷人的大眼、極強的破壞力——那她是錦木千束（颱風版）"></a><br><a href="../memes/m3304.md">如果你老婆有迷人的大眼、極強的破壞力——那她是錦木千束（颱風版）</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3305.md"><img src="../images/m3305-chisato-is-typhoon-hinnamnor.png" width="240" alt="如果你老婆有迷人的大眼、極強的破壞力——那她是強烈颱風軒嵐諾（千束版）"></a><br><a href="../memes/m3305.md">如果你老婆有迷人的大眼、極強的破壞力——那她是強烈颱風軒嵐諾（千束版）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3359.md"><img src="../images/m3359-one-face-octanoic-acid.png" width="240" alt="一臉辛酸（One Face Octanoic Acid）"></a><br><a href="../memes/m3359.md">一臉辛酸（One Face Octanoic Acid）</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3361.md"><img src="../images/m3361-seven-step-poem-benzene.png" width="240" alt="煮豆燃豆萁，C6H6=Cu+As，相煎何太急"></a><br><a href="../memes/m3361.md">煮豆燃豆萁，C6H6=Cu+As，相煎何太急</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3362.md"><img src="../images/m3362-pu-kr-y-cs-cs-spectrum.png" width="240" alt="光譜：Pu Kr Y Cs Cs（鈽氪釔銫銫）"></a><br><a href="../memes/m3362.md">光譜：Pu Kr Y Cs Cs（鈽氪釔銫銫）</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

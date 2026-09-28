@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1673 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1678 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1263）
+## ★（1268）
 
 <table>
 <tr>
@@ -2113,6 +2113,15 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3574.md"><img src="../images/m3574-peel-banana-whale.jpg" width="240" alt="老師：你在笑什麼？我的大腦：剝香蕉鯨魚"></a><br><a href="../memes/m3574.md">老師：你在笑什麼？我的大腦：剝香蕉鯨魚</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3575.md"><img src="../images/m3575-can-i-slap.jpg" width="240" alt="「可以和我——」（還沒說完就被巴掌）"></a><br><a href="../memes/m3575.md">「可以和我——」（還沒說完就被巴掌）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3581.md"><img src="../images/m3581-parents-fear-teen-vices-gamer-cat.png" width="240" alt="家長怕孩子青春期學壞，20 歲的我：抱著搖桿的哭哭貓"></a><br><a href="../memes/m3581.md">家長怕孩子青春期學壞，20 歲的我：抱著搖桿的哭哭貓</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3582.md"><img src="../images/m3582-turn-around-not-left-yet.jpg" width="240" alt="你向後轉，有看到我嗎？沒有？這就對了我還沒出門"></a><br><a href="../memes/m3582.md">你向後轉，有看到我嗎？沒有？這就對了我還沒出門</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3583.md"><img src="../images/m3583-girl-cant-marry-daddy.jpg" width="240" alt="我不能和爸爸結婚了——等一下，我現在和媽媽離婚"></a><br><a href="../memes/m3583.md">我不能和爸爸結婚了——等一下，我現在和媽媽離婚</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3584.md"><img src="../images/m3584-teddy-bear-not-dry-yet.jpg" width="240" alt="謝謝好心人，這三樣東西到現在還沒曬乾"></a><br><a href="../memes/m3584.md">謝謝好心人，這三樣東西到現在還沒曬乾</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3585.md"><img src="../images/m3585-no-wash-pants-only-one.jpg" width="240" alt="免洗褲穿了一星期有點癢——我只有買一件"></a><br><a href="../memes/m3585.md">免洗褲穿了一星期有點癢——我只有買一件</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3587.md"><img src="../images/m3587-scratch-congo-back-tattoo.jpg" width="240" alt="可以幫我抓癢嗎？哪裡？剛果共和國"></a><br><a href="../memes/m3587.md">可以幫我抓癢嗎？哪裡？剛果共和國</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

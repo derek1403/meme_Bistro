@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 335 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 336 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（150）
 
@@ -261,7 +261,7 @@
 </tr>
 </table>
 
-## ★★（27）
+## ★★（28）
 
 <table>
 <tr>
@@ -308,6 +308,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2987.md"><img src="../images/m2987-cao-cao-your-wife-is-great.jpg" width="240" alt="WIFE_HUNTER_CAO_CAO：你老婆真棒！"></a><br><a href="../memes/m2987.md">WIFE_HUNTER_CAO_CAO：你老婆真棒！</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3286.md"><img src="../images/m3286-germany-yonko-japan-won.png" width="240" alt="德國是四皇等級，那日本呢？大概是惡龍吧——居然贏了！"></a><br><a href="../memes/m3286.md">德國是四皇等級，那日本呢？大概是惡龍吧——居然贏了！</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3334.md"><img src="../images/m3334-taiwan-four-mysteries-discontinued.png" width="240" alt="台灣四大謎團：熱賣卻停賣產品篇"></a><br><a href="../memes/m3334.md">台灣四大謎團：熱賣卻停賣產品篇</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3436.md"><img src="../images/m3436-mnd-kindergarten.jpg" width="240" alt="國防部開幼兒園：軍中口吻管小朋友"></a><br><a href="../memes/m3436.md">國防部開幼兒園：軍中口吻管小朋友</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

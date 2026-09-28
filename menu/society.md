@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 325 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 327 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（141）
+## ★（143）
 
 <table>
 <tr>
@@ -243,6 +243,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3389.md"><img src="../images/m3389-mcdonalds-social-distancing-cones.png" width="240" alt="麥當勞的防疫工作沒在跟你開玩笑的"></a><br><a href="../memes/m3389.md">麥當勞的防疫工作沒在跟你開玩笑的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3392.md"><img src="../images/m3392-rings-she-wants-onion-rings.png" width="240" alt="她想要的圈圈、我想要的圈圈、我負擔得起的圈圈"></a><br><a href="../memes/m3392.md">她想要的圈圈、我想要的圈圈、我負擔得起的圈圈</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3398.md"><img src="../images/m3398-boss-message-chinese-new-year.png" width="240" alt="年初四收到上司「明天記得上班」"></a><br><a href="../memes/m3398.md">年初四收到上司「明天記得上班」</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3405.md"><img src="../images/m3405-100-dollars-two-50s-wife.jpg" width="240" alt="100 塊換成兩個 50 塊你沒感覺，90 公斤的老婆換成兩個 45 公斤的呢？"></a><br><a href="../memes/m3405.md">100 塊換成兩個 50 塊你沒感覺，90 公斤的老婆換成兩個 45 公斤的呢？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3411.md"><img src="../images/m3411-chip-company-sells-beer.png" width="240" alt="如果洋芋片公司開始賣啤酒"></a><br><a href="../memes/m3411.md">如果洋芋片公司開始賣啤酒</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1581 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1586 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1192）
+## ★（1194）
 
 <table>
 <tr>
@@ -1996,6 +1996,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3400.md"><img src="../images/m3400-recirculation-button-undo-crash.png" width="240" alt="這按鈕是幹嘛用的？——撞車了就按它，會還原整場車禍"></a><br><a href="../memes/m3400.md">這按鈕是幹嘛用的？——撞車了就按它，會還原整場車禍</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3407.md"><img src="../images/m3407-mcdonalds-no-coke-diet.jpg" width="240" alt="兩份大薯、雞腿、雞翅、大麥克、冰炫風——不要可樂，我在減肥"></a><br><a href="../memes/m3407.md">兩份大薯、雞腿、雞翅、大麥克、冰炫風——不要可樂，我在減肥</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3410.md"><img src="../images/m3410-neutered-dog-tattoo-copy.png" width="240" alt="照著狗肚子上的符號刺青，才發現是「已結紮」記號"></a><br><a href="../memes/m3410.md">照著狗肚子上的符號刺青，才發現是「已結紮」記號</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2183,7 +2185,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（282）
+## ⚠️ 需斟酌（285）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5002,6 +5004,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3401.md"><img src="../images/m3401-worm-eats-bird-dinner.jpg" width="240" alt="蟲：好吃好吃——鳥：你的晚餐咧？"></a><br><a href="../memes/m3401.md">蟲：好吃好吃——鳥：你的晚餐咧？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>別害怕失敗，因為你早已是失敗達人 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3402.md"><img src="../images/m3402-dont-fear-failure-already-master.jpg" width="240" alt="別害怕失敗，因為你早已是失敗達人"></a><br><a href="../memes/m3402.md">別害怕失敗，因為你早已是失敗達人</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>碰到孕婦，老公說「她懷孕了」，我回：剛才嗎？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3403.md"><img src="../images/m3403-mrt-she-is-pregnant-just-now.jpg" width="240" alt="碰到孕婦，老公說「她懷孕了」，我回：剛才嗎？"></a><br><a href="../memes/m3403.md">碰到孕婦，老公說「她懷孕了」，我回：剛才嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>朋友好厭世？推薦他「自我毀滅轉接頭」 — ⚠️ 觸電、自我傷害</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3406.md"><img src="../images/m3406-self-destruct-adapter.png" width="240" alt="朋友好厭世？推薦他「自我毀滅轉接頭」"></a><br><a href="../memes/m3406.md">朋友好厭世？推薦他「自我毀滅轉接頭」</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 336 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 339 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（223）
+## ★（224）
 
 <table>
 <tr>
@@ -381,10 +381,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3350.md"><img src="../images/m3350-milk-gone-bad-bandits.png" width="240" alt="小鬼頭大喊冰箱裡的牛奶都變壞了"></a><br><a href="../memes/m3350.md">小鬼頭大喊冰箱裡的牛奶都變壞了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3408.md"><img src="../images/m3408-copying-homework-every-subject.png" width="240" alt="抄作業在各科裡的說法"></a><br><a href="../memes/m3408.md">抄作業在各科裡的說法</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（44）
+## ★★（45）
 
 <table>
 <tr>
@@ -460,10 +461,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3245.md"><img src="../images/m3245-pekora-mask-please.png" width="240" alt="請 Pe 戴 ko 罩"></a><br><a href="../memes/m3245.md">請 Pe 戴 ko 罩</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3292.md"><img src="../images/m3292-poor-tongue-happy-tongue.png" width="240" alt="不管吃什麼都好吃，不是「貧乏舌」而是「Happy 舌」"></a><br><a href="../memes/m3292.md">不管吃什麼都好吃，不是「貧乏舌」而是「Happy 舌」</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3412.md"><img src="../images/m3412-late-night-song-recommendations.jpg" width="240" alt="夜深了推薦幾首歌：黃立行〈睡〉、田馥甄〈你〉、亂彈〈痲痺〉"></a><br><a href="../memes/m3412.md">夜深了推薦幾首歌：黃立行〈睡〉、田馥甄〈你〉、亂彈〈痲痺〉</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（69）
+## ⚠️ 需斟酌（70）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1152,6 +1154,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3194.md"><img src="../images/m3194-on-accident-by-accident-fight.png" width="240" alt="On accident 還是 By accident？吵到同歸於盡"></a><br><a href="../memes/m3194.md">On accident 還是 By accident？吵到同歸於盡</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在車站進行 SEX 的行為，可稱作為 PlayStation——PlayStation：你他媽給我等一下 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3409.md"><img src="../images/m3409-sex-at-station-playstation.png" width="240" alt="在車站進行 SEX 的行為，可稱作為 PlayStation——PlayStation：你他媽給我等一下"></a><br><a href="../memes/m3409.md">在車站進行 SEX 的行為，可稱作為 PlayStation——PlayStation：你他媽給我等一下</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

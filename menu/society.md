@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 336 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 337 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（150）
+## ★（151）
 
 <table>
 <tr>
@@ -258,6 +258,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3430.md"><img src="../images/m3430-cat-arrested-tamasuke.jpg" width="240" alt="既敢動本喵：橘貓因妨礙公務被逮捕"></a><br><a href="../memes/m3430.md">既敢動本喵：橘貓因妨礙公務被逮捕</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3433.md"><img src="../images/m3433-princess-syndrome-wild-chicken.jpg" width="240" alt="公主發脾氣才叫公主病，你那是野雞情緒失控綜合症"></a><br><a href="../memes/m3433.md">公主發脾氣才叫公主病，你那是野雞情緒失控綜合症</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3435.md"><img src="../images/m3435-delivery-voice-input.jpg" width="240" alt="外送延遲道歉，結果語音輸入把路上罵人也打進去"></a><br><a href="../memes/m3435.md">外送延遲道歉，結果語音輸入把路上罵人也打進去</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3445.md"><img src="../images/m3445-bank-face-covering.jpg" width="240" alt="銀行口罩須知：一般口罩適當，搶匪頭套不適當"></a><br><a href="../memes/m3445.md">銀行口罩須知：一般口罩適當，搶匪頭套不適當</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

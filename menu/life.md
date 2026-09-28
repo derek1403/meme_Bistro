@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1596 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1599 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1204）
+## ★（1205）
 
 <table>
 <tr>
@@ -2016,6 +2016,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3441.md"><img src="../images/m3441-doctor-asks-drinking-now.jpg" width="240" alt="醫生問喝酒嗎？我問：現在嗎？"></a><br><a href="../memes/m3441.md">醫生問喝酒嗎？我問：現在嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3443.md"><img src="../images/m3443-marshmallow-duck-next-day.jpg" width="240" alt="棉花糖放到隔天……"></a><br><a href="../memes/m3443.md">棉花糖放到隔天……</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2203,7 +2204,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（285）
+## ⚠️ 需斟酌（287）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5052,6 +5053,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3406.md"><img src="../images/m3406-self-destruct-adapter.png" width="240" alt="朋友好厭世？推薦他「自我毀滅轉接頭」"></a><br><a href="../memes/m3406.md">朋友好厭世？推薦他「自我毀滅轉接頭」</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>壞消息是你只剩 24 小時，更糟的是我昨天就該告訴你 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3442.md"><img src="../images/m3442-doctor-worse-news-yesterday.jpg" width="240" alt="壞消息是你只剩 24 小時，更糟的是我昨天就該告訴你"></a><br><a href="../memes/m3442.md">壞消息是你只剩 24 小時，更糟的是我昨天就該告訴你</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>自慰會開啟地獄傳送門？我的房間 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3444.md"><img src="../images/m3444-masturbation-hell-portals.jpg" width="240" alt="自慰會開啟地獄傳送門？我的房間"></a><br><a href="../memes/m3444.md">自慰會開啟地獄傳送門？我的房間</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

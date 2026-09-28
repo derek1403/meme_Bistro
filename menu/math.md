@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 355 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 357 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（99）
 
@@ -176,7 +176,7 @@
 </tr>
 </table>
 
-## ★★（169）
+## ★★（171）
 
 <table>
 <tr>
@@ -461,6 +461,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3014.md"><img src="../images/m3014-altitude-elder-wand.png" width="240" alt="三角形的高叫什麼？接骨木魔杖"></a><br><a href="../memes/m3014.md">三角形的高叫什麼？接骨木魔杖</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3054.md"><img src="../images/m3054-let-epsilon-freshman-senior.png" width="240" alt="大一 vs 大四寫「Let ε>0」"></a><br><a href="../memes/m3054.md">大一 vs 大四寫「Let ε>0」</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3059.md"><img src="../images/m3059-nijika-desmos-full.png" width="240" alt="虹夏全攻略：用幾百條方程式畫出來"></a><br><a href="../memes/m3059.md">虹夏全攻略：用幾百條方程式畫出來</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

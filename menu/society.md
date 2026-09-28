@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 255 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 257 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（88）
+## ★（89）
 
 <table>
 <tr>
@@ -156,6 +156,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3044.md"><img src="../images/m3044-money-cant-buy-happiness-salary.png" width="240" alt="金錢買不到快樂——發薪水囉：快樂"></a><br><a href="../memes/m3044.md">金錢買不到快樂——發薪水囉：快樂</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3053.md"><img src="../images/m3053-not-staying-up-night-but-freedom.png" width="240" alt="我熬的不是夜，是自由"></a><br><a href="../memes/m3053.md">我熬的不是夜，是自由</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -207,7 +208,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（142）
+## ⚠️ 需斟酌（143）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1626,6 +1627,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3009.md"><img src="../images/m3009-why-men-die-younger-trash-lid.png" width="240" alt="為什麼男生平均壽命比女生短？"></a><br><a href="../memes/m3009.md">為什麼男生平均壽命比女生短？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>看《歐本海默》比看《芭比》容易多了 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3057.md"><img src="../images/m3057-oppenheimer-easier-than-barbie.png" width="240" alt="看《歐本海默》比看《芭比》容易多了"></a><br><a href="../memes/m3057.md">看《歐本海默》比看《芭比》容易多了</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

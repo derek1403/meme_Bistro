@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1444 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1448 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1087）
+## ★（1090）
 
 <table>
 <tr>
@@ -1821,10 +1821,15 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3050.md"><img src="../images/m3050-noodle-cake-as-lid-weight.png" width="240" alt="用泡麵裡的麵餅壓泡麵蓋子，有夠方便"></a><br><a href="../memes/m3050.md">用泡麵裡的麵餅壓泡麵蓋子，有夠方便</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3052.md"><img src="../images/m3052-bills-for-gaming-coins-for-food.png" width="240" alt="鈔票拿去打機，零錢拿去吃飯"></a><br><a href="../memes/m3052.md">鈔票拿去打機，零錢拿去吃飯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3056.md"><img src="../images/m3056-summer-stay-home-go-out.png" width="240" alt="媽：暑假不會出去玩嗎？我："></a><br><a href="../memes/m3056.md">媽：暑假不會出去玩嗎？我：</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3058.md"><img src="../images/m3058-alarm-not-rung-sleep-more.png" width="240" alt="鬧鐘還沒響，不然再睡一下？"></a><br><a href="../memes/m3058.md">鬧鐘還沒響，不然再睡一下？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（101）
+## ★★（102）
 
 <table>
 <tr>
@@ -1995,6 +2000,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2963.md"><img src="../images/m2963-tank-to-oarai-girls-und-panzer.png" width="240" alt="警察：去大洗？啊，是少女與戰車嗎？沒問題！"></a><br><a href="../memes/m2963.md">警察：去大洗？啊，是少女與戰車嗎？沒問題！</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3039.md"><img src="../images/m3039-bocchi-hair-clips-hammer-sickle.png" width="240" alt="孤獨搖滾髮夾組合技：錘子與鐮刀"></a><br><a href="../memes/m3039.md">孤獨搖滾髮夾組合技：錘子與鐮刀</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3055.md"><img src="../images/m3055-kobayashi-makima-past.jpg" width="240" alt="托爾妳想知道我的過去？那要從對魔四科開始"></a><br><a href="../memes/m3055.md">托爾妳想知道我的過去？那要從對魔四科開始</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

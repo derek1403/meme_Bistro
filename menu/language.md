@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 366 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 367 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（237）
+## ★（238）
 
 <table>
 <tr>
@@ -403,6 +403,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3547.md"><img src="../images/m3547-oshita-bridge.png" width="240" alt="大志田橋 Oshita Bridge：噢幹是橋"></a><br><a href="../memes/m3547.md">大志田橋 Oshita Bridge：噢幹是橋</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3571.md"><img src="../images/m3571-you-messed-with-wrong-lobster.png" width="240" alt="你惹錯龍蝦了：去你媽的"></a><br><a href="../memes/m3571.md">你惹錯龍蝦了：去你媽的</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3578.md"><img src="../images/m3578-want-pet-not-waste.jpg" width="240" alt="有打算養我這個單身狗嗎？我要養的是寵物，不是廢物"></a><br><a href="../memes/m3578.md">有打算養我這個單身狗嗎？我要養的是寵物，不是廢物</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3629.md"><img src="../images/m3629-dog-walking-sign-for-dogs.jpg" width="240" alt="遛狗民眾請清理糞便；各位狗狗：嘎嚕嚕嚕、吼吼、嗚汪汪汪"></a><br><a href="../memes/m3629.md">遛狗民眾請清理糞便；各位狗狗：嘎嚕嚕嚕、吼吼、嗚汪汪汪</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

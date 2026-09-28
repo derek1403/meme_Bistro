@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1700 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1706 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1283）
+## ★（1286）
 
 <table>
 <tr>
@@ -2147,10 +2147,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3618.md"><img src="../images/m3618-purse-geological-layers.jpg" width="240" alt="男人眼中的女用包包：地質分層"></a><br><a href="../memes/m3618.md">男人眼中的女用包包：地質分層</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3626.md"><img src="../images/m3626-trilliant-shipping-fee-dad.jpg" width="240" alt="特力屋：托運要多付 150 元運費喔！老爸："></a><br><a href="../memes/m3626.md">特力屋：托運要多付 150 元運費喔！老爸：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3628.md"><img src="../images/m3628-hot-coffee-wake-up.jpg" width="240" alt="你知道嗎？把熱咖啡倒在自己身上比喝下去更清醒"></a><br><a href="../memes/m3628.md">你知道嗎？把熱咖啡倒在自己身上比喝下去更清醒</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3630.md"><img src="../images/m3630-dad-birthday-gift-duck.jpg" width="240" alt="這是我爸送我的生日禮物，我應該把它當寵物還是吃了它？"></a><br><a href="../memes/m3630.md">這是我爸送我的生日禮物，我應該把它當寵物還是吃了它？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3631.md"><img src="../images/m3631-years-of-effort-coffee.jpg" width="240" alt="經過多年的努力，我終於買得起這杯咖啡了"></a><br><a href="../memes/m3631.md">經過多年的努力，我終於買得起這杯咖啡了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（114）
+## ★★（115）
 
 <table>
 <tr>
@@ -2343,9 +2348,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3614.md"><img src="../images/m3614-purpose-of-visit-holy-grail-war.png" width="240" alt="入境日本的目的：聖杯戰爭——結果還過了"></a><br><a href="../memes/m3614.md">入境日本的目的：聖杯戰爭——結果還過了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3623.md"><img src="../images/m3623-paint-olaf-league-olaf.jpg" width="240" alt="今天我們要來畫歐拉夫——一個小孩畫的是 LOL 的歐拉夫"></a><br><a href="../memes/m3623.md">今天我們要來畫歐拉夫——一個小孩畫的是 LOL 的歐拉夫</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3627.md"><img src="../images/m3627-snowball-fight-men-vs-women.jpg" width="240" alt="打雪仗（女）vs 打雪仗（男）"></a><br><a href="../memes/m3627.md">打雪仗（女）vs 打雪仗（男）</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（303）
+## ⚠️ 需斟酌（305）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5374,6 +5382,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3625.md"><img src="../images/m3625-baby-saved-but-mom-joke.jpg" width="240" alt="小孩保住了，但媽媽——哈哈開玩笑的，兩個都死了"></a><br><a href="../memes/m3625.md">小孩保住了，但媽媽——哈哈開玩笑的，兩個都死了</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>國小生的橡皮擦：被插滿鉛筆洞 — ⚠️ 血腥</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3632.md"><img src="../images/m3632-elementary-eraser-giorno.png" width="240" alt="國小生的橡皮擦：被插滿鉛筆洞"></a><br><a href="../memes/m3632.md">國小生的橡皮擦：被插滿鉛筆洞</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我的 FBI 探員在半夜三點觀察我：他已經在那搓那個棍子搓好久了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3633.md"><img src="../images/m3633-fbi-watching-rubbing-stick.png" width="240" alt="我的 FBI 探員在半夜三點觀察我：他已經在那搓那個棍子搓好久了"></a><br><a href="../memes/m3633.md">我的 FBI 探員在半夜三點觀察我：他已經在那搓那個棍子搓好久了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

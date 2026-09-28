@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 350 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 351 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（231）
+## ★（232）
 
 <table>
 <tr>
@@ -393,6 +393,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3440.md"><img src="../images/m3440-drizzle-sama.jpg" width="240" alt="在下毛毛雨——失敬，原來是毛毛雨大人"></a><br><a href="../memes/m3440.md">在下毛毛雨——失敬，原來是毛毛雨大人</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3454.md"><img src="../images/m3454-fastest-is-dont-eat.jpg" width="240" alt="老闆有沒有比較快的？不要吃最快！"></a><br><a href="../memes/m3454.md">老闆有沒有比較快的？不要吃最快！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3489.md"><img src="../images/m3489-insults-without-swearing.jpg" width="240" alt="來點罵人不帶髒字的藝術吧"></a><br><a href="../memes/m3489.md">來點罵人不帶髒字的藝術吧</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3501.md"><img src="../images/m3501-won-diabetes.jpg" width="240" alt="每天買一杯飲料想中發票千萬，結果中了糖尿病"></a><br><a href="../memes/m3501.md">每天買一杯飲料想中發票千萬，結果中了糖尿病</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1629 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1633 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1232）
+## ★（1235）
 
 <table>
 <tr>
@@ -2062,6 +2062,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3492.md"><img src="../images/m3492-lost-friend-at-party-kitten.jpg" width="240" alt="去陌生派對，結果找不到帶你去的朋友"></a><br><a href="../memes/m3492.md">去陌生派對，結果找不到帶你去的朋友</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3493.md"><img src="../images/m3493-hesitate-vs-consider.png" width="240" alt="會猶豫就是想要，會考慮就是不想要"></a><br><a href="../memes/m3493.md">會猶豫就是想要，會考慮就是不想要</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3495.md"><img src="../images/m3495-car-wash-pigeon.jpg" width="240" alt="洗了三小時的車終於完美——鴿子："></a><br><a href="../memes/m3495.md">洗了三小時的車終於完美——鴿子：</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3498.md"><img src="../images/m3498-hot-food-hafuhafu.jpg" width="240" alt="燙的食物你會吹涼還是直接哈斯發施哈夫沙斯？"></a><br><a href="../memes/m3498.md">燙的食物你會吹涼還是直接哈斯發施哈夫沙斯？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3500.md"><img src="../images/m3500-cat-in-bird-cage.png" width="240" alt="貓關在鳥籠裡，鸚鵡站在籠子上"></a><br><a href="../memes/m3500.md">貓關在鳥籠裡，鸚鵡站在籠子上</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2249,7 +2254,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（290）
+## ⚠️ 需斟酌（291）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5148,6 +5153,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3490.md"><img src="../images/m3490-dentist-this-will-hurt.jpg" width="240" alt="牙醫：接下來會有點痛喔——我睡過妳老公了"></a><br><a href="../memes/m3490.md">牙醫：接下來會有點痛喔——我睡過妳老公了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>冷靜點大衛，這只是簡單的手術——等等，我不是大衛 — ⚠️ 醫療恐怖</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3496.md"><img src="../images/m3496-calm-down-david.jpg" width="240" alt="冷靜點大衛，這只是簡單的手術——等等，我不是大衛"></a><br><a href="../memes/m3496.md">冷靜點大衛，這只是簡單的手術——等等，我不是大衛</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

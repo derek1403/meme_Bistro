@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 351 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（160）
+## ★（161）
 
 <table>
 <tr>
@@ -276,6 +276,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3491.md"><img src="../images/m3491-typhoon-day-three-treasures.jpg" width="240" alt="颱風天有三寶：麻將、泡麵、睡到飽——服務業：去你的三寶"></a><br><a href="../memes/m3491.md">颱風天有三寶：麻將、泡麵、睡到飽——服務業：去你的三寶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3497.md"><img src="../images/m3497-living-or-just-moving.jpg" width="240" alt="朝五晚九、吃塑膠盒便當——我究竟是活著，還是只是在動著？"></a><br><a href="../memes/m3497.md">朝五晚九、吃塑膠盒便當——我究竟是活著，還是只是在動著？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -334,7 +335,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（158）
+## ⚠️ 需斟酌（160）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1913,6 +1914,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3431.md"><img src="../images/m3431-why-women-live-longer-ladder.jpg" width="240" alt="女生比男生活得還要久很奇怪？——你確定這樣是安全的嗎？安啦"></a><br><a href="../memes/m3431.md">女生比男生活得還要久很奇怪？——你確定這樣是安全的嗎？安啦</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>老婆：沒在你身上找到頭髮——所以那個光頭的破麻是誰？ — ⚠️ 外遇</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3494.md"><img src="../images/m3494-bald-hair-alibi.jpg" width="240" alt="老婆：沒在你身上找到頭髮——所以那個光頭的破麻是誰？"></a><br><a href="../memes/m3494.md">老婆：沒在你身上找到頭髮——所以那個光頭的破麻是誰？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>路邊撿到有頭髮的紅包，結果夢到女鬼叫他放回去 — ⚠️ 鬼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3499.md"><img src="../images/m3499-ghost-marriage-rejected.jpg" width="240" alt="路邊撿到有頭髮的紅包，結果夢到女鬼叫他放回去"></a><br><a href="../memes/m3499.md">路邊撿到有頭髮的紅包，結果夢到女鬼叫他放回去</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

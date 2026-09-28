@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1470 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1476 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1105）
+## ★（1110）
 
 <table>
 <tr>
@@ -1851,6 +1851,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3110.md"><img src="../images/m3110-midnight-hungry-food-pics.png" width="240" alt="朋朋：半夜肚子好餓哦；我：傳四張菜照"></a><br><a href="../memes/m3110.md">朋朋：半夜肚子好餓哦；我：傳四張菜照</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3122.md"><img src="../images/m3122-yawning-cat-wide-awake-bedtime.png" width="240" alt="剛起床、上班、下班都在打哈欠，準備睡覺時精神百倍"></a><br><a href="../memes/m3122.md">剛起床、上班、下班都在打哈欠，準備睡覺時精神百倍</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3123.md"><img src="../images/m3123-mom-go-to-doctor-yourself-25.png" width="240" alt="都幾歲了，你明天自己去看醫生啦！25 歲的我："></a><br><a href="../memes/m3123.md">都幾歲了，你明天自己去看醫生啦！25 歲的我：</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3127.md"><img src="../images/m3127-lost-everything-i-dot-car.png" width="240" alt="10 歲弄丟鉛筆傷心一週，25 歲弄丟一切：I dot car"></a><br><a href="../memes/m3127.md">10 歲弄丟鉛筆傷心一週，25 歲弄丟一切：I dot car</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3128.md"><img src="../images/m3128-dream-meaning-giant-cat.png" width="240" alt="解夢大師：所有的夢都有它代表的意義；我的夢："></a><br><a href="../memes/m3128.md">解夢大師：所有的夢都有它代表的意義；我的夢：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3129.md"><img src="../images/m3129-mom-washes-blankie.png" width="240" alt="當媽媽想要把你的小被被拿去洗"></a><br><a href="../memes/m3129.md">當媽媽想要把你的小被被拿去洗</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2032,7 +2039,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（262）
+## ⚠️ 需斟酌（263）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4651,6 +4658,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3121.md"><img src="../images/m3121-genie-double-enemy-wishes.png" width="240" alt="三個願望，仇人都得雙倍：45 度泡澡、睡 12 小時"></a><br><a href="../memes/m3121.md">三個願望，仇人都得雙倍：45 度泡澡、睡 12 小時</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>死神，給我 30 分鐘，我不想兒子認為我很猥瑣 — ⚠️ 性暗示、死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3130.md"><img src="../images/m3130-grim-reaper-30-minutes-delete.png" width="240" alt="死神，給我 30 分鐘，我不想兒子認為我很猥瑣"></a><br><a href="../memes/m3130.md">死神，給我 30 分鐘，我不想兒子認為我很猥瑣</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

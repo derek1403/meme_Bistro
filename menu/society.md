@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 270 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 272 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（98）
+## ★（100）
 
 <table>
 <tr>
@@ -172,6 +172,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3114.md"><img src="../images/m3114-typhoon-holiday-central-taiwan-wolves.png" width="240" alt="放四天的南部、放一天的北部、什麼都沒有的中部"></a><br><a href="../memes/m3114.md">放四天的南部、放一天的北部、什麼都沒有的中部</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3115.md"><img src="../images/m3115-payday-giant-fries.png" width="240" alt="你最近剛領薪水哦？很明顯嗎？"></a><br><a href="../memes/m3115.md">你最近剛領薪水哦？很明顯嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3125.md"><img src="../images/m3125-work-for-money-still-broke.png" width="240" alt="我明明是因為需要錢才去上班，為什麼月底還是沒錢"></a><br><a href="../memes/m3125.md">我明明是因為需要錢才去上班，為什麼月底還是沒錢</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3126.md"><img src="../images/m3126-graduate-vs-three-years-socialized.png" width="240" alt="剛畢業的老弟 vs 畢業三年已社會化的我"></a><br><a href="../memes/m3126.md">剛畢業的老弟 vs 畢業三年已社會化的我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

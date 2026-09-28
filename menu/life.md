@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1588 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1591 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1196）
+## ★（1199）
 
 <table>
 <tr>
@@ -2002,6 +2002,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3418.md"><img src="../images/m3418-cat-burger-does-not-exist.png" width="240" alt="醫生：貓貓堡並不存在——貓貓堡："></a><br><a href="../memes/m3418.md">醫生：貓貓堡並不存在——貓貓堡：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3419.md"><img src="../images/m3419-toilet-bbq-grill-cooler.jpg" width="240" alt="中秋新烤肉架：保冰飲料及一按滅火功能"></a><br><a href="../memes/m3419.md">中秋新烤肉架：保冰飲料及一按滅火功能</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3423.md"><img src="../images/m3423-cat-brings-bottle-caps-when-crying.jpg" width="240" alt="躲在廁所哭，貓貓叼來一堆瓶蓋放在門口要給我"></a><br><a href="../memes/m3423.md">躲在廁所哭，貓貓叼來一堆瓶蓋放在門口要給我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3426.md"><img src="../images/m3426-cleaning-room-kitten-sleeps.png" width="240" alt="整理房間整理到一半，突然很想睡"></a><br><a href="../memes/m3426.md">整理房間整理到一半，突然很想睡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3427.md"><img src="../images/m3427-fate-holy-grail-war-secret.jpg" width="240" alt="Fate：聖杯戰爭得隱密的進行——也是 Fate："></a><br><a href="../memes/m3427.md">Fate：聖杯戰爭得隱密的進行——也是 Fate：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

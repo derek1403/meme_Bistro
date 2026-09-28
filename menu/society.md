@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 329 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 331 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（145）
+## ★（147）
 
 <table>
 <tr>
@@ -251,6 +251,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3420.md"><img src="../images/m3420-car-weird-noise-turn-up-music.jpg" width="240" alt="車子一直發出怪聲，存摺告訴我把音樂調大聲就好了"></a><br><a href="../memes/m3420.md">車子一直發出怪聲，存摺告訴我把音樂調大聲就好了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3421.md"><img src="../images/m3421-buy-two-shoes-free-shoes-made-up.jpg" width="240" alt="買兩雙鞋送 2000 元的鞋？——你在哪看到的？我自己想的"></a><br><a href="../memes/m3421.md">買兩雙鞋送 2000 元的鞋？——你在哪看到的？我自己想的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3428.md"><img src="../images/m3428-island-rejects-weak-typhoon.jpg" width="240" alt="本島不歡迎假日登陸及未達放假標準之貧弱颱風"></a><br><a href="../memes/m3428.md">本島不歡迎假日登陸及未達放假標準之貧弱颱風</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

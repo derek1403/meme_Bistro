@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 151 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 152 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（125）
+## ★（126）
 
 <table>
 <tr>
@@ -217,6 +217,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3343.md"><img src="../images/m3343-grad-project-horse-drawing.png" width="240" alt="大三下、大四上、畢業展當天的畢製進度"></a><br><a href="../memes/m3343.md">大三下、大四上、畢業展當天的畢製進度</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3370.md"><img src="../images/m3370-pair-presentation-hug-figures.png" width="240" alt="老師：這門課兩個人一組報告喔！我："></a><br><a href="../memes/m3370.md">老師：這門課兩個人一組報告喔！我：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3424.md"><img src="../images/m3424-anime-high-school-vs-real.jpg" width="240" alt="動漫裡的高中 vs 現實中的高中"></a><br><a href="../memes/m3424.md">動漫裡的高中 vs 現實中的高中</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1373 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1379 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1031）
+## ★（1036）
 
 <table>
 <tr>
@@ -1727,6 +1727,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2895.md"><img src="../images/m2895-salt-look-this-is-the-sea.png" width="240" alt="鹽啊，你看，這是海啊（這是你家啊）"></a><br><a href="../memes/m2895.md">鹽啊，你看，這是海啊（這是你家啊）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2896.md"><img src="../images/m2896-frieren-stronger-than-aura.png" width="240" alt="比斷頭台阿烏拉還強"></a><br><a href="../memes/m2896.md">比斷頭台阿烏拉還強</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2902.md"><img src="../images/m2902-werewolf-game-spongebob.png" width="240" alt="玩狼人殺時：只說一句話的平民被愛推理的拖走"></a><br><a href="../memes/m2902.md">玩狼人殺時：只說一句話的平民被愛推理的拖走</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2905.md"><img src="../images/m2905-pig-not-two-faced.png" width="240" alt="豬先生不是表裡不一的人：你是說我內外都是豬？"></a><br><a href="../memes/m2905.md">豬先生不是表裡不一的人：你是說我內外都是豬？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2906.md"><img src="../images/m2906-burnt-fish-red-part-undercooked.png" width="240" alt="那個紅色的地方是不是還沒熟？"></a><br><a href="../memes/m2906.md">那個紅色的地方是不是還沒熟？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2908.md"><img src="../images/m2908-bluetooth-earbud-peashooter.png" width="240" alt="我是藍牙耳機……提供 BGM？"></a><br><a href="../memes/m2908.md">我是藍牙耳機……提供 BGM？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2909.md"><img src="../images/m2909-wont-think-about-it-again.png" width="240" alt="好了我不會再想那件事了——接下來一整天的我"></a><br><a href="../memes/m2909.md">好了我不會再想那件事了——接下來一整天的我</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1894,7 +1903,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（247）
+## ⚠️ 需斟酌（248）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4363,6 +4372,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2898.md"><img src="../images/m2898-body-70-percent-water-thirsty.png" width="240" alt="你的身體有 70% 是由水構成，我渴了"></a><br><a href="../memes/m2898.md">你的身體有 70% 是由水構成，我渴了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你的 XP 過於複雜時 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2907.md"><img src="../images/m2907-complicated-xp-puzzle-piece.png" width="240" alt="當你的 XP 過於複雜時"></a><br><a href="../memes/m2907.md">當你的 XP 過於複雜時</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

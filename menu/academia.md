@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 106 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 107 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（85）
+## ★（86）
 
 <table>
 <tr>
@@ -151,6 +151,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2897.md"><img src="../images/m2897-lunch-with-magic-history-professor.png" width="240" alt="今天跟學校教魔法史的教授吃學餐"></a><br><a href="../memes/m2897.md">今天跟學校教魔法史的教授吃學餐</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2904.md"><img src="../images/m2904-brain-before-vs-during-exam.png" width="240" alt="考試前五分鐘的大腦 vs 考試開始五分鐘的大腦"></a><br><a href="../memes/m2904.md">考試前五分鐘的大腦 vs 考試開始五分鐘的大腦</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

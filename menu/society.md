@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 228 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 230 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（67）
+## ★（68）
 
 <table>
 <tr>
@@ -121,10 +121,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2883.md"><img src="../images/m2883-foreign-internship-photocopy.png" width="240" alt="外資大公司實習：流程優化與自動化（影印、蓋章、訂便當）"></a><br><a href="../memes/m2883.md">外資大公司實習：流程優化與自動化（影印、蓋章、訂便當）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2899.md"><img src="../images/m2899-adult-speech-translation.jpg" width="240" alt="成年人的話術：懂的都懂"></a><br><a href="../memes/m2899.md">成年人的話術：懂的都懂</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（23）
+## ★★（24）
 
 <table>
 <tr>
@@ -165,6 +166,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2330.md"><img src="../images/m2330-crow-vtuber-graduate.png" width="240" alt="受到挫折——我決定畢業／長期停止活動"></a><br><a href="../memes/m2330.md">受到挫折——我決定畢業／長期停止活動</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2517.md"><img src="../images/m2517-bible-accurate-angel-demon.png" width="240" alt="天使與惡魔：宗教畫 vs 照聖經記載"></a><br><a href="../memes/m2517.md">天使與惡魔：宗教畫 vs 照聖經記載</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2900.md"><img src="../images/m2900-suspect-coworker-is-demon.png" width="240" alt="同樣語言卻溝通不良：我懷疑他是魔族，可是我沒有證據"></a><br><a href="../memes/m2900.md">同樣語言卻溝通不良：我懷疑他是魔族，可是我沒有證據</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

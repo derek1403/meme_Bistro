@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 148 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 149 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（123）
+## ★（124）
 
 <table>
 <tr>
@@ -213,6 +213,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3331.md"><img src="../images/m3331-professor-this-homework-wont-take-long.png" width="240" alt="教授：這次作業不用花太多時間"></a><br><a href="../memes/m3331.md">教授：這次作業不用花太多時間</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3333.md"><img src="../images/m3333-teacher-before-vs-online-class.png" width="240" alt="以前課堂上的老師 vs 現在網課的老師"></a><br><a href="../memes/m3333.md">以前課堂上的老師 vs 現在網課的老師</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3336.md"><img src="../images/m3336-three-assignments-oreo-sorting.png" width="240" alt="還有三份作業沒交，突然想做點別的事情"></a><br><a href="../memes/m3336.md">還有三份作業沒交，突然想做點別的事情</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3343.md"><img src="../images/m3343-grad-project-horse-drawing.png" width="240" alt="大三下、大四上、畢業展當天的畢製進度"></a><br><a href="../memes/m3343.md">大三下、大四上、畢業展當天的畢製進度</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

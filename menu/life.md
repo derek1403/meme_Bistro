@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1548 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1550 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1165）
+## ★（1167）
 
 <table>
 <tr>
@@ -1951,6 +1951,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3335.md"><img src="../images/m3335-spy-family-anya-punch-anime-vs-manga.png" width="240" alt="動漫 vs 漫畫：安妮亞一拳打飛達米安"></a><br><a href="../memes/m3335.md">動漫 vs 漫畫：安妮亞一拳打飛達米安</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3341.md"><img src="../images/m3341-hololive-multiverse-of-promotion.png" width="240" alt="奇異博士：失控多重宇宙 vs Hololive：失控多重宣傳"></a><br><a href="../memes/m3341.md">奇異博士：失控多重宇宙 vs Hololive：失控多重宣傳</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3346.md"><img src="../images/m3346-fogged-windshield-third-person.jpg" width="240" alt="前面完全看不見怎麼辦？——切到第三人稱啊"></a><br><a href="../memes/m3346.md">前面完全看不見怎麼辦？——切到第三人稱啊</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

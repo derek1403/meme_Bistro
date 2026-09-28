@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 308 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 310 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（128）
+## ★（129）
 
 <table>
 <tr>
@@ -222,6 +222,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3330.md"><img src="../images/m3330-work-smart-not-hard-square-block.jpg" width="240" alt="辦事努力不如辦事機靈——我叫你拿的方塊咧？"></a><br><a href="../memes/m3330.md">辦事努力不如辦事機靈——我叫你拿的方塊咧？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3332.md"><img src="../images/m3332-asian-parents-no-sex-ed-yes-calculus.png" width="240" alt="亞洲爸媽：性教育不准教，高等微積分沒問題"></a><br><a href="../memes/m3332.md">亞洲爸媽：性教育不准教，高等微積分沒問題</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3345.md"><img src="../images/m3345-pikachu-electrician-license-600v.png" width="240" alt="皮卡丘，使用十萬伏特！——你有高壓電證照嗎？"></a><br><a href="../memes/m3345.md">皮卡丘，使用十萬伏特！——你有高壓電證照嗎？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -275,7 +276,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（153）
+## ⚠️ 需斟酌（154）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1804,6 +1805,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3246.md"><img src="../images/m3246-first-programmer-woman-comment.png" width="240" alt="世界上第一位程式設計師是女性——難怪程式語言那麼難懂"></a><br><a href="../memes/m3246.md">世界上第一位程式設計師是女性——難怪程式語言那麼難懂</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>柯南為什麼會縮小？因為藥丸裡有塑化劑 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3344.md"><img src="../images/m3344-conan-shrinks-plasticizer.png" width="240" alt="柯南為什麼會縮小？因為藥丸裡有塑化劑"></a><br><a href="../memes/m3344.md">柯南為什麼會縮小？因為藥丸裡有塑化劑</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

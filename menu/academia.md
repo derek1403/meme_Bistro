@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 94 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 95 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（74）
+## ★（75）
 
 <table>
 <tr>
@@ -132,6 +132,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2694.md"><img src="../images/m2694-pride-flag-federated-learning.png" width="240" alt="那是什麼驕傲旗？聯邦學習海報"></a><br><a href="../memes/m2694.md">那是什麼驕傲旗？聯邦學習海報</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2727.md"><img src="../images/m2727-professor-email-chocolate-cake.jpg" width="240" alt="各位好孩子別忘了關鏡頭"></a><br><a href="../memes/m2727.md">各位好孩子別忘了關鏡頭</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2784.md"><img src="../images/m2784-classical-chinese-curriculum-gsat.png" width="240" alt="你有多壞？課綱刪減文言文，但學測考更多文言文"></a><br><a href="../memes/m2784.md">你有多壞？課綱刪減文言文，但學測考更多文言文</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

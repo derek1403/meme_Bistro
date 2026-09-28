@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1316 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1319 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（983）
+## ★（986）
 
 <table>
 <tr>
@@ -1647,6 +1647,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2776.md"><img src="../images/m2776-pokemon-desert-no-water.png" width="240" alt="沒有水了！你們至少有三隻水系寶可夢欸"></a><br><a href="../memes/m2776.md">沒有水了！你們至少有三隻水系寶可夢欸</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2777.md"><img src="../images/m2777-fake-dating-levels.jpg" width="240" alt="假裝交往：LV.1 → LV.100"></a><br><a href="../memes/m2777.md">假裝交往：LV.1 → LV.100</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2781.md"><img src="../images/m2781-cant-live-without-you-oxygen.png" width="240" alt="我不能沒有你——食物、水、氧氣：我們是笑話嗎？"></a><br><a href="../memes/m2781.md">我不能沒有你——食物、水、氧氣：我們是笑話嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2782.md"><img src="../images/m2782-elevator-button-1-worn.png" width="240" alt="從電梯按鈕看出想下班的心"></a><br><a href="../memes/m2782.md">從電梯按鈕看出想下班的心</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2786.md"><img src="../images/m2786-dont-worry-he-doesnt-bite.png" width="240" alt="放心兄弟，他不會咬人的"></a><br><a href="../memes/m2786.md">放心兄弟，他不會咬人的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

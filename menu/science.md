@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 181 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 182 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（85）
 
@@ -154,7 +154,7 @@
 </tr>
 </table>
 
-## ★★（57）
+## ★★（58）
 
 <table>
 <tr>
@@ -251,6 +251,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2721.md"><img src="../images/m2721-six-nine-error-bars.png" width="240" alt="是 6 還是 9？7.5 ± 1.5，同意"></a><br><a href="../memes/m2721.md">是 6 還是 9？7.5 ± 1.5，同意</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2738.md"><img src="../images/m2738-flank-beef-derecho-radar.png" width="240" alt="牛五花 vs 2009 年 6 月 12 日的 Derecho 雷達回波"></a><br><a href="../memes/m2738.md">牛五花 vs 2009 年 6 月 12 日的 Derecho 雷達回波</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2749.md"><img src="../images/m2749-strong-nuclear-force-gorilla.png" width="240" alt="強核力：一隻宇宙大猩猩把質子捏在一起"></a><br><a href="../memes/m2749.md">強核力：一隻宇宙大猩猩把質子捏在一起</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2785.md"><img src="../images/m2785-t-rex-70-million-and-6.png" width="240" alt="這隻暴龍多老了？七千萬零六年"></a><br><a href="../memes/m2785.md">這隻暴龍多老了？七千萬零六年</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1663 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1666 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1256）
+## ★（1258）
 
 <table>
 <tr>
@@ -2102,6 +2102,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3560.md"><img src="../images/m3560-ex-wedding-hair-emergency.jpg" width="240" alt="要參加前男友的婚禮？快把沙龍總監和整個化妝團隊找過來！"></a><br><a href="../memes/m3560.md">要參加前男友的婚禮？快把沙龍總監和整個化妝團隊找過來！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3561.md"><img src="../images/m3561-buy-or-not-two-questions.jpg" width="240" alt="買東西猶豫時問自己：買了會破產嗎？不買會發財嗎？"></a><br><a href="../memes/m3561.md">買東西猶豫時問自己：買了會破產嗎？不買會發財嗎？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3564.md"><img src="../images/m3564-bigger-stick-chopsticks.jpg" width="240" alt="十雙筷子很難折斷，但用電鋸就能輕易鋸斷"></a><br><a href="../memes/m3564.md">十雙筷子很難折斷，但用電鋸就能輕易鋸斷</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3567.md"><img src="../images/m3567-zombie-treadmill-defense.png" width="240" alt="殭屍來了如何保護你家：一圈跑步機"></a><br><a href="../memes/m3567.md">殭屍來了如何保護你家：一圈跑步機</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2294,7 +2298,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（297）
+## ⚠️ 需斟酌（298）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5263,6 +5267,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3557.md"><img src="../images/m3557-two-fingers-leave-you.jpg" width="240" alt="猜猜今晚我要用這雙手指做甚麼呀？離開你，再見"></a><br><a href="../memes/m3557.md">猜猜今晚我要用這雙手指做甚麼呀？離開你，再見</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>出家考驗：雞雞掛鈴鐺，見美女鈴不響才算成功 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3562.md"><img src="../images/m3562-monk-bells-bend-over.jpg" width="240" alt="出家考驗：雞雞掛鈴鐺，見美女鈴不響才算成功"></a><br><a href="../memes/m3562.md">出家考驗：雞雞掛鈴鐺，見美女鈴不響才算成功</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

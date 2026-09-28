@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 364 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 367 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（164）
+## ★（166）
 
 <table>
 <tr>
@@ -282,10 +282,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3537.md"><img src="../images/m3537-cats-holding-up-economy.jpg" width="240" alt="感謝那些在非常時期為我們撐住經濟的人（貓）"></a><br><a href="../memes/m3537.md">感謝那些在非常時期為我們撐住經濟的人（貓）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3554.md"><img src="../images/m3554-social-distance-baptism-water-gun.jpg" width="240" alt="社交安全距離洗禮：用水槍"></a><br><a href="../memes/m3554.md">社交安全距離洗禮：用水槍</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3563.md"><img src="../images/m3563-spain-lockdown-dog-walked-38-times.jpg" width="240" alt="西班牙封城只能遛狗，牠今天被鄰居借去遛了 38 次"></a><br><a href="../memes/m3563.md">西班牙封城只能遛狗，牠今天被鄰居借去遛了 38 次</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3566.md"><img src="../images/m3566-kaguya-poster-copied.jpg" width="240" alt="《輝夜姬》海報 vs 手遊《食物語》廣告：構圖一模一樣"></a><br><a href="../memes/m3566.md">《輝夜姬》海報 vs 手遊《食物語》廣告：構圖一模一樣</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（35）
+## ★★（36）
 
 <table>
 <tr>
@@ -346,6 +350,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3545.md"><img src="../images/m3545-beach-social-distance-circle.png" width="240" alt="海灘上的最佳社交距離：準備好抵禦海熊的攻擊了"></a><br><a href="../memes/m3545.md">海灘上的最佳社交距離：準備好抵禦海熊的攻擊了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3552.md"><img src="../images/m3552-group-player-power-pyramid.png" width="240" alt="本群玩家實力結構圖：萌新最強，我在最底"></a><br><a href="../memes/m3552.md">本群玩家實力結構圖：萌新最強，我在最底</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3565.md"><img src="../images/m3565-italy-empty-streets-cs-map.png" width="240" alt="意大利空無一人的街頭——其實是 CS 地圖"></a><br><a href="../memes/m3565.md">意大利空無一人的街頭——其實是 CS 地圖</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

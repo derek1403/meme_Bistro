@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 277 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 282 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（104）
+## ★（108）
 
 <table>
 <tr>
@@ -182,6 +182,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3144.md"><img src="../images/m3144-doksuri-typhoon-left-exit.png" width="240" alt="杜蘇芮颱風：台灣直走，太平洋右轉——結果它往台灣甩尾"></a><br><a href="../memes/m3144.md">杜蘇芮颱風：台灣直走，太平洋右轉——結果它往台灣甩尾</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3149.md"><img src="../images/m3149-client-revision-microscope.png" width="240" alt="一般人 vs 部分客戶提出稿件修改"></a><br><a href="../memes/m3149.md">一般人 vs 部分客戶提出稿件修改</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3163.md"><img src="../images/m3163-disguised-ship-met-real-one.png" width="240" alt="偽裝成英國郵輪的德國船，首航就遇到正牌郵輪"></a><br><a href="../memes/m3163.md">偽裝成英國郵輪的德國船，首航就遇到正牌郵輪</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3164.md"><img src="../images/m3164-not-working-money-problem-only.jpg" width="240" alt="不上班只有經濟出問題，上班經濟身體精神都出問題"></a><br><a href="../memes/m3164.md">不上班只有經濟出問題，上班經濟身體精神都出問題</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3168.md"><img src="../images/m3168-mihoyo-lore-too-complex-hired.png" width="240" alt="設定太多玩家看不懂？讓角色吐槽自己也搞不懂——錄取"></a><br><a href="../memes/m3168.md">設定太多玩家看不懂？讓角色吐槽自己也搞不懂——錄取</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3169.md"><img src="../images/m3169-ai-stocks-up-bi-sad.png" width="240" alt="為什麼有些股票一直漲？有 AI；我的一直跌？BI（悲哀）"></a><br><a href="../memes/m3169.md">為什麼有些股票一直漲？有 AI；我的一直跌？BI（悲哀）</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
@@ -233,7 +239,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（148）
+## ⚠️ 需斟酌（149）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1712,6 +1718,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3155.md"><img src="../images/m3155-landmine-sweeping-robot.png" width="240" alt="最新研發掃地機器人：用過的從來沒有人給過負評"></a><br><a href="../memes/m3155.md">最新研發掃地機器人：用過的從來沒有人給過負評</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>請幫我把後面的清潔大媽修掉——完成囉 — ⚠️ 輕微地獄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3160.md"><img src="../images/m3160-photoshop-remove-cleaning-lady.png" width="240" alt="請幫我把後面的清潔大媽修掉——完成囉"></a><br><a href="../memes/m3160.md">請幫我把後面的清潔大媽修掉——完成囉</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

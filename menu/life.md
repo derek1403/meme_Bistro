@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1616 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1621 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1220）
+## ★（1225）
 
 <table>
 <tr>
@@ -2042,6 +2042,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3471.md"><img src="../images/m3471-moving-sleeping-baby-bomb-squad.jpg" width="240" alt="把熟睡的嬰兒移到嬰兒床，像在拆炸彈"></a><br><a href="../memes/m3471.md">把熟睡的嬰兒移到嬰兒床，像在拆炸彈</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3473.md"><img src="../images/m3473-cat-onigiri.jpg" width="240" alt="白貓屁股貼上海苔，變成一顆飯糰"></a><br><a href="../memes/m3473.md">白貓屁股貼上海苔，變成一顆飯糰</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3475.md"><img src="../images/m3475-axe-do-it.jpg" width="240" alt="也許「DO IT 放手去做」不太適合印在斧頭上"></a><br><a href="../memes/m3475.md">也許「DO IT 放手去做」不太適合印在斧頭上</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3477.md"><img src="../images/m3477-cat-cannon-neighbor-dog.jpg" width="240" alt="從那天起隔壁的狗再也沒來偷吃我的乾乾了"></a><br><a href="../memes/m3477.md">從那天起隔壁的狗再也沒來偷吃我的乾乾了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3478.md"><img src="../images/m3478-drawer-gaming-chair.jpg" width="240" alt="有錢學生嫌電競椅有怪聲，我的電競椅是抽屜"></a><br><a href="../memes/m3478.md">有錢學生嫌電競椅有怪聲，我的電競椅是抽屜</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3481.md"><img src="../images/m3481-ps5-air-purifier.jpg" width="240" alt="老婆，台中空氣有點糟，我想買台空氣清淨機（PS5）"></a><br><a href="../memes/m3481.md">老婆，台中空氣有點糟，我想買台空氣清淨機（PS5）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3482.md"><img src="../images/m3482-how-i-spend-money.jpg" width="240" alt="我怎樣花錢：其他都省，只有書店揮金如土"></a><br><a href="../memes/m3482.md">我怎樣花錢：其他都省，只有書店揮金如土</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

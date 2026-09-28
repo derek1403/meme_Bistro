@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 343 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 346 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（156）
+## ★（158）
 
 <table>
 <tr>
@@ -269,9 +269,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3466.md"><img src="../images/m3466-bill-gates-card-coke.jpg" width="240" alt="比爾蓋茲把卡給你買可樂，順便替自己買點什麼"></a><br><a href="../memes/m3466.md">比爾蓋茲把卡給你買可樂，順便替自己買點什麼</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3472.md"><img src="../images/m3472-do-girls-poop.jpg" width="240" alt="女生也會拉屎嗎？不會，會蒸發於天地之間並散發淡淡香氣"></a><br><a href="../memes/m3472.md">女生也會拉屎嗎？不會，會蒸發於天地之間並散發淡淡香氣</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3479.md"><img src="../images/m3479-tainan-sugar-free-illegal.jpg" width="240" alt="客人點無糖飲料怎麼辦？報警，因為無糖違法——台南飲料店錄取"></a><br><a href="../memes/m3479.md">客人點無糖飲料怎麼辦？報警，因為無糖違法——台南飲料店錄取</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3480.md"><img src="../images/m3480-social-distance-cpr.jpg" width="240" alt="顧及社交距離的救命訓練"></a><br><a href="../memes/m3480.md">顧及社交距離的救命訓練</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（29）
+## ★★（30）
 
 <table>
 <tr>
@@ -322,6 +326,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3436.md"><img src="../images/m3436-mnd-kindergarten.jpg" width="240" alt="國防部開幼兒園：軍中口吻管小朋友"></a><br><a href="../memes/m3436.md">國防部開幼兒園：軍中口吻管小朋友</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3464.md"><img src="../images/m3464-taiwan-regional-zongzi.jpg" width="240" alt="台灣各地的粽子：台北、苗栗、台中、台南"></a><br><a href="../memes/m3464.md">台灣各地的粽子：台北、苗栗、台中、台南</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3476.md"><img src="../images/m3476-shrimp-fishing-motel-jacuzzi.jpg" width="240" alt="朋友帶我來釣蝦，老婆不信要我傳照片"></a><br><a href="../memes/m3476.md">朋友帶我來釣蝦，老婆不信要我傳照片</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 287 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 288 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（191）
+## ★（192）
 
 <table>
 <tr>
@@ -327,6 +327,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2692.md"><img src="../images/m2692-cold-fa-do-shiver.png" width="240" alt="冷到：Fa Do（發抖）"></a><br><a href="../memes/m2692.md">冷到：Fa Do（發抖）</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2716.md"><img src="../images/m2716-peony-mu-dan-ke-lian.png" width="240" alt="這朵花跟你很像：牡丹、母單、可憐"></a><br><a href="../memes/m2716.md">這朵花跟你很像：牡丹、母單、可憐</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2723.md"><img src="../images/m2723-japanese-lo-low-law-row-raw.png" width="240" alt="日本人的英文發音：Low、Law、Row、Raw 全部念「ロー」"></a><br><a href="../memes/m2723.md">日本人的英文發音：Low、Law、Row、Raw 全部念「ロー」</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

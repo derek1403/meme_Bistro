@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 175 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 177 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（82）
+## ★（83）
 
 <table>
 <tr>
@@ -146,10 +146,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2711.md"><img src="../images/m2711-girlfriend-seesaw-physics.png" width="240" alt="女友至高無上，兄弟重於泰山"></a><br><a href="../memes/m2711.md">女友至高無上，兄弟重於泰山</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2720.md"><img src="../images/m2720-orange-float-sink-clothes.png" width="240" alt="為什麼剝皮的橘子會沉下去？"></a><br><a href="../memes/m2720.md">為什麼剝皮的橘子會沉下去？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（54）
+## ★★（55）
 
 <table>
 <tr>
@@ -241,6 +242,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2125.md"><img src="../images/m2125-physics-olympiad-drink-water.jpg" width="240" alt="喝一口得到折射率 1.33——化學組請放下四氯金酸"></a><br><a href="../memes/m2125.md">喝一口得到折射率 1.33——化學組請放下四氯金酸</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2236.md"><img src="../images/m2236-typhoon-cone-of-uncertainty.png" width="240" alt="誤差圈：你就知道天氣預報有多難幹"></a><br><a href="../memes/m2236.md">誤差圈：你就知道天氣預報有多難幹</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2434.md"><img src="../images/m2434-gru-newton-vs-schrodinger.png" width="240" alt="牛頓怎麼推出萬有引力？薛丁格怎麼推出波函數？"></a><br><a href="../memes/m2434.md">牛頓怎麼推出萬有引力？薛丁格怎麼推出波函數？</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2721.md"><img src="../images/m2721-six-nine-error-bars.png" width="240" alt="是 6 還是 9？7.5 ± 1.5，同意"></a><br><a href="../memes/m2721.md">是 6 還是 9？7.5 ± 1.5，同意</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

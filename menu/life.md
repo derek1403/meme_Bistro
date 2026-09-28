@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1274 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1280 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（943）
+## ★（949）
 
 <table>
 <tr>
@@ -1581,6 +1581,16 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2718.md"><img src="../images/m2718-titanic-lobster-miracle.png" width="240" alt="鐵達尼號沉沒，對船上廚房的龍蝦而言是奇蹟"></a><br><a href="../memes/m2718.md">鐵達尼號沉沒，對船上廚房的龍蝦而言是奇蹟</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2719.md"><img src="../images/m2719-banana-or-orange-exam.png" width="240" alt="老師說這次考試出容易的：這是香蕉還是橙？"></a><br><a href="../memes/m2719.md">老師說這次考試出容易的：這是香蕉還是橙？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2722.md"><img src="../images/m2722-h-under-bed-nunchaku.png" width="240" alt="床下果然藏著「H」的東西"></a><br><a href="../memes/m2722.md">床下果然藏著「H」的東西</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2724.md"><img src="../images/m2724-instant-reply-femboy.png" width="240" alt="你怎麼每次都秒回我？我是男娘——我喜歡你"></a><br><a href="../memes/m2724.md">你怎麼每次都秒回我？我是男娘——我喜歡你</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2725.md"><img src="../images/m2725-cold-customers-squat.jpg" width="240" alt="給覺得冷的顧客：男性請深蹲"></a><br><a href="../memes/m2725.md">給覺得冷的顧客：男性請深蹲</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2726.md"><img src="../images/m2726-mom-sad-really-studying.jpg" width="240" alt="我真的是去學校讀書，媽媽卻露出悲傷的表情"></a><br><a href="../memes/m2726.md">我真的是去學校讀書，媽媽卻露出悲傷的表情</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2728.md"><img src="../images/m2728-crow-bottle-cap-aya.png" width="240" alt="現實世界中的射命丸文"></a><br><a href="../memes/m2728.md">現實世界中的射命丸文</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

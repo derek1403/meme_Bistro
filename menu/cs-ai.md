@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 354 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 356 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（261）
+## ★（263）
 
 <table>
 <tr>
@@ -443,6 +443,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2779.md"><img src="../images/m2779-email-15-years-ago-now.png" width="240" alt="15 年前 vs 現在：你有一封郵件"></a><br><a href="../memes/m2779.md">15 年前 vs 現在：你有一封郵件</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2810.md"><img src="../images/m2810-bug-ideas-in-bathroom.png" width="240" alt="解 bug 的靈感都在什麼時候來"></a><br><a href="../memes/m2810.md">解 bug 的靈感都在什麼時候來</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2823.md"><img src="../images/m2823-therapist-javascript-hate-more.png" width="240" alt="心理師：你恨自己？看看 JavaScript"></a><br><a href="../memes/m2823.md">心理師：你恨自己？看看 JavaScript</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2834.md"><img src="../images/m2834-bus-extract-here-crowd.png" width="240" alt="公車右鍵「解壓縮到這裡」"></a><br><a href="../memes/m2834.md">公車右鍵「解壓縮到這裡」</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2843.md"><img src="../images/m2843-programmers-dark-mode-bugs.png" width="240" alt="為什麼工程師喜歡深色模式？因為光會吸引蟲"></a><br><a href="../memes/m2843.md">為什麼工程師喜歡深色模式？因為光會吸引蟲</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

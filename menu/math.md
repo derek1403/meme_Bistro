@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 334 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 337 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（156）
+## ★★（158）
 
 <table>
 <tr>
@@ -437,6 +437,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2803.md"><img src="../images/m2803-marathon-last-sin-cos-pi-km.png" width="240" alt="馬拉松告示：最後 sin²θ+cos²θ 公里"></a><br><a href="../memes/m2803.md">馬拉松告示：最後 sin²θ+cos²θ 公里</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2829.md"><img src="../images/m2829-time-person-of-year-taylor-series.png" width="240" alt="時代雜誌年度風雲人物：Taylor（級數）"></a><br><a href="../memes/m2829.md">時代雜誌年度風雲人物：Taylor（級數）</a><br><sub>🧠🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2839.md"><img src="../images/m2839-isomorphism-only-6-people-understand.png" width="240" alt="證明了全世界只有 6 個人懂的兩個物件同構"></a><br><a href="../memes/m2839.md">證明了全世界只有 6 個人懂的兩個物件同構</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2841.md"><img src="../images/m2841-recursive-dog-house.png" width="240" alt="狗屋是我們家的縮小版（無窮遞迴）"></a><br><a href="../memes/m2841.md">狗屋是我們家的縮小版（無窮遞迴）</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
 ## ★★★（52）
@@ -532,7 +536,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（29）
+## ⚠️ 需斟酌（30）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -821,6 +825,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2813.md"><img src="../images/m2813-skincare-10-years-younger-9yo.png" width="240" alt="保養品讓你年輕 10 歲，9 歲弟弟用了之後"></a><br><a href="../memes/m2813.md">保養品讓你年輕 10 歲，9 歲弟弟用了之後</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>與其抽籤，我們把數學家吃了 — ⚠️ 食人</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2836.md"><img src="../images/m2836-lifeboat-ate-the-mathematician.png" width="240" alt="與其抽籤，我們把數學家吃了"></a><br><a href="../memes/m2836.md">與其抽籤，我們把數學家吃了</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

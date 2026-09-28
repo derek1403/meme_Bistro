@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1343 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1347 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1006）
+## ★（1010）
 
 <table>
 <tr>
@@ -1686,6 +1686,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2828.md"><img src="../images/m2828-vomit-bag-wish-popcorn-bag.png" width="240" alt="嘔吐袋的真正想法：我希望我是爆米花袋"></a><br><a href="../memes/m2828.md">嘔吐袋的真正想法：我希望我是爆米花袋</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2833.md"><img src="../images/m2833-sleep-8-hours-in-4-hours.png" width="240" alt="我必須立刻在四小時內睡滿八小時"></a><br><a href="../memes/m2833.md">我必須立刻在四小時內睡滿八小時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2837.md"><img src="../images/m2837-keep-kitchen-clean-dont-cook.png" width="240" alt="保持廚房清潔的秘訣：不要煮"></a><br><a href="../memes/m2837.md">保持廚房清潔的秘訣：不要煮</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2838.md"><img src="../images/m2838-impulsive-extra-fried-chicken.png" width="240" alt="別人衝動 vs 我衝動：多加一片炸雞"></a><br><a href="../memes/m2838.md">別人衝動 vs 我衝動：多加一片炸雞</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2840.md"><img src="../images/m2840-work-arrives-mid-meal-togekiss.png" width="240" alt="吃飯吃到一半有工作來"></a><br><a href="../memes/m2840.md">吃飯吃到一半有工作來</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

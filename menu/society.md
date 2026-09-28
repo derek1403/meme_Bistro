@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 223 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 224 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（65）
 
@@ -164,7 +164,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（135）
+## ⚠️ 需斟酌（136）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1513,6 +1513,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2806.md"><img src="../images/m2806-good-morning-granny-gun.jpg" width="240" alt="早安長輩圖：訊息要回"></a><br><a href="../memes/m2806.md">早安長輩圖：訊息要回</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你只付得起一個小孩的大學學費 — ⚠️ 輕微地獄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2842.md"><img src="../images/m2842-afford-one-kid-college-sword.png" width="240" alt="當你只付得起一個小孩的大學學費"></a><br><a href="../memes/m2842.md">當你只付得起一個小孩的大學學費</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

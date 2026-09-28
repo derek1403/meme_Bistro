@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 356 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 358 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（161）
+## ★（163）
 
 <table>
 <tr>
@@ -277,6 +277,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3491.md"><img src="../images/m3491-typhoon-day-three-treasures.jpg" width="240" alt="颱風天有三寶：麻將、泡麵、睡到飽——服務業：去你的三寶"></a><br><a href="../memes/m3491.md">颱風天有三寶：麻將、泡麵、睡到飽——服務業：去你的三寶</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3497.md"><img src="../images/m3497-living-or-just-moving.jpg" width="240" alt="朝五晚九、吃塑膠盒便當——我究竟是活著，還是只是在動著？"></a><br><a href="../memes/m3497.md">朝五晚九、吃塑膠盒便當——我究竟是活著，還是只是在動著？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3532.md"><img src="../images/m3532-deposit-now-balance-crematorium.jpg" width="240" alt="定金一時爽，尾款火葬場"></a><br><a href="../memes/m3532.md">定金一時爽，尾款火葬場</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3537.md"><img src="../images/m3537-cats-holding-up-economy.jpg" width="240" alt="感謝那些在非常時期為我們撐住經濟的人（貓）"></a><br><a href="../memes/m3537.md">感謝那些在非常時期為我們撐住經濟的人（貓）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

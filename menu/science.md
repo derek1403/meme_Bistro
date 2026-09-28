@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 227 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 228 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（102）
 
@@ -335,7 +335,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（39）
+## ⚠️ 需斟酌（40）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -724,6 +724,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3416.md"><img src="../images/m3416-hospital-oxygen-helium-mixed-up.png" width="240" alt="誰又把氧氣瓶和氦氣瓶搞混了"></a><br><a href="../memes/m3416.md">誰又把氧氣瓶和氦氣瓶搞混了</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>植物：我要在空中搖晃我的生殖器——人們：嗯～真香 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3534.md"><img src="../images/m3534-plants-waving-genitals.png" width="240" alt="植物：我要在空中搖晃我的生殖器——人們：嗯～真香"></a><br><a href="../memes/m3534.md">植物：我要在空中搖晃我的生殖器——人們：嗯～真香</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

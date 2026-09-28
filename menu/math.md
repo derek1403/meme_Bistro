@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 363 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 366 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（99）
 
@@ -176,7 +176,7 @@
 </tr>
 </table>
 
-## ★★（176）
+## ★★（177）
 
 <table>
 <tr>
@@ -472,10 +472,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3102.md"><img src="../images/m3102-hartshorne-something-to-cry-about.png" width="240" alt="你再哭哭啼啼，我就賞你一個值得哭的理由"></a><br><a href="../memes/m3102.md">你再哭哭啼啼，我就賞你一個值得哭的理由</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3105.md"><img src="../images/m3105-sum-integral-contour-cow.png" width="240" alt="Σ、∫、∮ 分別是三種牛"></a><br><a href="../memes/m3105.md">Σ、∫、∮ 分別是三種牛</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3108.md"><img src="../images/m3108-pi-from-e-bad-math.png" width="240" alt="只用 e 逼近 π 的嘗試"></a><br><a href="../memes/m3108.md">只用 e 逼近 π 的嘗試</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（58）
+## ★★★（59）
 
 <table>
 <tr>
@@ -575,10 +576,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3084.md"><img src="../images/m3084-recall-that-pairing-function.png" width="240" alt="Recall that：一個「顯然」的配對函數"></a><br><a href="../memes/m3084.md">Recall that：一個「顯然」的配對函數</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3107.md"><img src="../images/m3107-ito-second-order-terms-mike.png" width="240" alt="一般微積分的二階項 vs 隨機微積分的二階項"></a><br><a href="../memes/m3107.md">一般微積分的二階項 vs 隨機微積分的二階項</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（30）
+## ⚠️ 需斟酌（31）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -877,6 +879,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2836.md"><img src="../images/m2836-lifeboat-ate-the-mathematician.png" width="240" alt="與其抽籤，我們把數學家吃了"></a><br><a href="../memes/m2836.md">與其抽籤，我們把數學家吃了</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>受不了了！開導！——不許導，積回去 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3112.md"><img src="../images/m3112-cant-take-it-derivatives-integrate-back.png" width="240" alt="受不了了！開導！——不許導，積回去"></a><br><a href="../memes/m3112.md">受不了了！開導！——不許導，積回去</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

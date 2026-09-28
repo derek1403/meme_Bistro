@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1202 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（877）
+## ★（884）
 
 <table>
 <tr>
@@ -1471,10 +1471,21 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2584.md"><img src="../images/m2584-thaw-chicken-hair-dryer.png" width="240" alt="有記得把雞肉拿出來退冰嗎？有啊！"></a><br><a href="../memes/m2584.md">有記得把雞肉拿出來退冰嗎？有啊！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2587.md"><img src="../images/m2587-ice-cream-friend-eats-poop.png" width="240" alt="你每吃一口冰淇淋，朋友就要吃同份量的屎"></a><br><a href="../memes/m2587.md">你每吃一口冰淇淋，朋友就要吃同份量的屎</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2589.md"><img src="../images/m2589-cat-already-fed-chopper.png" width="240" alt="喵！我已經餵過你了！"></a><br><a href="../memes/m2589.md">喵！我已經餵過你了！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2591.md"><img src="../images/m2591-guitar-teacher-hired-by-neighbor.jpg" width="240" alt="我是你的新吉他老師——你鄰居幫你聘的"></a><br><a href="../memes/m2591.md">我是你的新吉他老師——你鄰居幫你聘的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2594.md"><img src="../images/m2594-curry-rice-and-curry-rice.png" width="240" alt="咖哩飯和咖哩飯"></a><br><a href="../memes/m2594.md">咖哩飯和咖哩飯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2598.md"><img src="../images/m2598-sharingan-plates-flip.jpg" width="240" alt="找到一個正面朝上的免洗餐盤，所有餐盤都會翻正"></a><br><a href="../memes/m2598.md">找到一個正面朝上的免洗餐盤，所有餐盤都會翻正</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2599.md"><img src="../images/m2599-drunk-friend-befriends-dolphins.png" width="240" alt="朋友喝醉後就開始亂交朋友"></a><br><a href="../memes/m2599.md">朋友喝醉後就開始亂交朋友</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2600.md"><img src="../images/m2600-not-far-we-can-walk.png" width="240" alt="那裡又不遠，我們可以用走的過去"></a><br><a href="../memes/m2600.md">那裡又不遠，我們可以用走的過去</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（88）
+## ★★（89）
 
 <table>
 <tr>
@@ -1624,6 +1635,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2366.md"><img src="../images/m2366-gensokyo-health-organization-age.png" width="240" alt="幻想鄉衛生組織：新的年齡劃分標準"></a><br><a href="../memes/m2366.md">幻想鄉衛生組織：新的年齡劃分標準</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2586.md"><img src="../images/m2586-groundhog-day-feb-7.png" width="240" alt="又是 2 月 2 日？我活在今天暫時停止裡！"></a><br><a href="../memes/m2586.md">又是 2 月 2 日？我活在今天暫時停止裡！</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

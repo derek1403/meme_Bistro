@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 274 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 277 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（182）
+## ★（184）
 
 <table>
 <tr>
@@ -312,10 +312,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2563.md"><img src="../images/m2563-i-got-your-back-stick.png" width="240" alt="別擔心，我挺你（字面上）"></a><br><a href="../memes/m2563.md">別擔心，我挺你（字面上）</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2569.md"><img src="../images/m2569-short-lame-toilet-jokes.png" width="240" alt="很短很廢的廁所笑話"></a><br><a href="../memes/m2569.md">很短很廢的廁所笑話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2588.md"><img src="../images/m2588-christmas-tree-sentence-pizza.png" width="240" alt="用聖誕樹造句：披薩還有聖誕樹我吃不下了"></a><br><a href="../memes/m2588.md">用聖誕樹造句：披薩還有聖誕樹我吃不下了</a><br><sub>🔤 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2592.md"><img src="../images/m2592-haggard-smile-notes.png" width="240" alt="憔悴的微笑"></a><br><a href="../memes/m2592.md">憔悴的微笑</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（28）
+## ★★（29）
 
 <table>
 <tr>
@@ -365,6 +369,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2497.md"><img src="../images/m2497-pakuchi-sugite-kusa-mori.jpg" width="240" alt="香菜多到草，超越草變成森林"></a><br><a href="../memes/m2497.md">香菜多到草，超越草變成森林</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2596.md"><img src="../images/m2596-we-are-all-jia-banner.png" width="240" alt="紅布條：我們都是甲！"></a><br><a href="../memes/m2596.md">紅布條：我們都是甲！</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

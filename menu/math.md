@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 318 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 320 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（145）
+## ★★（146）
 
 <table>
 <tr>
@@ -419,6 +419,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2585.md"><img src="../images/m2585-monty-hall-doors-cant-open.png" width="240" alt="門打不開的平行宇宙裡的蒙提霍爾問題"></a><br><a href="../memes/m2585.md">門打不開的平行宇宙裡的蒙提霍爾問題</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2597.md"><img src="../images/m2597-linearize-this-problem.png" width="240" alt="世界殘酷不公——幾分鐘後：我可以把它線性化！"></a><br><a href="../memes/m2597.md">世界殘酷不公——幾分鐘後：我可以把它線性化！</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -510,7 +511,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（27）
+## ⚠️ 需斟酌（28）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -779,6 +780,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2454.md"><img src="../images/m2454-dr-loring-more-to-life-than-math.png" width="240" alt="Loring 博士，人生不只有數學"></a><br><a href="../memes/m2454.md">Loring 博士，人生不只有數學</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>電車難題：可數無窮 vs 不可數無窮 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2590.md"><img src="../images/m2590-trolley-aleph-null-vs-continuum.png" width="240" alt="電車難題：可數無窮 vs 不可數無窮"></a><br><a href="../memes/m2590.md">電車難題：可數無窮 vs 不可數無窮</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

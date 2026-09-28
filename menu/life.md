@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1307 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1316 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（975）
+## ★（983）
 
 <table>
 <tr>
@@ -1634,6 +1634,20 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2766.md"><img src="../images/m2766-komi-please-stop-talking.png" width="240" alt="說了 10 次嗯嗯、20 次對啊，他們就是不肯閉嘴"></a><br><a href="../memes/m2766.md">說了 10 次嗯嗯、20 次對啊，他們就是不肯閉嘴</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2767.md"><img src="../images/m2767-hungry-everything-needs-cooking.png" width="240" alt="當你真的餓，但家裡每樣東西都需要煮"></a><br><a href="../memes/m2767.md">當你真的餓，但家裡每樣東西都需要煮</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2769.md"><img src="../images/m2769-think-has-stopped.png" width="240" alt="考試寫到一半：很抱歉，「思考」已停止運作"></a><br><a href="../memes/m2769.md">考試寫到一半：很抱歉，「思考」已停止運作</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2770.md"><img src="../images/m2770-nyc-subway-dog-bag.png" width="240" alt="紐約地鐵要求狗狗裝在袋內才能搭乘"></a><br><a href="../memes/m2770.md">紐約地鐵要求狗狗裝在袋內才能搭乘</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2771.md"><img src="../images/m2771-izakaya-glass-split-samurai.png" width="240" alt="乾杯後杯子從中間裂成兩半，店內有武士嗎？"></a><br><a href="../memes/m2771.md">乾杯後杯子從中間裂成兩半，店內有武士嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2772.md"><img src="../images/m2772-pyramids-cat-ears.png" width="240" alt="我想和各位探討一個陰謀論：金字塔是貓耳朵"></a><br><a href="../memes/m2772.md">我想和各位探討一個陰謀論：金字塔是貓耳朵</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2773.md"><img src="../images/m2773-car-crushed-by-twig.png" width="240" alt="我今天沒法來上班了，車被樹壓住了"></a><br><a href="../memes/m2773.md">我今天沒法來上班了，車被樹壓住了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2774.md"><img src="../images/m2774-kraken-warning-sign.png" width="240" alt="注意：海怪出沒，會把車子拖下水"></a><br><a href="../memes/m2774.md">注意：海怪出沒，會把車子拖下水</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2776.md"><img src="../images/m2776-pokemon-desert-no-water.png" width="240" alt="沒有水了！你們至少有三隻水系寶可夢欸"></a><br><a href="../memes/m2776.md">沒有水了！你們至少有三隻水系寶可夢欸</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2777.md"><img src="../images/m2777-fake-dating-levels.jpg" width="240" alt="假裝交往：LV.1 → LV.100"></a><br><a href="../memes/m2777.md">假裝交往：LV.1 → LV.100</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（90）
@@ -1791,7 +1805,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（242）
+## ⚠️ 需斟酌（243）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4210,6 +4224,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2734.md"><img src="../images/m2734-exam-hero-or-villain-eren.png" width="240" alt="這次考試應該不難：a) 英雄 b) 壞人"></a><br><a href="../memes/m2734.md">這次考試應該不難：a) 英雄 b) 壞人</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>跟爸媽看電影，男女主角突然開始瑟瑟 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2775.md"><img src="../images/m2775-spongebob-movie-with-parents.png" width="240" alt="跟爸媽看電影，男女主角突然開始瑟瑟"></a><br><a href="../memes/m2775.md">跟爸媽看電影，男女主角突然開始瑟瑟</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

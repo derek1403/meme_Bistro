@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1557 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1561 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1173）
+## ★（1174）
 
 <table>
 <tr>
@@ -1964,9 +1964,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3356.md"><img src="../images/m3356-american-gua-bao-squidward.png" width="240" alt="美式刈包"></a><br><a href="../memes/m3356.md">美式刈包</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3357.md"><img src="../images/m3357-carry-the-registry-office-marry-me.png" width="240" alt="民政局我搬來了，給我結婚"></a><br><a href="../memes/m3357.md">民政局我搬來了，給我結婚</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3363.md"><img src="../images/m3363-perona-parents-lee-sakura.png" width="240" alt="佩羅娜的親生父母找到了：小李 + 小櫻"></a><br><a href="../memes/m3363.md">佩羅娜的親生父母找到了：小李 + 小櫻</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（106）
+## ★★（107）
 
 <table>
 <tr>
@@ -2146,10 +2149,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3265.md"><img src="../images/m3265-eiko-fame-stolen-bocchi.png" width="240" alt="大家都去下北澤看小孤獨，沒人記得澀谷的英子和孔明"></a><br><a href="../memes/m3265.md">大家都去下北澤看小孤獨，沒人記得澀谷的英子和孔明</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3364.md"><img src="../images/m3364-ghost-breathing-then-and-now.png" width="240" alt="三十年前遇到鬼只能停止呼吸，現在有幾十種呼吸"></a><br><a href="../memes/m3364.md">三十年前遇到鬼只能停止呼吸，現在有幾十種呼吸</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（278）
+## ⚠️ 需斟酌（280）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4928,6 +4932,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3347.md"><img src="../images/m3347-feel-useless-ace-blocked-magma.png" width="240" alt="如果你覺得自己沒用，可以看看幫太陽神擋岩漿的艾斯"></a><br><a href="../memes/m3347.md">如果你覺得自己沒用，可以看看幫太陽神擋岩漿的艾斯</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>發現殭屍小孩，一槍解決——想起今天是萬聖節 — ⚠️ 槍、死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3366.md"><img src="../images/m3366-zombie-kid-halloween-stonks.png" width="240" alt="發現殭屍小孩，一槍解決——想起今天是萬聖節"></a><br><a href="../memes/m3366.md">發現殭屍小孩，一槍解決——想起今天是萬聖節</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>請不要將衛生紙以外的東西丟進馬桶 — ⚠️ 屎尿</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3371.md"><img src="../images/m3371-dont-flush-anything-but-paper-pocket.jpg" width="240" alt="請不要將衛生紙以外的東西丟進馬桶"></a><br><a href="../memes/m3371.md">請不要將衛生紙以外的東西丟進馬桶</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

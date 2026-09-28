@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 313 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 317 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（130）
+## ★（134）
 
 <table>
 <tr>
@@ -226,6 +226,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3358.md"><img src="../images/m3358-upgrade-secret-manual-cash.png" width="240" alt="升級祕笈"></a><br><a href="../memes/m3358.md">升級祕笈</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3365.md"><img src="../images/m3365-thank-you-for-valuable-opinion-trash.png" width="240" alt="真的很感謝您能分享您那寶貴的意見"></a><br><a href="../memes/m3365.md">真的很感謝您能分享您那寶貴的意見</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3367.md"><img src="../images/m3367-how-many-boyfriends-four-girls.png" width="240" alt="妳交過幾個男朋友？——我們現在說的不是男朋友嗎？"></a><br><a href="../memes/m3367.md">妳交過幾個男朋友？——我們現在說的不是男朋友嗎？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3368.md"><img src="../images/m3368-scam-20-ps5-send-all.png" width="240" alt="詐騙電話：你重複下單買了 20 台 PS5——給我全部送來！"></a><br><a href="../memes/m3368.md">詐騙電話：你重複下單買了 20 台 PS5——給我全部送來！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3369.md"><img src="../images/m3369-joss-paper-virtual-currency.png" width="240" alt="虛擬貨幣"></a><br><a href="../memes/m3369.md">虛擬貨幣</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

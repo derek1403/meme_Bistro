@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1329 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1332 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（992）
+## ★（995）
 
 <table>
 <tr>
@@ -1662,6 +1662,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2796.md"><img src="../images/m2796-fries-vegetable-ketchup-fruit-salad.png" width="240" alt="薯條是蔬菜，番茄醬是水果，合起來是沙拉"></a><br><a href="../memes/m2796.md">薯條是蔬菜，番茄醬是水果，合起來是沙拉</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2801.md"><img src="../images/m2801-gta-rare-car-everywhere.png" width="240" alt="GTA 裡終於找到稀有車，然後滿街都是"></a><br><a href="../memes/m2801.md">GTA 裡終於找到稀有車，然後滿街都是</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2805.md"><img src="../images/m2805-quaso-croissant-cat.jpg" width="240" alt="QUASO（可頌貓）"></a><br><a href="../memes/m2805.md">QUASO（可頌貓）</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2807.md"><img src="../images/m2807-teacher-leaves-4th-ninja-war.png" width="240" alt="老師一離開教室，男生宣布第四次忍界大戰"></a><br><a href="../memes/m2807.md">老師一離開教室，男生宣布第四次忍界大戰</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2808.md"><img src="../images/m2808-peeled-lemon-trick-sister.png" width="240" alt="去皮的檸檬：如何騙妹妹當柳丁吃"></a><br><a href="../memes/m2808.md">去皮的檸檬：如何騙妹妹當柳丁吃</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

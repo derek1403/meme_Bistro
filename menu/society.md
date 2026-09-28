@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 220 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 221 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（63）
 
@@ -160,7 +160,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（134）
+## ⚠️ 需斟酌（135）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1499,6 +1499,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2798.md"><img src="../images/m2798-why-others-die-young-at-work.png" width="240" alt="為什麼別人二十幾歲就猝死，而你氣色很好"></a><br><a href="../memes/m2798.md">為什麼別人二十幾歲就猝死，而你氣色很好</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>早安長輩圖：訊息要回 — ⚠️ 槍</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2806.md"><img src="../images/m2806-good-morning-granny-gun.jpg" width="240" alt="早安長輩圖：訊息要回"></a><br><a href="../memes/m2806.md">早安長輩圖：訊息要回</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

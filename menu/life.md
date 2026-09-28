@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1546 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1548 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1164）
+## ★（1165）
 
 <table>
 <tr>
@@ -1949,6 +1949,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3328.md"><img src="../images/m3328-mudskipper-playing-a-tree.png" width="240" alt="他們總是以我為榮：我飾演一棵樹"></a><br><a href="../memes/m3328.md">他們總是以我為榮：我飾演一棵樹</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3329.md"><img src="../images/m3329-guitar-teacher-easy-chord.png" width="240" alt="吉他老師：這個和弦很簡單啦"></a><br><a href="../memes/m3329.md">吉他老師：這個和弦很簡單啦</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3335.md"><img src="../images/m3335-spy-family-anya-punch-anime-vs-manga.png" width="240" alt="動漫 vs 漫畫：安妮亞一拳打飛達米安"></a><br><a href="../memes/m3335.md">動漫 vs 漫畫：安妮亞一拳打飛達米安</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（106）
@@ -2134,7 +2137,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（276）
+## ⚠️ 需斟酌（277）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4893,6 +4896,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3316.md"><img src="../images/m3316-sao-launch-three-months-left.png" width="240" alt="SAO 還剩三個月不到就要公測了"></a><br><a href="../memes/m3316.md">SAO 還剩三個月不到就要公測了</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>痛車洗車 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3340.md"><img src="../images/m3340-itasha-car-wash-foam.png" width="240" alt="痛車洗車"></a><br><a href="../memes/m3340.md">痛車洗車</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

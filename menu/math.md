@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 378 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 381 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（108）
 
@@ -191,7 +191,7 @@
 </tr>
 </table>
 
-## ★★（180）
+## ★★（183）
 
 <table>
 <tr>
@@ -493,6 +493,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3298.md"><img src="../images/m3298-lycoris-rps-probability-textbook.png" width="240" alt="為什麼我的大學課本裡有動畫？莉可麗絲猜拳機率題"></a><br><a href="../memes/m3298.md">為什麼我的大學課本裡有動畫？莉可麗絲猜拳機率題</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3315.md"><img src="../images/m3315-honest-woodcutter-fractal-goddess.png" width="240" alt="誠實的樵夫：女神自己掉進湖裡，冒出金女神和銀女神——然後無限遞迴"></a><br><a href="../memes/m3315.md">誠實的樵夫：女神自己掉進湖裡，冒出金女神和銀女神——然後無限遞迴</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3323.md"><img src="../images/m3323-commutative-law-higher-dimension.png" width="240" alt="交換律 a+b=b+a：用高維推理證明"></a><br><a href="../memes/m3323.md">交換律 a+b=b+a：用高維推理證明</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3337.md"><img src="../images/m3337-proof-alignment-chart.png" width="240" alt="證明的陣營九宮格"></a><br><a href="../memes/m3337.md">證明的陣營九宮格</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3338.md"><img src="../images/m3338-treasure-under-tree-roots.png" width="240" alt="我找到寶藏了！——從 10000 變成 100"></a><br><a href="../memes/m3338.md">我找到寶藏了！——從 10000 變成 100</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3339.md"><img src="../images/m3339-doubling-penny-31-days-universe.png" width="240" alt="每天加倍的一元硬幣 vs 一億元：宇宙會被硬幣塞滿"></a><br><a href="../memes/m3339.md">每天加倍的一元硬幣 vs 一億元：宇宙會被硬幣塞滿</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

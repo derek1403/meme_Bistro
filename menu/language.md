@@ -6,7 +6,7 @@
 
 共 303 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（201）
+## ★（200）
 
 <table>
 <tr>
@@ -342,11 +342,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2890.md"><img src="../images/m2890-i-have-a-joke-but-series.png" width="240" alt="我有一個 XX 笑話，但它……"></a><br><a href="../memes/m2890.md">我有一個 XX 笑話，但它……</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2893.md"><img src="../images/m2893-halloween-poor-ghost.png" width="240" alt="萬聖節扮鬼：我是窮鬼"></a><br><a href="../memes/m2893.md">萬聖節扮鬼：我是窮鬼</a><br><sub>🔤 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m2901.md"><img src="../images/m2901-debt-doesnt-travel.png" width="240" alt="為什麼欠錢的人敢到處旅行？因為他的債務不旅行"></a><br><a href="../memes/m2901.md">為什麼欠錢的人敢到處旅行？因為他的債務不旅行</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（37）
+## ★★（38）
 
 <table>
 <tr>
@@ -410,6 +409,7 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2857.md"><img src="../images/m2857-six-equals-5201314.png" width="240" alt="6？我懂的 6=5+2+0+1+3−1−4"></a><br><a href="../memes/m2857.md">6？我懂的 6=5+2+0+1+3−1−4</a><br><sub>🔤 ★★</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2901.md"><img src="../images/m2901-debt-doesnt-travel.png" width="240" alt="為什麼欠錢的人敢到處旅行？因為他的債務不旅行"></a><br><a href="../memes/m2901.md">為什麼欠錢的人敢到處旅行？因為他的債務不旅行</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2903.md"><img src="../images/m2903-can-february-march-april-may.png" width="240" alt="Can February March? No, but April May."></a><br><a href="../memes/m2903.md">Can February March? No, but April May.</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>

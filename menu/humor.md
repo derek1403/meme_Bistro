@@ -2855,7 +2855,7 @@
 - 🧮 [真之捲軸：打開是一張真值表](../memes/m2872.md) ★★
 - 💻 [GPT-4 等了 15 秒發明的新字：Dishruptance](../memes/m2892.md) ★★
 - 🗣️ [萬聖節扮鬼：我是窮鬼](../memes/m2893.md) ★
-- 🗣️ [為什麼欠錢的人敢到處旅行？因為他的債務不旅行](../memes/m2901.md) ★
+- 🗣️ [為什麼欠錢的人敢到處旅行？因為他的債務不旅行](../memes/m2901.md) ★★
 - 🗣️ [Can February March? No, but April May.](../memes/m2903.md) ★★
 
 <a id="dark"></a>

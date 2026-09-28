@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1405 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1411 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1054）
+## ★（1059）
 
 <table>
 <tr>
@@ -1766,10 +1766,17 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2956.md"><img src="../images/m2956-banana-dolphins-talent.png" width="240" alt="老闆問我有什麼才藝：香蕉海豚"></a><br><a href="../memes/m2956.md">老闆問我有什麼才藝：香蕉海豚</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2957.md"><img src="../images/m2957-you-think-im-useless-me-too.png" width="240" alt="你是不是覺得我很沒用？我也這麼覺得"></a><br><a href="../memes/m2957.md">你是不是覺得我很沒用？我也這麼覺得</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2960.md"><img src="../images/m2960-magic-cat-forward-chain.png" width="240" alt="這是魔法貓貓，轉發他就會對你施魔法"></a><br><a href="../memes/m2960.md">這是魔法貓貓，轉發他就會對你施魔法</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2961.md"><img src="../images/m2961-genie-what-to-eat-for-lunch.png" width="240" alt="神燈精靈：我可以解決你的任何煩惱——午餐要吃什麼？"></a><br><a href="../memes/m2961.md">神燈精靈：我可以解決你的任何煩惱——午餐要吃什麼？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2962.md"><img src="../images/m2962-remember-awkward-thing-10-years-ago.png" width="240" alt="平凡的一天，突然想起十年前說過的尷尬話"></a><br><a href="../memes/m2962.md">平凡的一天，突然想起十年前說過的尷尬話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2965.md"><img src="../images/m2965-recommended-vs-my-sitting-posture.png" width="240" alt="建議的坐姿 vs 我實際的坐姿"></a><br><a href="../memes/m2965.md">建議的坐姿 vs 我實際的坐姿</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（99）
+## ★★（100）
 
 <table>
 <tr>
@@ -1936,6 +1943,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2929.md"><img src="../images/m2929-frieren-himmel-chat-wrong.png" width="240" alt="勇者去世後 30 年：不對"></a><br><a href="../memes/m2929.md">勇者去世後 30 年：不對</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2934.md"><img src="../images/m2934-fern-legend-weaker-than-me.png" width="240" alt="發現寫進教科書的傳奇人物水準遠不如自己"></a><br><a href="../memes/m2934.md">發現寫進教科書的傳奇人物水準遠不如自己</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2936.md"><img src="../images/m2936-frieren-gundam-time-flies.jpg" width="240" alt="勇者死後 27 年：SEED 不是近期的鋼彈"></a><br><a href="../memes/m2936.md">勇者死後 27 年：SEED 不是近期的鋼彈</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2963.md"><img src="../images/m2963-tank-to-oarai-girls-und-panzer.png" width="240" alt="警察：去大洗？啊，是少女與戰車嗎？沒問題！"></a><br><a href="../memes/m2963.md">警察：去大洗？啊，是少女與戰車嗎？沒問題！</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

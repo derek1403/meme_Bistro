@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 236 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 237 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（73）
+## ★（74）
 
 <table>
 <tr>
@@ -131,6 +131,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2953.md"><img src="../images/m2953-company-management-cart.png" width="240" alt="管理差的公司 vs 好的公司 vs 我工作的公司"></a><br><a href="../memes/m2953.md">管理差的公司 vs 好的公司 vs 我工作的公司</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2967.md"><img src="../images/m2967-kid-falls-bad-floor.png" width="240" alt="小孩跌倒，某些家長：地板的錯！地板壞壞！"></a><br><a href="../memes/m2967.md">小孩跌倒，某些家長：地板的錯！地板壞壞！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

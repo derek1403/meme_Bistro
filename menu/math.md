@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 345 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（164）
+## ★★（166）
 
 <table>
 <tr>
@@ -450,10 +450,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2894.md"><img src="../images/m2894-math-clock-love-or-hate.png" width="240" alt="讓喜歡數學的人更喜歡、討厭數學的人更討厭的時鐘"></a><br><a href="../memes/m2894.md">讓喜歡數學的人更喜歡、討厭數學的人更討厭的時鐘</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2946.md"><img src="../images/m2946-observations-not-independent-stop.png" width="240" alt="睡前：如果我們的觀測值不獨立呢？"></a><br><a href="../memes/m2946.md">睡前：如果我們的觀測值不獨立呢？</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2959.md"><img src="../images/m2959-applied-math-in-schoolbag.png" width="240" alt="你媽在你書包裡發現應用數學！"></a><br><a href="../memes/m2959.md">你媽在你書包裡發現應用數學！</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2966.md"><img src="../images/m2966-lawn-edge-mandelbrot.png" width="240" alt="修草坪邊緣要多久？邊緣是曼德博集合"></a><br><a href="../memes/m2966.md">修草坪邊緣要多久？邊緣是曼德博集合</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（54）
+## ★★★（55）
 
 <table>
 <tr>
@@ -545,6 +549,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2780.md"><img src="../images/m2780-free-probability-bell-curve.png" width="240" alt="機率論不該是免費的？搜尋 free probability theory"></a><br><a href="../memes/m2780.md">機率論不該是免費的？搜尋 free probability theory</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2851.md"><img src="../images/m2851-ramanujan-yes-homework-no.png" width="240" alt="拉馬努金級數秒答，3×(7−4) 不回答"></a><br><a href="../memes/m2851.md">拉馬努金級數秒答，3×(7−4) 不回答</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2938.md"><img src="../images/m2938-fundamental-theorem-e-x-series.png" width="240" alt="用微積分基本定理「證明」e^x 的泰勒級數"></a><br><a href="../memes/m2938.md">用微積分基本定理「證明」e^x 的泰勒級數</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2964.md"><img src="../images/m2964-generalized-stokes-six-symbols.png" width="240" alt="只用 6 個符號統一微積分基本定理、Green、Stokes、散度定理"></a><br><a href="../memes/m2964.md">只用 6 個符號統一微積分基本定理、Green、Stokes、散度定理</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

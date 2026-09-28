@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 353 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 354 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（161）
 
@@ -339,7 +339,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（160）
+## ⚠️ 需斟酌（161）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1938,6 +1938,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3499.md"><img src="../images/m3499-ghost-marriage-rejected.jpg" width="240" alt="路邊撿到有頭髮的紅包，結果夢到女鬼叫他放回去"></a><br><a href="../memes/m3499.md">路邊撿到有頭髮的紅包，結果夢到女鬼叫他放回去</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>今天晚餐吃什麼？客家小炒（空盤） — ⚠️ 族群刻板印象</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3519.md"><img src="../images/m3519-hakka-stir-fry-empty-plate.png" width="240" alt="今天晚餐吃什麼？客家小炒（空盤）"></a><br><a href="../memes/m3519.md">今天晚餐吃什麼？客家小炒（空盤）</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

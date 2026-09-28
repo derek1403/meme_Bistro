@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 357 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 358 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（232）
 
@@ -492,7 +492,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（73）
+## ⚠️ 需斟酌（74）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1221,6 +1221,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3515.md"><img src="../images/m3515-xi-huan-na-slur.png" width="240" alt="吵架吵不贏原住民時：烯環鈉"></a><br><a href="../memes/m3515.md">吵架吵不贏原住民時：烯環鈉</a><br><sub>🔥🔤 ★★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我以為是日本司機：駕駛員「山石宮分」 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3520.md"><img src="../images/m3520-driver-yamaishi-30cm.png" width="240" alt="我以為是日本司機：駕駛員「山石宮分」"></a><br><a href="../memes/m3520.md">我以為是日本司機：駕駛員「山石宮分」</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

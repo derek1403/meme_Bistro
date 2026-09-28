@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1245 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1257 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（919）
+## ★（929）
 
 <table>
 <tr>
@@ -1541,6 +1541,22 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2673.md"><img src="../images/m2673-poop-philosophy-poem.png" width="240" alt="拉屎：人生當中最不可或缺的儀式"></a><br><a href="../memes/m2673.md">拉屎：人生當中最不可或缺的儀式</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2676.md"><img src="../images/m2676-ryotsu-fumo-features.png" width="240" alt="這個娃娃呢，還有很多很棒的功能呢"></a><br><a href="../memes/m2676.md">這個娃娃呢，還有很多很棒的功能呢</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2677.md"><img src="../images/m2677-panda-lollipop-printed-bag.png" width="240" alt="這就是我對世界失去信任的原因"></a><br><a href="../memes/m2677.md">這就是我對世界失去信任的原因</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2678.md"><img src="../images/m2678-resume-cooking-eggs.png" width="240" alt="我在履歷上寫精通廚藝，我的廚藝："></a><br><a href="../memes/m2678.md">我在履歷上寫精通廚藝，我的廚藝：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2679.md"><img src="../images/m2679-pepper-shaker-toothpicks.png" width="240" alt="我只是想加胡椒"></a><br><a href="../memes/m2679.md">我只是想加胡椒</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2681.md"><img src="../images/m2681-toaster-sideways-pizza.png" width="240" alt="把吐司機倒一邊就可以加熱披薩了"></a><br><a href="../memes/m2681.md">把吐司機倒一邊就可以加熱披薩了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2682.md"><img src="../images/m2682-drunk-bought-parrot-pliers.png" width="240" alt="我發誓從此再也不喝酒了：這是我昨晚買的鸚鵡"></a><br><a href="../memes/m2682.md">我發誓從此再也不喝酒了：這是我昨晚買的鸚鵡</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2685.md"><img src="../images/m2685-pull-out-sorrow-film-roll.png" width="240" alt="要是我能把你的憂傷像這樣拔出來就好了"></a><br><a href="../memes/m2685.md">要是我能把你的憂傷像這樣拔出來就好了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2688.md"><img src="../images/m2688-hot-pool-99-9-celsius.png" width="240" alt="高溫池：99.9°C"></a><br><a href="../memes/m2688.md">高溫池：99.9°C</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2689.md"><img src="../images/m2689-vine-lamppost-monster.png" width="240" alt="爬滿枯藤的路燈，晚上變成怪物"></a><br><a href="../memes/m2689.md">爬滿枯藤的路燈，晚上變成怪物</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2690.md"><img src="../images/m2690-ruined-2024-day-5.png" width="240" alt="才第 5 天就把 2024 年過得一團糟，期待 2025"></a><br><a href="../memes/m2690.md">才第 5 天就把 2024 年過得一團糟，期待 2025</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1699,7 +1715,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（236）
+## ⚠️ 需斟酌（238）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4058,6 +4074,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2662.md"><img src="../images/m2662-ceiling-fan-cage-kid-toss.png" width="240" alt="抱孩子飛高高前要注意天花板有沒有風扇"></a><br><a href="../memes/m2662.md">抱孩子飛高高前要注意天花板有沒有風扇</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>吉伊卡哇與迷宮飯：今天的午餐就是這個了 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2683.md"><img src="../images/m2683-chiikawa-dungeon-meshi-lunch.jpg" width="240" alt="吉伊卡哇與迷宮飯：今天的午餐就是這個了"></a><br><a href="../memes/m2683.md">吉伊卡哇與迷宮飯：今天的午餐就是這個了</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我永遠當不成連環殺手 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2684.md"><img src="../images/m2684-never-serial-killer-secret.jpg" width="240" alt="我永遠當不成連環殺手"></a><br><a href="../memes/m2684.md">我永遠當不成連環殺手</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

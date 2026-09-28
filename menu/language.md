@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 282 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 285 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（187）
+## ★（189）
 
 <table>
 <tr>
@@ -321,10 +321,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2667.md"><img src="../images/m2667-ps5-pain-stress-5h-sleep.png" width="240" alt="你有 PS5 嗎？有啊：痛苦、壓力、5 小時睡眠"></a><br><a href="../memes/m2667.md">你有 PS5 嗎？有啊：痛苦、壓力、5 小時睡眠</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2675.md"><img src="../images/m2675-cockroach-wood-knot.png" width="240" alt="入木三分：天然蟑木？"></a><br><a href="../memes/m2675.md">入木三分：天然蟑木？</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2686.md"><img src="../images/m2686-suitcase-yi-xiang-qing-yuan.png" width="240" alt="學會放下：一廂情願"></a><br><a href="../memes/m2686.md">學會放下：一廂情願</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（30）
+## ★★（31）
 
 <table>
 <tr>
@@ -376,6 +378,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2497.md"><img src="../images/m2497-pakuchi-sugite-kusa-mori.jpg" width="240" alt="香菜多到草，超越草變成森林"></a><br><a href="../memes/m2497.md">香菜多到草，超越草變成森林</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2596.md"><img src="../images/m2596-we-are-all-jia-banner.png" width="240" alt="紅布條：我們都是甲！"></a><br><a href="../memes/m2596.md">紅布條：我們都是甲！</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2637.md"><img src="../images/m2637-h2o-too-linguistics.png" width="240" alt="兩個科學家走進酒吧：H2O too"></a><br><a href="../memes/m2637.md">兩個科學家走進酒吧：H2O too</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2680.md"><img src="../images/m2680-frieren-evangelion-pun.jpg" width="240" alt="欣　世紀　福音　戰士"></a><br><a href="../memes/m2680.md">欣　世紀　福音　戰士</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

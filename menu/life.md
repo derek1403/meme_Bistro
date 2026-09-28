@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1424 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1430 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1072）
+## ★（1077）
 
 <table>
 <tr>
@@ -1796,6 +1796,13 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3007.md"><img src="../images/m3007-pig-casserole-nosebleed.png" width="240" alt="新買的陶瓷鍋燉了個豬腳，被我媽打了一頓"></a><br><a href="../memes/m3007.md">新買的陶瓷鍋燉了個豬腳，被我媽打了一頓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3012.md"><img src="../images/m3012-bed-is-the-best.png" width="240" alt="床不會一直問問題，床是最棒的"></a><br><a href="../memes/m3012.md">床不會一直問問題，床是最棒的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3015.md"><img src="../images/m3015-alcohol-hurts-but-i-pay.png" width="240" alt="酒傷身，但我請客：男人嘛，受點傷又如何"></a><br><a href="../memes/m3015.md">酒傷身，但我請客：男人嘛，受點傷又如何</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3016.md"><img src="../images/m3016-three-hours-becomes-sixteen.png" width="240" alt="要改的不多，3 小時處理起來——16 小時之後"></a><br><a href="../memes/m3016.md">要改的不多，3 小時處理起來——16 小時之後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3018.md"><img src="../images/m3018-tortoise-hare-cat.png" width="240" alt="龜兔賽跑與貓"></a><br><a href="../memes/m3018.md">龜兔賽跑與貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3019.md"><img src="../images/m3019-piano-lesson-long-nails-lobster.png" width="240" alt="沒剪指甲就去上鋼琴課"></a><br><a href="../memes/m3019.md">沒剪指甲就去上鋼琴課</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1972,7 +1979,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（252）
+## ⚠️ 需斟酌（253）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4491,6 +4498,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2955.md"><img src="../images/m2955-resident-evil-villain-after-winning.png" width="240" alt="惡靈古堡反派變成怪物，打贏之後怎麼辦？"></a><br><a href="../memes/m2955.md">惡靈古堡反派變成怪物，打贏之後怎麼辦？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>搬家時留個布偶給下一位房客 — ⚠️ 恐怖</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3011.md"><img src="../images/m3011-moving-out-leave-doll-gift.png" width="240" alt="搬家時留個布偶給下一位房客"></a><br><a href="../memes/m3011.md">搬家時留個布偶給下一位房客</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

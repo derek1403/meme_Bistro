@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 111 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（90）
+## ★（91）
 
 <table>
 <tr>
@@ -158,6 +158,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2928.md"><img src="../images/m2928-real-gambler-skip-class.png" width="240" alt="一般的賭徒 vs 真正的賭徒：今天翹課好了"></a><br><a href="../memes/m2928.md">一般的賭徒 vs 真正的賭徒：今天翹課好了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2958.md"><img src="../images/m2958-before-presentation-84-years-ago.png" width="240" alt="上台前信心滿滿，兩小時後：那是 84 年前的事了"></a><br><a href="../memes/m2958.md">上台前信心滿滿，兩小時後：那是 84 年前的事了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2984.md"><img src="../images/m2984-professor-pours-cold-water-waterfall.png" width="240" alt="教授 vs 我的鬥志"></a><br><a href="../memes/m2984.md">教授 vs 我的鬥志</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3013.md"><img src="../images/m3013-dora-professor-venn.png" width="240" alt="愛探險的 Dora 與大學教授的交集"></a><br><a href="../memes/m3013.md">愛探險的 Dora 與大學教授的交集</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

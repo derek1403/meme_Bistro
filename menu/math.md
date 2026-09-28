@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 353 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 354 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（98）
 
@@ -175,7 +175,7 @@
 </tr>
 </table>
 
-## ★★（168）
+## ★★（169）
 
 <table>
 <tr>
@@ -457,6 +457,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2966.md"><img src="../images/m2966-lawn-edge-mandelbrot.png" width="240" alt="修草坪邊緣要多久？邊緣是曼德博集合"></a><br><a href="../memes/m2966.md">修草坪邊緣要多久？邊緣是曼德博集合</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2976.md"><img src="../images/m2976-normal-matrix-spiderman.png" width="240" alt="正規矩陣存在時：AA† 和 A†A 互指"></a><br><a href="../memes/m2976.md">正規矩陣存在時：AA† 和 A†A 互指</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2981.md"><img src="../images/m2981-special-angle-37-degrees.png" width="240" alt="舉出一個三角函數特殊角：37 度"></a><br><a href="../memes/m2981.md">舉出一個三角函數特殊角：37 度</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3014.md"><img src="../images/m3014-altitude-elder-wand.png" width="240" alt="三角形的高叫什麼？接骨木魔杖"></a><br><a href="../memes/m3014.md">三角形的高叫什麼？接骨木魔杖</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

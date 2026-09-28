@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 246 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 248 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（79）
+## ★（81）
 
 <table>
 <tr>
@@ -141,6 +141,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3005.md"><img src="../images/m3005-hold-music-saxophone.png" width="240" alt="轉接中請稍候：這音樂也太難聽"></a><br><a href="../memes/m3005.md">轉接中請稍候：這音樂也太難聽</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3020.md"><img src="../images/m3020-bamboo-shoot-two-reviews.png" width="240" alt="同一根玉米筍，兩則評論"></a><br><a href="../memes/m3020.md">同一根玉米筍，兩則評論</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3021.md"><img src="../images/m3021-flea-spray-ad-people-as-fleas.png" width="240" alt="除蟲噴霧廣告：路人被當成跳蚤"></a><br><a href="../memes/m3021.md">除蟲噴霧廣告：路人被當成跳蚤</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

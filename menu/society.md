@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 302 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 305 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（123）
+## ★（126）
 
 <table>
 <tr>
@@ -213,6 +213,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3288.md"><img src="../images/m3288-before-after-work-cat.jpg" width="240" alt="上班前：今天要溫柔對待所有人；上班後：把你們都鯊了！"></a><br><a href="../memes/m3288.md">上班前：今天要溫柔對待所有人；上班後：把你們都鯊了！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3289.md"><img src="../images/m3289-cyclist-third-sat-behind-second.jpg" width="240" alt="第三名很滿意，畢竟忘了騎腳踏車來"></a><br><a href="../memes/m3289.md">第三名很滿意，畢竟忘了騎腳踏車來</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3309.md"><img src="../images/m3309-tainan-sweet-rouzao-marshmallow.png" width="240" alt="台南人的肉燥好甜"></a><br><a href="../memes/m3309.md">台南人的肉燥好甜</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3317.md"><img src="../images/m3317-plane-spotter-for-one-day.png" width="240" alt="你當航空迷多久啦？——一天"></a><br><a href="../memes/m3317.md">你當航空迷多久啦？——一天</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3318.md"><img src="../images/m3318-todays-buns-are-yesterdays.png" width="240" alt="今天早上的包子沒有昨天好吃？——這就是昨天的包子啊"></a><br><a href="../memes/m3318.md">今天早上的包子沒有昨天好吃？——這就是昨天的包子啊</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3320.md"><img src="../images/m3320-feng-shui-master-no-signal.png" width="240" alt="風水師：這靈骨塔不好，平板一點訊號都沒有"></a><br><a href="../memes/m3320.md">風水師：這靈骨塔不好，平板一點訊號都沒有</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

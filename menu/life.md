@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1538 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1542 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1157）
+## ★（1160）
 
 <table>
 <tr>
@@ -1937,6 +1937,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3308.md"><img src="../images/m3308-bad-at-soft-serve-bag.png" width="240" alt="店員：我不太會擠喔——客人：沒關係"></a><br><a href="../memes/m3308.md">店員：我不太會擠喔——客人：沒關係</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3314.md"><img src="../images/m3314-takina-you-dropped-girlfriend.png" width="240" alt="瀧奈，妳東西掉了——妳的女朋友"></a><br><a href="../memes/m3314.md">瀧奈，妳東西掉了——妳的女朋友</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3319.md"><img src="../images/m3319-pig-important-to-be-happy.png" width="240" alt="吃完晚餐又買了五百塊鹹酥雞？做豬呢，最重要的是開心"></a><br><a href="../memes/m3319.md">吃完晚餐又買了五百塊鹹酥雞？做豬呢，最重要的是開心</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3321.md"><img src="../images/m3321-composer-birds-on-wires.png" width="240" alt="你怎麼想出這段旋律的呢？作曲家："></a><br><a href="../memes/m3321.md">你怎麼想出這段旋律的呢？作曲家：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3322.md"><img src="../images/m3322-luffy-tattoo-gum-gum-arm.png" width="240" alt="完美的刺青不存在……存在："></a><br><a href="../memes/m3322.md">完美的刺青不存在……存在：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2123,7 +2128,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（275）
+## ⚠️ 需斟酌（276）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4872,6 +4877,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3311.md"><img src="../images/m3311-disposable-hammer-mortar.png" width="240" alt="二手拍賣：一次性榔頭，沒有用過，保存狀況良好"></a><br><a href="../memes/m3311.md">二手拍賣：一次性榔頭，沒有用過，保存狀況良好</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>SAO 還剩三個月不到就要公測了 — ⚠️ 死亡遊戲</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3316.md"><img src="../images/m3316-sao-launch-three-months-left.png" width="240" alt="SAO 還剩三個月不到就要公測了"></a><br><a href="../memes/m3316.md">SAO 還剩三個月不到就要公測了</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

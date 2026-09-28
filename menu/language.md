@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 364 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 365 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（237）
 
@@ -406,7 +406,7 @@
 </tr>
 </table>
 
-## ★★（52）
+## ★★（53）
 
 <table>
 <tr>
@@ -496,6 +496,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3513.md"><img src="../images/m3513-my-foolish-auto-door.png" width="240" alt="我愚蠢的 AUTO DOOR 啊"></a><br><a href="../memes/m3513.md">我愚蠢的 AUTO DOOR 啊</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3589.md"><img src="../images/m3589-chat-app-pun-battle.png" width="240" alt="聊天軟體的真心男 vs 絕情女：一路互尬到底"></a><br><a href="../memes/m3589.md">聊天軟體的真心男 vs 絕情女：一路互尬到底</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

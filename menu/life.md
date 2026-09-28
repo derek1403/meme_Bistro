@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1678 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1680 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1268）
+## ★（1269）
 
 <table>
 <tr>
@@ -2122,10 +2122,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3585.md"><img src="../images/m3585-no-wash-pants-only-one.jpg" width="240" alt="免洗褲穿了一星期有點癢——我只有買一件"></a><br><a href="../memes/m3585.md">免洗褲穿了一星期有點癢——我只有買一件</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3587.md"><img src="../images/m3587-scratch-congo-back-tattoo.jpg" width="240" alt="可以幫我抓癢嗎？哪裡？剛果共和國"></a><br><a href="../memes/m3587.md">可以幫我抓癢嗎？哪裡？剛果共和國</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3590.md"><img src="../images/m3590-oysters-look-like-pugs.png" width="240" alt="不完全一樣但總覺得很像：巴哥犬和牡蠣"></a><br><a href="../memes/m3590.md">不完全一樣但總覺得很像：巴哥犬和牡蠣</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（111）
+## ★★（112）
 
 <table>
 <tr>
@@ -2312,6 +2313,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3548.md"><img src="../images/m3548-ferrero-darlie-temple.png" width="240" alt="媽：你在幹嘛？我：網路上的人會懂的"></a><br><a href="../memes/m3548.md">媽：你在幹嘛？我：網路上的人會懂的</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3553.md"><img src="../images/m3553-fork-with-a-chain.jpg" width="240" alt="別氣餒，你又不是一無是處——我：綁了鏈子的叉子"></a><br><a href="../memes/m3553.md">別氣餒，你又不是一無是處——我：綁了鏈子的叉子</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3573.md"><img src="../images/m3573-breath-of-stink-kimetsu.jpg" width="240" alt="粑粑真臭呢，臭之呼吸壹之型——那個我不用全集中都使得出來"></a><br><a href="../memes/m3573.md">粑粑真臭呢，臭之呼吸壹之型——那個我不用全集中都使得出來</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3593.md"><img src="../images/m3593-thanos-takes-good-baby-sticker.jpg" width="240" alt="當你在幼稚園不乖，老師要把你的乖寶寶貼紙拿走時"></a><br><a href="../memes/m3593.md">當你在幼稚園不乖，老師要把你的乖寶寶貼紙拿走時</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

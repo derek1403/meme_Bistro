@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 370 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 372 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（168）
 
@@ -359,7 +359,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（165）
+## ⚠️ 需斟酌（167）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2008,6 +2008,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3544.md"><img src="../images/m3544-covid-ashes-resurrected.png" width="240" alt="女子被宣告死於新冠，骨灰送回家後復活"></a><br><a href="../memes/m3544.md">女子被宣告死於新冠，骨灰送回家後復活</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>爸爸送的小豬存錢筒：砸開後是一把槍和精神病鑑定 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3591.md"><img src="../images/m3591-piggy-bank-gun-and-note.png" width="240" alt="爸爸送的小豬存錢筒：砸開後是一把槍和精神病鑑定"></a><br><a href="../memes/m3591.md">爸爸送的小豬存錢筒：砸開後是一把槍和精神病鑑定</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>俄羅斯爸爸：被欺負就用鎚子招呼他——女生？那就用粉紅色的鎚子 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3592.md"><img src="../images/m3592-russian-dad-pink-hammer.jpg" width="240" alt="俄羅斯爸爸：被欺負就用鎚子招呼他——女生？那就用粉紅色的鎚子"></a><br><a href="../memes/m3592.md">俄羅斯爸爸：被欺負就用鎚子招呼他——女生？那就用粉紅色的鎚子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

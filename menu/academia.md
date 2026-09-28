@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 112 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 114 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（91）
+## ★（92）
 
 <table>
 <tr>
@@ -161,6 +161,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3013.md"><img src="../images/m3013-dora-professor-venn.png" width="240" alt="愛探險的 Dora 與大學教授的交集"></a><br><a href="../memes/m3013.md">愛探險的 Dora 與大學教授的交集</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3047.md"><img src="../images/m3047-pens-space-battleship.png" width="240" alt="老師：不要再玩筆了；我：放尊重點，這是宇宙戰艦"></a><br><a href="../memes/m3047.md">老師：不要再玩筆了；我：放尊重點，這是宇宙戰艦</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -188,7 +189,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（10）
+## ⚠️ 需斟酌（11）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -287,6 +288,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2871.md"><img src="../images/m2871-after-midterm-credit-gone.png" width="240" alt="期中考完室友叫你起床上早八：不用了，這學分我沒有了"></a><br><a href="../memes/m2871.md">期中考完室友叫你起床上早八：不用了，這學分我沒有了</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>完成作業後一次關掉 15 個分頁 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3046.md"><img src="../images/m3046-close-15-tabs-after-homework.png" width="240" alt="完成作業後一次關掉 15 個分頁"></a><br><a href="../memes/m3046.md">完成作業後一次關掉 15 個分頁</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

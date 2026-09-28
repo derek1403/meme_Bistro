@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1441 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1444 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1084）
+## ★（1087）
 
 <table>
 <tr>
@@ -1816,6 +1816,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3042.md"><img src="../images/m3042-stegosaurus-pencil-sharpener.png" width="240" alt="削鉛筆就能變成劍龍的削鉛筆器"></a><br><a href="../memes/m3042.md">削鉛筆就能變成劍龍的削鉛筆器</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3045.md"><img src="../images/m3045-follow-tv-fitness-cat.png" width="240" alt="嘗試跟著電視上的健身老師一起鍛鍊的我"></a><br><a href="../memes/m3045.md">嘗試跟著電視上的健身老師一起鍛鍊的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3048.md"><img src="../images/m3048-grandpa-lowers-tv-quality.png" width="240" alt="爺爺，電視都高畫質了，為什麼要特地調低看？"></a><br><a href="../memes/m3048.md">爺爺，電視都高畫質了，為什麼要特地調低看？</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3050.md"><img src="../images/m3050-noodle-cake-as-lid-weight.png" width="240" alt="用泡麵裡的麵餅壓泡麵蓋子，有夠方便"></a><br><a href="../memes/m3050.md">用泡麵裡的麵餅壓泡麵蓋子，有夠方便</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

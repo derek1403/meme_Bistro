@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 372 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 373 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（272）
+## ★（273）
 
 <table>
 <tr>
@@ -462,6 +462,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3008.md"><img src="../images/m3008-bt-download-friend-ssd.png" width="240" alt="掛 BT 下載檔案，朋友直接拿隨身碟來"></a><br><a href="../memes/m3008.md">掛 BT 下載檔案，朋友直接拿隨身碟來</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3010.md"><img src="../images/m3010-flip-phone-toilet-wallpaper.png" width="240" alt="完美的摺疊手機桌布：馬桶"></a><br><a href="../memes/m3010.md">完美的摺疊手機桌布：馬桶</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3051.md"><img src="../images/m3051-fig-example-of-recursion.png" width="240" alt="Fig. 0：遞迴的一個例子"></a><br><a href="../memes/m3051.md">Fig. 0：遞迴的一個例子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

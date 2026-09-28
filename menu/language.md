@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 343 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 344 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（228）
 
@@ -471,7 +471,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（70）
+## ⚠️ 需斟酌（71）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1170,6 +1170,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3409.md"><img src="../images/m3409-sex-at-station-playstation.png" width="240" alt="在車站進行 SEX 的行為，可稱作為 PlayStation——PlayStation：你他媽給我等一下"></a><br><a href="../memes/m3409.md">在車站進行 SEX 的行為，可稱作為 PlayStation——PlayStation：你他媽給我等一下</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>用最慘的方式描述電影：原來是海底總動員 — ⚠️ 輕微地獄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3432.md"><img src="../images/m3432-finding-nemo-dark-summary.png" width="240" alt="用最慘的方式描述電影：原來是海底總動員"></a><br><a href="../memes/m3432.md">用最慘的方式描述電影：原來是海底總動員</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

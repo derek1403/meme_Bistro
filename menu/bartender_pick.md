@@ -4,27 +4,27 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-每次執行 `tools/build_menu.py` 會依當天日期（2026-09-28）隨機抽出 12 杯，不含需斟酌的內容。
+每次執行 `tools/build_menu.py` 會依當天日期（2026-09-29）隨機抽出 12 杯，不含需斟酌的內容。
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m1990.md"><img src="../images/m1990-sisyphus-bunnies.png" width="240" alt="推石頭的兔子，終於不再是一個人"></a><br><a href="../memes/m1990.md">推石頭的兔子，終於不再是一個人</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1826.md"><img src="../images/m1826-finland-shaped-lake.png" width="240" alt="在芬蘭有個長得像芬蘭的湖"></a><br><a href="../memes/m1826.md">在芬蘭有個長得像芬蘭的湖</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0269.md"><img src="../images/m0269-he-wont-mess-up-isekai.jpg" width="240" alt="他不會搞砸（異世界主角圖鑑）"></a><br><a href="../memes/m0269.md">他不會搞砸（異世界主角圖鑑）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2524.md"><img src="../images/m2524-taiwan-scooter-battle-button.png" width="240" alt="台灣機車按鈕全圖解：戰鬥邀請按鈕"></a><br><a href="../memes/m2524.md">台灣機車按鈕全圖解：戰鬥邀請按鈕</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1180.md"><img src="../images/m1180-cat-cinnamon-roll-at-home.png" width="240" alt="家裡已經有肉桂捲了"></a><br><a href="../memes/m1180.md">家裡已經有肉桂捲了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0029.md"><img src="../images/m0029-absolute-positive-feedback.png" width="240" alt="我比較喜歡正面回饋"></a><br><a href="../memes/m0029.md">我比較喜歡正面回饋</a><br><sub>🔤 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m1182.md"><img src="../images/m1182-recursion-under-bed.png" width="240" alt="爸！我的床底下有一個遞迴！"></a><br><a href="../memes/m1182.md">爸！我的床底下有一個遞迴！</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1039.md"><img src="../images/m1039-job-hunting-then-vs-now.jpg" width="240" alt="現在找工作 vs 以前找工作"></a><br><a href="../memes/m1039.md">現在找工作 vs 以前找工作</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m3097.md"><img src="../images/m3097-vow-no-more-staying-up.png" width="240" alt="我發誓再也不熬夜了；如果再熬夜，那我就再發誓"></a><br><a href="../memes/m3097.md">我發誓再也不熬夜了；如果再熬夜，那我就再發誓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0306.md"><img src="../images/m0306-family-movie-vs-my-movie.png" width="240" alt="我家人追的電影 vs 我追的電影"></a><br><a href="../memes/m0306.md">我家人追的電影 vs 我追的電影</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2818.md"><img src="../images/m2818-no-bag-hold-out-your-hand.png" width="240" alt="不用袋子：那你手伸出來吧"></a><br><a href="../memes/m2818.md">不用袋子：那你手伸出來吧</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2522.md"><img src="../images/m2522-rethink-diet-megacalories.png" width="240" alt="重新思考你的飲食：1500 大卡 vs 124 兆大卡"></a><br><a href="../memes/m2522.md">重新思考你的飲食：1500 大卡 vs 124 兆大卡</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m0350.md"><img src="../images/m0350-world-wide-web-faster.jpg" width="240" alt="說 world wide web 比說 www 還快"></a><br><a href="../memes/m0350.md">說 world wide web 比說 www 還快</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0165.md"><img src="../images/m0165-baby-doubled-extrapolation.png" width="240" alt="3 個月大的兒子已經變兩倍大"></a><br><a href="../memes/m0165.md">3 個月大的兒子已經變兩倍大</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0583.md"><img src="../images/m0583-drunk-call-shower-head.png" width="240" alt="昨晚在雨中給你打了很多電話"></a><br><a href="../memes/m0583.md">昨晚在雨中給你打了很多電話</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0316.md"><img src="../images/m0316-smooth-operator-c-infinity.png" width="240" alt="He's a smooth operator"></a><br><a href="../memes/m0316.md">He's a smooth operator</a><br><sub>🔤🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1532.md"><img src="../images/m1532-boyfriend-waiting-apology-skeleton.png" width="240" alt="當男朋友跟你吵架等你道歉"></a><br><a href="../memes/m1532.md">當男朋友跟你吵架等你道歉</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3127.md"><img src="../images/m3127-lost-everything-i-dot-car.png" width="240" alt="10 歲弄丟鉛筆傷心一週，25 歲弄丟一切：I dot car"></a><br><a href="../memes/m3127.md">10 歲弄丟鉛筆傷心一週，25 歲弄丟一切：I dot car</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><a href="../memes/m2641.md"><img src="../images/m2641-time-signature-countdown-5432.png" width="240" alt="樂譜拍號沒寫？我在跨年倒數 5 4 3 2"></a><br><a href="../memes/m2641.md">樂譜拍號沒寫？我在跨年倒數 5 4 3 2</a><br><sub>👀 ★★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1178.md"><img src="../images/m1178-first-time-change-tire-grinder.png" width="240" alt="第一次自己換輪胎"></a><br><a href="../memes/m1178.md">第一次自己換輪胎</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m1335.md"><img src="../images/m1335-pope-teppanyaki.jpg" width="240" alt="無心褻瀆神靈，但畫面真的很像大埔鐵板燒"></a><br><a href="../memes/m1335.md">無心褻瀆神靈，但畫面真的很像大埔鐵板燒</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m1066.md"><img src="../images/m1066-client-simple-lego-misaligned.png" width="240" alt="甲方：我們的要求這麼簡單"></a><br><a href="../memes/m1066.md">甲方：我們的要求這麼簡單</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0351.md"><img src="../images/m0351-touhou-dodge-rain.png" width="240" alt="為什麼一滴雨都淋不到你？我有玩東方"></a><br><a href="../memes/m0351.md">為什麼一滴雨都淋不到你？我有玩東方</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3006.md"><img src="../images/m3006-oscilloscope-expectation-anime.png" width="240" alt="教授以為我用示波器看波形，實際上我在畫動畫"></a><br><a href="../memes/m3006.md">教授以為我用示波器看波形，實際上我在畫動畫</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>

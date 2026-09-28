@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1591 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1592 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1199）
+## ★（1200）
 
 <table>
 <tr>
@@ -2007,6 +2007,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3426.md"><img src="../images/m3426-cleaning-room-kitten-sleeps.png" width="240" alt="整理房間整理到一半，突然很想睡"></a><br><a href="../memes/m3426.md">整理房間整理到一半，突然很想睡</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3427.md"><img src="../images/m3427-fate-holy-grail-war-secret.jpg" width="240" alt="Fate：聖杯戰爭得隱密的進行——也是 Fate："></a><br><a href="../memes/m3427.md">Fate：聖杯戰爭得隱密的進行——也是 Fate：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3434.md"><img src="../images/m3434-sentai-tonkatsu-explosion.jpg" width="240" alt="逃離炸豬排幻覺的節食中戰隊英雄們"></a><br><a href="../memes/m3434.md">逃離炸豬排幻覺的節食中戰隊英雄們</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

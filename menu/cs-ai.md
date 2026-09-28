@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 376 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 377 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（275）
+## ★（276）
 
 <table>
 <tr>
@@ -467,6 +467,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3078.md"><img src="../images/m3078-stadium-seats-star-triangle.png" width="240" alt="觀眾席的空位排成巢狀迴圈印出的星號三角形"></a><br><a href="../memes/m3078.md">觀眾席的空位排成巢狀迴圈印出的星號三角形</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3113.md"><img src="../images/m3113-crow-standup-my-life-jokes.png" width="240" alt="工程師為何都用暗色主題？——觀眾：聽膩了"></a><br><a href="../memes/m3113.md">工程師為何都用暗色主題？——觀眾：聽膩了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3133.md"><img src="../images/m3133-car-pay-attention-screens.png" width="240" alt="車：駕駛時請注意路況；還是車："></a><br><a href="../memes/m3133.md">車：駕駛時請注意路況；還是車：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

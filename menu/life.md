@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1476 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1479 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1110）
+## ★（1113）
 
 <table>
 <tr>
@@ -1858,6 +1858,11 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3127.md"><img src="../images/m3127-lost-everything-i-dot-car.png" width="240" alt="10 歲弄丟鉛筆傷心一週，25 歲弄丟一切：I dot car"></a><br><a href="../memes/m3127.md">10 歲弄丟鉛筆傷心一週，25 歲弄丟一切：I dot car</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3128.md"><img src="../images/m3128-dream-meaning-giant-cat.png" width="240" alt="解夢大師：所有的夢都有它代表的意義；我的夢："></a><br><a href="../memes/m3128.md">解夢大師：所有的夢都有它代表的意義；我的夢：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3129.md"><img src="../images/m3129-mom-washes-blankie.png" width="240" alt="當媽媽想要把你的小被被拿去洗"></a><br><a href="../memes/m3129.md">當媽媽想要把你的小被被拿去洗</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3131.md"><img src="../images/m3131-killer-carpet-stairs.png" width="240" alt="你說這裡的地毯會殺人是什麼意思？"></a><br><a href="../memes/m3131.md">你說這裡的地毯會殺人是什麼意思？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3134.md"><img src="../images/m3134-old-vs-new-air-conditioner.png" width="240" alt="舊冷氣 vs 新冷氣"></a><br><a href="../memes/m3134.md">舊冷氣 vs 新冷氣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3136.md"><img src="../images/m3136-youtube-premium-vs-game-pass.png" width="240" alt="每月 179 買 YouTube Premium vs 每月 500 課金買月卡"></a><br><a href="../memes/m3136.md">每月 179 買 YouTube Premium vs 每月 500 課金買月卡</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

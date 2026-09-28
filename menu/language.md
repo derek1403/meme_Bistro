@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 335 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 336 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（222）
+## ★（223）
 
 <table>
 <tr>
@@ -378,6 +378,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3266.md"><img src="../images/m3266-raiden-bake-90-degrees.png" width="240" alt="放烤箱 90 度烤 1 小時——把烤箱傾斜 90 度"></a><br><a href="../memes/m3266.md">放烤箱 90 度烤 1 小時——把烤箱傾斜 90 度</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3300.md"><img src="../images/m3300-measure-words-yi-qi-yanbi.png" width="240" alt="量詞練習：一盤菜、一張桌子、一起岩壁"></a><br><a href="../memes/m3300.md">量詞練習：一盤菜、一張桌子、一起岩壁</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3302.md"><img src="../images/m3302-edison-never-said-give-up.png" width="240" alt="愛迪生一生中從來沒說過「放棄」兩個字"></a><br><a href="../memes/m3302.md">愛迪生一生中從來沒說過「放棄」兩個字</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3350.md"><img src="../images/m3350-milk-gone-bad-bandits.png" width="240" alt="小鬼頭大喊冰箱裡的牛奶都變壞了"></a><br><a href="../memes/m3350.md">小鬼頭大喊冰箱裡的牛奶都變壞了</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

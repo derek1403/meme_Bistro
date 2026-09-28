@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 310 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 312 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（129）
 
@@ -276,7 +276,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（154）
+## ⚠️ 需斟酌（156）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1815,6 +1815,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3344.md"><img src="../images/m3344-conan-shrinks-plasticizer.png" width="240" alt="柯南為什麼會縮小？因為藥丸裡有塑化劑"></a><br><a href="../memes/m3344.md">柯南為什麼會縮小？因為藥丸裡有塑化劑</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>有床的電影院——馬的是誰在拍手啦，電影都還沒結束 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3351.md"><img src="../images/m3351-bed-cinema-who-is-clapping.png" width="240" alt="有床的電影院——馬的是誰在拍手啦，電影都還沒結束"></a><br><a href="../memes/m3351.md">有床的電影院——馬的是誰在拍手啦，電影都還沒結束</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>四個人掉入水裡，你先救誰？——先把老闆淹死，其他三個開始競標 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3352.md"><img src="../images/m3352-save-four-drowning-rich.jpg" width="240" alt="四個人掉入水裡，你先救誰？——先把老闆淹死，其他三個開始競標"></a><br><a href="../memes/m3352.md">四個人掉入水裡，你先救誰？——先把老闆淹死，其他三個開始競標</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

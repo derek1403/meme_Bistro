@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1550 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1555 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1167）
+## ★（1171）
 
 <table>
 <tr>
@@ -1954,6 +1954,14 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3341.md"><img src="../images/m3341-hololive-multiverse-of-promotion.png" width="240" alt="奇異博士：失控多重宇宙 vs Hololive：失控多重宣傳"></a><br><a href="../memes/m3341.md">奇異博士：失控多重宇宙 vs Hololive：失控多重宣傳</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3346.md"><img src="../images/m3346-fogged-windshield-third-person.jpg" width="240" alt="前面完全看不見怎麼辦？——切到第三人稱啊"></a><br><a href="../memes/m3346.md">前面完全看不見怎麼辦？——切到第三人稱啊</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3348.md"><img src="../images/m3348-just-one-bite-patrick.png" width="240" alt="讓我吃一小口就好——那一小口："></a><br><a href="../memes/m3348.md">讓我吃一小口就好——那一小口：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3349.md"><img src="../images/m3349-shower-temperature-one-degree.png" width="240" alt="當你在洗澡時：調熱一度是地獄，調冷一度是冰河"></a><br><a href="../memes/m3349.md">當你在洗澡時：調熱一度是地獄，調冷一度是冰河</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3353.md"><img src="../images/m3353-motorcycle-signs-lonely-rider.png" width="240" alt="我們結婚了！環島——孤獨飆車手徵友：全台灣找不到一個妹愛我"></a><br><a href="../memes/m3353.md">我們結婚了！環島——孤獨飆車手徵友：全台灣找不到一個妹愛我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3354.md"><img src="../images/m3354-new-year-shopping-no-car-patrick.png" width="240" alt="去大賣場買了一堆過年好料，但沒有開車"></a><br><a href="../memes/m3354.md">去大賣場買了一堆過年好料，但沒有開車</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（106）
@@ -2139,7 +2147,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（277）
+## ⚠️ 需斟酌（278）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4908,6 +4916,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3340.md"><img src="../images/m3340-itasha-car-wash-foam.png" width="240" alt="痛車洗車"></a><br><a href="../memes/m3340.md">痛車洗車</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如果你覺得自己沒用，可以看看幫太陽神擋岩漿的艾斯 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3347.md"><img src="../images/m3347-feel-useless-ace-blocked-magma.png" width="240" alt="如果你覺得自己沒用，可以看看幫太陽神擋岩漿的艾斯"></a><br><a href="../memes/m3347.md">如果你覺得自己沒用，可以看看幫太陽神擋岩漿的艾斯</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

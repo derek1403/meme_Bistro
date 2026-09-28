@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 225 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 227 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（65）
+## ★（66）
 
 <table>
 <tr>
@@ -117,6 +117,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2822.md"><img src="../images/m2822-joke-to-girl-vs-with-swimsuit.png" width="240" alt="我講笑話給妹子聽 vs 妹子把笑話轉給網友還附泳裝照"></a><br><a href="../memes/m2822.md">我講笑話給妹子聽 vs 妹子把笑話轉給網友還附泳裝照</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2830.md"><img src="../images/m2830-elevator-wedding-divorce-lawyer.png" width="240" alt="電梯廣告：婚紗照一打開是離婚律師"></a><br><a href="../memes/m2830.md">電梯廣告：婚紗照一打開是離婚律師</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2876.md"><img src="../images/m2876-boss-call-weekend-monday-850.png" width="240" alt="老闆週末叫你來公司：大概下週一 8:50 到"></a><br><a href="../memes/m2876.md">老闆週末叫你來公司：大概下週一 8:50 到</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -164,7 +165,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（137）
+## ⚠️ 需斟酌（138）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1533,6 +1534,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2856.md"><img src="../images/m2856-vegetarian-ramen-egg-mosaic.png" width="240" alt="素食菜單只是把雞蛋打上馬賽克"></a><br><a href="../memes/m2856.md">素食菜單只是把雞蛋打上馬賽克</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>四葉酢漿草是幸運的象徵，那七葉的呢？ — ⚠️ 大麻</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2873.md"><img src="../images/m2873-four-leaf-clover-seven-leaf.jpg" width="240" alt="四葉酢漿草是幸運的象徵，那七葉的呢？"></a><br><a href="../memes/m2873.md">四葉酢漿草是幸運的象徵，那七葉的呢？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

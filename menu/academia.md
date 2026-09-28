@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 102 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 104 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（82）
+## ★（83）
 
 <table>
 <tr>
@@ -146,6 +146,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2862.md"><img src="../images/m2862-final-report-midterm-badminton.png" width="240" alt="期末報告和期中考在打羽毛球，大學生是那顆球"></a><br><a href="../memes/m2862.md">期末報告和期中考在打羽毛球，大學生是那顆球</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2867.md"><img src="../images/m2867-freshman-vs-senior-double-major.png" width="240" alt="大一：我要轉系雙主修輔系！大四：我想畢業"></a><br><a href="../memes/m2867.md">大一：我要轉系雙主修輔系！大四：我想畢業</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -173,7 +174,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（9）
+## ⚠️ 需斟酌（10）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -262,6 +263,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1721.md"><img src="../images/m1721-grad-student-let-it-hit-me.png" width="240" alt="研究生：「他要撞就給他撞啊」"></a><br><a href="../memes/m1721.md">研究生：「他要撞就給他撞啊」</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>期中考完室友叫你起床上早八：不用了，這學分我沒有了 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2871.md"><img src="../images/m2871-after-midterm-credit-gone.png" width="240" alt="期中考完室友叫你起床上早八：不用了，這學分我沒有了"></a><br><a href="../memes/m2871.md">期中考完室友叫你起床上早八：不用了，這學分我沒有了</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

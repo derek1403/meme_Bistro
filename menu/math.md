@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 339 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 341 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（159）
+## ★★（161）
 
 <table>
 <tr>
@@ -441,6 +441,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2839.md"><img src="../images/m2839-isomorphism-only-6-people-understand.png" width="240" alt="證明了全世界只有 6 個人懂的兩個物件同構"></a><br><a href="../memes/m2839.md">證明了全世界只有 6 個人懂的兩個物件同構</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2841.md"><img src="../images/m2841-recursive-dog-house.png" width="240" alt="狗屋是我們家的縮小版（無窮遞迴）"></a><br><a href="../memes/m2841.md">狗屋是我們家的縮小版（無窮遞迴）</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2860.md"><img src="../images/m2860-sexy-prime-number-theory-cat.png" width="240" alt="我在研究數論啦，媽別管我！"></a><br><a href="../memes/m2860.md">我在研究數論啦，媽別管我！</a><br><sub>🧠🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2870.md"><img src="../images/m2870-freshman-dream-binomial-mod-p.png" width="240" alt="你打不倒我：新手之夢的逆襲"></a><br><a href="../memes/m2870.md">你打不倒我：新手之夢的逆襲</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2872.md"><img src="../images/m2872-scroll-of-truth-truth-table.png" width="240" alt="真之捲軸：打開是一張真值表"></a><br><a href="../memes/m2872.md">真之捲軸：打開是一張真值表</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

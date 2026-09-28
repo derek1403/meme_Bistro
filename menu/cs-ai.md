@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 359 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 360 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（264）
 
@@ -451,7 +451,7 @@
 </tr>
 </table>
 
-## ★★（69）
+## ★★（70）
 
 <table>
 <tr>
@@ -568,6 +568,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2811.md"><img src="../images/m2811-qr-malware-shirt-modern-medusa.png" width="240" alt="印著惡意 QR code 的衣服：現代梅杜莎"></a><br><a href="../memes/m2811.md">印著惡意 QR code 的衣服：現代梅杜莎</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2850.md"><img src="../images/m2850-windows-taskbar-evolution-dir.png" width="240" alt="Windows 工作列演化史：最後是 C:\>dir"></a><br><a href="../memes/m2850.md">Windows 工作列演化史：最後是 C:\>dir</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2859.md"><img src="../images/m2859-swollen-battery-pillows.png" width="240" alt="危險的枕頭"></a><br><a href="../memes/m2859.md">危險的枕頭</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2866.md"><img src="../images/m2866-meet-me-at-1st-table-zero-index.png" width="240" alt="在第一桌等我：Table 00 還是 Table 01？"></a><br><a href="../memes/m2866.md">在第一桌等我：Table 00 還是 Table 01？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

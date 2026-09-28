@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1358 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1362 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1021）
+## ★（1023）
 
 <table>
 <tr>
@@ -1711,10 +1711,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2865.md"><img src="../images/m2865-things-to-do-but-bed-nearby.png" width="240" alt="我知道還有事沒做完，但我旁邊有床欸"></a><br><a href="../memes/m2865.md">我知道還有事沒做完，但我旁邊有床欸</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2868.md"><img src="../images/m2868-pisa-tower-lets-me-shoot-moon.png" width="240" alt="比薩斜塔：抱歉抱歉，你拍月亮"></a><br><a href="../memes/m2868.md">比薩斜塔：抱歉抱歉，你拍月亮</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2874.md"><img src="../images/m2874-im-an-adult-now-crying.png" width="240" alt="我現在長大了，我能做到的——然後崩潰大哭"></a><br><a href="../memes/m2874.md">我現在長大了，我能做到的——然後崩潰大哭</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（92）
+## ★★（94）
 
 <table>
 <tr>
@@ -1870,6 +1872,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2799.md"><img src="../images/m2799-me-around-dudes-vs-girls.png" width="240" alt="在男生面前的我 vs 在女生面前的我"></a><br><a href="../memes/m2799.md">在男生面前的我 vs 在女生面前的我</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2804.md"><img src="../images/m2804-that-genius-jotaro-woody.jpg" width="240" alt="又是那個天才：這次居然還是承太郎"></a><br><a href="../memes/m2804.md">又是那個天才：這次居然還是承太郎</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2869.md"><img src="../images/m2869-frieren-aura-mimic-chest.jpg" width="240" alt="你對阿烏拉有什麼看法？一個寶箱怪就能搞定"></a><br><a href="../memes/m2869.md">你對阿烏拉有什麼看法？一個寶箱怪就能搞定</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2875.md"><img src="../images/m2875-magic-grandma-frieren.jpg" width="240" alt="我很喜歡魔法阿嬤！原來你也在追芙莉蓮"></a><br><a href="../memes/m2875.md">我很喜歡魔法阿嬤！原來你也在追芙莉蓮</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

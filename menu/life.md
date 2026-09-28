@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1501 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1505 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1130）
+## ★（1132）
 
 <table>
 <tr>
@@ -1892,6 +1892,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3192.md"><img src="../images/m3192-girl-forgot-glasses-spiderverse.png" width="240" alt="想起《我喜歡的女孩忘記戴眼鏡》今晚播第一話"></a><br><a href="../memes/m3192.md">想起《我喜歡的女孩忘記戴眼鏡》今晚播第一話</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3196.md"><img src="../images/m3196-duck-feel-useless-eat.png" width="240" alt="覺得自己好廢應該充實自己——好累喔吃東西"></a><br><a href="../memes/m3196.md">覺得自己好廢應該充實自己——好累喔吃東西</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3202.md"><img src="../images/m3202-only-want-oshi-no-ko-season-2.png" width="240" alt="我什麼都不想做，現在只想看我推的孩子第二季"></a><br><a href="../memes/m3202.md">我什麼都不想做，現在只想看我推的孩子第二季</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3204.md"><img src="../images/m3204-girls-outfits-daily-guy-yearly.png" width="240" alt="女生一天換三套，男生三年同一套"></a><br><a href="../memes/m3204.md">女生一天換三套，男生三年同一套</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2073,7 +2077,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（268）
+## ⚠️ 需斟酌（270）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4752,6 +4756,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3195.md"><img src="../images/m3195-dirty-my-bed-soy-sauce.png" width="240" alt="希望你來我家，然後弄髒我的床——用醬油"></a><br><a href="../memes/m3195.md">希望你來我家，然後弄髒我的床——用醬油</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這個披薩的青椒好大一塊ㄚ — ⚠️ 噁心</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3199.md"><img src="../images/m3199-pizza-green-pepper-lizard.png" width="240" alt="這個披薩的青椒好大一塊ㄚ"></a><br><a href="../memes/m3199.md">這個披薩的青椒好大一塊ㄚ</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>現在學校流行什麼？School Days — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3208.md"><img src="../images/m3208-school-days-trending.png" width="240" alt="現在學校流行什麼？School Days"></a><br><a href="../memes/m3208.md">現在學校流行什麼？School Days</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

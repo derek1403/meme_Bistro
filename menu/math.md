@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 370 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 371 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（103）
+## ★（104）
 
 <table>
 <tr>
@@ -181,6 +181,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3177.md"><img src="../images/m3177-dont-shoot-proof-left-to-reader.png" width="240" alt="別開槍我是數學家：證明留給讀者作練習"></a><br><a href="../memes/m3177.md">別開槍我是數學家：證明留給讀者作練習</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3201.md"><img src="../images/m3201-integral-sign-lightning-bolt.png" width="240" alt="普通積分號 vs 酷炫的積分號"></a><br><a href="../memes/m3201.md">普通積分號 vs 酷炫的積分號</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

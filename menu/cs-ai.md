@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 340 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 344 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（250）
+## ★（254）
 
 <table>
 <tr>
@@ -426,6 +426,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2634.md"><img src="../images/m2634-train-junior-devs-pushpins.png" width="240" alt="如何訓練新手工程師"></a><br><a href="../memes/m2634.md">如何訓練新手工程師</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2643.md"><img src="../images/m2643-password-used-by-starboy98.png" width="240" alt="此密碼已被 starboy98 使用"></a><br><a href="../memes/m2643.md">此密碼已被 starboy98 使用</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2644.md"><img src="../images/m2644-cyber-cafe-shortcuts-usb.png" width="240" alt="帶著 100 個遊戲捷徑離開網咖的我"></a><br><a href="../memes/m2644.md">帶著 100 個遊戲捷徑離開網咖的我</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2645.md"><img src="../images/m2645-data-dont-want-pie-chart.png" width="240" alt="複雜資料：我不想當圓餅圖！"></a><br><a href="../memes/m2645.md">複雜資料：我不想當圓餅圖！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2646.md"><img src="../images/m2646-router-spider-install.png" width="240" alt="第一次裝路由器，不知道這樣對不對"></a><br><a href="../memes/m2646.md">第一次裝路由器，不知道這樣對不對</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

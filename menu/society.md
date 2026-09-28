@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 211 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 212 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（58）
+## ★（59）
 
 <table>
 <tr>
@@ -106,6 +106,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2611.md"><img src="../images/m2611-mcdonalds-depressing-redesign.png" width="240" alt="麥當勞為什麼從歡樂變得這麼抑鬱？"></a><br><a href="../memes/m2611.md">麥當勞為什麼從歡樂變得這麼抑鬱？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2640.md"><img src="../images/m2640-kinmen-imperial-exam-gsat.png" width="240" alt="癸卯年科舉（113 學年度學測）"></a><br><a href="../memes/m2640.md">癸卯年科舉（113 學年度學測）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

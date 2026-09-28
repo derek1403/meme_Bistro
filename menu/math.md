@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 322 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 323 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -427,7 +427,7 @@
 </tr>
 </table>
 
-## ★★★（49）
+## ★★★（50）
 
 <table>
 <tr>
@@ -512,6 +512,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2525.md"><img src="../images/m2525-trailer-cubes-banach-tarski.png" width="240" alt="拖車上有幾個方塊？智商鐘形曲線：Banach–Tarski 版"></a><br><a href="../memes/m2525.md">拖車上有幾個方塊？智商鐘形曲線：Banach–Tarski 版</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2648.md"><img src="../images/m2648-q-r-archimedean-gojo.png" width="240" alt="你是 ℝ 因為你是全序阿基米德體？"></a><br><a href="../memes/m2648.md">你是 ℝ 因為你是全序阿基米德體？</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1224 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1227 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（901）
+## ★（903）
 
 <table>
 <tr>
@@ -1511,10 +1511,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2633.md"><img src="../images/m2633-ikea-customers-buy-sharks.png" width="240" alt="IKEA 客人實際上買的：鯊魚"></a><br><a href="../memes/m2633.md">IKEA 客人實際上買的：鯊魚</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2639.md"><img src="../images/m2639-typo-friend-understands.png" width="240" alt="聊天打錯字，朋友還是看懂了"></a><br><a href="../memes/m2639.md">聊天打錯字，朋友還是看懂了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2647.md"><img src="../images/m2647-alarm-in-1h32m-mr-krabs.png" width="240" alt="鬧鐘將於 1 小時 32 分鐘後響鈴"></a><br><a href="../memes/m2647.md">鬧鐘將於 1 小時 32 分鐘後響鈴</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（89）
+## ★★（90）
 
 <table>
 <tr>
@@ -1665,6 +1667,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2366.md"><img src="../images/m2366-gensokyo-health-organization-age.png" width="240" alt="幻想鄉衛生組織：新的年齡劃分標準"></a><br><a href="../memes/m2366.md">幻想鄉衛生組織：新的年齡劃分標準</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2586.md"><img src="../images/m2586-groundhog-day-feb-7.png" width="240" alt="又是 2 月 2 日？我活在今天暫時停止裡！"></a><br><a href="../memes/m2586.md">又是 2 月 2 日？我活在今天暫時停止裡！</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2641.md"><img src="../images/m2641-time-signature-countdown-5432.png" width="240" alt="樂譜拍號沒寫？我在跨年倒數 5 4 3 2"></a><br><a href="../memes/m2641.md">樂譜拍號沒寫？我在跨年倒數 5 4 3 2</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

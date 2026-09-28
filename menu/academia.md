@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 90 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 91 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（70）
+## ★（71）
 
 <table>
 <tr>
@@ -126,6 +126,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2631.md"><img src="../images/m2631-marcille-undergrad-vs-grad.png" width="240" alt="讀大學時 vs 讀碩博士時"></a><br><a href="../memes/m2631.md">讀大學時 vs 讀碩博士時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2642.md"><img src="../images/m2642-research-marathon-finish-moves.png" width="240" alt="研究像馬拉松，差別是終點線會移動"></a><br><a href="../memes/m2642.md">研究像馬拉松，差別是終點線會移動</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

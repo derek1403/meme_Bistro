@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 194 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 195 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（50）
 
@@ -138,7 +138,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（122）
+## ⚠️ 需斟酌（123）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1357,6 +1357,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2392.md"><img src="../images/m2392-first-programmer-woman-comment.png" width="240" alt="第一位程式設計師是女性——所以電腦語言才那麼難懂"></a><br><a href="../memes/m2392.md">第一位程式設計師是女性——所以電腦語言才那麼難懂</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>一年一度國際換日線：5 月 35 日 vs 6 月 4 日 — ⚠️ 政治、歷史事件</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2431.md"><img src="../images/m2431-may-35-date-line.png" width="240" alt="一年一度國際換日線：5 月 35 日 vs 6 月 4 日"></a><br><a href="../memes/m2431.md">一年一度國際換日線：5 月 35 日 vs 6 月 4 日</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

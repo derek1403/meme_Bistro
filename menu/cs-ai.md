@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 292 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 301 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（210）
+## ★（218）
 
 <table>
 <tr>
@@ -359,9 +359,23 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2401.md"><img src="../images/m2401-normal-people-vs-programmer.png" width="240" alt="Normal People vs Programmer 詞彙對照"></a><br><a href="../memes/m2401.md">Normal People vs Programmer 詞彙對照</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2403.md"><img src="../images/m2403-html-cake-unclosed-tag.png" width="240" alt="Happy IT Day 蛋糕——結尾的 <cake> 沒關好"></a><br><a href="../memes/m2403.md">Happy IT Day 蛋糕——結尾的 <cake> 沒關好</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2410.md"><img src="../images/m2410-life-of-a-programmer-rhymes.png" width="240" alt="程式設計師的一生：沒有擁抱只有 bug"></a><br><a href="../memes/m2410.md">程式設計師的一生：沒有擁抱只有 bug</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2414.md"><img src="../images/m2414-patrick-code-vs-readme.png" width="240" alt="寫程式 vs 寫 README"></a><br><a href="../memes/m2414.md">寫程式 vs 寫 README</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2419.md"><img src="../images/m2419-terminal-not-a-hacker.png" width="240" alt="在非 IT 人面前打開終端機"></a><br><a href="../memes/m2419.md">在非 IT 人面前打開終端機</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2421.md"><img src="../images/m2421-server-crashed-literally.png" width="240" alt="老闆，伺服器 crash 了"></a><br><a href="../memes/m2421.md">老闆，伺服器 crash 了</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2423.md"><img src="../images/m2423-coding-is-easy-knives.png" width="240" alt="以為寫程式很簡單的我"></a><br><a href="../memes/m2423.md">以為寫程式很簡單的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2424.md"><img src="../images/m2424-backend-frontend-rest-api-bike.png" width="240" alt="後端、REST API、前端：兩台腳踏車綁在一起"></a><br><a href="../memes/m2424.md">後端、REST API、前端：兩台腳踏車綁在一起</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2426.md"><img src="../images/m2426-connectors-old-vs-usb-c.png" width="240" alt="以前小孩的接頭困擾 vs 現在小孩的接頭困擾"></a><br><a href="../memes/m2426.md">以前小孩的接頭困擾 vs 現在小孩的接頭困擾</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2429.md"><img src="../images/m2429-shower-cannot-be-displayed.png" width="240" alt="The shower cannot be displayed"></a><br><a href="../memes/m2429.md">The shower cannot be displayed</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（61）
+## ★★（62）
 
 <table>
 <tr>
@@ -466,6 +480,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2343.md"><img src="../images/m2343-brute-force-protection-sick.png" width="240" alt="brute-force attack protection——Sick bastard!"></a><br><a href="../memes/m2343.md">brute-force attack protection——Sick bastard!</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2415.md"><img src="../images/m2415-cant-delete-tool-has-children.png" width="240" alt="無法刪除：這個工具有子代"></a><br><a href="../memes/m2415.md">無法刪除：這個工具有子代</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

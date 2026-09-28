@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 163 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（71）
 
@@ -130,7 +130,7 @@
 </tr>
 </table>
 
-## ★★（53）
+## ★★（54）
 
 <table>
 <tr>
@@ -221,16 +221,20 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2125.md"><img src="../images/m2125-physics-olympiad-drink-water.jpg" width="240" alt="喝一口得到折射率 1.33——化學組請放下四氯金酸"></a><br><a href="../memes/m2125.md">喝一口得到折射率 1.33——化學組請放下四氯金酸</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2236.md"><img src="../images/m2236-typhoon-cone-of-uncertainty.png" width="240" alt="誤差圈：你就知道天氣預報有多難幹"></a><br><a href="../memes/m2236.md">誤差圈：你就知道天氣預報有多難幹</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2434.md"><img src="../images/m2434-gru-newton-vs-schrodinger.png" width="240" alt="牛頓怎麼推出萬有引力？薛丁格怎麼推出波函數？"></a><br><a href="../memes/m2434.md">牛頓怎麼推出萬有引力？薛丁格怎麼推出波函數？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（3）
+## ★★★（4）
 
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0196.md"><img src="../images/m0196-loop-quantum-cosmology-derivative.png" width="240" alt="迴圈量子宇宙學看向別的測度"></a><br><a href="../memes/m0196.md">迴圈量子宇宙學看向別的測度</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0524.md"><img src="../images/m0524-boys-deduct-points-quantum.png" width="240" alt="男生超級扣分的行為（量子力學版）"></a><br><a href="../memes/m0524.md">男生超級扣分的行為（量子力學版）</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2400.md"><img src="../images/m2400-wave-cisk-mjo-squidward.png" width="240" alt="wave-CISK 解釋 MJO「充其量不足，最糟是錯的」——今天很嗆是吧"></a><br><a href="../memes/m2400.md">wave-CISK 解釋 MJO「充其量不足，最糟是錯的」——今天很嗆是吧</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2408.md"><img src="../images/m2408-rossby-phase-group-naruto-run.png" width="240" alt="自由正壓 Rossby 波：相速度 vs 群速度"></a><br><a href="../memes/m2408.md">自由正壓 Rossby 波：相速度 vs 群速度</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

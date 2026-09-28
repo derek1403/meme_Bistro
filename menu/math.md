@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 296 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 299 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（92）
+## ★（93）
 
 <table>
 <tr>
@@ -162,10 +162,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2337.md"><img src="../images/m2337-ddx-throws-ex-comes-back.png" width="240" alt="d/dx 把 eˣ 趕出去——eˣ 又回來了"></a><br><a href="../memes/m2337.md">d/dx 把 eˣ 趕出去——eˣ 又回來了</a><br><sub>🧠 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2406.md"><img src="../images/m2406-touhou-equals-100-percent.png" width="240" alt="Knowledge 96%、Workhard 98%……Touhou = 100%"></a><br><a href="../memes/m2406.md">Knowledge 96%、Workhard 98%……Touhou = 100%</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2418.md"><img src="../images/m2418-textbook-outdated-math-chad.png" width="240" alt="物理化學的課本會過時，數學的不會"></a><br><a href="../memes/m2418.md">物理化學的課本會過時，數學的不會</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（135）
+## ★★（136）
 
 <table>
 <tr>
@@ -393,9 +394,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2390.md"><img src="../images/m2390-love-generalized-eigenvectors.png" width="240" alt="I love generalized eigenvectors!!! I want to form a basis with them!!!"></a><br><a href="../memes/m2390.md">I love generalized eigenvectors!!! I want to form a basis with them!!!</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2395.md"><img src="../images/m2395-body-machine-pdp-inverse.png" width="240" alt="My body is a machine that turns A into PDP⁻¹"></a><br><a href="../memes/m2395.md">My body is a machine that turns A into PDP⁻¹</a><br><sub>🧠 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2425.md"><img src="../images/m2425-tropical-semiring-1x1-2.png" width="240" alt="1×1=2……在 max-plus 熱帶半環裡！"></a><br><a href="../memes/m2425.md">1×1=2……在 max-plus 熱帶半環裡！</a><br><sub>🧠 ★★</sub></td>
+</tr>
 </table>
 
-## ★★★（44）
+## ★★★（45）
 
 <table>
 <tr>
@@ -471,6 +475,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1754.md"><img src="../images/m1754-hilbert-space-factory-l-infinity.png" width="240" alt="ℓ^∞?? in the Hilbert space factory?? how queer!!"></a><br><a href="../memes/m1754.md">ℓ^∞?? in the Hilbert space factory?? how queer!!</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2352.md"><img src="../images/m2352-sheaf-definitions-weaker.png" width="240" alt="Sheaf 的三種定義：越抽象寫得越短"></a><br><a href="../memes/m2352.md">Sheaf 的三種定義：越抽象寫得越短</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2420.md"><img src="../images/m2420-exceptions-to-theorems.png" width="240" alt="他一直在弄出反例來破壞我們的定理"></a><br><a href="../memes/m2420.md">他一直在弄出反例來破壞我們的定理</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

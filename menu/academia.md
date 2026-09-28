@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 84 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 86 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（65）
+## ★（67）
 
 <table>
 <tr>
@@ -117,6 +117,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2361.md"><img src="../images/m2361-what-i-download-vs-read.png" width="240" alt="What I download vs what I read"></a><br><a href="../memes/m2361.md">What I download vs what I read</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2404.md"><img src="../images/m2404-paper-reviewers-stethoscopes.png" width="240" alt="My paper 與 Reviewer 1, 2, 3, 4 和 Editor"></a><br><a href="../memes/m2404.md">My paper 與 Reviewer 1, 2, 3, 4 和 Editor</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2417.md"><img src="../images/m2417-ninja-degree-thank-you-professor.png" width="240" alt="忍者學位：教授說整學期都沒見到你"></a><br><a href="../memes/m2417.md">忍者學位：教授說整學期都沒見到你</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2428.md"><img src="../images/m2428-reviewer-2-le-chiffre.png" width="240" alt="Reviewer #2：一個拼字錯誤，真可惜啊龐德先生"></a><br><a href="../memes/m2428.md">Reviewer #2：一個拼字錯誤，真可惜啊龐德先生</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

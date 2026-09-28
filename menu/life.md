@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1119 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1127 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（812）
+## ★（818）
 
 <table>
 <tr>
@@ -1362,6 +1362,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2402.md"><img src="../images/m2402-horse-rooster-dog-i-woof.png" width="240" alt="我幫人類更快到達目的地——我讓人類準時起床——我就吠"></a><br><a href="../memes/m2402.md">我幫人類更快到達目的地——我讓人類準時起床——我就吠</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2405.md"><img src="../images/m2405-pictures-cannot-convey-pain.png" width="240" alt="老師：圖片是無法傳遞痛苦的——我："></a><br><a href="../memes/m2405.md">老師：圖片是無法傳遞痛苦的——我：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2409.md"><img src="../images/m2409-explain-touhou-conspiracy-board.png" width="240" alt="當有朋友想瞭解東方時"></a><br><a href="../memes/m2409.md">當有朋友想瞭解東方時</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2412.md"><img src="../images/m2412-brain-solves-small-problem.png" width="240" alt="大腦：這個小問題我可以解決！"></a><br><a href="../memes/m2412.md">大腦：這個小問題我可以解決！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2413.md"><img src="../images/m2413-kangaroo-pouch-popcorn.png" width="240" alt="袋鼠的袋子是拿來裝爆米花的"></a><br><a href="../memes/m2413.md">袋鼠的袋子是拿來裝爆米花的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2422.md"><img src="../images/m2422-bear-bread-cursed-spirit.png" width="240" alt="食譜上的樣子 vs 我做的特級咒靈"></a><br><a href="../memes/m2422.md">食譜上的樣子 vs 我做的特級咒靈</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2432.md"><img src="../images/m2432-borrow-50k-have-48k.png" width="240" alt="借我五萬？我只有四萬八"></a><br><a href="../memes/m2432.md">借我五萬？我只有四萬八</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2433.md"><img src="../images/m2433-elden-ring-first-game-for-kids.jpg" width="240" alt="給小朋友的第一款遊戲軟體：艾爾登法環"></a><br><a href="../memes/m2433.md">給小朋友的第一款遊戲軟體：艾爾登法環</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -1518,7 +1528,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（219）
+## ⚠️ 需斟酌（221）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3707,6 +3717,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2378.md"><img src="../images/m2378-ice-cream-poison-antidote.png" width="240" alt="用冰淇淋騙孩子吃藥——冰淇淋有毒，這是解毒藥"></a><br><a href="../memes/m2378.md">用冰淇淋騙孩子吃藥——冰淇淋有毒，這是解毒藥</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>要錢還是要命？把命拿去 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2411.md"><img src="../images/m2411-take-my-life-robber.png" width="240" alt="要錢還是要命？把命拿去"></a><br><a href="../memes/m2411.md">要錢還是要命？把命拿去</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>皮卡丘，一直用撞擊！ — ⚠️ 身障</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2430.md"><img src="../images/m2430-pikachu-tackle-onix.png" width="240" alt="皮卡丘，一直用撞擊！"></a><br><a href="../memes/m2430.md">皮卡丘，一直用撞擊！</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 328 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 332 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（239）
+## ★（243）
 
 <table>
 <tr>
@@ -407,6 +407,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2518.md"><img src="../images/m2518-baby-hello-world-programmer.png" width="240" alt="男孩還是女孩？「Hello, world」——是工程師"></a><br><a href="../memes/m2518.md">男孩還是女孩？「Hello, world」——是工程師</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2526.md"><img src="../images/m2526-sleep-in-coding-class-time.png" width="240" alt="程式課打瞌睡：9:10 → 9:05"></a><br><a href="../memes/m2526.md">程式課打瞌睡：9:10 → 9:05</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2552.md"><img src="../images/m2552-shopping-cart-ie-wheel.png" width="240" alt="購物車卡住的那個輪子"></a><br><a href="../memes/m2552.md">購物車卡住的那個輪子</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2553.md"><img src="../images/m2553-brave-guys-code-without-tests.png" width="240" alt="我喜歡勇敢的男生——我寫程式不寫測試"></a><br><a href="../memes/m2553.md">我喜歡勇敢的男生——我寫程式不寫測試</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2558.md"><img src="../images/m2558-tell-me-about-yourself-programmer.png" width="240" alt="說說你自己吧——我是工程師"></a><br><a href="../memes/m2558.md">說說你自己吧——我是工程師</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2559.md"><img src="../images/m2559-mom-deletes-desktop-icons.png" width="240" alt="媽媽想刪掉我所有電腦遊戲"></a><br><a href="../memes/m2559.md">媽媽想刪掉我所有電腦遊戲</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

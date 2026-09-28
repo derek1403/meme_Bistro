@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1171 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1179 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（858）
+## ★（864）
 
 <table>
 <tr>
@@ -1439,6 +1439,16 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2542.md"><img src="../images/m2542-elden-ring-glass-half.png" width="240" alt="半杯水：樂觀、悲觀、艾爾登法環玩家"></a><br><a href="../memes/m2542.md">半杯水：樂觀、悲觀、艾爾登法環玩家</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2545.md"><img src="../images/m2545-running-inside-train.png" width="240" alt="朋友：那你快點！"></a><br><a href="../memes/m2545.md">朋友：那你快點！</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2547.md"><img src="../images/m2547-ten-sides-ambush-movie.png" width="240" alt="第一次約曖昧對象看午夜場，結果全家都來了"></a><br><a href="../memes/m2547.md">第一次約曖昧對象看午夜場，結果全家都來了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2548.md"><img src="../images/m2548-brain-arguing-vs-shower.png" width="240" alt="我的腦細胞：吵架時 vs 洗澡時"></a><br><a href="../memes/m2548.md">我的腦細胞：吵架時 vs 洗澡時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2550.md"><img src="../images/m2550-yibi-duck-lyrics-pie.png" width="240" alt="伊比鴨鴨歌詞圓餅圖"></a><br><a href="../memes/m2550.md">伊比鴨鴨歌詞圓餅圖</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2554.md"><img src="../images/m2554-hello-kitty-tail-or-finger.png" width="240" alt="把尾巴看成中指後就回不去了"></a><br><a href="../memes/m2554.md">把尾巴看成中指後就回不去了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2555.md"><img src="../images/m2555-valentine-table-for-one.png" width="240" alt="已經預訂我情人節桌位了"></a><br><a href="../memes/m2555.md">已經預訂我情人節桌位了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2557.md"><img src="../images/m2557-screw-dumpling-avoid-chores.png" width="240" alt="不想過年被家人使喚：把餃子鎖螺絲"></a><br><a href="../memes/m2557.md">不想過年被家人使喚：把餃子鎖螺絲</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（88）
@@ -1594,7 +1604,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（225）
+## ⚠️ 需斟酌（227）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3843,6 +3853,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2534.md"><img src="../images/m2534-rich-23-kermit-lies-down.jpg" width="240" alt="我 23 歲，富二代，有樓有車——女：（躺平）"></a><br><a href="../memes/m2534.md">我 23 歲，富二代，有樓有車——女：（躺平）</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>2 月 15 日負責換床單的旅館員工 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2549.md"><img src="../images/m2549-feb-15-hotel-bedsheets.png" width="240" alt="2 月 15 日負責換床單的旅館員工"></a><br><a href="../memes/m2549.md">2 月 15 日負責換床單的旅館員工</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>吃了這個餃子該注意什麼？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2560.md"><img src="../images/m2560-dumpling-blue-pill.png" width="240" alt="吃了這個餃子該注意什麼？"></a><br><a href="../memes/m2560.md">吃了這個餃子該注意什麼？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

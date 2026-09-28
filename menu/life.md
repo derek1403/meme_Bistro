@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1612 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1614 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1217）
+## ★（1218）
 
 <table>
 <tr>
@@ -2037,6 +2037,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3463.md"><img src="../images/m3463-wife-whatever-dinner.jpg" width="240" alt="老婆說晚餐隨便，結果每個提議都被否決"></a><br><a href="../memes/m3463.md">老婆說晚餐隨便，結果每個提議都被否決</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3465.md"><img src="../images/m3465-cats-in-jeans.jpg" width="240" alt="牛仔褲的兩隻褲管裡各躲一隻貓"></a><br><a href="../memes/m3465.md">牛仔褲的兩隻褲管裡各躲一隻貓</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3470.md"><img src="../images/m3470-tearful-beach-crab.jpg" width="240" alt="海邊含淚微笑的感人場面，其實是被螃蟹夾到腳趾"></a><br><a href="../memes/m3470.md">海邊含淚微笑的感人場面，其實是被螃蟹夾到腳趾</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2224,7 +2225,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（288）
+## ⚠️ 需斟酌（289）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5103,6 +5104,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3452.md"><img src="../images/m3452-landmine-wrong-answers-only.jpg" width="240" alt="這是什麼？只准說錯的答案：舊式掃地機器人"></a><br><a href="../memes/m3452.md">這是什麼？只准說錯的答案：舊式掃地機器人</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>剛收服小火龍的男人：敵人接近了，把火滅了 — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3467.md"><img src="../images/m3467-charmander-put-out-fire.jpg" width="240" alt="剛收服小火龍的男人：敵人接近了，把火滅了"></a><br><a href="../memes/m3467.md">剛收服小火龍的男人：敵人接近了，把火滅了</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

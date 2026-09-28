@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 404 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 405 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（295）
 
@@ -504,7 +504,7 @@
 </tr>
 </table>
 
-## ★★（80）
+## ★★（81）
 
 <table>
 <tr>
@@ -640,6 +640,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3297.md"><img src="../images/m3297-index-at-1-matlab-party.png" width="240" alt="在派對上說「我的索引從 1 開始」"></a><br><a href="../memes/m3297.md">在派對上說「我的索引從 1 開始」</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3429.md"><img src="../images/m3429-amd-yes-teletubbies.jpg" width="240" alt="2014 年說 AMD YES 會沒朋友，2020 年大家都在喊"></a><br><a href="../memes/m3429.md">2014 年說 AMD YES 會沒朋友，2020 年大家都在喊</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3469.md"><img src="../images/m3469-milk-if-they-have-cola-six.jpg" width="240" alt="買瓶牛奶，如果有賣可樂就帶六瓶——結果帶回六瓶牛奶"></a><br><a href="../memes/m3469.md">買瓶牛奶，如果有賣可樂就帶六瓶——結果帶回六瓶牛奶</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

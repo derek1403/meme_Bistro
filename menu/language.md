@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 347 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（230）
 
@@ -395,7 +395,7 @@
 </tr>
 </table>
 
-## ★★（46）
+## ★★（47）
 
 <table>
 <tr>
@@ -475,6 +475,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3462.md"><img src="../images/m3462-old-pickled-radish-grandma.jpg" width="240" alt="上菜喔，老菜脯——老菜脯是在叫你"></a><br><a href="../memes/m3462.md">上菜喔，老菜脯——老菜脯是在叫你</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3468.md"><img src="../images/m3468-grandma-on-the-way.jpg" width="240" alt="阿嬤老人會有活動，但孫子說肚子餓就「林祖母馬上到」"></a><br><a href="../memes/m3468.md">阿嬤老人會有活動，但孫子說肚子餓就「林祖母馬上到」</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

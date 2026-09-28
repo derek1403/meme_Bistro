@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1332 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1338 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（995）
+## ★（1001）
 
 <table>
 <tr>
@@ -1667,6 +1667,16 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2807.md"><img src="../images/m2807-teacher-leaves-4th-ninja-war.png" width="240" alt="老師一離開教室，男生宣布第四次忍界大戰"></a><br><a href="../memes/m2807.md">老師一離開教室，男生宣布第四次忍界大戰</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2808.md"><img src="../images/m2808-peeled-lemon-trick-sister.png" width="240" alt="去皮的檸檬：如何騙妹妹當柳丁吃"></a><br><a href="../memes/m2808.md">去皮的檸檬：如何騙妹妹當柳丁吃</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2809.md"><img src="../images/m2809-artist-doesnt-care-what-others-think.png" width="240" alt="我畫畫是為了表達自己，才不在乎別人怎麼想"></a><br><a href="../memes/m2809.md">我畫畫是為了表達自己，才不在乎別人怎麼想</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2812.md"><img src="../images/m2812-monk-no-worldly-desires-5-girls.png" width="240" alt="沒有那種世俗的欲望——有 5 個妹子？貧僧這就還俗"></a><br><a href="../memes/m2812.md">沒有那種世俗的欲望——有 5 個妹子？貧僧這就還俗</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2814.md"><img src="../images/m2814-origin-of-white-clouds-sphinx.png" width="240" alt="白雲的由來"></a><br><a href="../memes/m2814.md">白雲的由來</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2817.md"><img src="../images/m2817-sheet-music-1000-piece-puzzle.png" width="240" alt="1000 片樂譜拼圖"></a><br><a href="../memes/m2817.md">1000 片樂譜拼圖</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2818.md"><img src="../images/m2818-no-bag-hold-out-your-hand.png" width="240" alt="不用袋子：那你手伸出來吧"></a><br><a href="../memes/m2818.md">不用袋子：那你手伸出來吧</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2820.md"><img src="../images/m2820-homemade-vs-chain-store-fries.png" width="240" alt="自家乾淨油薯條 vs 連鎖店薯條：謝謝你薯條大師"></a><br><a href="../memes/m2820.md">自家乾淨油薯條 vs 連鎖店薯條：謝謝你薯條大師</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

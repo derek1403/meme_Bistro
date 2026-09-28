@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 351 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 353 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（259）
+## ★（260）
 
 <table>
 <tr>
@@ -441,10 +441,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2779.md"><img src="../images/m2779-email-15-years-ago-now.png" width="240" alt="15 年前 vs 現在：你有一封郵件"></a><br><a href="../memes/m2779.md">15 年前 vs 現在：你有一封郵件</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2810.md"><img src="../images/m2810-bug-ideas-in-bathroom.png" width="240" alt="解 bug 的靈感都在什麼時候來"></a><br><a href="../memes/m2810.md">解 bug 的靈感都在什麼時候來</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（66）
+## ★★（67）
 
 <table>
 <tr>
@@ -556,6 +557,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2466.md"><img src="../images/m2466-matlab-index-errors-cough.png" width="240" alt="Matlab 寫的原型演算法：噴你一臉 Index Error"></a><br><a href="../memes/m2466.md">Matlab 寫的原型演算法：噴你一臉 Index Error</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2479.md"><img src="../images/m2479-what-is-your-address-ip-mac.png" width="240" alt="你的地址？實體地址？"></a><br><a href="../memes/m2479.md">你的地址？實體地址？</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2532.md"><img src="../images/m2532-windows-9-cirno.png" width="240" alt="Windows 10 發表：那 Windows ⑨ 呢？"></a><br><a href="../memes/m2532.md">Windows 10 發表：那 Windows ⑨ 呢？</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2811.md"><img src="../images/m2811-qr-malware-shirt-modern-medusa.png" width="240" alt="印著惡意 QR code 的衣服：現代梅杜莎"></a><br><a href="../memes/m2811.md">印著惡意 QR code 的衣服：現代梅杜莎</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

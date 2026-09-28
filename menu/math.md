@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 332 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 333 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -531,7 +531,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（28）
+## ⚠️ 需斟酌（29）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -810,6 +810,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2590.md"><img src="../images/m2590-trolley-aleph-null-vs-continuum.png" width="240" alt="電車難題：可數無窮 vs 不可數無窮"></a><br><a href="../memes/m2590.md">電車難題：可數無窮 vs 不可數無窮</a><br><sub>🧠 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>保養品讓你年輕 10 歲，9 歲弟弟用了之後 — ⚠️ 輕微地獄</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2813.md"><img src="../images/m2813-skincare-10-years-younger-9yo.png" width="240" alt="保養品讓你年輕 10 歲，9 歲弟弟用了之後"></a><br><a href="../memes/m2813.md">保養品讓你年輕 10 歲，9 歲弟弟用了之後</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

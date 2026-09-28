@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 293 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 296 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（195）
+## ★（196）
 
 <table>
 <tr>
@@ -334,9 +334,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2755.md"><img src="../images/m2755-wise-clam-ha.png" width="240" alt="曾經有過睿智的蛤蜊說：蛤？"></a><br><a href="../memes/m2755.md">曾經有過睿智的蛤蜊說：蛤？</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2778.md"><img src="../images/m2778-taipei-bus-station-change-luck.png" width="240" alt="台北哪裡比較靈驗可改運？台北轉運站"></a><br><a href="../memes/m2778.md">台北哪裡比較靈驗可改運？台北轉運站</a><br><sub>🔤 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2816.md"><img src="../images/m2816-doctor-says-watch-your-drinking.png" width="240" alt="醫生說你要「注意」你的喝酒"></a><br><a href="../memes/m2816.md">醫生說你要「注意」你的喝酒</a><br><sub>🔤 ★</sub></td>
+</tr>
 </table>
 
-## ★★（33）
+## ★★（35）
 
 <table>
 <tr>
@@ -393,6 +396,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2680.md"><img src="../images/m2680-frieren-evangelion-pun.jpg" width="240" alt="欣　世紀　福音　戰士"></a><br><a href="../memes/m2680.md">欣　世紀　福音　戰士</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2794.md"><img src="../images/m2794-confucius-bury-you-here.png" width="240" alt="子曰：既來之，則安之（安葬在這裡）"></a><br><a href="../memes/m2794.md">子曰：既來之，則安之（安葬在這裡）</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2802.md"><img src="../images/m2802-lost-the-case-airline-luggage.png" width="240" alt="告航空公司弄丟行李：I lost the case"></a><br><a href="../memes/m2802.md">告航空公司弄丟行李：I lost the case</a><br><sub>🔤 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2815.md"><img src="../images/m2815-educated-people-more-degrees.png" width="240" alt="受過教育的人很火辣：因為他們有更多 degrees"></a><br><a href="../memes/m2815.md">受過教育的人很火辣：因為他們有更多 degrees</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2819.md"><img src="../images/m2819-why-dark-spelled-with-k.png" width="240" alt="為什麼 Dark 用 K 不用 C？"></a><br><a href="../memes/m2819.md">為什麼 Dark 用 K 不用 C？</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

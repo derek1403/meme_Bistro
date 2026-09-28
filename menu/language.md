@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 367 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 368 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（238）
+## ★（239）
 
 <table>
 <tr>
@@ -406,6 +406,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3629.md"><img src="../images/m3629-dog-walking-sign-for-dogs.jpg" width="240" alt="遛狗民眾請清理糞便；各位狗狗：嘎嚕嚕嚕、吼吼、嗚汪汪汪"></a><br><a href="../memes/m3629.md">遛狗民眾請清理糞便；各位狗狗：嘎嚕嚕嚕、吼吼、嗚汪汪汪</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3647.md"><img src="../images/m3647-cant-no-underwear-sign.png" width="240" alt="嚴禁不穿底褲：CAN'T NO UNDERWEAR"></a><br><a href="../memes/m3647.md">嚴禁不穿底褲：CAN'T NO UNDERWEAR</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

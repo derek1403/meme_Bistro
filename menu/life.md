@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1690 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1694 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1277）
+## ★（1280）
 
 <table>
 <tr>
@@ -2137,6 +2137,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3606.md"><img src="../images/m3606-i-am-super-annoying-now.jpg" width="240" alt="幾個月前的我擔心自己講話太雞掰，現在的我：我超雞掰！"></a><br><a href="../memes/m3606.md">幾個月前的我擔心自己講話太雞掰，現在的我：我超雞掰！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3607.md"><img src="../images/m3607-baby-first-word-daddy.jpg" width="240" alt="寶寶的第一句話：拔拔"></a><br><a href="../memes/m3607.md">寶寶的第一句話：拔拔</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3611.md"><img src="../images/m3611-power-bank-charged-by-phone.jpg" width="240" alt="淘寶買的行動電源，插上後發現是手機在幫它充電"></a><br><a href="../memes/m3611.md">淘寶買的行動電源，插上後發現是手機在幫它充電</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3612.md"><img src="../images/m3612-peppa-taller-than-charizard.png" width="240" alt="Google 查身高：佩佩豬 210 公分，噴火龍 170 公分"></a><br><a href="../memes/m3612.md">Google 查身高：佩佩豬 210 公分，噴火龍 170 公分</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3613.md"><img src="../images/m3613-eevee-swift-fail.jpg" width="240" alt="伊布學高速星星：還做不好啦！"></a><br><a href="../memes/m3613.md">伊布學高速星星：還做不好啦！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2333,7 +2338,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（301）
+## ⚠️ 需斟酌（302）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5342,6 +5347,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3605.md"><img src="../images/m3605-spirited-away-thats-your-parents.jpg" width="240" alt="好吃嗎千尋～那是妳爸媽！"></a><br><a href="../memes/m3605.md">好吃嗎千尋～那是妳爸媽！</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>台南有推薦洗澡的店嗎？動物之家、殯儀館 — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3609.md"><img src="../images/m3609-tainan-bath-shop-funeral-home.png" width="240" alt="台南有推薦洗澡的店嗎？動物之家、殯儀館"></a><br><a href="../memes/m3609.md">台南有推薦洗澡的店嗎？動物之家、殯儀館</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

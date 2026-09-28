@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 382 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 383 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（109）
 
@@ -194,7 +194,7 @@
 </tr>
 </table>
 
-## ★★（183）
+## ★★（184）
 
 <table>
 <tr>
@@ -501,6 +501,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3337.md"><img src="../images/m3337-proof-alignment-chart.png" width="240" alt="證明的陣營九宮格"></a><br><a href="../memes/m3337.md">證明的陣營九宮格</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3338.md"><img src="../images/m3338-treasure-under-tree-roots.png" width="240" alt="我找到寶藏了！——從 10000 變成 100"></a><br><a href="../memes/m3338.md">我找到寶藏了！——從 10000 變成 100</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3339.md"><img src="../images/m3339-doubling-penny-31-days-universe.png" width="240" alt="每天加倍的一元硬幣 vs 一億元：宇宙會被硬幣塞滿"></a><br><a href="../memes/m3339.md">每天加倍的一元硬幣 vs 一億元：宇宙會被硬幣塞滿</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3448.md"><img src="../images/m3448-knight-cant-move-on.png" width="240" alt="走出情傷的我：3×3 棋盤上的騎士"></a><br><a href="../memes/m3448.md">走出情傷的我：3×3 棋盤上的騎士</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

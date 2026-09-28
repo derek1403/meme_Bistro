@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1599 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1603 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1205）
+## ★（1209）
 
 <table>
 <tr>
@@ -2017,6 +2017,12 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3441.md"><img src="../images/m3441-doctor-asks-drinking-now.jpg" width="240" alt="醫生問喝酒嗎？我問：現在嗎？"></a><br><a href="../memes/m3441.md">醫生問喝酒嗎？我問：現在嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3443.md"><img src="../images/m3443-marshmallow-duck-next-day.jpg" width="240" alt="棉花糖放到隔天……"></a><br><a href="../memes/m3443.md">棉花糖放到隔天……</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3446.md"><img src="../images/m3446-grapes-go-out-raisins-return.jpg" width="240" alt="葡萄出門，葡萄乾回來"></a><br><a href="../memes/m3446.md">葡萄出門，葡萄乾回來</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3447.md"><img src="../images/m3447-tennis-ball-sale-corgi.jpg" width="240" alt="網球買一顆送三顆：柯基也來搶購"></a><br><a href="../memes/m3447.md">網球買一顆送三顆：柯基也來搶購</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3449.md"><img src="../images/m3449-wrong-weapon-wrong-room.jpg" width="240" alt="看來有人拿錯武器了——不，是你走錯房間"></a><br><a href="../memes/m3449.md">看來有人拿錯武器了——不，是你走錯房間</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3451.md"><img src="../images/m3451-cat-brings-snake.jpg" width="240" alt="你每次抓東西回來我都睜隻眼閉隻眼，但這次死也不開門"></a><br><a href="../memes/m3451.md">你每次抓東西回來我都睜隻眼閉隻眼，但這次死也不開門</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

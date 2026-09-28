@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 388 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 389 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（285）
 
@@ -486,7 +486,7 @@
 </tr>
 </table>
 
-## ★★（75）
+## ★★（76）
 
 <table>
 <tr>
@@ -613,6 +613,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2992.md"><img src="../images/m2992-iphone-headline-generator-loop.png" width="240" alt="用 for 迴圈自動產生年度 iPhone 新聞標題"></a><br><a href="../memes/m2992.md">用 for 迴圈自動產生年度 iPhone 新聞標題</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3146.md"><img src="../images/m3146-fb-rating-up-did-nothing.png" width="240" alt="FB 好評率大幅上升：我沒有亂改商標、沒有炸掉火箭"></a><br><a href="../memes/m3146.md">FB 好評率大幅上升：我沒有亂改商標、沒有炸掉火箭</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3189.md"><img src="../images/m3189-smallest-number-sort-interviewer.png" width="240" alt="面試寫找最小值：a.sort(); print(a[0])"></a><br><a href="../memes/m3189.md">面試寫找最小值：a.sort(); print(a[0])</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3231.md"><img src="../images/m3231-chatgpt-remove-bad-eggplant.png" width="240" alt="太棒了！現在終於能幹這種事了：問 ChatGPT 怎麼除掉壞茄子"></a><br><a href="../memes/m3231.md">太棒了！現在終於能幹這種事了：問 ChatGPT 怎麼除掉壞茄子</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

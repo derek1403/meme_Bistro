@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1513 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1517 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1136）
+## ★（1139）
 
 <table>
 <tr>
@@ -1902,6 +1902,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3222.md"><img src="../images/m3222-love-triangle-nobody.png" width="240" alt="我陷入了三角關係：我愛她、她愛 nobody、nobody 愛我"></a><br><a href="../memes/m3222.md">我陷入了三角關係：我愛她、她愛 nobody、nobody 愛我</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3227.md"><img src="../images/m3227-spilled-coffee-more-awake.png" width="240" alt="研究顯示：打翻的咖啡比喝下去的咖啡更提神"></a><br><a href="../memes/m3227.md">研究顯示：打翻的咖啡比喝下去的咖啡更提神</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3229.md"><img src="../images/m3229-fries-with-cough-syrup.png" width="240" alt="麥當勞薯條沾川貝枇杷膏"></a><br><a href="../memes/m3229.md">麥當勞薯條沾川貝枇杷膏</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3230.md"><img src="../images/m3230-mirror-of-erised-ear-cleaning.png" width="240" alt="意若思鏡照出你內心最深的渴望：膝枕掏耳朵"></a><br><a href="../memes/m3230.md">意若思鏡照出你內心最深的渴望：膝枕掏耳朵</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3232.md"><img src="../images/m3232-husband-bought-mikan-bananas.png" width="240" alt="老公買的蜜柑"></a><br><a href="../memes/m3232.md">老公買的蜜柑</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2085,7 +2090,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（272）
+## ⚠️ 需斟酌（273）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4804,6 +4809,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3226.md"><img src="../images/m3226-hoshino-ai-joins-franchouchou.png" width="240" alt="佐賀偶像是傳奇的新成員：星野愛"></a><br><a href="../memes/m3226.md">佐賀偶像是傳奇的新成員：星野愛</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>只看過預告的動畫黨：希望我推的孩子是好看的偶像番 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3228.md"><img src="../images/m3228-oshi-no-ko-trailer-only-fans.jpg" width="240" alt="只看過預告的動畫黨：希望我推的孩子是好看的偶像番"></a><br><a href="../memes/m3228.md">只看過預告的動畫黨：希望我推的孩子是好看的偶像番</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

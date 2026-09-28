@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 187 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 189 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（89）
 
@@ -160,7 +160,7 @@
 </tr>
 </table>
 
-## ★★（58）
+## ★★（59）
 
 <table>
 <tr>
@@ -260,10 +260,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2785.md"><img src="../images/m2785-t-rex-70-million-and-6.png" width="240" alt="這隻暴龍多老了？七千萬零六年"></a><br><a href="../memes/m2785.md">這隻暴龍多老了？七千萬零六年</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2978.md"><img src="../images/m2978-flex-tape-pseudo-scientist.png" width="240" alt="以為遇到民間科學家，實際上遇到民間科學家"></a><br><a href="../memes/m2978.md">以為遇到民間科學家，實際上遇到民間科學家</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（4）
+## ★★★（5）
 
 <table>
 <tr>
@@ -273,6 +274,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2408.md"><img src="../images/m2408-rossby-phase-group-naruto-run.png" width="240" alt="自由正壓 Rossby 波：相速度 vs 群速度"></a><br><a href="../memes/m2408.md">自由正壓 Rossby 波：相速度 vs 群速度</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2972.md"><img src="../images/m2972-child-texting-control-theory.png" width="240" alt="你的孩子在傳控制理論的簡訊嗎？"></a><br><a href="../memes/m2972.md">你的孩子在傳控制理論的簡訊嗎？</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

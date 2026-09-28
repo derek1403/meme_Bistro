@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 348 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 350 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（97）
 
@@ -174,7 +174,7 @@
 </tr>
 </table>
 
-## ★★（166）
+## ★★（167）
 
 <table>
 <tr>
@@ -454,10 +454,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2966.md"><img src="../images/m2966-lawn-edge-mandelbrot.png" width="240" alt="修草坪邊緣要多久？邊緣是曼德博集合"></a><br><a href="../memes/m2966.md">修草坪邊緣要多久？邊緣是曼德博集合</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2976.md"><img src="../images/m2976-normal-matrix-spiderman.png" width="240" alt="正規矩陣存在時：AA† 和 A†A 互指"></a><br><a href="../memes/m2976.md">正規矩陣存在時：AA† 和 A†A 互指</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（55）
+## ★★★（56）
 
 <table>
 <tr>
@@ -552,6 +553,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2964.md"><img src="../images/m2964-generalized-stokes-six-symbols.png" width="240" alt="只用 6 個符號統一微積分基本定理、Green、Stokes、散度定理"></a><br><a href="../memes/m2964.md">只用 6 個符號統一微積分基本定理、Green、Stokes、散度定理</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2977.md"><img src="../images/m2977-otter-omega-differential-form.png" width="240" alt="水獺是 ·ω·，數學系看到的是微分形式"></a><br><a href="../memes/m2977.md">水獺是 ·ω·，數學系看到的是微分形式</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

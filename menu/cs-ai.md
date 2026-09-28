@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 366 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 368 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（267）
+## ★（269）
 
 <table>
 <tr>
@@ -453,6 +453,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2881.md"><img src="../images/m2881-how-vpn-works-coconut.png" width="240" alt="VPN 的運作原理"></a><br><a href="../memes/m2881.md">VPN 的運作原理</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2913.md"><img src="../images/m2913-chatgpt-works-on-my-machine.png" width="240" alt="ChatGPT：我這邊跑是正常的"></a><br><a href="../memes/m2913.md">ChatGPT：我這邊跑是正常的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2948.md"><img src="../images/m2948-google-new-device-vs-hacked.png" width="240" alt="Google：換裝置登入時暴怒，真被駭時很淡定"></a><br><a href="../memes/m2948.md">Google：換裝置登入時暴怒，真被駭時很淡定</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2970.md"><img src="../images/m2970-enter-password-third-try.png" width="240" alt="輸入密碼：第一次、第二次、第三次"></a><br><a href="../memes/m2970.md">輸入密碼：第一次、第二次、第三次</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m2974.md"><img src="../images/m2974-cracked-game-computer-homer.png" width="240" alt="14 歲找到遊戲免費破解版，家裡的電腦："></a><br><a href="../memes/m2974.md">14 歲找到遊戲免費破解版，家裡的電腦：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

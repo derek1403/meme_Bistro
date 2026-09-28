@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 237 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 238 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（74）
 
@@ -180,7 +180,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（139）
+## ⚠️ 需斟酌（140）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1569,6 +1569,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2937.md"><img src="../images/m2937-generational-trauma-ends-here.png" width="240" alt="世代創傷可在我這裡終止！"></a><br><a href="../memes/m2937.md">世代創傷可在我這裡終止！</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>有存錢和沒存錢，最後一樣沒有錢 — ⚠️ 厭世</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m2975.md"><img src="../images/m2975-saved-or-not-same-broke.png" width="240" alt="有存錢和沒存錢，最後一樣沒有錢"></a><br><a href="../memes/m2975.md">有存錢和沒存錢，最後一樣沒有錢</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

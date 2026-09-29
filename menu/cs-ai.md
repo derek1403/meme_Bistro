@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 419 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 420 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（304）
+## ★（305）
 
 <table>
 <tr>
@@ -546,6 +546,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3720.md"><img src="../images/m3720-x-two-factor-loop.png" width="240" alt="要先登入才能關掉二次驗證，但我被二次驗證擋住登不進去"></a><br><a href="../memes/m3720.md">要先登入才能關掉二次驗證，但我被二次驗證擋住登不進去</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3744.md"><img src="../images/m3744-party-bug-solution.png" width="240" alt="派對上突然想到 bug 的解法時"></a><br><a href="../memes/m3744.md">派對上突然想到 bug 的解法時</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

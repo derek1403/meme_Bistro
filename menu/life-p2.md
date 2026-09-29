@@ -45,6 +45,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3739.md"><img src="../images/m3739-no-video-food-cold.png" width="240" alt="當我找了很久都沒找到合適的配飯影片，然後食物冷了"></a><br><a href="../memes/m3739.md">當我找了很久都沒找到合適的配飯影片，然後食物冷了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3741.md"><img src="../images/m3741-maid-cafe-smile.png" width="240" alt="千萬不要沉迷女色：兄弟整天泡女僕咖啡廳，臉上開始長一些我沒有的東西"></a><br><a href="../memes/m3741.md">千萬不要沉迷女色：兄弟整天泡女僕咖啡廳，臉上開始長一些我沒有的東西</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3742.md"><img src="../images/m3742-mom-not-at-checkout.png" width="240" alt="小時候跟媽媽去超市，她讓你先去排隊結帳，快輪到你時她還沒出現"></a><br><a href="../memes/m3742.md">小時候跟媽媽去超市，她讓你先去排隊結帳，快輪到你時她還沒出現</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3743.md"><img src="../images/m3743-book-glowing-phone-inside.png" width="240" alt="開學了，兒子也開始認真看書，看到書都發光了"></a><br><a href="../memes/m3743.md">開學了，兒子也開始認真看書，看到書都發光了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3746.md"><img src="../images/m3746-drunk-cheeseburger-tattoo.png" width="240" alt="醉漢：我要一個起士牛肉堡——店員：先生，我們這裡是刺青"></a><br><a href="../memes/m3746.md">醉漢：我要一個起士牛肉堡——店員：先生，我們這裡是刺青</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

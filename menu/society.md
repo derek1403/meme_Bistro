@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 469 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 471 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（203）
+## ★（205）
 
 <table>
 <tr>
@@ -365,6 +365,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3884.md"><img src="../images/m3884-online-class-bad-internet.png" width="240" alt="線上教學中，家裡網路很爛的同學"></a><br><a href="../memes/m3884.md">線上教學中，家裡網路很爛的同學</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3889.md"><img src="../images/m3889-asian-parents-flex-tape.jpg" width="240" alt="亞洲父母：那東西可以填飽肚子嗎？！"></a><br><a href="../memes/m3889.md">亞洲父母：那東西可以填飽肚子嗎？！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3892.md"><img src="../images/m3892-ex-wife-leftovers-brilliant-move.jpg" width="240" alt="你跟我前妻約會？我這裡還有些廚餘要不要順便給你——傑出的一手"></a><br><a href="../memes/m3892.md">你跟我前妻約會？我這裡還有些廚餘要不要順便給你——傑出的一手</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3893.md"><img src="../images/m3893-referee-put-card-away.jpg" width="240" alt="好啦不要哭啦！我收起來啦！"></a><br><a href="../memes/m3893.md">好啦不要哭啦！我收起來啦！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

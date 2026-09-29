@@ -94,6 +94,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3872.md"><img src="../images/m3872-whatever-you-like-account.png" width="240" alt="佬：想怎麼玩都可以，玩的開心最重要！——我的帳號："></a><br><a href="../memes/m3872.md">佬：想怎麼玩都可以，玩的開心最重要！——我的帳號：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3882.md"><img src="../images/m3882-boy-possessed-cannot-read.jpg" width="240" alt="這名可憐的男孩被惡魔附身了，失去了閱讀的能力"></a><br><a href="../memes/m3882.md">這名可憐的男孩被惡魔附身了，失去了閱讀的能力</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3890.md"><img src="../images/m3890-yoga-highest-level.jpg" width="240" alt="瑜珈的最高境界：分不出上面是下面，下面是上面"></a><br><a href="../memes/m3890.md">瑜珈的最高境界：分不出上面是下面，下面是上面</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -341,7 +342,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（353）
+## ⚠️ 需斟酌（355）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3870,6 +3871,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3864.md"><img src="../images/m3864-output-ugly-guild-comfort.png" width="240" alt="我報輸出結果輸出很難看——沒關係我準備開廣嘴你了"></a><br><a href="../memes/m3864.md">我報輸出結果輸出很難看——沒關係我準備開廣嘴你了</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>「抱歉」和「我感到非常抱歉」的差別 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3891.md"><img src="../images/m3891-sorry-vs-very-sorry.jpg" width="240" alt="「抱歉」和「我感到非常抱歉」的差別"></a><br><a href="../memes/m3891.md">「抱歉」和「我感到非常抱歉」的差別</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>小妹妹拯救了差點被水淹死的魚 — ⚠️ 動物死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3895.md"><img src="../images/m3895-girl-saves-drowning-fish.jpg" width="240" alt="小妹妹拯救了差點被水淹死的魚"></a><br><a href="../memes/m3895.md">小妹妹拯救了差點被水淹死的魚</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 160 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（130）
+## ★（131）
 
 <table>
 <tr>
@@ -238,6 +238,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3887.md"><img src="../images/m3887-teacher-cant-open-projector.jpg" width="240" alt="這麼簡單的題目你都會錯——你連投影機都不會開"></a><br><a href="../memes/m3887.md">這麼簡單的題目你都會錯——你連投影機都不會開</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3894.md"><img src="../images/m3894-four-stages-8am-class.jpg" width="240" alt="大學早八的四個階段"></a><br><a href="../memes/m3894.md">大學早八的四個階段</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

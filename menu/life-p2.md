@@ -55,6 +55,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3758.md"><img src="../images/m3758-midnight-open-genshin.png" width="240" alt="半夜睡醒打開原神的你"></a><br><a href="../memes/m3758.md">半夜睡醒打開原神的你</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3761.md"><img src="../images/m3761-fat-reading-like-ordering.png" width="240" alt="一個人只要夠胖，哪怕是認真讀書都像在點餐"></a><br><a href="../memes/m3761.md">一個人只要夠胖，哪怕是認真讀書都像在點餐</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -283,7 +284,15 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（327）
+## ★★★（1）
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3763.md"><img src="../images/m3763-youth-status-touhou.png" width="240" alt="當代年輕人現狀（東方 Project 版）"></a><br><a href="../memes/m3763.md">當代年輕人現狀（東方 Project 版）</a><br><sub>👀 ★★★</sub></td>
+</tr>
+</table>
+
+## ⚠️ 需斟酌（329）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3552,6 +3561,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3757.md"><img src="../images/m3757-me-and-actresses-distance.png" width="240" alt="我與女優的距離：我對她們 ♥，她們對我「不熟」"></a><br><a href="../memes/m3757.md">我與女優的距離：我對她們 ♥，她們對我「不熟」</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>因為叫姐姐起床時亂講話被教訓——但突然想起自己的胸部還是比姐姐大 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3759.md"><img src="../images/m3759-flandre-bigger-than-sister.png" width="240" alt="因為叫姐姐起床時亂講話被教訓——但突然想起自己的胸部還是比姐姐大"></a><br><a href="../memes/m3759.md">因為叫姐姐起床時亂講話被教訓——但突然想起自己的胸部還是比姐姐大</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>兩女一杯（布丁版） — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3762.md"><img src="../images/m3762-two-girls-one-cup.png" width="240" alt="兩女一杯（布丁版）"></a><br><a href="../memes/m3762.md">兩女一杯（布丁版）</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

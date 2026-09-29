@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 388 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 389 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（110）
+## ★（111）
 
 <table>
 <tr>
@@ -201,6 +201,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3413.md"><img src="../images/m3413-1080x720-hd-4k-answers.png" width="240" alt="1080×720 = HD、3840×2160 = 4K"></a><br><a href="../memes/m3413.md">1080×720 = HD、3840×2160 = 4K</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3648.md"><img src="../images/m3648-girlfriend-probability-zero.png" width="240" alt="用數字表現交到女友的概率：1-1、4×0、sin0°、cos90°"></a><br><a href="../memes/m3648.md">用數字表現交到女友的概率：1-1、4×0、sin0°、cos90°</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3760.md"><img src="../images/m3760-union-intersection-the-rock.png" width="240" alt="巨石強森的聯集與交集"></a><br><a href="../memes/m3760.md">巨石強森的聯集與交集</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

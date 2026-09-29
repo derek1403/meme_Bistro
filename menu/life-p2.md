@@ -68,6 +68,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3779.md"><img src="../images/m3779-captcha-komari.png" width="240" alt="驗證碼：請選出所有「コマリ様」的圖片"></a><br><a href="../memes/m3779.md">驗證碼：請選出所有「コマリ様」的圖片</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3784.md"><img src="../images/m3784-my-turn-cringe-song.png" width="240" alt="換我放音樂的時候剛好播到歌單的油歌"></a><br><a href="../memes/m3784.md">換我放音樂的時候剛好播到歌單的油歌</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -305,7 +306,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（333）
+## ⚠️ 需斟酌（334）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3634,6 +3635,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3780.md"><img src="../images/m3780-keep-saying-cute-six-months.png" width="240" alt="連續說可愛 3 天、1 個月、3 個月、半年"></a><br><a href="../memes/m3780.md">連續說可愛 3 天、1 個月、3 個月、半年</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>手和槍畫不好，所以直接描圖了——Fern kills Bocchi — ⚠️ 槍械</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3781.md"><img src="../images/m3781-fern-kills-bocchi-traced-gun.png" width="240" alt="手和槍畫不好，所以直接描圖了——Fern kills Bocchi"></a><br><a href="../memes/m3781.md">手和槍畫不好，所以直接描圖了——Fern kills Bocchi</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

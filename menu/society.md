@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 431 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 432 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（192）
+## ★（193）
 
 <table>
 <tr>
@@ -346,6 +346,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3806.md"><img src="../images/m3806-dikec-no-gear-spent-on-cat.png" width="240" alt="土耳其無課金裝備的選手，大概是課在貓咪身上了"></a><br><a href="../memes/m3806.md">土耳其無課金裝備的選手，大概是課在貓咪身上了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3810.md"><img src="../images/m3810-table-tennis-ball-faces.jpg" width="240" alt="桌球選手的精彩表情集"></a><br><a href="../memes/m3810.md">桌球選手的精彩表情集</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3811.md"><img src="../images/m3811-girlfriend-is-prosecutor.png" width="240" alt="當你女朋友是檢察官"></a><br><a href="../memes/m3811.md">當你女朋友是檢察官</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3822.md"><img src="../images/m3822-military-fan-three-forms.jpg" width="240" alt="當一個男生成為軍迷後，他可能會有以下三種形態"></a><br><a href="../memes/m3822.md">當一個男生成為軍迷後，他可能會有以下三種形態</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

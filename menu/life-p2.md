@@ -322,7 +322,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（343）
+## ⚠️ 需斟酌（344）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3751,6 +3751,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3820.md"><img src="../images/m3820-normal-front-shadow-behind.jpg" width="240" alt="我們身邊都有一個這種朋友：表面看起來很正常，背後卻是個騷貨"></a><br><a href="../memes/m3820.md">我們身邊都有一個這種朋友：表面看起來很正常，背後卻是個騷貨</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你說吉他手的手指很靈活是吧？——比出手影狗 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3821.md"><img src="../images/m3821-guitarist-flexible-fingers-shadow.png" width="240" alt="你說吉他手的手指很靈活是吧？——比出手影狗"></a><br><a href="../memes/m3821.md">你說吉他手的手指很靈活是吧？——比出手影狗</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

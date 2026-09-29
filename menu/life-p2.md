@@ -342,7 +342,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（356）
+## ⚠️ 需斟酌（357）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3901,6 +3901,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3898.md"><img src="../images/m3898-breathing-of-nicotine.jpg" width="240" alt="水之呼吸、雷之呼吸、獸之呼吸、蟲之呼吸——尼古丁之呼吸"></a><br><a href="../memes/m3898.md">水之呼吸、雷之呼吸、獸之呼吸、蟲之呼吸——尼古丁之呼吸</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>雛田你放心，我是不會在花田裡犯錯的——結果多了兩個小孩 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3915.md"><img src="../images/m3915-naruto-no-mistake-in-flower-field.png" width="240" alt="雛田你放心，我是不會在花田裡犯錯的——結果多了兩個小孩"></a><br><a href="../memes/m3915.md">雛田你放心，我是不會在花田裡犯錯的——結果多了兩個小孩</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

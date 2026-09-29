@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 162 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 164 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（132）
+## ★（133）
 
 <table>
 <tr>
@@ -241,6 +241,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3894.md"><img src="../images/m3894-four-stages-8am-class.jpg" width="240" alt="大學早八的四個階段"></a><br><a href="../memes/m3894.md">大學早八的四個階段</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3907.md"><img src="../images/m3907-lab-at-11am-hide-pain.png" width="240" alt="學長你什麼時候進實驗室的？早上十一點——可是現在才早上十點欸？"></a><br><a href="../memes/m3907.md">學長你什麼時候進實驗室的？早上十一點——可是現在才早上十點欸？</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3914.md"><img src="../images/m3914-teacher-copy-then-erase.png" width="240" alt="老師：黑板上的東西趕緊抄下來——也是老師 5 秒後"></a><br><a href="../memes/m3914.md">老師：黑板上的東西趕緊抄下來——也是老師 5 秒後</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（12）
@@ -276,7 +279,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（17）
+## ⚠️ 需斟酌（18）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -445,6 +448,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3688.md"><img src="../images/m3688-advisor-escorted-out.png" width="240" alt="忍我很久的指導教授、修業年限、我"></a><br><a href="../memes/m3688.md">忍我很久的指導教授、修業年限、我</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>理想老師 vs 現實老師 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3913.md"><img src="../images/m3913-ideal-teacher-vs-real.png" width="240" alt="理想老師 vs 現實老師"></a><br><a href="../memes/m3913.md">理想老師 vs 現實老師</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

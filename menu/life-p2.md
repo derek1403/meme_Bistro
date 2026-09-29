@@ -41,6 +41,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3732.md"><img src="../images/m3732-adjusted-mirror-mechanic.png" width="240" alt="我只是幫我媽調後照鏡，他就到處跟別人說我會修機車"></a><br><a href="../memes/m3732.md">我只是幫我媽調後照鏡，他就到處跟別人說我會修機車</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3733.md"><img src="../images/m3733-answer-question-with-question.png" width="240" alt="晚餐要吃什麼？看你想吃什麼——你怎麼能用問題回答問題呢"></a><br><a href="../memes/m3733.md">晚餐要吃什麼？看你想吃什麼——你怎麼能用問題回答問題呢</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3737.md"><img src="../images/m3737-late-bus-driver-hired.png" width="240" alt="我真的很懷疑學校是這樣請巴士司機的：對不起我遲到了——你被錄取了！"></a><br><a href="../memes/m3737.md">我真的很懷疑學校是這樣請巴士司機的：對不起我遲到了——你被錄取了！</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3739.md"><img src="../images/m3739-no-video-food-cold.png" width="240" alt="當我找了很久都沒找到合適的配飯影片，然後食物冷了"></a><br><a href="../memes/m3739.md">當我找了很久都沒找到合適的配飯影片，然後食物冷了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -265,7 +269,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（323）
+## ⚠️ 需斟酌（325）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3494,6 +3498,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3716.md"><img src="../images/m3716-thats-how-you-treat-your-problem.png" width="240" alt="我說我酗酒和有毒癮——不，那是你面對問題的方式"></a><br><a href="../memes/m3716.md">我說我酗酒和有毒癮——不，那是你面對問題的方式</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>人類會隨著時間成長與變強，但死神只會變強卻不會成長 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3735.md"><img src="../images/m3735-bleach-shinigami-no-growth.png" width="240" alt="人類會隨著時間成長與變強，但死神只會變強卻不會成長"></a><br><a href="../memes/m3735.md">人類會隨著時間成長與變強，但死神只會變強卻不會成長</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>美麗的花都會有刺，那沒有長刺的幽香就是醜八怪囉 — ⚠️ 暴力暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3736.md"><img src="../images/m3736-yuuka-ugly-monster.png" width="240" alt="美麗的花都會有刺，那沒有長刺的幽香就是醜八怪囉"></a><br><a href="../memes/m3736.md">美麗的花都會有刺，那沒有長刺的幽香就是醜八怪囉</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

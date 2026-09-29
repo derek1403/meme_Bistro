@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 236 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（102）
 
@@ -190,7 +190,7 @@
 </tr>
 </table>
 
-## ★★（80）
+## ★★（81）
 
 <table>
 <tr>
@@ -332,6 +332,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3664.md"><img src="../images/m3664-kimetsu-exam-fog.jpg" width="240" alt="鬼滅考題：炎柱與炭治郎招式碰撞產生霧氣——(D) 我只知道炎柱最後死了"></a><br><a href="../memes/m3664.md">鬼滅考題：炎柱與炭治郎招式碰撞產生霧氣——(D) 我只知道炎柱最後死了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3687.md"><img src="../images/m3687-noble-gas-no-hug.png" width="240" alt="所有元素互相擁抱，只有惰性氣體自己一個"></a><br><a href="../memes/m3687.md">所有元素互相擁抱，只有惰性氣體自己一個</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3740.md"><img src="../images/m3740-oppenheimer-okuu-fumo.png" width="240" alt="1944 年奧本海默正在解釋他的設計時拍下的照片"></a><br><a href="../memes/m3740.md">1944 年奧本海默正在解釋他的設計時拍下的照片</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

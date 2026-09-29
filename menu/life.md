@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1721 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1727 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1297）
+## ★（1299）
 
 <table>
 <tr>
@@ -2171,6 +2171,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3661.md"><img src="../images/m3661-baby-yoda-doctor-look-at-mom.jpg" width="240" alt="醫生：妳哪裡不舒服呢？我：＊看向媽媽＊"></a><br><a href="../memes/m3661.md">醫生：妳哪裡不舒服呢？我：＊看向媽媽＊</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3666.md"><img src="../images/m3666-chiikawa-soft-tennis-balls.png" width="240" alt="以為是吉伊卡哇周邊，靠近一看是軟式網球"></a><br><a href="../memes/m3666.md">以為是吉伊卡哇周邊，靠近一看是軟式網球</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3677.md"><img src="../images/m3677-scooter-latte-art.png" width="240" alt="機車也能像咖啡一樣拉花"></a><br><a href="../memes/m3677.md">機車也能像咖啡一樣拉花</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -2373,7 +2375,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（308）
+## ⚠️ 需斟酌（312）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -5452,6 +5454,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3652.md"><img src="../images/m3652-weekday-lovers-monday-muscle.png" width="240" alt="星期五抱你、星期六牽你、星期日陪你睡——星期一早上五點肌肉猛男來了"></a><br><a href="../memes/m3652.md">星期五抱你、星期六牽你、星期日陪你睡——星期一早上五點肌肉猛男來了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你們為什麼會在一起？就請溫水同學來說明吧——COUNTRY — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3665.md"><img src="../images/m3665-country-shirt-ntr.png" width="240" alt="你們為什麼會在一起？就請溫水同學來說明吧——COUNTRY"></a><br><a href="../memes/m3665.md">你們為什麼會在一起？就請溫水同學來說明吧——COUNTRY</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>前面：我要死了！——後來：雖然記憶沒恢復，但你一定是很重要的人 — ⚠️ 暴力暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3671.md"><img src="../images/m3671-doge-memory-loss-important.png" width="240" alt="前面：我要死了！——後來：雖然記憶沒恢復，但你一定是很重要的人"></a><br><a href="../memes/m3671.md">前面：我要死了！——後來：雖然記憶沒恢復，但你一定是很重要的人</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>遇到發抖的女孩：E. 無微不至照顧她，然後分屍自己丟到她面前 — ⚠️ 血腥</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3673.md"><img src="../images/m3673-rescue-girl-option-e.png" width="240" alt="遇到發抖的女孩：E. 無微不至照顧她，然後分屍自己丟到她面前"></a><br><a href="../memes/m3673.md">遇到發抖的女孩：E. 無微不至照顧她，然後分屍自己丟到她面前</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>花式開車 190980 OwO——神的話語對人們來說是很難理解的 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3678.md"><img src="../images/m3678-god-language-six-digits.png" width="240" alt="花式開車 190980 OwO——神的話語對人們來說是很難理解的"></a><br><a href="../memes/m3678.md">花式開車 190980 OwO——神的話語對人們來說是很難理解的</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 391 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 393 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（181）
 
@@ -314,7 +314,7 @@
 </tr>
 </table>
 
-## ★★（39）
+## ★★（40）
 
 <table>
 <tr>
@@ -382,9 +382,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3603.md"><img src="../images/m3603-wrong-stamp-emperor-knows.png" width="240" alt="投票帶錯印章：「朕知道了」"></a><br><a href="../memes/m3603.md">投票帶錯印章：「朕知道了」</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3638.md"><img src="../images/m3638-point-at-moon-sniper.png" width="240" alt="食指指月亮會被割耳朵——月球上的狙擊手：還有誰"></a><br><a href="../memes/m3638.md">食指指月亮會被割耳朵——月球上的狙擊手：還有誰</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3670.md"><img src="../images/m3670-dnf-love-chain-renown.png" width="240" alt="DNF 悲情戀愛鏈：最後玩家只愛冒險家名望"></a><br><a href="../memes/m3670.md">DNF 悲情戀愛鏈：最後玩家只愛冒險家名望</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（171）
+## ⚠️ 需斟酌（172）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2093,6 +2096,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3659.md"><img src="../images/m3659-gasoline-holy-water.png" width="240" alt="為什麼不信任何宗教？牧師誤把汽油當聖水"></a><br><a href="../memes/m3659.md">為什麼不信任何宗教？牧師誤把汽油當聖水</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你最喜歡夜に駆ける MV 的哪個部分？——都蠻喜歡的 — ⚠️ 自殺暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3674.md"><img src="../images/m3674-yoru-ni-kakeru-mv-favorite-part.png" width="240" alt="你最喜歡夜に駆ける MV 的哪個部分？——都蠻喜歡的"></a><br><a href="../memes/m3674.md">你最喜歡夜に駆ける MV 的哪個部分？——都蠻喜歡的</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

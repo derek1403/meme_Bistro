@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 410 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 411 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（300）
+## ★（301）
 
 <table>
 <tr>
@@ -508,6 +508,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3641.md"><img src="../images/m3641-hello-world-first-program.png" width="240" alt="第一次寫程式語言就像是：HELLO WORLD"></a><br><a href="../memes/m3641.md">第一次寫程式語言就像是：HELLO WORLD</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3655.md"><img src="../images/m3655-youtube-premium-shrek.png" width="240" alt="可以停止叫我用 YouTube Premium 嗎？至少 5 分鐘嗎？"></a><br><a href="../memes/m3655.md">可以停止叫我用 YouTube Premium 嗎？至少 5 分鐘嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3656.md"><img src="../images/m3656-new-password-same-as-old.png" width="240" alt="密碼錯誤、改新密碼：你的新密碼不能與舊密碼重複"></a><br><a href="../memes/m3656.md">密碼錯誤、改新密碼：你的新密碼不能與舊密碼重複</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3672.md"><img src="../images/m3672-binary-love-chat.png" width="240" alt="機器人的戀愛對話：101001😍、10110💔"></a><br><a href="../memes/m3672.md">機器人的戀愛對話：101001😍、10110💔</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

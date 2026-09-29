@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 232 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 233 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（102）
 
@@ -319,7 +319,7 @@
 </tr>
 </table>
 
-## ★★★（8）
+## ★★★（9）
 
 <table>
 <tr>
@@ -335,6 +335,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3251.md"><img src="../images/m3251-bcs-new-year-no-partner.png" width="240" alt="過年被問沒交男女朋友？BCS：溫度不夠低無法形成配對"></a><br><a href="../memes/m3251.md">過年被問沒交男女朋友？BCS：溫度不夠低無法形成配對</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3274.md"><img src="../images/m3274-astronomy-mask-equations.png" width="240" alt="天文學，你為什麼總是戴著那張面具？"></a><br><a href="../memes/m3274.md">天文學，你為什麼總是戴著那張面具？</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3669.md"><img src="../images/m3669-annihilate-u-operators.png" width="240" alt="我們只做一件事：annihilate u（湮滅 u）"></a><br><a href="../memes/m3669.md">我們只做一件事：annihilate u（湮滅 u）</a><br><sub>🧠🔤 ★★★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 386 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 387 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（110）
 
@@ -66,7 +66,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0391.md"><img src="../images/m0391-exam-missing-formulas.png" width="240" alt="這是我的期末考卷，誰可以幫幫我"></a><br><a href="../memes/m0391.md">這是我的期末考卷，誰可以幫幫我</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m0393.md"><img src="../images/m0393-dont-care-about-your-pi-nion.png" width="240" alt="I don't care about your π-nion"></a><br><a href="../memes/m0393.md">I don't care about your π-nion</a><br><sub>🔤 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m0393.md"><img src="../images/m0393-dont-care-about-your-pi-nion.png" width="240" alt="I don't care about your o-π-nion"></a><br><a href="../memes/m0393.md">I don't care about your o-π-nion</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0394.md"><img src="../images/m0394-cream-younger-3-years.png" width="240" alt="保養品塗了年輕三歲，二歲兒直接消失"></a><br><a href="../memes/m0394.md">保養品塗了年輕三歲，二歲兒直接消失</a><br><sub>👀 ★</sub></td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@
 </tr>
 </table>
 
-## ★★★（61）
+## ★★★（62）
 
 <table>
 <tr>
@@ -613,6 +613,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3514.md"><img src="../images/m3514-jiji-differentiable.png" width="240" alt="921 集集鐵軌為什麼沒有斷點、折點或垂直點？因為集集可微"></a><br><a href="../memes/m3514.md">921 集集鐵軌為什麼沒有斷點、折點或垂直點？因為集集可微</a><br><sub>🧠🔤 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3667.md"><img src="../images/m3667-weierstrass-obvious-at-a-glance.png" width="240" alt="所有函數都可以微分？一看就知道了（魏爾施特拉斯函數）"></a><br><a href="../memes/m3667.md">所有函數都可以微分？一看就知道了（魏爾施特拉斯函數）</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

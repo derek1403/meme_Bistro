@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 368 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 371 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（239）
+## ★（240）
 
 <table>
 <tr>
@@ -407,10 +407,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3629.md"><img src="../images/m3629-dog-walking-sign-for-dogs.jpg" width="240" alt="遛狗民眾請清理糞便；各位狗狗：嘎嚕嚕嚕、吼吼、嗚汪汪汪"></a><br><a href="../memes/m3629.md">遛狗民眾請清理糞便；各位狗狗：嘎嚕嚕嚕、吼吼、嗚汪汪汪</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3647.md"><img src="../images/m3647-cant-no-underwear-sign.png" width="240" alt="嚴禁不穿底褲：CAN'T NO UNDERWEAR"></a><br><a href="../memes/m3647.md">嚴禁不穿底褲：CAN'T NO UNDERWEAR</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3668.md"><img src="../images/m3668-slanted-english-pun.png" width="240" alt="ENGLISH 斜著排：諧英梗"></a><br><a href="../memes/m3668.md">ENGLISH 斜著排：諧英梗</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（53）
+## ★★（54）
 
 <table>
 <tr>
@@ -501,10 +502,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3513.md"><img src="../images/m3513-my-foolish-auto-door.png" width="240" alt="我愚蠢的 AUTO DOOR 啊"></a><br><a href="../memes/m3513.md">我愚蠢的 AUTO DOOR 啊</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3589.md"><img src="../images/m3589-chat-app-pun-battle.png" width="240" alt="聊天軟體的真心男 vs 絕情女：一路互尬到底"></a><br><a href="../memes/m3589.md">聊天軟體的真心男 vs 絕情女：一路互尬到底</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3675.md"><img src="../images/m3675-rat-year-japanese-couplets.jpg" width="240" alt="鼠年春聯：鼠給、鼠巴拉西、鼠勾以捏"></a><br><a href="../memes/m3675.md">鼠年春聯：鼠給、鼠巴拉西、鼠勾以捏</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（76）
+## ⚠️ 需斟酌（77）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1263,6 +1265,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3595.md"><img src="../images/m3595-turn-your-poop-into-fly.png" width="240" alt="天靈靈地靈靈，把你的屌變蒼蠅"></a><br><a href="../memes/m3595.md">天靈靈地靈靈，把你的屌變蒼蠅</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>有沒有人敢抓蟑螂？老師，李美紅敢啦！ — ⚠️ 髒話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3676.md"><img src="../images/m3676-li-mei-hong-dares.jpg" width="240" alt="有沒有人敢抓蟑螂？老師，李美紅敢啦！"></a><br><a href="../memes/m3676.md">有沒有人敢抓蟑螂？老師，李美紅敢啦！</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

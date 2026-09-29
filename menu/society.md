@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 436 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 437 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（193）
 
@@ -438,7 +438,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（197）
+## ⚠️ 需斟酌（198）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2407,6 +2407,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3834.md"><img src="../images/m3834-dads-little-princess-college.png" width="240" alt="爸爸：我的小公主大學生活過得怎麼樣？"></a><br><a href="../memes/m3834.md">爸爸：我的小公主大學生活過得怎麼樣？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>春節親戚來家過年時，自己的屋子裡…… — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3836.md"><img src="../images/m3836-new-year-relatives-door.png" width="240" alt="春節親戚來家過年時，自己的屋子裡……"></a><br><a href="../memes/m3836.md">春節親戚來家過年時，自己的屋子裡……</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

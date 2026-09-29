@@ -323,7 +323,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（348）
+## ⚠️ 需斟酌（349）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3802,6 +3802,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3833.md"><img src="../images/m3833-haruhikage-safeword.jpg" width="240" alt="春日影！春日影！——你他媽再拿這個當安全詞我就抽死你！"></a><br><a href="../memes/m3833.md">春日影！春日影！——你他媽再拿這個當安全詞我就抽死你！</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>女友老爸：你怎麼對待我女兒，我就怎麼對待你 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3837.md"><img src="../images/m3837-treat-you-like-my-daughter.png" width="240" alt="女友老爸：你怎麼對待我女兒，我就怎麼對待你"></a><br><a href="../memes/m3837.md">女友老爸：你怎麼對待我女兒，我就怎麼對待你</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

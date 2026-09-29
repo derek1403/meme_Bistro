@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 482 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 484 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（210）
+## ★（212）
 
 <table>
 <tr>
@@ -376,6 +376,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3908.md"><img src="../images/m3908-chip-island-blackout.png" width="240" alt="某島嶼：全世界都需要我們的晶片——也是某島嶼：大停電"></a><br><a href="../memes/m3908.md">某島嶼：全世界都需要我們的晶片——也是某島嶼：大停電</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3912.md"><img src="../images/m3912-nft-ape-vs-doll.png" width="240" alt="同樣投資 10 萬：NFT 猴子 vs 娃娃"></a><br><a href="../memes/m3912.md">同樣投資 10 萬：NFT 猴子 vs 娃娃</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3916.md"><img src="../images/m3916-bts-meal-truth.png" width="240" alt="我準備好了，你說實話吧——BTS 套餐其實只是麥當勞雞塊放在紫色餐盒裡"></a><br><a href="../memes/m3916.md">我準備好了，你說實話吧——BTS 套餐其實只是麥當勞雞塊放在紫色餐盒裡</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3917.md"><img src="../images/m3917-epic-none-of-my-business.png" width="240" alt="為什麼三四十歲還在沉迷遊戲？Epic：關我屁事、關你屁事"></a><br><a href="../memes/m3917.md">為什麼三四十歲還在沉迷遊戲？Epic：關我屁事、關你屁事</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3920.md"><img src="../images/m3920-born-as-a-baby-judges-cry.png" width="240" alt="參賽者：我出生時還是個嬰兒——真人秀評委："></a><br><a href="../memes/m3920.md">參賽者：我出生時還是個嬰兒——真人秀評委：</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

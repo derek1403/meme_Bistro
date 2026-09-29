@@ -96,6 +96,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3882.md"><img src="../images/m3882-boy-possessed-cannot-read.jpg" width="240" alt="這名可憐的男孩被惡魔附身了，失去了閱讀的能力"></a><br><a href="../memes/m3882.md">這名可憐的男孩被惡魔附身了，失去了閱讀的能力</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3890.md"><img src="../images/m3890-yoga-highest-level.jpg" width="240" alt="瑜珈的最高境界：分不出上面是下面，下面是上面"></a><br><a href="../memes/m3890.md">瑜珈的最高境界：分不出上面是下面，下面是上面</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3918.md"><img src="../images/m3918-my-hobbies-netflix-bed-fridge.png" width="240" alt="當別人問到我有什麼興趣"></a><br><a href="../memes/m3918.md">當別人問到我有什麼興趣</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3919.md"><img src="../images/m3919-finding-video-while-food-waits.png" width="240" alt="正在找配飯用影片的我 vs 我的食物"></a><br><a href="../memes/m3919.md">正在找配飯用影片的我 vs 我的食物</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（130）

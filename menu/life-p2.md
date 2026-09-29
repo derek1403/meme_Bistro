@@ -64,6 +64,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3765.md"><img src="../images/m3765-fake-motorcycle-gift.png" width="240" alt="拆開禮物以為是重機，結果是一堆臉盆與籃子拼的"></a><br><a href="../memes/m3765.md">拆開禮物以為是重機，結果是一堆臉盆與籃子拼的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3766.md"><img src="../images/m3766-shower-random-song.png" width="240" alt="當我沖涼時，隨機出來的歌是不想聽的"></a><br><a href="../memes/m3766.md">當我沖涼時，隨機出來的歌是不想聽的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3773.md"><img src="../images/m3773-newspaper-wrapped-food-face.png" width="240" alt="這就是為什麼你不應該拿報紙包住食物"></a><br><a href="../memes/m3773.md">這就是為什麼你不應該拿報紙包住食物</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -300,7 +301,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（330）
+## ⚠️ 需斟酌（332）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3599,6 +3600,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3768.md"><img src="../images/m3768-parents-walk-in-beach-episode.png" width="240" alt="我在追動漫時父母走進我房間——是海灘福利集——比基尼掉了"></a><br><a href="../memes/m3768.md">我在追動漫時父母走進我房間——是海灘福利集——比基尼掉了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>兩個男人到深山裡發生超友誼關係的片叫什麼？那部片叫「魔戒」 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3772.md"><img src="../images/m3772-lord-of-the-rings-two-men-mountain.png" width="240" alt="兩個男人到深山裡發生超友誼關係的片叫什麼？那部片叫「魔戒」"></a><br><a href="../memes/m3772.md">兩個男人到深山裡發生超友誼關係的片叫什麼？那部片叫「魔戒」</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>明天就是跆拳道比賽了，我準備好了 B 計劃 — ⚠️ 槍械</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3774.md"><img src="../images/m3774-taekwondo-plan-b.png" width="240" alt="明天就是跆拳道比賽了，我準備好了 B 計劃"></a><br><a href="../memes/m3774.md">明天就是跆拳道比賽了，我準備好了 B 計劃</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

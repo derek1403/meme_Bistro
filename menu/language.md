@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 372 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 373 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（241）
 
@@ -536,7 +536,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（77）
+## ⚠️ 需斟酌（78）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1305,6 +1305,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3676.md"><img src="../images/m3676-li-mei-hong-dares.jpg" width="240" alt="有沒有人敢抓蟑螂？老師，李美紅敢啦！"></a><br><a href="../memes/m3676.md">有沒有人敢抓蟑螂？老師，李美紅敢啦！</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我喜歡李白，幫我取一個類似的名字但不能有黑字——李氏歐郎 — ⚠️ 種族</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3770.md"><img src="../images/m3770-li-shi-oolang-name.png" width="240" alt="我喜歡李白，幫我取一個類似的名字但不能有黑字——李氏歐郎"></a><br><a href="../memes/m3770.md">我喜歡李白，幫我取一個類似的名字但不能有黑字——李氏歐郎</a><br><sub>🔥🔤 ★★</sub></td>
 </tr>
 </table>
 

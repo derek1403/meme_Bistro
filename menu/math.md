@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 387 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 388 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（110）
 
@@ -204,7 +204,7 @@
 </tr>
 </table>
 
-## ★★（184）
+## ★★（185）
 
 <table>
 <tr>
@@ -532,6 +532,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3448.md"><img src="../images/m3448-knight-cant-move-on.png" width="240" alt="走出情傷的我：3×3 棋盤上的騎士"></a><br><a href="../memes/m3448.md">走出情傷的我：3×3 棋盤上的騎士</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3724.md"><img src="../images/m3724-barbenheimer-integrals.png" width="240" alt="芭比 vs 奧本海默：兩個看起來差不多的積分"></a><br><a href="../memes/m3724.md">芭比 vs 奧本海默：兩個看起來差不多的積分</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>
 

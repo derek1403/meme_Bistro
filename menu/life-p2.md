@@ -31,10 +31,15 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3710.md"><img src="../images/m3710-no-oshi-no-ko-this-week.png" width="240" alt="當你發現這個星期沒有《我推的孩子》時"></a><br><a href="../memes/m3710.md">當你發現這個星期沒有《我推的孩子》時</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3717.md"><img src="../images/m3717-couples-share-drink-alone-two-glasses.png" width="240" alt="大家都在情侶共飲，她自己一個人插兩杯"></a><br><a href="../memes/m3717.md">大家都在情侶共飲，她自己一個人插兩杯</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3723.md"><img src="../images/m3723-olympic-lifeguard-bored.png" width="240" alt="如果你覺得你很沒用，請記得奧運還有游泳救生員"></a><br><a href="../memes/m3723.md">如果你覺得你很沒用，請記得奧運還有游泳救生員</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3725.md"><img src="../images/m3725-barbie-ken-street-fighter.png" width="240" alt="女友：你打扮成肯。我：OK 我懂了（快打旋風的 Ken）"></a><br><a href="../memes/m3725.md">女友：你打扮成肯。我：OK 我懂了（快打旋風的 Ken）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3727.md"><img src="../images/m3727-when-are-boys-most-nervous.jpg" width="240" alt="你們男生什麼時候最緊張呀？——打團隊副本的時候"></a><br><a href="../memes/m3727.md">你們男生什麼時候最緊張呀？——打團隊副本的時候</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（121）
+## ★★（122）
 
 <table>
 <tr>
@@ -251,6 +256,7 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3721.md"><img src="../images/m3721-koishi-fumo-unconscious.png" width="240" alt="還敢無意識啊？——被一群 fumo 盯著的戀"></a><br><a href="../memes/m3721.md">還敢無意識啊？——被一群 fumo 盯著的戀</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3728.md"><img src="../images/m3728-elsword-tutorial-example-17-5.png" width="240" alt="艾爾之光入門：學會移動、學會攻擊——試試看！例題 17.5：最終魔王"></a><br><a href="../memes/m3728.md">艾爾之光入門：學會移動、學會攻擊——試試看！例題 17.5：最終魔王</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

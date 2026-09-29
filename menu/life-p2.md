@@ -25,6 +25,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3681.md"><img src="../images/m3681-fisheye-street-internet-knows.jpg" width="240" alt="媽媽：為什麼要拍這個？我：網路上的人會懂的（魚眼街景）"></a><br><a href="../memes/m3681.md">媽媽：為什麼要拍這個？我：網路上的人會懂的（魚眼街景）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3704.md"><img src="../images/m3704-u-good-bro-wish-that-was-me.png" width="240" alt="U good bro? No bro I wish that was me"></a><br><a href="../memes/m3704.md">U good bro? No bro I wish that was me</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3707.md"><img src="../images/m3707-how-to-become-a-cushion.png" width="240" alt="看到女主角抱著抱枕——Google：如何變成一個抱枕"></a><br><a href="../memes/m3707.md">看到女主角抱著抱枕——Google：如何變成一個抱枕</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -240,7 +242,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（319）
+## ⚠️ 需斟酌（321）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3429,6 +3431,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3702.md"><img src="../images/m3702-raiden-flexible-fingers-shadow.png" width="240" alt="您說您的手指很靈活是嗎？——雷電將軍比手影"></a><br><a href="../memes/m3702.md">您說您的手指很靈活是嗎？——雷電將軍比手影</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你、你完全誤會了！我才沒有那種想法！——你在說什麼？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3703.md"><img src="../images/m3703-tsundere-denial-chad.png" width="240" alt="你、你完全誤會了！我才沒有那種想法！——你在說什麼？"></a><br><a href="../memes/m3703.md">你、你完全誤會了！我才沒有那種想法！——你在說什麼？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>手術台上閉上眼睛，再睜開就是異世界美少女 — ⚠️ 死亡暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3705.md"><img src="../images/m3705-die-on-table-isekai.png" width="240" alt="手術台上閉上眼睛，再睜開就是異世界美少女"></a><br><a href="../memes/m3705.md">手術台上閉上眼睛，再睜開就是異世界美少女</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

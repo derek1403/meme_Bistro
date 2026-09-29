@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 373 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 374 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（241）
 
@@ -536,7 +536,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（78）
+## ⚠️ 需斟酌（79）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1315,6 +1315,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3770.md"><img src="../images/m3770-li-shi-oolang-name.png" width="240" alt="我喜歡李白，幫我取一個類似的名字但不能有黑字——李氏歐郎"></a><br><a href="../memes/m3770.md">我喜歡李白，幫我取一個類似的名字但不能有黑字——李氏歐郎</a><br><sub>🔥🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你都有女兒了還經常打手槍——JO 兜媽跌 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3801.md"><img src="../images/m3801-jojo-daughter-masturbation.png" width="240" alt="你都有女兒了還經常打手槍——JO 兜媽跌"></a><br><a href="../memes/m3801.md">你都有女兒了還經常打手槍——JO 兜媽跌</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

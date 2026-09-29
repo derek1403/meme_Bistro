@@ -73,6 +73,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3796.md"><img src="../images/m3796-girls-vs-boys-photoshop.png" width="240" alt="女生學 P 圖 vs 男生學 P 圖"></a><br><a href="../memes/m3796.md">女生學 P 圖 vs 男生學 P 圖</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3799.md"><img src="../images/m3799-mango-whole-vs-cut.png" width="240" alt="謝謝我不喜歡吃芒果——切好的：我最喜歡芒果了"></a><br><a href="../memes/m3799.md">謝謝我不喜歡吃芒果——切好的：我最喜歡芒果了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -315,7 +316,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（338）
+## ⚠️ 需斟酌（339）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3694,6 +3695,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3795.md"><img src="../images/m3795-aqua-what-boys-actually-want.png" width="240" alt="女生以為男生想要的 vs 其實男生想要的（阿克婭版）"></a><br><a href="../memes/m3795.md">女生以為男生想要的 vs 其實男生想要的（阿克婭版）</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你嘗試解釋阿庫婭是有用的時候 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3802.md"><img src="../images/m3802-aqua-useful-doujin-codes.png" width="240" alt="當你嘗試解釋阿庫婭是有用的時候"></a><br><a href="../memes/m3802.md">當你嘗試解釋阿庫婭是有用的時候</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

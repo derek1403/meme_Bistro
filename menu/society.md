@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 419 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 421 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（188）
 
@@ -343,7 +343,7 @@
 </tr>
 </table>
 
-## ★★（43）
+## ★★（44）
 
 <table>
 <tr>
@@ -421,10 +421,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3749.md"><img src="../images/m3749-celebrate-early-military-service.png" width="240" alt="度秒如年：提早 0.01 秒慶祝，換來兩年兵役"></a><br><a href="../memes/m3749.md">度秒如年：提早 0.01 秒慶祝，換來兩年兵役</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3798.md"><img src="../images/m3798-japan-coach-light-yagami.jpg" width="240" alt="其他國家的隊伍看來是不用玩了：日本隊教練在寫筆記"></a><br><a href="../memes/m3798.md">其他國家的隊伍看來是不用玩了：日本隊教練在寫筆記</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（188）
+## ⚠️ 需斟酌（189）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2303,6 +2304,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3791.md"><img src="../images/m3791-alya-putin-russian.png" width="240" alt="不時輕聲以俄語遮羞的鄰座艾莉同學 vs 時不時偷偷對我發起特別軍事行動的普丁同學"></a><br><a href="../memes/m3791.md">不時輕聲以俄語遮羞的鄰座艾莉同學 vs 時不時偷偷對我發起特別軍事行動的普丁同學</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>彰化縣民：我家淹水救我——縣長：大家一起加油一起努力！ — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3800.md"><img src="../images/m3800-changhua-flood-cheer-up.webp" width="240" alt="彰化縣民：我家淹水救我——縣長：大家一起加油一起努力！"></a><br><a href="../memes/m3800.md">彰化縣民：我家淹水救我——縣長：大家一起加油一起努力！</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 393 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 395 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（112）
+## ★（113）
 
 <table>
 <tr>
@@ -205,6 +205,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3826.md"><img src="../images/m3826-guess-who-15-dog.jpg" width="240" alt="猜一猜我是誰：我的前面是 14、後面是 16——我是狗"></a><br><a href="../memes/m3826.md">猜一猜我是誰：我的前面是 14、後面是 16——我是狗</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3903.md"><img src="../images/m3903-plus-equals-times.jpg" width="240" alt="2+2=4、2×2=4，所以 + = ×——愛因斯坦被架住：冷靜！冷靜！"></a><br><a href="../memes/m3903.md">2+2=4、2×2=4，所以 + = ×——愛因斯坦被架住：冷靜！冷靜！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -660,7 +661,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（31）
+## ⚠️ 需斟酌（32）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -969,6 +970,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3112.md"><img src="../images/m3112-cant-take-it-derivatives-integrate-back.png" width="240" alt="受不了了！開導！——不許導，積回去"></a><br><a href="../memes/m3112.md">受不了了！開導！——不許導，積回去</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>手術只有 50% 的存活機會——手術動兩次就好啦！——水啦！ — ⚠️ 醫療</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3902.md"><img src="../images/m3902-surgery-50-percent-twice.jpg" width="240" alt="手術只有 50% 的存活機會——手術動兩次就好啦！——水啦！"></a><br><a href="../memes/m3902.md">手術只有 50% 的存活機會——手術動兩次就好啦！——水啦！</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

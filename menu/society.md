@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 474 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 478 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（206）
+## ★（207）
 
 <table>
 <tr>
@@ -370,6 +370,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3893.md"><img src="../images/m3893-referee-put-card-away.jpg" width="240" alt="好啦不要哭啦！我收起來啦！"></a><br><a href="../memes/m3893.md">好啦不要哭啦！我收起來啦！</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3897.md"><img src="../images/m3897-doraemon-no-license.jpg" width="240" alt="那個口袋不是什麼都拿得出來嘛，為什麼拿不出駕照來呢？"></a><br><a href="../memes/m3897.md">那個口袋不是什麼都拿得出來嘛，為什麼拿不出駕照來呢？</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3904.md"><img src="../images/m3904-men-women-movies-reality-anime.jpg" width="240" alt="電影中、現實中、動漫裡的男人與女人"></a><br><a href="../memes/m3904.md">電影中、現實中、動漫裡的男人與女人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -460,7 +461,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（221）
+## ⚠️ 需斟酌（224）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2669,6 +2670,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3900.md"><img src="../images/m3900-dress-respect-reversal.jpg" width="240" alt="如果已婚請穿好衣服……如果只是為了搏眼球，請再穿少一點"></a><br><a href="../memes/m3900.md">如果已婚請穿好衣服……如果只是為了搏眼球，請再穿少一點</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>中國：日本怎麼可以送給臺灣疫苗——哪一天送的？——就 6……講出來 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3901.md"><img src="../images/m3901-china-japan-vaccine-64.png" width="240" alt="中國：日本怎麼可以送給臺灣疫苗——哪一天送的？——就 6……講出來"></a><br><a href="../memes/m3901.md">中國：日本怎麼可以送給臺灣疫苗——哪一天送的？——就 6……講出來</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>阿公你喜歡禮盒嗎？——你快被裝進去囉 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3905.md"><img src="../images/m3905-grandpa-likes-gift-box.png" width="240" alt="阿公你喜歡禮盒嗎？——你快被裝進去囉"></a><br><a href="../memes/m3905.md">阿公你喜歡禮盒嗎？——你快被裝進去囉</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>男校宿舍：為什麼打扮成女生？——連女裝都沒穿過的人有什麼資格指指點點 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3906.md"><img src="../images/m3906-boys-dorm-crossdress.png" width="240" alt="男校宿舍：為什麼打扮成女生？——連女裝都沒穿過的人有什麼資格指指點點"></a><br><a href="../memes/m3906.md">男校宿舍：為什麼打扮成女生？——連女裝都沒穿過的人有什麼資格指指點點</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

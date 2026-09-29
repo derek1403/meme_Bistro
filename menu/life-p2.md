@@ -76,6 +76,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3799.md"><img src="../images/m3799-mango-whole-vs-cut.png" width="240" alt="謝謝我不喜歡吃芒果——切好的：我最喜歡芒果了"></a><br><a href="../memes/m3799.md">謝謝我不喜歡吃芒果——切好的：我最喜歡芒果了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3804.md"><img src="../images/m3804-finally-an-event-i-can-join.png" width="240" alt="終於找到一項我能參加的賽事了（趴在冰上睡覺）"></a><br><a href="../memes/m3804.md">終於找到一項我能參加的賽事了（趴在冰上睡覺）</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3814.md"><img src="../images/m3814-19-no-girlfriend.png" width="240" alt="19 歲還沒有女朋友的男生"></a><br><a href="../memes/m3814.md">19 歲還沒有女朋友的男生</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3815.md"><img src="../images/m3815-jump-on-npc-head.jpg" width="240" alt="我：跳到 NPC 的頭上並試圖讓它頂著我走"></a><br><a href="../memes/m3815.md">我：跳到 NPC 的頭上並試圖讓它頂著我走</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（129）
@@ -318,7 +322,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（341）
+## ⚠️ 需斟酌（342）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3727,6 +3731,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3809.md"><img src="../images/m3809-glasses-off-good-part.jpg" width="240" alt="當這些角色摘下眼鏡時，就代表好戲即將登場"></a><br><a href="../memes/m3809.md">當這些角色摘下眼鏡時，就代表好戲即將登場</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>人工呼吸四步驟：我不是女同 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3816.md"><img src="../images/m3816-cpr-four-steps-not-lesbian.png" width="240" alt="人工呼吸四步驟：我不是女同"></a><br><a href="../memes/m3816.md">人工呼吸四步驟：我不是女同</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 427 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 428 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（192）
 
@@ -435,7 +435,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（189）
+## ⚠️ 需斟酌（190）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2324,6 +2324,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3800.md"><img src="../images/m3800-changhua-flood-cheer-up.webp" width="240" alt="彰化縣民：我家淹水救我——縣長：大家一起加油一起努力！"></a><br><a href="../memes/m3800.md">彰化縣民：我家淹水救我——縣長：大家一起加油一起努力！</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>佛羅里達男子將手塗滿花生醬，毆打對花生過敏的鄰居 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3813.md"><img src="../images/m3813-peanut-butter-assault.jpg" width="240" alt="佛羅里達男子將手塗滿花生醬，毆打對花生過敏的鄰居"></a><br><a href="../memes/m3813.md">佛羅里達男子將手塗滿花生醬，毆打對花生過敏的鄰居</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

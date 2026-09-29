@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 417 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 418 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（303）
+## ★（304）
 
 <table>
 <tr>
@@ -543,6 +543,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3672.md"><img src="../images/m3672-binary-love-chat.png" width="240" alt="機器人的戀愛對話：101001😍、10110💔"></a><br><a href="../memes/m3672.md">機器人的戀愛對話：101001😍、10110💔</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3692.md"><img src="../images/m3692-vr-anime-girl-feeding-cat.png" width="240" alt="VR 裡動畫女孩餵你吃東西；拿下頭盔後"></a><br><a href="../memes/m3692.md">VR 裡動畫女孩餵你吃東西；拿下頭盔後</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3706.md"><img src="../images/m3706-kept-some-bugs.png" width="240" alt="學弟請你看 code 但態度不好：我去除了大部分錯誤，但保留了一部分"></a><br><a href="../memes/m3706.md">學弟請你看 code 但態度不好：我去除了大部分錯誤，但保留了一部分</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3720.md"><img src="../images/m3720-x-two-factor-loop.png" width="240" alt="要先登入才能關掉二次驗證，但我被二次驗證擋住登不進去"></a><br><a href="../memes/m3720.md">要先登入才能關掉二次驗證，但我被二次驗證擋住登不進去</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

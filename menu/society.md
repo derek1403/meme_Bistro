@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 393 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 394 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（181）
 
@@ -387,7 +387,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（172）
+## ⚠️ 需斟酌（173）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2106,6 +2106,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3674.md"><img src="../images/m3674-yoru-ni-kakeru-mv-favorite-part.png" width="240" alt="你最喜歡夜に駆ける MV 的哪個部分？——都蠻喜歡的"></a><br><a href="../memes/m3674.md">你最喜歡夜に駆ける MV 的哪個部分？——都蠻喜歡的</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>114+514=？一般人：628；民眾黨小草：暴怒 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3680.md"><img src="../images/m3680-tpp-114-514.png" width="240" alt="114+514=？一般人：628；民眾黨小草：暴怒"></a><br><a href="../memes/m3680.md">114+514=？一般人：628；民眾黨小草：暴怒</a><br><sub>🔤 ★★★</sub></td>
 </tr>
 </table>
 

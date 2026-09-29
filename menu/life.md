@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 1727 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 1729 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（1299）
+## ★（1300）
 
 <table>
 <tr>
@@ -2174,9 +2174,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3666.md"><img src="../images/m3666-chiikawa-soft-tennis-balls.png" width="240" alt="以為是吉伊卡哇周邊，靠近一看是軟式網球"></a><br><a href="../memes/m3666.md">以為是吉伊卡哇周邊，靠近一看是軟式網球</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3677.md"><img src="../images/m3677-scooter-latte-art.png" width="240" alt="機車也能像咖啡一樣拉花"></a><br><a href="../memes/m3677.md">機車也能像咖啡一樣拉花</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3681.md"><img src="../images/m3681-fisheye-street-internet-knows.jpg" width="240" alt="媽媽：為什麼要拍這個？我：網路上的人會懂的（魚眼街景）"></a><br><a href="../memes/m3681.md">媽媽：為什麼要拍這個？我：網路上的人會懂的（魚眼街景）</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（116）
+## ★★（117）
 
 <table>
 <tr>
@@ -2372,6 +2375,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3627.md"><img src="../images/m3627-snowball-fight-men-vs-women.jpg" width="240" alt="打雪仗（女）vs 打雪仗（男）"></a><br><a href="../memes/m3627.md">打雪仗（女）vs 打雪仗（男）</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3642.md"><img src="../images/m3642-the-world-jojo-poster.png" width="240" alt="《The WORLD》：不論世界如何崩壞，我想再給你一臺壓路機"></a><br><a href="../memes/m3642.md">《The WORLD》：不論世界如何崩壞，我想再給你一臺壓路機</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3679.md"><img src="../images/m3679-shadow-bad-apple.png" width="240" alt="這只是個影子吧？我：網路上的人會懂（Bad Apple）"></a><br><a href="../memes/m3679.md">這只是個影子吧？我：網路上的人會懂（Bad Apple）</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

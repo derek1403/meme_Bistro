@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 159 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 160 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（129）
+## ★（130）
 
 <table>
 <tr>
@@ -235,6 +235,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3649.md"><img src="../images/m3649-cramming-before-finals-box.png" width="240" alt="期末考前夕才想辦法把整個學期教過的內容一次讀完"></a><br><a href="../memes/m3649.md">期末考前夕才想辦法把整個學期教過的內容一次讀完</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3689.md"><img src="../images/m3689-want-to-drop-required-course.png" width="240" alt="好想期中申請停修，但是必修課不能停——感到悲痛"></a><br><a href="../memes/m3689.md">好想期中申請停修，但是必修課不能停——感到悲痛</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3738.md"><img src="../images/m3738-question-asker-five-minutes.png" width="240" alt="當提問人講了五分鐘都還沒提到問題"></a><br><a href="../memes/m3738.md">當提問人講了五分鐘都還沒提到問題</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3887.md"><img src="../images/m3887-teacher-cant-open-projector.jpg" width="240" alt="這麼簡單的題目你都會錯——你連投影機都不會開"></a><br><a href="../memes/m3887.md">這麼簡單的題目你都會錯——你連投影機都不會開</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

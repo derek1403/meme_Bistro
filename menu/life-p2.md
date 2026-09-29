@@ -332,11 +332,12 @@
 </tr>
 </table>
 
-## ★★★（1）
+## ★★★（2）
 
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3763.md"><img src="../images/m3763-youth-status-touhou.png" width="240" alt="當代年輕人現狀（東方 Project 版）"></a><br><a href="../memes/m3763.md">當代年輕人現狀（東方 Project 版）</a><br><sub>👀 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3886.md"><img src="../images/m3886-bandori-exam-help-tier.png" width="240" alt="考試時遇到不會做的題目，向 BanG Dream 角色求救"></a><br><a href="../memes/m3886.md">考試時遇到不會做的題目，向 BanG Dream 角色求救</a><br><sub>👀 ★★★</sub></td>
 </tr>
 </table>
 

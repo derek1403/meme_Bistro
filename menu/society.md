@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 467 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 469 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（202）
+## ★（203）
 
 <table>
 <tr>
@@ -364,6 +364,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3884.md"><img src="../images/m3884-online-class-bad-internet.png" width="240" alt="線上教學中，家裡網路很爛的同學"></a><br><a href="../memes/m3884.md">線上教學中，家裡網路很爛的同學</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3889.md"><img src="../images/m3889-asian-parents-flex-tape.jpg" width="240" alt="亞洲父母：那東西可以填飽肚子嗎？！"></a><br><a href="../memes/m3889.md">亞洲父母：那東西可以填飽肚子嗎？！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -453,7 +454,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（219）
+## ⚠️ 需斟酌（220）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2642,6 +2643,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3879.md"><img src="../images/m3879-covid-death-count-china.png" width="240" alt="各國比死亡病例：你們有在計算死亡病例？"></a><br><a href="../memes/m3879.md">各國比死亡病例：你們有在計算死亡病例？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>青春期男孩抱怨變聲，旁邊是青春期的女孩 — ⚠️ 血腥</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3888.md"><img src="../images/m3888-puberty-voice-crack-vs-girls.jpg" width="240" alt="青春期男孩抱怨變聲，旁邊是青春期的女孩"></a><br><a href="../memes/m3888.md">青春期男孩抱怨變聲，旁邊是青春期的女孩</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

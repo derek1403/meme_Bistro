@@ -59,6 +59,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0337.md"><img src="../images/m0337-infinite-rice-refill-series.png" width="240" alt="續飯無限次的店員"></a><br><a href="../memes/m0337.md">續飯無限次的店員</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0344.md"><img src="../images/m0344-diameter-radius-difference.png" width="240" alt="直徑和半徑差多少？一個半徑"></a><br><a href="../memes/m0344.md">直徑和半徑差多少？一個半徑</a><br><sub>🔤👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0377.md"><img src="../images/m0377-assume-x-equals-2.png" width="240" alt="假設 x = 2，假設正確"></a><br><a href="../memes/m0377.md">假設 x = 2，假設正確</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0378.md"><img src="../images/m0378-integral-devil-evil.png" width="240" alt="∫ devil = evil"></a><br><a href="../memes/m0378.md">∫ devil = evil</a><br><sub>🔤 ★</sub></td>
@@ -109,6 +112,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0618.md"><img src="../images/m0618-pr99-only-one-percent.png" width="240" alt="PR99 的學生竟然只佔 1%"></a><br><a href="../memes/m0618.md">PR99 的學生竟然只佔 1%</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0631.md"><img src="../images/m0631-pizza-volume-pi-z-z-a.png" width="240" alt="這就是為何我們叫它 PIZZA"></a><br><a href="../memes/m0631.md">這就是為何我們叫它 PIZZA</a><br><sub>🔤 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0642.md"><img src="../images/m0642-distribution-plushies.png" width="240" alt="常態分布與卡方分布布偶"></a><br><a href="../memes/m0642.md">常態分布與卡方分布布偶</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0665.md"><img src="../images/m0665-taylor-expansion-akaza.png" width="240" alt="術式展開：泰勒展開"></a><br><a href="../memes/m0665.md">術式展開：泰勒展開</a><br><sub>🔤 ★</sub></td>
@@ -159,6 +165,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2261.md"><img src="../images/m2261-angle-a-homesick.png" width="240" alt="證：表達 ∠A 的思鄉之情"></a><br><a href="../memes/m2261.md">證：表達 ∠A 的思鄉之情</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2312.md"><img src="../images/m2312-ddx-ex-unchanged.png" width="240" alt="d/dx 打 eˣ——打完還是 eˣ"></a><br><a href="../memes/m2312.md">d/dx 打 eˣ——打完還是 eˣ</a><br><sub>🧠 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2337.md"><img src="../images/m2337-ddx-throws-ex-comes-back.png" width="240" alt="d/dx 把 eˣ 趕出去——eˣ 又回來了"></a><br><a href="../memes/m2337.md">d/dx 把 eˣ 趕出去——eˣ 又回來了</a><br><sub>🧠 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2406.md"><img src="../images/m2406-touhou-equals-100-percent.png" width="240" alt="Knowledge 96%、Workhard 98%……Touhou = 100%"></a><br><a href="../memes/m2406.md">Knowledge 96%、Workhard 98%……Touhou = 100%</a><br><sub>👀 ★</sub></td>
@@ -248,6 +257,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0236.md"><img src="../images/m0236-sinx-over-x-galaxy-brain.png" width="240" alt="求 lim sin(x)/x 的四種境界"></a><br><a href="../memes/m0236.md">求 lim sin(x)/x 的四種境界</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0237.md"><img src="../images/m0237-iff-ww3-girlfriend.png" width="240" alt="我沒有說「若且唯若」"></a><br><a href="../memes/m0237.md">我沒有說「若且唯若」</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0250.md"><img src="../images/m0250-invertible-matrix-spiderman.png" width="240" alt="A 可逆——蜘蛛人互指"></a><br><a href="../memes/m0250.md">A 可逆——蜘蛛人互指</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0252.md"><img src="../images/m0252-riemann-openclaw-fermat.png" width="240" alt="我是黎曼，OpenClaw 請證明黎曼猜想"></a><br><a href="../memes/m0252.md">我是黎曼，OpenClaw 請證明黎曼猜想</a><br><sub>🧠👀 ★★</sub></td>
@@ -298,6 +310,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0541.md"><img src="../images/m0541-ramanujan-sleep-pi-formula.png" width="240" alt="拉馬努金：好，該睡了——等一下"></a><br><a href="../memes/m0541.md">拉馬努金：好，該睡了——等一下</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0566.md"><img src="../images/m0566-ramanujan-principal-3254.png" width="240" alt="校長拉馬努金（3254）"></a><br><a href="../memes/m0566.md">校長拉馬努金（3254）</a><br><sub>👀 ★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0598.md"><img src="../images/m0598-ex-derivative-dy.png" width="240" alt="eˣ：你打不倒我——d/dy 可以"></a><br><a href="../memes/m0598.md">eˣ：你打不倒我——d/dy 可以</a><br><sub>🧠👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0625.md"><img src="../images/m0625-integral-1-over-x5-plus-1.png" width="240" alt="微積分下學期的學生 vs ∫1/(x⁵+1)dx"></a><br><a href="../memes/m0625.md">微積分下學期的學生 vs ∫1/(x⁵+1)dx</a><br><sub>👀🧠 ★★</sub></td>
@@ -348,6 +363,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1444.md"><img src="../images/m1444-modelling-child-vs-adult.png" width="240" alt="The modelling you know as a child vs as an adult"></a><br><a href="../memes/m1444.md">The modelling you know as a child vs as an adult</a><br><sub>🧠🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1452.md"><img src="../images/m1452-seal-iff.png" width="240" alt="if and only if → iff"></a><br><a href="../memes/m1452.md">if and only if → iff</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1457.md"><img src="../images/m1457-ellipse-area-vs-circumference.png" width="240" alt="橢圓面積 A = πab vs 橢圓周長"></a><br><a href="../memes/m1457.md">橢圓面積 A = πab vs 橢圓周長</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1484.md"><img src="../images/m1484-i-love-math-collatz.png" width="240" alt="I love math! — me too!"></a><br><a href="../memes/m1484.md">I love math! — me too!</a><br><sub>🧠 ★★</sub></td>
@@ -398,6 +416,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2281.md"><img src="../images/m2281-analysis-boys-epsilon-half.png" width="240" alt="Me and the boys preparing to solve an analysis problem"></a><br><a href="../memes/m2281.md">Me and the boys preparing to solve an analysis problem</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2282.md"><img src="../images/m2282-ol-reliable-nilpotent-matrix.png" width="240" alt="When you need a counterexample in linear algebra——Ol' Reliable"></a><br><a href="../memes/m2282.md">When you need a counterexample in linear algebra——Ol' Reliable</a><br><sub>🧠 ★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2283.md"><img src="../images/m2283-swap-integral-sum-monster.png" width="240" alt="∫Σ = Σ∫：物理學家無感，數學家尖叫"></a><br><a href="../memes/m2283.md">∫Σ = Σ∫：物理學家無感，數學家尖叫</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2289.md"><img src="../images/m2289-fenugreek-riemann-hypothesis.png" width="240" alt="證明黎曼猜想就送你一包葫蘆巴籽"></a><br><a href="../memes/m2289.md">證明黎曼猜想就送你一包葫蘆巴籽</a><br><sub>🧠 ★★</sub></td>
@@ -448,6 +469,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2656.md"><img src="../images/m2656-taylor-remainder-among-us.png" width="240" alt="泰勒展開的餘項被投出太空"></a><br><a href="../memes/m2656.md">泰勒展開的餘項被投出太空</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2670.md"><img src="../images/m2670-cursed-notation-i-delta.png" width="240" alt="被詛咒的數學符號：e^i = Σ i^i/i!"></a><br><a href="../memes/m2670.md">被詛咒的數學符號：e^i = Σ i^i/i!</a><br><sub>🧠 ★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2707.md"><img src="../images/m2707-homeomorphic-open-ball.png" width="240" alt="數學告訴你：凸開集同胚於 n 維開球"></a><br><a href="../memes/m2707.md">數學告訴你：凸開集同胚於 n 維開球</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2731.md"><img src="../images/m2731-metric-ring-topologist-geometer.png" width="240" alt="度量：拓樸學家說丟掉，幾何學家說不"></a><br><a href="../memes/m2731.md">度量：拓樸學家說丟掉，幾何學家說不</a><br><sub>🧠 ★★</sub></td>
@@ -498,6 +522,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3315.md"><img src="../images/m3315-honest-woodcutter-fractal-goddess.png" width="240" alt="誠實的樵夫：女神自己掉進湖裡，冒出金女神和銀女神——然後無限遞迴"></a><br><a href="../memes/m3315.md">誠實的樵夫：女神自己掉進湖裡，冒出金女神和銀女神——然後無限遞迴</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3323.md"><img src="../images/m3323-commutative-law-higher-dimension.png" width="240" alt="交換律 a+b=b+a：用高維推理證明"></a><br><a href="../memes/m3323.md">交換律 a+b=b+a：用高維推理證明</a><br><sub>🧠 ★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3337.md"><img src="../images/m3337-proof-alignment-chart.png" width="240" alt="證明的陣營九宮格"></a><br><a href="../memes/m3337.md">證明的陣營九宮格</a><br><sub>🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3338.md"><img src="../images/m3338-treasure-under-tree-roots.png" width="240" alt="我找到寶藏了！——從 10000 變成 100"></a><br><a href="../memes/m3338.md">我找到寶藏了！——從 10000 變成 100</a><br><sub>👀 ★★</sub></td>
@@ -561,6 +588,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0440.md"><img src="../images/m0440-right-triangle-angle-i.png" width="240" alt="角度是 i 的直角三角形"></a><br><a href="../memes/m0440.md">角度是 i 的直角三角形</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0553.md"><img src="../images/m0553-terminal-object-dating.png" width="240" alt="男生約會很難：範疇裡的終對象"></a><br><a href="../memes/m0553.md">男生約會很難：範疇裡的終對象</a><br><sub>🧠 ★★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0571.md"><img src="../images/m0571-solve-quadratic-galois-theory.png" width="240" alt="怎麼解 3x² − x = 8？先考慮伽羅瓦群"></a><br><a href="../memes/m0571.md">怎麼解 3x² − x = 8？先考慮伽羅瓦群</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0585.md"><img src="../images/m0585-eevee-matrix-decompositions.png" width="240" alt="矩陣 A 的進化型"></a><br><a href="../memes/m0585.md">矩陣 A 的進化型</a><br><sub>🧠 ★★★</sub></td>
@@ -611,6 +641,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3107.md"><img src="../images/m3107-ito-second-order-terms-mike.png" width="240" alt="一般微積分的二階項 vs 隨機微積分的二階項"></a><br><a href="../memes/m3107.md">一般微積分的二階項 vs 隨機微積分的二階項</a><br><sub>🧠 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3508.md"><img src="../images/m3508-q-vs-r-spongebob-holes.png" width="240" alt="ℚ 的海綿寶寶有洞，ℝ 的海綿寶寶沒有洞"></a><br><a href="../memes/m3508.md">ℚ 的海綿寶寶有洞，ℝ 的海綿寶寶沒有洞</a><br><sub>🧠 ★★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3514.md"><img src="../images/m3514-jiji-differentiable.png" width="240" alt="921 集集鐵軌為什麼沒有斷點、折點或垂直點？因為集集可微"></a><br><a href="../memes/m3514.md">921 集集鐵軌為什麼沒有斷點、折點或垂直點？因為集集可微</a><br><sub>🧠🔤 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3667.md"><img src="../images/m3667-weierstrass-obvious-at-a-glance.png" width="240" alt="所有函數都可以微分？一看就知道了（魏爾施特拉斯函數）"></a><br><a href="../memes/m3667.md">所有函數都可以微分？一看就知道了（魏爾施特拉斯函數）</a><br><sub>🧠 ★★★</sub></td>

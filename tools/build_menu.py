@@ -153,6 +153,47 @@ GENERATED = '<!-- 此檔由 tools/build_menu.py 自動生成，請勿手動修�
 BACK = '[⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)\n'
 
 
+PAGE_LIMIT = 400_000  # GitHub 只渲染 512 KB 以內的 Markdown，超過就顯示原始碼
+
+
+def paginate(name, text):
+    """把超過 PAGE_LIMIT 的頁面切成 name.md、name-p2.md……，每頁附上翻頁連結。"""
+    if len(text.encode('utf-8')) <= PAGE_LIMIT:
+        return {name: text}
+    lines = text.splitlines(keepends=True)
+    title = next((l for l in lines if l.startswith('# ')), '# 目錄\n')
+    head_end = next(i for i, l in enumerate(lines) if l.startswith(('## ', '|')))
+    chunks, cur, size = [], [], 0
+    table_head = []  # 表格被切開時，下一頁要重複表頭
+    depth = 0  # 在 HTML <table>/<details> 裡面時不切頁
+    for line in lines[head_end:]:
+        if line.startswith('|') and len(table_head) < 2 and (not table_head or line.startswith('|-')):
+            table_head.append(line)
+        elif not line.startswith('|'):
+            table_head = []
+        n = len(line.encode('utf-8'))
+        if cur and depth == 0 and size + n > PAGE_LIMIT - 4000:
+            chunks.append(cur)
+            cur = table_head[:] if line.startswith('|') and len(table_head) == 2 else []
+            size = sum(len(l.encode('utf-8')) for l in cur)
+        cur.append(line)
+        size += n
+        depth += line.count('<table') + line.count('<details') - line.count('</table>') - line.count('</details>')
+    chunks.append(cur)
+    stem = name[:-3]
+    names = [name] + [f'{stem}-p{i}.md' for i in range(2, len(chunks) + 1)]
+    nav = '頁次：' + ' ・ '.join(f'[{i}]({n})' for i, n in enumerate(names, 1)) + '\n\n'
+    out = {}
+    for i, (n, chunk) in enumerate(zip(names, chunks)):
+        if i == 0:
+            body = ''.join(lines[:head_end]) + nav + ''.join(chunk)
+        else:
+            cont = title.rstrip('\n') + f'（第 {i + 1} 頁）\n\n'
+            body = GENERATED + cont + BACK + '\n' + nav + ''.join(chunk)
+        out[n] = body + '\n' + nav
+    return out
+
+
 def build_topic_page(topic, cards):
     emoji, label = TOPICS[topic]
     safe = [c for c in cards if 'dark' not in c['humor'] and not c.get('content_warning')]
@@ -163,7 +204,8 @@ def build_topic_page(topic, cards):
         group = [c for c in safe if c['difficulty'] == d]
         if group:
             out.append(f'## {STARS[d]}（{len(group)}）\n\n')
-            out.append(gallery(group) + '\n')
+            for i in range(0, len(group), 30):  # 分成多個小表格，讓分頁可以在表格之間切開
+                out.append(gallery(group[i:i + 30]) + '\n')
     if warned:
         out.append(f'## ⚠️ 需斟酌（{len(warned)}）\n\n')
         out.append('> 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。\n\n')
@@ -298,8 +340,14 @@ def main():
              'bartender_pick.md': build_pick(cards)}
     for topic in TOPICS:
         pages[f'{topic}.md'] = build_topic_page(topic, [c for c in cards if c['topic'] == topic])
+    for old in MENU.glob('*-p[0-9]*.md'):
+        old.unlink()
+    split = {}
     for name, text in pages.items():
+        split.update(paginate(name, text))
+    for name, text in split.items():
         (MENU / name).write_text(text, encoding='utf-8', newline='\n')
+    pages = split
 
     readme = README.read_text(encoding='utf-8')
     block = f'<!-- MENU:START -->\n{build_readme_block(cards)}\n<!-- MENU:END -->'

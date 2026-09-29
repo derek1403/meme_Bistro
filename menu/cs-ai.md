@@ -59,6 +59,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0221.md"><img src="../images/m0221-run-as-administrator.png" width="240" alt="Run vs Run as administrator"></a><br><a href="../memes/m0221.md">Run vs Run as administrator</a><br><sub>👀🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0253.md"><img src="../images/m0253-factorial-vs-not-equal.png" width="240" alt="0! = 1 vs 0 != 1"></a><br><a href="../memes/m0253.md">0! = 1 vs 0 != 1</a><br><sub>🔤🧠 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0258.md"><img src="../images/m0258-vim-notepad-excel-c-code.png" width="240" alt="用 Excel 寫 C 語言"></a><br><a href="../memes/m0258.md">用 Excel 寫 C 語言</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0260.md"><img src="../images/m0260-before-after-ai-debugging.png" width="240" alt="AI 之前 vs AI 之後"></a><br><a href="../memes/m0260.md">AI 之前 vs AI 之後</a><br><sub>👀 ★</sub></td>
@@ -109,6 +112,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0572.md"><img src="../images/m0572-fix-one-error-get-six.png" width="240" alt="修好 1 個錯誤，得到 6 個錯誤"></a><br><a href="../memes/m0572.md">修好 1 個錯誤，得到 6 個錯誤</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0573.md"><img src="../images/m0573-linus-setup-vs-chatgpt-copier.png" width="240" alt="Linux 創造者 vs 複製貼上 ChatGPT 的人"></a><br><a href="../memes/m0573.md">Linux 創造者 vs 複製貼上 ChatGPT 的人</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0577.md"><img src="../images/m0577-finding-vulnerabilities-tornado.png" width="240" alt="他們在找真愛，我在找漏洞"></a><br><a href="../memes/m0577.md">他們在找真愛，我在找漏洞</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0579.md"><img src="../images/m0579-docker-yes-papa-ram.png" width="240" alt="Docker Docker, Yes papa"></a><br><a href="../memes/m0579.md">Docker Docker, Yes papa</a><br><sub>👀 ★</sub></td>
@@ -159,6 +165,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0977.md"><img src="../images/m0977-chatgpt-pick-number-dont-talk.jpg" width="240" alt="我能重選一次嗎？50"></a><br><a href="../memes/m0977.md">我能重選一次嗎？50</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1012.md"><img src="../images/m1012-improvise-adapt-overcome-adapters.png" width="240" alt="Improvise. Adapt. Adapt. Adapt… Overcome."></a><br><a href="../memes/m1012.md">Improvise. Adapt. Adapt. Adapt… Overcome.</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1016.md"><img src="../images/m1016-hey-babe-hello-world.png" width="240" alt="When coding is life"></a><br><a href="../memes/m1016.md">When coding is life</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1019.md"><img src="../images/m1019-study-pc-rtx-5080.png" width="240" alt="他讀書要用的電腦"></a><br><a href="../memes/m1019.md">他讀書要用的電腦</a><br><sub>👀 ★</sub></td>
@@ -209,6 +218,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m1779.md"><img src="../images/m1779-word-move-table-road.png" width="240" alt="我輕輕移動一個表格，整個 Word："></a><br><a href="../memes/m1779.md">我輕輕移動一個表格，整個 Word：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1792.md"><img src="../images/m1792-programmers-clean-room.png" width="240" alt="How programmers clean their room"></a><br><a href="../memes/m1792.md">How programmers clean their room</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1811.md"><img src="../images/m1811-partner-vs-cpp.png" width="240" alt="男／女朋友 vs C++"></a><br><a href="../memes/m1811.md">男／女朋友 vs C++</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m1821.md"><img src="../images/m1821-obfuscated-python-imports.png" width="240" alt="我不希望敵人撿到我的程式碼後可以立刻使用"></a><br><a href="../memes/m1821.md">我不希望敵人撿到我的程式碼後可以立刻使用</a><br><sub>👀 ★</sub></td>
@@ -259,6 +271,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2085.md"><img src="../images/m2085-google-hiring-have-your-data.png" width="240" alt="Google Now Hiring——No need to apply, we already have all of your data"></a><br><a href="../memes/m2085.md">Google Now Hiring——No need to apply, we already have all of your data</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2088.md"><img src="../images/m2088-asus-otp-on-screen.png" width="240" alt="We are facing an SMS issue. Please use 910296 as your OTP"></a><br><a href="../memes/m2088.md">We are facing an SMS issue. Please use 910296 as your OTP</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2100.md"><img src="../images/m2100-boss-cant-be-replaced-by-ai.png" width="240" alt="王董請放心，AI 取代不了您——我剛才問 ChatGPT 的"></a><br><a href="../memes/m2100.md">王董請放心，AI 取代不了您——我剛才問 ChatGPT 的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2107.md"><img src="../images/m2107-wish-to-see-god-emoji.png" width="240" alt="When someone makes a wish to see God"></a><br><a href="../memes/m2107.md">When someone makes a wish to see God</a><br><sub>👀 ★</sub></td>
@@ -309,6 +324,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2290.md"><img src="../images/m2290-two-weeks-forgot-30-years.png" width="240" alt="Two weeks without coding and I've forgotten 30 years of experience"></a><br><a href="../memes/m2290.md">Two weeks without coding and I've forgotten 30 years of experience</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2293.md"><img src="../images/m2293-web-tech-vs-government-sites.png" width="240" alt="現在的網頁技術 vs 政府網站"></a><br><a href="../memes/m2293.md">現在的網頁技術 vs 政府網站</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2295.md"><img src="../images/m2295-linux-bash-caveman-windows.png" width="240" alt="兩個 Linux 使用者在聊 bash script——Windows 使用者："></a><br><a href="../memes/m2295.md">兩個 Linux 使用者在聊 bash script——Windows 使用者：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2296.md"><img src="../images/m2296-i-code-better-at-night.png" width="240" alt="I code better at night——11:05 PM"></a><br><a href="../memes/m2296.md">I code better at night——11:05 PM</a><br><sub>👀 ★</sub></td>
@@ -359,6 +377,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2401.md"><img src="../images/m2401-normal-people-vs-programmer.png" width="240" alt="Normal People vs Programmer 詞彙對照"></a><br><a href="../memes/m2401.md">Normal People vs Programmer 詞彙對照</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2403.md"><img src="../images/m2403-html-cake-unclosed-tag.png" width="240" alt="Happy IT Day 蛋糕——結尾的 <cake> 沒關好"></a><br><a href="../memes/m2403.md">Happy IT Day 蛋糕——結尾的 <cake> 沒關好</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2410.md"><img src="../images/m2410-life-of-a-programmer-rhymes.png" width="240" alt="程式設計師的一生：沒有擁抱只有 bug"></a><br><a href="../memes/m2410.md">程式設計師的一生：沒有擁抱只有 bug</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2414.md"><img src="../images/m2414-patrick-code-vs-readme.png" width="240" alt="寫程式 vs 寫 README"></a><br><a href="../memes/m2414.md">寫程式 vs 寫 README</a><br><sub>👀 ★</sub></td>
@@ -409,6 +430,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2526.md"><img src="../images/m2526-sleep-in-coding-class-time.png" width="240" alt="程式課打瞌睡：9:10 → 9:05"></a><br><a href="../memes/m2526.md">程式課打瞌睡：9:10 → 9:05</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2552.md"><img src="../images/m2552-shopping-cart-ie-wheel.png" width="240" alt="購物車卡住的那個輪子"></a><br><a href="../memes/m2552.md">購物車卡住的那個輪子</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2553.md"><img src="../images/m2553-brave-guys-code-without-tests.png" width="240" alt="我喜歡勇敢的男生——我寫程式不寫測試"></a><br><a href="../memes/m2553.md">我喜歡勇敢的男生——我寫程式不寫測試</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2558.md"><img src="../images/m2558-tell-me-about-yourself-programmer.png" width="240" alt="說說你自己吧——我是工程師"></a><br><a href="../memes/m2558.md">說說你自己吧——我是工程師</a><br><sub>👀 ★</sub></td>
@@ -459,6 +483,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2974.md"><img src="../images/m2974-cracked-game-computer-homer.png" width="240" alt="14 歲找到遊戲免費破解版，家裡的電腦："></a><br><a href="../memes/m2974.md">14 歲找到遊戲免費破解版，家裡的電腦：</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3002.md"><img src="../images/m3002-docker-rebuild-missing-semicolon.png" width="240" alt="補一個分號後等 Docker 容器重建"></a><br><a href="../memes/m3002.md">補一個分號後等 Docker 容器重建</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3008.md"><img src="../images/m3008-bt-download-friend-ssd.png" width="240" alt="掛 BT 下載檔案，朋友直接拿隨身碟來"></a><br><a href="../memes/m3008.md">掛 BT 下載檔案，朋友直接拿隨身碟來</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3010.md"><img src="../images/m3010-flip-phone-toilet-wallpaper.png" width="240" alt="完美的摺疊手機桌布：馬桶"></a><br><a href="../memes/m3010.md">完美的摺疊手機桌布：馬桶</a><br><sub>👀 ★</sub></td>
@@ -509,6 +536,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3655.md"><img src="../images/m3655-youtube-premium-shrek.png" width="240" alt="可以停止叫我用 YouTube Premium 嗎？至少 5 分鐘嗎？"></a><br><a href="../memes/m3655.md">可以停止叫我用 YouTube Premium 嗎？至少 5 分鐘嗎？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3656.md"><img src="../images/m3656-new-password-same-as-old.png" width="240" alt="密碼錯誤、改新密碼：你的新密碼不能與舊密碼重複"></a><br><a href="../memes/m3656.md">密碼錯誤、改新密碼：你的新密碼不能與舊密碼重複</a><br><sub>👀 ★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3672.md"><img src="../images/m3672-binary-love-chat.png" width="240" alt="機器人的戀愛對話：101001😍、10110💔"></a><br><a href="../memes/m3672.md">機器人的戀愛對話：101001😍、10110💔</a><br><sub>👀 ★</sub></td>
 </tr>
@@ -567,6 +597,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m0613.md"><img src="../images/m0613-linkedin-prompt-injection-flan.png" width="240" alt="在 LinkedIn 簡介裡藏提示注入"></a><br><a href="../memes/m0613.md">在 LinkedIn 簡介裡藏提示注入</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0675.md"><img src="../images/m0675-weather-clear-command.png" width="240" alt="/weather clear"></a><br><a href="../memes/m0675.md">/weather clear</a><br><sub>👀 ★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m0710.md"><img src="../images/m0710-oop-touch-meme.png" width="240" alt="OOP 觸碰許可圖"></a><br><a href="../memes/m0710.md">OOP 觸碰許可圖</a><br><sub>👀🧠 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m0736.md"><img src="../images/m0736-probably-approximately-correct.png" width="240" alt="期末前一晚狂讀一學期的內容"></a><br><a href="../memes/m0736.md">期末前一晚狂讀一學期的內容</a><br><sub>🔤 ★★</sub></td>
@@ -617,6 +650,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m2215.md"><img src="../images/m2215-crowdstrike-patch-first-day.png" width="240" alt="我到職第一天就把 patch 推上 production——在 CrowdStrike"></a><br><a href="../memes/m2215.md">我到職第一天就把 patch 推上 production——在 CrowdStrike</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2273.md"><img src="../images/m2273-html-unplugged-controller.png" width="240" alt="PHP、JavaScript、HTML 一起打電動——HTML 的手把根本沒插"></a><br><a href="../memes/m2273.md">PHP、JavaScript、HTML 一起打電動——HTML 的手把根本沒插</a><br><sub>👀 ★★</sub></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m2343.md"><img src="../images/m2343-brute-force-protection-sick.png" width="240" alt="brute-force attack protection——Sick bastard!"></a><br><a href="../memes/m2343.md">brute-force attack protection——Sick bastard!</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m2415.md"><img src="../images/m2415-cant-delete-tool-has-children.png" width="240" alt="無法刪除：這個工具有子代"></a><br><a href="../memes/m2415.md">無法刪除：這個工具有子代</a><br><sub>👀 ★★</sub></td>

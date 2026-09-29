@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 237 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 238 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（103）
 
@@ -359,7 +359,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（44）
+## ⚠️ 需斟酌（45）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -798,6 +798,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3691.md"><img src="../images/m3691-missile-school-lunch-calories.png" width="240" alt="一顆飛彈能給多少國小學生吃營養午餐？用能量算是 2143 份"></a><br><a href="../memes/m3691.md">一顆飛彈能給多少國小學生吃營養午餐？用能量算是 2143 份</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>為了躲避洪水，這些蟲聚集在水泥柱頂端 — ⚠️ 密集恐懼</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3835.md"><img src="../images/m3835-worms-on-flood-pillar.png" width="240" alt="為了躲避洪水，這些蟲聚集在水泥柱頂端"></a><br><a href="../memes/m3835.md">為了躲避洪水，這些蟲聚集在水泥柱頂端</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

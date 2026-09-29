@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 435 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 436 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（193）
 
@@ -438,7 +438,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（196）
+## ⚠️ 需斟酌（197）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2397,6 +2397,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3831.md"><img src="../images/m3831-not-gay-assert-dominance.png" width="240" alt="「就說了我不是甲」改為「再講屁股拿來」"></a><br><a href="../memes/m3831.md">「就說了我不是甲」改為「再講屁股拿來」</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>爸爸：我的小公主大學生活過得怎麼樣？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3834.md"><img src="../images/m3834-dads-little-princess-college.png" width="240" alt="爸爸：我的小公主大學生活過得怎麼樣？"></a><br><a href="../memes/m3834.md">爸爸：我的小公主大學生活過得怎麼樣？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

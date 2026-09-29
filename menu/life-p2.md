@@ -323,7 +323,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（347）
+## ⚠️ 需斟酌（348）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3792,6 +3792,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3830.md"><img src="../images/m3830-cpr-four-steps-not-gay.png" width="240" alt="人工呼吸四步驟：我不是男同"></a><br><a href="../memes/m3830.md">人工呼吸四步驟：我不是男同</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>春日影！春日影！——你他媽再拿這個當安全詞我就抽死你！ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3833.md"><img src="../images/m3833-haruhikage-safeword.jpg" width="240" alt="春日影！春日影！——你他媽再拿這個當安全詞我就抽死你！"></a><br><a href="../memes/m3833.md">春日影！春日影！——你他媽再拿這個當安全詞我就抽死你！</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

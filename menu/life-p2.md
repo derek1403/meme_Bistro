@@ -84,6 +84,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3844.md"><img src="../images/m3844-thomas-never-seen-such-bullshit.png" width="240" alt="Thomas has never seen such bullshit before"></a><br><a href="../memes/m3844.md">Thomas has never seen such bullshit before</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3845.md"><img src="../images/m3845-last-healer-alive.png" width="240" alt="當你的隊友都死光了，只剩下你一個補師時"></a><br><a href="../memes/m3845.md">當你的隊友都死光了，只剩下你一個補師時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3849.md"><img src="../images/m3849-captain-too-small-too-loud.jpg" width="240" alt="太小聲嘍！——是的船長！——太大聲嘍！"></a><br><a href="../memes/m3849.md">太小聲嘍！——是的船長！——太大聲嘍！</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -327,7 +328,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（351）
+## ⚠️ 需斟酌（352）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3836,6 +3837,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3847.md"><img src="../images/m3847-twelfth-time-today.jpg" width="240" alt="當我的ㄐㄐ看見我今天第十二次拿起飛機杯"></a><br><a href="../memes/m3847.md">當我的ㄐㄐ看見我今天第十二次拿起飛機杯</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>現實中的奶子 vs 本本中的奶子 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3853.md"><img src="../images/m3853-watermelons-reality-vs-doujin.jpg" width="240" alt="現實中的奶子 vs 本本中的奶子"></a><br><a href="../memes/m3853.md">現實中的奶子 vs 本本中的奶子</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

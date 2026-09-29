@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 442 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 445 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（195）
+## ★（197）
 
 <table>
 <tr>
@@ -352,6 +352,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3839.md"><img src="../images/m3839-mujica-conscripts-hard-days.jpg" width="240" alt="他根本不懂我這些日子有多難熬（戴上國軍小帽版）"></a><br><a href="../memes/m3839.md">他根本不懂我這些日子有多難熬（戴上國軍小帽版）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3840.md"><img src="../images/m3840-mujica-conscripts-lifetime.jpg" width="240" alt="畢竟這是一輩子的事（戴上國軍小帽版）"></a><br><a href="../memes/m3840.md">畢竟這是一輩子的事（戴上國軍小帽版）</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3850.md"><img src="../images/m3850-mall-christmas-then-new-year-songs.jpg" width="240" alt="在購物中心工作的你，聽了整個月的聖誕歌——接下來還要聽整個月的新年歌"></a><br><a href="../memes/m3850.md">在購物中心工作的你，聽了整個月的聖誕歌——接下來還要聽整個月的新年歌</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3852.md"><img src="../images/m3852-snl-cut-internet-cafe-power.jpg" width="240" alt="現在玩遊戲的人到底多暴力？我將親自試驗一下——將網吧的電源切斷"></a><br><a href="../memes/m3852.md">現在玩遊戲的人到底多暴力？我將親自試驗一下——將網吧的電源切斷</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（46）
@@ -440,7 +444,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（201）
+## ⚠️ 需斟酌（202）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2449,6 +2453,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3848.md"><img src="../images/m3848-was-straight-now-femboy.png" width="240" alt="以前的我：我是異性戀；現在的我：男的才好，不會懷孕"></a><br><a href="../memes/m3848.md">以前的我：我是異性戀；現在的我：男的才好，不會懷孕</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>自從把喇叭聲換成槍聲後，街上人們移動的速度快多了 — ⚠️ 槍械</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3851.md"><img src="../images/m3851-horn-to-gunshot.jpg" width="240" alt="自從把喇叭聲換成槍聲後，街上人們移動的速度快多了"></a><br><a href="../memes/m3851.md">自從把喇叭聲換成槍聲後，街上人們移動的速度快多了</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

@@ -69,6 +69,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3779.md"><img src="../images/m3779-captcha-komari.png" width="240" alt="驗證碼：請選出所有「コマリ様」的圖片"></a><br><a href="../memes/m3779.md">驗證碼：請選出所有「コマリ様」的圖片</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3784.md"><img src="../images/m3784-my-turn-cringe-song.png" width="240" alt="換我放音樂的時候剛好播到歌單的油歌"></a><br><a href="../memes/m3784.md">換我放音樂的時候剛好播到歌單的油歌</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3792.md"><img src="../images/m3792-dad-halloween-pepsi-hair.png" width="240" alt="當負責小孩萬聖節打扮的責任落在老爸身上時"></a><br><a href="../memes/m3792.md">當負責小孩萬聖節打扮的責任落在老爸身上時</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -311,7 +312,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（336）
+## ⚠️ 需斟酌（337）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3670,6 +3671,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3788.md"><img src="../images/m3788-touhou-cosplay-rifle.png" width="240" alt="這是我見過最還原的 cos 了，簡直就是本人"></a><br><a href="../memes/m3788.md">這是我見過最還原的 cos 了，簡直就是本人</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>聽說說話越毒的人，吃冰淇淋的技術越厲害 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3793.md"><img src="../images/m3793-venomous-tongue-ice-cream.png" width="240" alt="聽說說話越毒的人，吃冰淇淋的技術越厲害"></a><br><a href="../memes/m3793.md">聽說說話越毒的人，吃冰淇淋的技術越厲害</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

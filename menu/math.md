@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 389 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 391 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（111）
 
@@ -537,7 +537,7 @@
 </tr>
 </table>
 
-## ★★★（62）
+## ★★★（64）
 
 <table>
 <tr>
@@ -649,6 +649,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3514.md"><img src="../images/m3514-jiji-differentiable.png" width="240" alt="921 集集鐵軌為什麼沒有斷點、折點或垂直點？因為集集可微"></a><br><a href="../memes/m3514.md">921 集集鐵軌為什麼沒有斷點、折點或垂直點？因為集集可微</a><br><sub>🧠🔤 ★★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3667.md"><img src="../images/m3667-weierstrass-obvious-at-a-glance.png" width="240" alt="所有函數都可以微分？一看就知道了（魏爾施特拉斯函數）"></a><br><a href="../memes/m3667.md">所有函數都可以微分？一看就知道了（魏爾施特拉斯函數）</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3790.md"><img src="../images/m3790-godel-sub-n-n-17.png" width="240" alt="sub(n, n, 17)！sub(n, n, 17)！——哥德爾不完備定理應援團"></a><br><a href="../memes/m3790.md">sub(n, n, 17)！sub(n, n, 17)！——哥德爾不完備定理應援團</a><br><sub>🧠 ★★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3794.md"><img src="../images/m3794-matrix-world-strang.png" width="240" alt="Matrix World：一張圖看懂所有矩陣的分類"></a><br><a href="../memes/m3794.md">Matrix World：一張圖看懂所有矩陣的分類</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

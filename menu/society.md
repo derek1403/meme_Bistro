@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 418 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 419 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（188）
 
@@ -424,7 +424,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（187）
+## ⚠️ 需斟酌（188）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2293,6 +2293,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3776.md"><img src="../images/m3776-patrick-fall-again.jpg" width="240" alt="極限玩家墜樓亡 vs 派大星：再摔一次，我沒看到"></a><br><a href="../memes/m3776.md">極限玩家墜樓亡 vs 派大星：再摔一次，我沒看到</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>不時輕聲以俄語遮羞的鄰座艾莉同學 vs 時不時偷偷對我發起特別軍事行動的普丁同學 — ⚠️ 政治、戰爭</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3791.md"><img src="../images/m3791-alya-putin-russian.png" width="240" alt="不時輕聲以俄語遮羞的鄰座艾莉同學 vs 時不時偷偷對我發起特別軍事行動的普丁同學"></a><br><a href="../memes/m3791.md">不時輕聲以俄語遮羞的鄰座艾莉同學 vs 時不時偷偷對我發起特別軍事行動的普丁同學</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

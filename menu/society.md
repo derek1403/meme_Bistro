@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 460 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 464 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（198）
+## ★（199）
 
 <table>
 <tr>
@@ -357,6 +357,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3852.md"><img src="../images/m3852-snl-cut-internet-cafe-power.jpg" width="240" alt="現在玩遊戲的人到底多暴力？我將親自試驗一下——將網吧的電源切斷"></a><br><a href="../memes/m3852.md">現在玩遊戲的人到底多暴力？我將親自試驗一下——將網吧的電源切斷</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3857.md"><img src="../images/m3857-22-years-old-10-years-experience.jpg" width="240" alt="只有 22 歲，老闆又要你有十年的工作經驗"></a><br><a href="../memes/m3857.md">只有 22 歲，老闆又要你有十年的工作經驗</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3877.md"><img src="../images/m3877-speeding-726-kmh.jpg" width="240" alt="限速 60 公里、經測速時速 726 公里——當我那台是火箭喔？"></a><br><a href="../memes/m3877.md">限速 60 公里、經測速時速 726 公里——當我那台是火箭喔？</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（46）
@@ -445,7 +448,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（216）
+## ⚠️ 需斟酌（219）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2604,6 +2607,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3875.md"><img src="../images/m3875-dont-die-here-heretic.jpg" width="240" alt="猶太教與伊斯蘭教醫護背對背禱告：你可別死這兒了異教徒"></a><br><a href="../memes/m3875.md">猶太教與伊斯蘭教醫護背對背禱告：你可別死這兒了異教徒</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>抗議失敗的 B 計畫 — ⚠️ 暴力</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3876.md"><img src="../images/m3876-protest-plan-b-bat.jpg" width="240" alt="抗議失敗的 B 計畫"></a><br><a href="../memes/m3876.md">抗議失敗的 B 計畫</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>受歡迎的男生：香噴噴的秀髮、修身的 JK 服、引人注目的黑絲 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3878.md"><img src="../images/m3878-popular-boy-femboy.png" width="240" alt="受歡迎的男生：香噴噴的秀髮、修身的 JK 服、引人注目的黑絲"></a><br><a href="../memes/m3878.md">受歡迎的男生：香噴噴的秀髮、修身的 JK 服、引人注目的黑絲</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>各國比死亡病例：你們有在計算死亡病例？ — ⚠️ 死亡、政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3879.md"><img src="../images/m3879-covid-death-count-china.png" width="240" alt="各國比死亡病例：你們有在計算死亡病例？"></a><br><a href="../memes/m3879.md">各國比死亡病例：你們有在計算死亡病例？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

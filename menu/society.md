@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 455 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 460 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（198）
 
@@ -445,7 +445,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（211）
+## ⚠️ 需斟酌（216）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2554,6 +2554,56 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3868.md"><img src="../images/m3868-draw-a-bus.jpg" width="240" alt="畫出題目【公車】——太棒啦，你居然畫出來了"></a><br><a href="../memes/m3868.md">畫出題目【公車】——太棒啦，你居然畫出來了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>中共：你媽死了——泰國人：無動於衷；中共：珍奶是中國的——不！是台灣的！ — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3870.md"><img src="../images/m3870-milk-tea-thailand-taiwan.png" width="240" alt="中共：你媽死了——泰國人：無動於衷；中共：珍奶是中國的——不！是台灣的！"></a><br><a href="../memes/m3870.md">中共：你媽死了——泰國人：無動於衷；中共：珍奶是中國的——不！是台灣的！</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>軍機繞台 vs 讓你全國玩不了動森 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3871.md"><img src="../images/m3871-military-planes-animal-crossing.jpg" width="240" alt="軍機繞台 vs 讓你全國玩不了動森"></a><br><a href="../memes/m3871.md">軍機繞台 vs 讓你全國玩不了動森</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你出事，我來扛 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3873.md"><img src="../images/m3873-coffin-dance-you-mess-up.jpg" width="240" alt="你出事，我來扛"></a><br><a href="../memes/m3873.md">你出事，我來扛</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>中共：病毒來自馬來亞穿山甲——馬來西亞人：但是我們不吃穿山甲 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3874.md"><img src="../images/m3874-malaysians-dont-eat-pangolin.png" width="240" alt="中共：病毒來自馬來亞穿山甲——馬來西亞人：但是我們不吃穿山甲"></a><br><a href="../memes/m3874.md">中共：病毒來自馬來亞穿山甲——馬來西亞人：但是我們不吃穿山甲</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>猶太教與伊斯蘭教醫護背對背禱告：你可別死這兒了異教徒 — ⚠️ 宗教</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3875.md"><img src="../images/m3875-dont-die-here-heretic.jpg" width="240" alt="猶太教與伊斯蘭教醫護背對背禱告：你可別死這兒了異教徒"></a><br><a href="../memes/m3875.md">猶太教與伊斯蘭教醫護背對背禱告：你可別死這兒了異教徒</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

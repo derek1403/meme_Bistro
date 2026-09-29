@@ -91,6 +91,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3858.md"><img src="../images/m3858-cooking-class-karate.jpg" width="240" alt="我去補習班報名了，以後你就不敢再說我做飯難吃了——我報名空手道"></a><br><a href="../memes/m3858.md">我去補習班報名了，以後你就不敢再說我做飯難吃了——我報名空手道</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3869.md"><img src="../images/m3869-enhance-event-stuck-at-9.jpg" width="240" alt="強化活動開始摟：強化等級 9、9、9……10"></a><br><a href="../memes/m3869.md">強化活動開始摟：強化等級 9、9、9……10</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3872.md"><img src="../images/m3872-whatever-you-like-account.png" width="240" alt="佬：想怎麼玩都可以，玩的開心最重要！——我的帳號："></a><br><a href="../memes/m3872.md">佬：想怎麼玩都可以，玩的開心最重要！——我的帳號：</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（130）

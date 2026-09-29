@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 424 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 426 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（190）
+## ★（191）
 
 <table>
 <tr>
@@ -344,10 +344,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3806.md"><img src="../images/m3806-dikec-no-gear-spent-on-cat.png" width="240" alt="土耳其無課金裝備的選手，大概是課在貓咪身上了"></a><br><a href="../memes/m3806.md">土耳其無課金裝備的選手，大概是課在貓咪身上了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3810.md"><img src="../images/m3810-table-tennis-ball-faces.jpg" width="240" alt="桌球選手的精彩表情集"></a><br><a href="../memes/m3810.md">桌球選手的精彩表情集</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（45）
+## ★★（46）
 
 <table>
 <tr>
@@ -427,6 +428,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3749.md"><img src="../images/m3749-celebrate-early-military-service.png" width="240" alt="度秒如年：提早 0.01 秒慶祝，換來兩年兵役"></a><br><a href="../memes/m3749.md">度秒如年：提早 0.01 秒慶祝，換來兩年兵役</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3798.md"><img src="../images/m3798-japan-coach-light-yagami.jpg" width="240" alt="其他國家的隊伍看來是不用玩了：日本隊教練在寫筆記"></a><br><a href="../memes/m3798.md">其他國家的隊伍看來是不用玩了：日本隊教練在寫筆記</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3805.md"><img src="../images/m3805-olympic-shooters-gacha.png" width="240" alt="我課金大佬、我無課大佬、我替身使者"></a><br><a href="../memes/m3805.md">我課金大佬、我無課大佬、我替身使者</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3808.md"><img src="../images/m3808-news-anchor-suo-yuki.png" width="240" alt="關鍵時刻主持人：我最喜歡周防有希了"></a><br><a href="../memes/m3808.md">關鍵時刻主持人：我最喜歡周防有希了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -72,7 +72,7 @@
 </tr>
 </table>
 
-## ★★（125）
+## ★★（128）
 
 <table>
 <tr>
@@ -295,6 +295,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3754.md"><img src="../images/m3754-buy-more-useful-things-touhou.png" width="240" alt="那當然買更有用的東西囉——東方 fumo"></a><br><a href="../memes/m3754.md">那當然買更有用的東西囉——東方 fumo</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3777.md"><img src="../images/m3777-bocchi-hiding-behind-kita.png" width="240" alt="喜多的立牌後面，躲著一臉陰暗的小孤獨"></a><br><a href="../memes/m3777.md">喜多的立牌後面，躲著一臉陰暗的小孤獨</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3786.md"><img src="../images/m3786-touhou-music-circle-two-buttons.png" width="240" alt="最喜歡的東方同人音樂頻道：森羅萬象還是幽閉サテライト？"></a><br><a href="../memes/m3786.md">最喜歡的東方同人音樂頻道：森羅萬象還是幽閉サテライト？</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3787.md"><img src="../images/m3787-kaveh-climbing-urinal.png" width="240" alt="Another satisfied customer：卡維設計的廁所"></a><br><a href="../memes/m3787.md">Another satisfied customer：卡維設計的廁所</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3789.md"><img src="../images/m3789-cirno-refrigerated-truck.png" width="240" alt="東方痛車小貨車：冷藏車上載著琪露諾"></a><br><a href="../memes/m3789.md">東方痛車小貨車：冷藏車上載著琪露諾</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -306,7 +311,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（334）
+## ⚠️ 需斟酌（336）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3645,6 +3650,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3781.md"><img src="../images/m3781-fern-kills-bocchi-traced-gun.png" width="240" alt="手和槍畫不好，所以直接描圖了——Fern kills Bocchi"></a><br><a href="../memes/m3781.md">手和槍畫不好，所以直接描圖了——Fern kills Bocchi</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>思考人生四步驟：杏玉來了、開始找片、出來了、為什麼我剛剛要做那種事 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3785.md"><img src="../images/m3785-four-steps-of-thinking-life.png" width="240" alt="思考人生四步驟：杏玉來了、開始找片、出來了、為什麼我剛剛要做那種事"></a><br><a href="../memes/m3785.md">思考人生四步驟：杏玉來了、開始找片、出來了、為什麼我剛剛要做那種事</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>這是我見過最還原的 cos 了，簡直就是本人 — ⚠️ 槍械</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3788.md"><img src="../images/m3788-touhou-cosplay-rifle.png" width="240" alt="這是我見過最還原的 cos 了，簡直就是本人"></a><br><a href="../memes/m3788.md">這是我見過最還原的 cos 了，簡直就是本人</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

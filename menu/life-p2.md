@@ -66,9 +66,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3766.md"><img src="../images/m3766-shower-random-song.png" width="240" alt="當我沖涼時，隨機出來的歌是不想聽的"></a><br><a href="../memes/m3766.md">當我沖涼時，隨機出來的歌是不想聽的</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3773.md"><img src="../images/m3773-newspaper-wrapped-food-face.png" width="240" alt="這就是為什麼你不應該拿報紙包住食物"></a><br><a href="../memes/m3773.md">這就是為什麼你不應該拿報紙包住食物</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3779.md"><img src="../images/m3779-captcha-komari.png" width="240" alt="驗證碼：請選出所有「コマリ様」的圖片"></a><br><a href="../memes/m3779.md">驗證碼：請選出所有「コマリ様」的圖片</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（124）
+## ★★（125）
 
 <table>
 <tr>
@@ -290,6 +293,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3754.md"><img src="../images/m3754-buy-more-useful-things-touhou.png" width="240" alt="那當然買更有用的東西囉——東方 fumo"></a><br><a href="../memes/m3754.md">那當然買更有用的東西囉——東方 fumo</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3777.md"><img src="../images/m3777-bocchi-hiding-behind-kita.png" width="240" alt="喜多的立牌後面，躲著一臉陰暗的小孤獨"></a><br><a href="../memes/m3777.md">喜多的立牌後面，躲著一臉陰暗的小孤獨</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -301,7 +305,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（332）
+## ⚠️ 需斟酌（333）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3620,6 +3624,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3774.md"><img src="../images/m3774-taekwondo-plan-b.png" width="240" alt="明天就是跆拳道比賽了，我準備好了 B 計劃"></a><br><a href="../memes/m3774.md">明天就是跆拳道比賽了，我準備好了 B 計劃</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>連續說可愛 3 天、1 個月、3 個月、半年 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3780.md"><img src="../images/m3780-keep-saying-cute-six-months.png" width="240" alt="連續說可愛 3 天、1 個月、3 個月、半年"></a><br><a href="../memes/m3780.md">連續說可愛 3 天、1 個月、3 個月、半年</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

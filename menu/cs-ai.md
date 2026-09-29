@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 422 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 423 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（307）
 
@@ -700,7 +700,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（34）
+## ⚠️ 需斟酌（35）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1039,6 +1039,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3734.md"><img src="../images/m3734-zuckerberg-window-watching.png" width="240" alt="當我在 FB 和 IG 想瑟瑟時"></a><br><a href="../memes/m3734.md">當我在 FB 和 IG 想瑟瑟時</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>被抓到又在用迴歸分析？我發誓我是在用 LLM！ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3778.md"><img src="../images/m3778-busted-regression-analysis.png" width="240" alt="被抓到又在用迴歸分析？我發誓我是在用 LLM！"></a><br><a href="../memes/m3778.md">被抓到又在用迴歸分析？我發誓我是在用 LLM！</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

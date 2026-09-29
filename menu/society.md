@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 414 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 416 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（186）
 
@@ -420,7 +420,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（185）
+## ⚠️ 需斟酌（187）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2269,6 +2269,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3771.md"><img src="../images/m3771-calculator-bomb-bad-at-math.png" width="240" alt="當全班取笑我數學很爛，所以我決定拿出我的計算機"></a><br><a href="../memes/m3771.md">當全班取笑我數學很爛，所以我決定拿出我的計算機</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>人中之龍裡的溫和街友：別看今天笑得歡，小心早晚拉清單 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3775.md"><img src="../images/m3775-yakuza-npc-lookalike.png" width="240" alt="人中之龍裡的溫和街友：別看今天笑得歡，小心早晚拉清單"></a><br><a href="../memes/m3775.md">人中之龍裡的溫和街友：別看今天笑得歡，小心早晚拉清單</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>極限玩家墜樓亡 vs 派大星：再摔一次，我沒看到 — ⚠️ 死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3776.md"><img src="../images/m3776-patrick-fall-again.jpg" width="240" alt="極限玩家墜樓亡 vs 派大星：再摔一次，我沒看到"></a><br><a href="../memes/m3776.md">極限玩家墜樓亡 vs 派大星：再摔一次，我沒看到</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

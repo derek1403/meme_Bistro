@@ -25,6 +25,6 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m1532.md"><img src="../images/m1532-boyfriend-waiting-apology-skeleton.png" width="240" alt="當男朋友跟你吵架等你道歉"></a><br><a href="../memes/m1532.md">當男朋友跟你吵架等你道歉</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3127.md"><img src="../images/m3127-lost-everything-i-dot-car.png" width="240" alt="10 歲弄丟鉛筆傷心一週，25 歲弄丟一切：I dot car"></a><br><a href="../memes/m3127.md">10 歲弄丟鉛筆傷心一週，25 歲弄丟一切：I dot car</a><br><sub>👀 ★</sub></td>
-<td align="center" valign="top" width="33%"><a href="../memes/m3533.md"><img src="../images/m3533-mom-cousin-is-here-cougar.jpg" width="240" alt="老媽，表哥來了……"></a><br><a href="../memes/m3533.md">老媽，表哥來了……</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3841.md"><img src="../images/m3841-half-below-median.png" width="240" alt="真的沒救了，成績低於中位數的多達一半"></a><br><a href="../memes/m3841.md">真的沒救了，成績低於中位數的多達一半</a><br><sub>🧠 ★★</sub></td>
 </tr>
 </table>

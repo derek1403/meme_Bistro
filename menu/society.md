@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 437 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 440 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（193）
+## ★（195）
 
 <table>
 <tr>
@@ -349,6 +349,8 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3822.md"><img src="../images/m3822-military-fan-three-forms.jpg" width="240" alt="當一個男生成為軍迷後，他可能會有以下三種形態"></a><br><a href="../memes/m3822.md">當一個男生成為軍迷後，他可能會有以下三種形態</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3839.md"><img src="../images/m3839-mujica-conscripts-hard-days.jpg" width="240" alt="他根本不懂我這些日子有多難熬（戴上國軍小帽版）"></a><br><a href="../memes/m3839.md">他根本不懂我這些日子有多難熬（戴上國軍小帽版）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3840.md"><img src="../images/m3840-mujica-conscripts-lifetime.jpg" width="240" alt="畢竟這是一輩子的事（戴上國軍小帽版）"></a><br><a href="../memes/m3840.md">畢竟這是一輩子的事（戴上國軍小帽版）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -438,7 +440,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（198）
+## ⚠️ 需斟酌（199）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2417,6 +2419,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3836.md"><img src="../images/m3836-new-year-relatives-door.png" width="240" alt="春節親戚來家過年時，自己的屋子裡……"></a><br><a href="../memes/m3836.md">春節親戚來家過年時，自己的屋子裡……</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>請遠離幼兒園先生，我剛剛看見你在玩蔚藍檔案 — ⚠️ 戀童暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3838.md"><img src="../images/m3838-stay-away-from-kindergarten.png" width="240" alt="請遠離幼兒園先生，我剛剛看見你在玩蔚藍檔案"></a><br><a href="../memes/m3838.md">請遠離幼兒園先生，我剛剛看見你在玩蔚藍檔案</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

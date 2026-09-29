@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 374 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 375 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（241）
 
@@ -536,7 +536,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（79）
+## ⚠️ 需斟酌（80）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1325,6 +1325,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3801.md"><img src="../images/m3801-jojo-daughter-masturbation.png" width="240" alt="你都有女兒了還經常打手槍——JO 兜媽跌"></a><br><a href="../memes/m3801.md">你都有女兒了還經常打手槍——JO 兜媽跌</a><br><sub>🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>漢語聽力考試：「啊這假雞巴真雞巴疼」，請問誰疼？ — ⚠️ 性暗示、髒話</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3827.md"><img src="../images/m3827-chinese-listening-who-hurts.jpg" width="240" alt="漢語聽力考試：「啊這假雞巴真雞巴疼」，請問誰疼？"></a><br><a href="../memes/m3827.md">漢語聽力考試：「啊這假雞巴真雞巴疼」，請問誰疼？</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

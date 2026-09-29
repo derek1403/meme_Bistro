@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 398 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 400 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（181）
 
@@ -408,7 +408,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（177）
+## ⚠️ 需斟酌（179）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2177,6 +2177,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3686.md"><img src="../images/m3686-taiwan-media-dogs.png" width="240" alt="眾人關心的大事 vs 台灣媒體報導的"></a><br><a href="../memes/m3686.md">眾人關心的大事 vs 台灣媒體報導的</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>對小孩最危險的生物：河馬、鱷魚、比特犬、還有她 — ⚠️ 戀童暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3693.md"><img src="../images/m3693-most-dangerous-for-children.png" width="240" alt="對小孩最危險的生物：河馬、鱷魚、比特犬、還有她"></a><br><a href="../memes/m3693.md">對小孩最危險的生物：河馬、鱷魚、比特犬、還有她</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>地鐵上的可愛女孩——That's a trap. I know. — ⚠️ 性別議題</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3701.md"><img src="../images/m3701-subway-thats-a-trap.jpg" width="240" alt="地鐵上的可愛女孩——That's a trap. I know."></a><br><a href="../memes/m3701.md">地鐵上的可愛女孩——That's a trap. I know.</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

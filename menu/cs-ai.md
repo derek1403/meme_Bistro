@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 412 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 414 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（301）
+## ★（302）
 
 <table>
 <tr>
@@ -541,6 +541,7 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3672.md"><img src="../images/m3672-binary-love-chat.png" width="240" alt="機器人的戀愛對話：101001😍、10110💔"></a><br><a href="../memes/m3672.md">機器人的戀愛對話：101001😍、10110💔</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3692.md"><img src="../images/m3692-vr-anime-girl-feeding-cat.png" width="240" alt="VR 裡動畫女孩餵你吃東西；拿下頭盔後"></a><br><a href="../memes/m3692.md">VR 裡動畫女孩餵你吃東西；拿下頭盔後</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -690,7 +691,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（30）
+## ⚠️ 需斟酌（31）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -989,6 +990,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3690.md"><img src="../images/m3690-ai-art-longer-incantation.png" width="240" alt="別再說 AI 畫不出好圖，那是你的詠唱不夠長"></a><br><a href="../memes/m3690.md">別再說 AI 畫不出好圖，那是你的詠唱不夠長</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>壓縮檔的原理：2 GB 解開變 10 GB — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3696.md"><img src="../images/m3696-how-zip-files-work.png" width="240" alt="壓縮檔的原理：2 GB 解開變 10 GB"></a><br><a href="../memes/m3696.md">壓縮檔的原理：2 GB 解開變 10 GB</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

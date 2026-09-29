@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-## ★★（117）
+## ★★（118）
 
 <table>
 <tr>
@@ -235,9 +235,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3642.md"><img src="../images/m3642-the-world-jojo-poster.png" width="240" alt="《The WORLD》：不論世界如何崩壞，我想再給你一臺壓路機"></a><br><a href="../memes/m3642.md">《The WORLD》：不論世界如何崩壞，我想再給你一臺壓路機</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3679.md"><img src="../images/m3679-shadow-bad-apple.png" width="240" alt="這只是個影子吧？我：網路上的人會懂（Bad Apple）"></a><br><a href="../memes/m3679.md">這只是個影子吧？我：網路上的人會懂（Bad Apple）</a><br><sub>👀 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3699.md"><img src="../images/m3699-dad-deal-read-per-death-touhou.png" width="240" alt="角色每死一次就讀十分鐘書——兒子：好的爸爸（拿出東方）"></a><br><a href="../memes/m3699.md">角色每死一次就讀十分鐘書——兒子：好的爸爸（拿出東方）</a><br><sub>👀 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（313）
+## ⚠️ 需斟酌（319）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3366,6 +3369,66 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3685.md"><img src="../images/m3685-mommy-snow-shovel.jpg" width="240" alt="當我長大後我想和媽咪一樣——其實是在賣最後一把雪鏟"></a><br><a href="../memes/m3685.md">當我長大後我想和媽咪一樣——其實是在賣最後一把雪鏟</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>本子網站搜「椎名真晝」：0 results——NO HORNY — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3694.md"><img src="../images/m3694-mahiru-no-results-no-horny.png" width="240" alt="本子網站搜「椎名真晝」：0 results——NO HORNY"></a><br><a href="../memes/m3694.md">本子網站搜「椎名真晝」：0 results——NO HORNY</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>動畫還是漫畫？Hentai——That's my boy — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3695.md"><img src="../images/m3695-anime-manga-hentai-thats-my-boy.png" width="240" alt="動畫還是漫畫？Hentai——That's my boy"></a><br><a href="../memes/m3695.md">動畫還是漫畫？Hentai——That's my boy</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我愛動畫深刻的敘事與情感衝擊——動畫： — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3697.md"><img src="../images/m3697-anime-deep-storytelling.png" width="240" alt="我愛動畫深刻的敘事與情感衝擊——動畫："></a><br><a href="../memes/m3697.md">我愛動畫深刻的敘事與情感衝擊——動畫：</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如果你願意，我可以陪你睡——Google：失溫要多久才會死？ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3698.md"><img src="../images/m3698-company-in-bed-hypothermia.png" width="240" alt="如果你願意，我可以陪你睡——Google：失溫要多久才會死？"></a><br><a href="../memes/m3698.md">如果你願意，我可以陪你睡——Google：失溫要多久才會死？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>就算你的蛋蛋不見了也別難過，我幫你做了一對比原來還大的 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3700.md"><img src="../images/m3700-cat-neuter-pompom.jpg" width="240" alt="就算你的蛋蛋不見了也別難過，我幫你做了一對比原來還大的"></a><br><a href="../memes/m3700.md">就算你的蛋蛋不見了也別難過，我幫你做了一對比原來還大的</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>您說您的手指很靈活是嗎？——雷電將軍比手影 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3702.md"><img src="../images/m3702-raiden-flexible-fingers-shadow.png" width="240" alt="您說您的手指很靈活是嗎？——雷電將軍比手影"></a><br><a href="../memes/m3702.md">您說您的手指很靈活是嗎？——雷電將軍比手影</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 478 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 480 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（207）
+## ★（208）
 
 <table>
 <tr>
@@ -372,6 +372,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3897.md"><img src="../images/m3897-doraemon-no-license.jpg" width="240" alt="那個口袋不是什麼都拿得出來嘛，為什麼拿不出駕照來呢？"></a><br><a href="../memes/m3897.md">那個口袋不是什麼都拿得出來嘛，為什麼拿不出駕照來呢？</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3904.md"><img src="../images/m3904-men-women-movies-reality-anime.jpg" width="240" alt="電影中、現實中、動漫裡的男人與女人"></a><br><a href="../memes/m3904.md">電影中、現實中、動漫裡的男人與女人</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3908.md"><img src="../images/m3908-chip-island-blackout.png" width="240" alt="某島嶼：全世界都需要我們的晶片——也是某島嶼：大停電"></a><br><a href="../memes/m3908.md">某島嶼：全世界都需要我們的晶片——也是某島嶼：大停電</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（47）
@@ -461,7 +464,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（224）
+## ⚠️ 需斟酌（225）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2700,6 +2703,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3906.md"><img src="../images/m3906-boys-dorm-crossdress.png" width="240" alt="男校宿舍：為什麼打扮成女生？——連女裝都沒穿過的人有什麼資格指指點點"></a><br><a href="../memes/m3906.md">男校宿舍：為什麼打扮成女生？——連女裝都沒穿過的人有什麼資格指指點點</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>台灣是國家嗎？他是中國的國土！——但他們可以玩遊戲 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3909.md"><img src="../images/m3909-pink-taiwan-territory-games.png" width="240" alt="台灣是國家嗎？他是中國的國土！——但他們可以玩遊戲"></a><br><a href="../memes/m3909.md">台灣是國家嗎？他是中國的國土！——但他們可以玩遊戲</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

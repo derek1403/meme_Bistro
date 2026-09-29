@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 161 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 162 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（131）
+## ★（132）
 
 <table>
 <tr>
@@ -239,6 +239,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3887.md"><img src="../images/m3887-teacher-cant-open-projector.jpg" width="240" alt="這麼簡單的題目你都會錯——你連投影機都不會開"></a><br><a href="../memes/m3887.md">這麼簡單的題目你都會錯——你連投影機都不會開</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3894.md"><img src="../images/m3894-four-stages-8am-class.jpg" width="240" alt="大學早八的四個階段"></a><br><a href="../memes/m3894.md">大學早八的四個階段</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3907.md"><img src="../images/m3907-lab-at-11am-hide-pain.png" width="240" alt="學長你什麼時候進實驗室的？早上十一點——可是現在才早上十點欸？"></a><br><a href="../memes/m3907.md">學長你什麼時候進實驗室的？早上十一點——可是現在才早上十點欸？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

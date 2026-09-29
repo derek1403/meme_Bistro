@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 378 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 380 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（242）
 
@@ -439,7 +439,7 @@
 </tr>
 </table>
 
-## ★★（54）
+## ★★（55）
 
 <table>
 <tr>
@@ -535,9 +535,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3589.md"><img src="../images/m3589-chat-app-pun-battle.png" width="240" alt="聊天軟體的真心男 vs 絕情女：一路互尬到底"></a><br><a href="../memes/m3589.md">聊天軟體的真心男 vs 絕情女：一路互尬到底</a><br><sub>🔤 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3675.md"><img src="../images/m3675-rat-year-japanese-couplets.jpg" width="240" alt="鼠年春聯：鼠給、鼠巴拉西、鼠勾以捏"></a><br><a href="../memes/m3675.md">鼠年春聯：鼠給、鼠巴拉西、鼠勾以捏</a><br><sub>🔤 ★★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3910.md"><img src="../images/m3910-japanese-names-taiwanese-puns.png" width="240" alt="想取一個一看就知道是台灣人的日本名字：森上梅友前"></a><br><a href="../memes/m3910.md">想取一個一看就知道是台灣人的日本名字：森上梅友前</a><br><sub>🔤 ★★</sub></td>
+</tr>
 </table>
 
-## ⚠️ 需斟酌（82）
+## ⚠️ 需斟酌（83）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1356,6 +1359,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3885.md"><img src="../images/m3885-kim-halloween-missiles.jpg" width="240" alt="金正恩的萬聖節：不給糖就導彈"></a><br><a href="../memes/m3885.md">金正恩的萬聖節：不給糖就導彈</a><br><sub>🔤 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>台灣跆拳道選手的羅馬拼音在西班牙語圈推特造成轟動 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3911.md"><img src="../images/m3911-su-po-ya-spanish.png" width="240" alt="台灣跆拳道選手的羅馬拼音在西班牙語圈推特造成轟動"></a><br><a href="../memes/m3911.md">台灣跆拳道選手的羅馬拼音在西班牙語圈推特造成轟動</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

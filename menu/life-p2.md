@@ -86,9 +86,13 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3845.md"><img src="../images/m3845-last-healer-alive.png" width="240" alt="當你的隊友都死光了，只剩下你一個補師時"></a><br><a href="../memes/m3845.md">當你的隊友都死光了，只剩下你一個補師時</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3849.md"><img src="../images/m3849-captain-too-small-too-loud.jpg" width="240" alt="太小聲嘍！——是的船長！——太大聲嘍！"></a><br><a href="../memes/m3849.md">太小聲嘍！——是的船長！——太大聲嘍！</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3855.md"><img src="../images/m3855-cat-fridge-mini-human.jpg" width="240" alt="冰箱在那裡，帶我過去迷你人類"></a><br><a href="../memes/m3855.md">冰箱在那裡，帶我過去迷你人類</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3858.md"><img src="../images/m3858-cooking-class-karate.jpg" width="240" alt="我去補習班報名了，以後你就不敢再說我做飯難吃了——我報名空手道"></a><br><a href="../memes/m3858.md">我去補習班報名了，以後你就不敢再說我做飯難吃了——我報名空手道</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（129）
+## ★★（130）
 
 <table>
 <tr>
@@ -317,6 +321,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3787.md"><img src="../images/m3787-kaveh-climbing-urinal.png" width="240" alt="Another satisfied customer：卡維設計的廁所"></a><br><a href="../memes/m3787.md">Another satisfied customer：卡維設計的廁所</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3789.md"><img src="../images/m3789-cirno-refrigerated-truck.png" width="240" alt="東方痛車小貨車：冷藏車上載著琪露諾"></a><br><a href="../memes/m3789.md">東方痛車小貨車：冷藏車上載著琪露諾</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3812.md"><img src="../images/m3812-elsword-piano-puzzle-music-class.png" width="240" alt="都過這麼久了你還不會解鋼琴關卡，國中音樂課是被生教借去喝茶是不"></a><br><a href="../memes/m3812.md">都過這麼久了你還不會解鋼琴關卡，國中音樂課是被生教借去喝茶是不</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3854.md"><img src="../images/m3854-grandma-toeic-100.jpg" width="240" alt="跟阿嬤說我要考多益，結果她祝我考 100 分"></a><br><a href="../memes/m3854.md">跟阿嬤說我要考多益，結果她祝我考 100 分</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

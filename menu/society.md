@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 445 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 448 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（197）
+## ★（198）
 
 <table>
 <tr>
@@ -355,6 +355,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3850.md"><img src="../images/m3850-mall-christmas-then-new-year-songs.jpg" width="240" alt="在購物中心工作的你，聽了整個月的聖誕歌——接下來還要聽整個月的新年歌"></a><br><a href="../memes/m3850.md">在購物中心工作的你，聽了整個月的聖誕歌——接下來還要聽整個月的新年歌</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3852.md"><img src="../images/m3852-snl-cut-internet-cafe-power.jpg" width="240" alt="現在玩遊戲的人到底多暴力？我將親自試驗一下——將網吧的電源切斷"></a><br><a href="../memes/m3852.md">現在玩遊戲的人到底多暴力？我將親自試驗一下——將網吧的電源切斷</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3857.md"><img src="../images/m3857-22-years-old-10-years-experience.jpg" width="240" alt="只有 22 歲，老闆又要你有十年的工作經驗"></a><br><a href="../memes/m3857.md">只有 22 歲，老闆又要你有十年的工作經驗</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -444,7 +445,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（202）
+## ⚠️ 需斟酌（204）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2463,6 +2464,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3851.md"><img src="../images/m3851-horn-to-gunshot.jpg" width="240" alt="自從把喇叭聲換成槍聲後，街上人們移動的速度快多了"></a><br><a href="../memes/m3851.md">自從把喇叭聲換成槍聲後，街上人們移動的速度快多了</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>放開……放開！——中華民國……萬歲 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3856.md"><img src="../images/m3856-ma-xi-handshake-roc.jpg" width="240" alt="放開……放開！——中華民國……萬歲"></a><br><a href="../memes/m3856.md">放開……放開！——中華民國……萬歲</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>喂？阿川喔？我小金啦！要玩三戰都不揪的喔？ — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3859.md"><img src="../images/m3859-kim-calls-trump-ww3.jpg" width="240" alt="喂？阿川喔？我小金啦！要玩三戰都不揪的喔？"></a><br><a href="../memes/m3859.md">喂？阿川喔？我小金啦！要玩三戰都不揪的喔？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

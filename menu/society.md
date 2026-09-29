@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 428 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 431 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（192）
 
@@ -435,7 +435,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（190）
+## ⚠️ 需斟酌（193）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2334,6 +2334,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3813.md"><img src="../images/m3813-peanut-butter-assault.jpg" width="240" alt="佛羅里達男子將手塗滿花生醬，毆打對花生過敏的鄰居"></a><br><a href="../memes/m3813.md">佛羅里達男子將手塗滿花生醬，毆打對花生過敏的鄰居</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>魔戒：世界領袖版 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3817.md"><img src="../images/m3817-lord-of-the-rings-world-leaders.png" width="240" alt="魔戒：世界領袖版"></a><br><a href="../memes/m3817.md">魔戒：世界領袖版</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當銀行要求你打印一張收入來源證明 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3818.md"><img src="../images/m3818-bank-income-proof-photocopy.png" width="240" alt="當銀行要求你打印一張收入來源證明"></a><br><a href="../memes/m3818.md">當銀行要求你打印一張收入來源證明</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>跨性別＋異裝癖＋同性戀＝跟普通人沒區別 — ⚠️ 性別議題</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3819.md"><img src="../images/m3819-three-layers-of-buff.png" width="240" alt="跨性別＋異裝癖＋同性戀＝跟普通人沒區別"></a><br><a href="../memes/m3819.md">跨性別＋異裝癖＋同性戀＝跟普通人沒區別</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -322,7 +322,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（342）
+## ⚠️ 需斟酌（343）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3741,6 +3741,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3816.md"><img src="../images/m3816-cpr-four-steps-not-lesbian.png" width="240" alt="人工呼吸四步驟：我不是女同"></a><br><a href="../memes/m3816.md">人工呼吸四步驟：我不是女同</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我們身邊都有一個這種朋友：表面看起來很正常，背後卻是個騷貨 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3820.md"><img src="../images/m3820-normal-front-shadow-behind.jpg" width="240" alt="我們身邊都有一個這種朋友：表面看起來很正常，背後卻是個騷貨"></a><br><a href="../memes/m3820.md">我們身邊都有一個這種朋友：表面看起來很正常，背後卻是個騷貨</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

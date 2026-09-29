@@ -89,6 +89,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3855.md"><img src="../images/m3855-cat-fridge-mini-human.jpg" width="240" alt="冰箱在那裡，帶我過去迷你人類"></a><br><a href="../memes/m3855.md">冰箱在那裡，帶我過去迷你人類</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3858.md"><img src="../images/m3858-cooking-class-karate.jpg" width="240" alt="我去補習班報名了，以後你就不敢再說我做飯難吃了——我報名空手道"></a><br><a href="../memes/m3858.md">我去補習班報名了，以後你就不敢再說我做飯難吃了——我報名空手道</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3869.md"><img src="../images/m3869-enhance-event-stuck-at-9.jpg" width="240" alt="強化活動開始摟：強化等級 9、9、9……10"></a><br><a href="../memes/m3869.md">強化活動開始摟：強化等級 9、9、9……10</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

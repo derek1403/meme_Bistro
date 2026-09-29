@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 452 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 455 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（198）
 
@@ -445,7 +445,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（208）
+## ⚠️ 需斟酌（211）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2524,6 +2524,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3865.md"><img src="../images/m3865-nrta-banned-mobile-games.png" width="240" alt="廣電總局違規手遊名單：涉嫌開妓院、涉嫌干涉玩家夢境"></a><br><a href="../memes/m3865.md">廣電總局違規手遊名單：涉嫌開妓院、涉嫌干涉玩家夢境</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>今天中國網路情況：我，一個境外人士 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3866.md"><img src="../images/m3866-china-internet-foreign-forces.png" width="240" alt="今天中國網路情況：我，一個境外人士"></a><br><a href="../memes/m3866.md">今天中國網路情況：我，一個境外人士</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你發現冠狀病毒不會產生殭屍 — ⚠️ 槍械</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3867.md"><img src="../images/m3867-covid-no-zombies.jpg" width="240" alt="當你發現冠狀病毒不會產生殭屍"></a><br><a href="../memes/m3867.md">當你發現冠狀病毒不會產生殭屍</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>畫出題目【公車】——太棒啦，你居然畫出來了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3868.md"><img src="../images/m3868-draw-a-bus.jpg" width="240" alt="畫出題目【公車】——太棒啦，你居然畫出來了"></a><br><a href="../memes/m3868.md">畫出題目【公車】——太棒啦，你居然畫出來了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

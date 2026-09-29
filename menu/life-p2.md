@@ -53,9 +53,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3746.md"><img src="../images/m3746-drunk-cheeseburger-tattoo.png" width="240" alt="醉漢：我要一個起士牛肉堡——店員：先生，我們這裡是刺青"></a><br><a href="../memes/m3746.md">醉漢：我要一個起士牛肉堡——店員：先生，我們這裡是刺青</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3752.md"><img src="../images/m3752-balaclava-bike-police.png" width="240" alt="嚴冬戴頭套騎腳踏車去健身房——雖然是正確的使用方式，但還是要攔你一下"></a><br><a href="../memes/m3752.md">嚴冬戴頭套騎腳踏車去健身房——雖然是正確的使用方式，但還是要攔你一下</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3758.md"><img src="../images/m3758-midnight-open-genshin.png" width="240" alt="半夜睡醒打開原神的你"></a><br><a href="../memes/m3758.md">半夜睡醒打開原神的你</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（122）
+## ★★（124）
 
 <table>
 <tr>
@@ -273,10 +276,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3721.md"><img src="../images/m3721-koishi-fumo-unconscious.png" width="240" alt="還敢無意識啊？——被一群 fumo 盯著的戀"></a><br><a href="../memes/m3721.md">還敢無意識啊？——被一群 fumo 盯著的戀</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3728.md"><img src="../images/m3728-elsword-tutorial-example-17-5.png" width="240" alt="艾爾之光入門：學會移動、學會攻擊——試試看！例題 17.5：最終魔王"></a><br><a href="../memes/m3728.md">艾爾之光入門：學會移動、學會攻擊——試試看！例題 17.5：最終魔王</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3753.md"><img src="../images/m3753-piano-recital-touhou.png" width="240" alt="一個鋼琴家要多想不開才會在獨奏會排這些曲目？"></a><br><a href="../memes/m3753.md">一個鋼琴家要多想不開才會在獨奏會排這些曲目？</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3754.md"><img src="../images/m3754-buy-more-useful-things-touhou.png" width="240" alt="那當然買更有用的東西囉——東方 fumo"></a><br><a href="../memes/m3754.md">那當然買更有用的東西囉——東方 fumo</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（325）
+## ⚠️ 需斟酌（327）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3525,6 +3532,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3736.md"><img src="../images/m3736-yuuka-ugly-monster.png" width="240" alt="美麗的花都會有刺，那沒有長刺的幽香就是醜八怪囉"></a><br><a href="../memes/m3736.md">美麗的花都會有刺，那沒有長刺的幽香就是醜八怪囉</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>芙莉蓮的透視衣服魔法：費倫是砧板，修塔爾克是烏龜 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3755.md"><img src="../images/m3755-frieren-xray-magic.png" width="240" alt="芙莉蓮的透視衣服魔法：費倫是砧板，修塔爾克是烏龜"></a><br><a href="../memes/m3755.md">芙莉蓮的透視衣服魔法：費倫是砧板，修塔爾克是烏龜</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我與女優的距離：我對她們 ♥，她們對我「不熟」 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3757.md"><img src="../images/m3757-me-and-actresses-distance.png" width="240" alt="我與女優的距離：我對她們 ♥，她們對我「不熟」"></a><br><a href="../memes/m3757.md">我與女優的距離：我對她們 ♥，她們對我「不熟」</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

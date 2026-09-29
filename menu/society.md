@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 411 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 412 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（186）
 
@@ -420,7 +420,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（182）
+## ⚠️ 需斟酌（183）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2239,6 +2239,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3751.md"><img src="../images/m3751-malaysian-language-dilemma.png" width="240" alt="馬來西亞人的煩惱：用簡體、繁體、英文、馬來文都會被罵"></a><br><a href="../memes/m3751.md">馬來西亞人的煩惱：用簡體、繁體、英文、馬來文都會被罵</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>教育部槍殺喜歡動漫的人，然後問為什麼年輕人不願意生小孩？ — ⚠️ 槍擊暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3756.md"><img src="../images/m3756-moe-kills-anime-fans-birthrate.png" width="240" alt="教育部槍殺喜歡動漫的人，然後問為什麼年輕人不願意生小孩？"></a><br><a href="../memes/m3756.md">教育部槍殺喜歡動漫的人，然後問為什麼年輕人不願意生小孩？</a><br><sub>🔥 ★</sub></td>
 </tr>
 </table>
 

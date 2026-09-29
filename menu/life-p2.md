@@ -78,7 +78,7 @@
 </tr>
 </table>
 
-## ★★（128）
+## ★★（129）
 
 <table>
 <tr>
@@ -306,6 +306,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3787.md"><img src="../images/m3787-kaveh-climbing-urinal.png" width="240" alt="Another satisfied customer：卡維設計的廁所"></a><br><a href="../memes/m3787.md">Another satisfied customer：卡維設計的廁所</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3789.md"><img src="../images/m3789-cirno-refrigerated-truck.png" width="240" alt="東方痛車小貨車：冷藏車上載著琪露諾"></a><br><a href="../memes/m3789.md">東方痛車小貨車：冷藏車上載著琪露諾</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3812.md"><img src="../images/m3812-elsword-piano-puzzle-music-class.png" width="240" alt="都過這麼久了你還不會解鋼琴關卡，國中音樂課是被生教借去喝茶是不"></a><br><a href="../memes/m3812.md">都過這麼久了你還不會解鋼琴關卡，國中音樂課是被生教借去喝茶是不</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

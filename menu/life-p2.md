@@ -51,6 +51,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3743.md"><img src="../images/m3743-book-glowing-phone-inside.png" width="240" alt="開學了，兒子也開始認真看書，看到書都發光了"></a><br><a href="../memes/m3743.md">開學了，兒子也開始認真看書，看到書都發光了</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3746.md"><img src="../images/m3746-drunk-cheeseburger-tattoo.png" width="240" alt="醉漢：我要一個起士牛肉堡——店員：先生，我們這裡是刺青"></a><br><a href="../memes/m3746.md">醉漢：我要一個起士牛肉堡——店員：先生，我們這裡是刺青</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3752.md"><img src="../images/m3752-balaclava-bike-police.png" width="240" alt="嚴冬戴頭套騎腳踏車去健身房——雖然是正確的使用方式，但還是要攔你一下"></a><br><a href="../memes/m3752.md">嚴冬戴頭套騎腳踏車去健身房——雖然是正確的使用方式，但還是要攔你一下</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

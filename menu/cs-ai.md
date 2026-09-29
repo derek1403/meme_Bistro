@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 420 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 422 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（305）
+## ★（307）
 
 <table>
 <tr>
@@ -547,6 +547,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3720.md"><img src="../images/m3720-x-two-factor-loop.png" width="240" alt="要先登入才能關掉二次驗證，但我被二次驗證擋住登不進去"></a><br><a href="../memes/m3720.md">要先登入才能關掉二次驗證，但我被二次驗證擋住登不進去</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3744.md"><img src="../images/m3744-party-bug-solution.png" width="240" alt="派對上突然想到 bug 的解法時"></a><br><a href="../memes/m3744.md">派對上突然想到 bug 的解法時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3747.md"><img src="../images/m3747-pc-fan-watches-keyboard-cleaning.png" width="240" alt="我電腦裡的散熱風扇看著我細心的擦拭鍵盤"></a><br><a href="../memes/m3747.md">我電腦裡的散熱風扇看著我細心的擦拭鍵盤</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3750.md"><img src="../images/m3750-css-changes-dog-swap.png" width="240" alt="當你在 CSS 檔案改了一點東西"></a><br><a href="../memes/m3750.md">當你在 CSS 檔案改了一點東西</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

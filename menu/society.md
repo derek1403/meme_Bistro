@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 408 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 411 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（186）
 
@@ -339,7 +339,7 @@
 </tr>
 </table>
 
-## ★★（41）
+## ★★（43）
 
 <table>
 <tr>
@@ -413,10 +413,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3670.md"><img src="../images/m3670-dnf-love-chain-renown.png" width="240" alt="DNF 悲情戀愛鏈：最後玩家只愛冒險家名望"></a><br><a href="../memes/m3670.md">DNF 悲情戀愛鏈：最後玩家只愛冒險家名望</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3718.md"><img src="../images/m3718-elon-parody-retweeted.png" width="240" alt="是惡搞帳號啊，鬆了口氣——結果本人轉推了"></a><br><a href="../memes/m3718.md">是惡搞帳號啊，鬆了口氣——結果本人轉推了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3748.md"><img src="../images/m3748-typhoon-mulan-taipei.png" width="240" alt="東市買駿馬、西市買鞍韉、南市買轡頭——北市正常上班上課"></a><br><a href="../memes/m3748.md">東市買駿馬、西市買鞍韉、南市買轡頭——北市正常上班上課</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3749.md"><img src="../images/m3749-celebrate-early-military-service.png" width="240" alt="度秒如年：提早 0.01 秒慶祝，換來兩年兵役"></a><br><a href="../memes/m3749.md">度秒如年：提早 0.01 秒慶祝，換來兩年兵役</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（181）
+## ⚠️ 需斟酌（182）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2225,6 +2229,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3731.md"><img src="../images/m3731-alarm-clock-in-iraq.png" width="240" alt="當我在伊拉克買了一個鬧鐘：10:00 → 9:59"></a><br><a href="../memes/m3731.md">當我在伊拉克買了一個鬧鐘：10:00 → 9:59</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>馬來西亞人的煩惱：用簡體、繁體、英文、馬來文都會被罵 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3751.md"><img src="../images/m3751-malaysian-language-dilemma.png" width="240" alt="馬來西亞人的煩惱：用簡體、繁體、英文、馬來文都會被罵"></a><br><a href="../memes/m3751.md">馬來西亞人的煩惱：用簡體、繁體、英文、馬來文都會被罵</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

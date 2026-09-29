@@ -237,7 +237,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（312）
+## ⚠️ 需斟酌（313）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3356,6 +3356,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3678.md"><img src="../images/m3678-god-language-six-digits.png" width="240" alt="花式開車 190980 OwO——神的話語對人們來說是很難理解的"></a><br><a href="../memes/m3678.md">花式開車 190980 OwO——神的話語對人們來說是很難理解的</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當我長大後我想和媽咪一樣——其實是在賣最後一把雪鏟 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3685.md"><img src="../images/m3685-mommy-snow-shovel.jpg" width="240" alt="當我長大後我想和媽咪一樣——其實是在賣最後一把雪鏟"></a><br><a href="../memes/m3685.md">當我長大後我想和媽咪一樣——其實是在賣最後一把雪鏟</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 156 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 158 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（127）
+## ★（128）
 
 <table>
 <tr>
@@ -233,6 +233,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3649.md"><img src="../images/m3649-cramming-before-finals-box.png" width="240" alt="期末考前夕才想辦法把整個學期教過的內容一次讀完"></a><br><a href="../memes/m3649.md">期末考前夕才想辦法把整個學期教過的內容一次讀完</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3689.md"><img src="../images/m3689-want-to-drop-required-course.png" width="240" alt="好想期中申請停修，但是必修課不能停——感到悲痛"></a><br><a href="../memes/m3689.md">好想期中申請停修，但是必修課不能停——感到悲痛</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -269,7 +270,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（16）
+## ⚠️ 需斟酌（17）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -428,6 +429,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3529.md"><img src="../images/m3529-galileo-smaller-than-yours.jpg" width="240" alt="伽利略：改良顯微鏡是為了看有沒有比你雞雞還小的東西"></a><br><a href="../memes/m3529.md">伽利略：改良顯微鏡是為了看有沒有比你雞雞還小的東西</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>忍我很久的指導教授、修業年限、我 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3688.md"><img src="../images/m3688-advisor-escorted-out.png" width="240" alt="忍我很久的指導教授、修業年限、我"></a><br><a href="../memes/m3688.md">忍我很久的指導教授、修業年限、我</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

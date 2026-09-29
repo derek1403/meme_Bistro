@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 233 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 235 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（102）
 
@@ -190,7 +190,7 @@
 </tr>
 </table>
 
-## ★★（79）
+## ★★（80）
 
 <table>
 <tr>
@@ -331,6 +331,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3664.md"><img src="../images/m3664-kimetsu-exam-fog.jpg" width="240" alt="鬼滅考題：炎柱與炭治郎招式碰撞產生霧氣——(D) 我只知道炎柱最後死了"></a><br><a href="../memes/m3664.md">鬼滅考題：炎柱與炭治郎招式碰撞產生霧氣——(D) 我只知道炎柱最後死了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3687.md"><img src="../images/m3687-noble-gas-no-hug.png" width="240" alt="所有元素互相擁抱，只有惰性氣體自己一個"></a><br><a href="../memes/m3687.md">所有元素互相擁抱，只有惰性氣體自己一個</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -354,7 +355,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（43）
+## ⚠️ 需斟酌（44）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -783,6 +784,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3598.md"><img src="../images/m3598-firework-colors-uranium.jpg" width="240" alt="不同元素可以讓煙火有不同顏色：鋇、鍶、鎂、鈉、鈾、銅"></a><br><a href="../memes/m3598.md">不同元素可以讓煙火有不同顏色：鋇、鍶、鎂、鈉、鈾、銅</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>一顆飛彈能給多少國小學生吃營養午餐？用能量算是 2143 份 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3691.md"><img src="../images/m3691-missile-school-lunch-calories.png" width="240" alt="一顆飛彈能給多少國小學生吃營養午餐？用能量算是 2143 份"></a><br><a href="../memes/m3691.md">一顆飛彈能給多少國小學生吃營養午餐？用能量算是 2143 份</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

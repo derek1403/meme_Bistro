@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 394 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 398 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（181）
 
@@ -408,7 +408,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（173）
+## ⚠️ 需斟酌（177）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2137,6 +2137,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3680.md"><img src="../images/m3680-tpp-114-514.png" width="240" alt="114+514=？一般人：628；民眾黨小草：暴怒"></a><br><a href="../memes/m3680.md">114+514=？一般人：628；民眾黨小草：暴怒</a><br><sub>🔤 ★★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>議員：想跟女高中生握手——你媽媽也曾是女高中生；你女友也曾是小學生 — ⚠️ 政治、戀童暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3682.md"><img src="../images/m3682-councilor-high-school-girl-comeback.png" width="240" alt="議員：想跟女高中生握手——你媽媽也曾是女高中生；你女友也曾是小學生"></a><br><a href="../memes/m3682.md">議員：想跟女高中生握手——你媽媽也曾是女高中生；你女友也曾是小學生</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>海綿寶寶燒掉一張白紙，最後一格是坦克人 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3683.md"><img src="../images/m3683-spongebob-burn-blank-paper-tank.png" width="240" alt="海綿寶寶燒掉一張白紙，最後一格是坦克人"></a><br><a href="../memes/m3683.md">海綿寶寶燒掉一張白紙，最後一格是坦克人</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你要自由做什麼：2019 的香港人 vs 2022 的中國網友 — ⚠️ 政治、裸露</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3684.md"><img src="../images/m3684-hk-what-do-you-want-freedom-for.jpg" width="240" alt="你要自由做什麼：2019 的香港人 vs 2022 的中國網友"></a><br><a href="../memes/m3684.md">你要自由做什麼：2019 的香港人 vs 2022 的中國網友</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>眾人關心的大事 vs 台灣媒體報導的 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3686.md"><img src="../images/m3686-taiwan-media-dogs.png" width="240" alt="眾人關心的大事 vs 台灣媒體報導的"></a><br><a href="../memes/m3686.md">眾人關心的大事 vs 台灣媒體報導的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

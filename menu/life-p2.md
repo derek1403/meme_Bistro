@@ -36,6 +36,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3725.md"><img src="../images/m3725-barbie-ken-street-fighter.png" width="240" alt="女友：你打扮成肯。我：OK 我懂了（快打旋風的 Ken）"></a><br><a href="../memes/m3725.md">女友：你打扮成肯。我：OK 我懂了（快打旋風的 Ken）</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3727.md"><img src="../images/m3727-when-are-boys-most-nervous.jpg" width="240" alt="你們男生什麼時候最緊張呀？——打團隊副本的時候"></a><br><a href="../memes/m3727.md">你們男生什麼時候最緊張呀？——打團隊副本的時候</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3729.md"><img src="../images/m3729-drinking-doesnt-solve-problems.png" width="240" alt="喝酒不能解決問題，但是喝水和牛奶也不能"></a><br><a href="../memes/m3729.md">喝酒不能解決問題，但是喝水和牛奶也不能</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3732.md"><img src="../images/m3732-adjusted-mirror-mechanic.png" width="240" alt="我只是幫我媽調後照鏡，他就到處跟別人說我會修機車"></a><br><a href="../memes/m3732.md">我只是幫我媽調後照鏡，他就到處跟別人說我會修機車</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3733.md"><img src="../images/m3733-answer-question-with-question.png" width="240" alt="晚餐要吃什麼？看你想吃什麼——你怎麼能用問題回答問題呢"></a><br><a href="../memes/m3733.md">晚餐要吃什麼？看你想吃什麼——你怎麼能用問題回答問題呢</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

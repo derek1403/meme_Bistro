@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 405 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 407 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（184）
+## ★（185）
 
 <table>
 <tr>
@@ -334,6 +334,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3726.md"><img src="../images/m3726-musk-disaster-girl-twitter.png" width="240" alt="燃燒的推特與得意的馬斯克（Disaster Girl 版）"></a><br><a href="../memes/m3726.md">燃燒的推特與得意的馬斯克（Disaster Girl 版）</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3730.md"><img src="../images/m3730-ghost-month-vacation.png" width="240" alt="鬼月並不可怕，可怕的是鬼都有一個月假期而你沒有"></a><br><a href="../memes/m3730.md">鬼月並不可怕，可怕的是鬼都有一個月假期而你沒有</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -414,7 +415,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（180）
+## ⚠️ 需斟酌（181）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2213,6 +2214,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3713.md"><img src="../images/m3713-bts-nuclear-assassinated.png" width="240" alt="防彈少年團、核彈中年團、中彈老年團"></a><br><a href="../memes/m3713.md">防彈少年團、核彈中年團、中彈老年團</a><br><sub>🔥🔤 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當我在伊拉克買了一個鬧鐘：10:00 → 9:59 — ⚠️ 恐怖攻擊暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3731.md"><img src="../images/m3731-alarm-clock-in-iraq.png" width="240" alt="當我在伊拉克買了一個鬧鐘：10:00 → 9:59"></a><br><a href="../memes/m3731.md">當我在伊拉克買了一個鬧鐘：10:00 → 9:59</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

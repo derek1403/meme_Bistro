@@ -79,6 +79,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3814.md"><img src="../images/m3814-19-no-girlfriend.png" width="240" alt="19 歲還沒有女朋友的男生"></a><br><a href="../memes/m3814.md">19 歲還沒有女朋友的男生</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3815.md"><img src="../images/m3815-jump-on-npc-head.jpg" width="240" alt="我：跳到 NPC 的頭上並試圖讓它頂著我走"></a><br><a href="../memes/m3815.md">我：跳到 NPC 的頭上並試圖讓它頂著我走</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3823.md"><img src="../images/m3823-bus-guide-fuji-engagement.png" width="240" alt="右手邊是富士山——接下來請大家看向我的左手"></a><br><a href="../memes/m3823.md">右手邊是富士山——接下來請大家看向我的左手</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -322,7 +323,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（344）
+## ⚠️ 需斟酌（345）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3761,6 +3762,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3821.md"><img src="../images/m3821-guitarist-flexible-fingers-shadow.png" width="240" alt="你說吉他手的手指很靈活是吧？——比出手影狗"></a><br><a href="../memes/m3821.md">你說吉他手的手指很靈活是吧？——比出手影狗</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>聖誕節吉祥物的心聲：拐杖糖、彩帶、麋鹿的抗議 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3825.md"><img src="../images/m3825-christmas-items-complain.jpg" width="240" alt="聖誕節吉祥物的心聲：拐杖糖、彩帶、麋鹿的抗議"></a><br><a href="../memes/m3825.md">聖誕節吉祥物的心聲：拐杖糖、彩帶、麋鹿的抗議</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 440 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 441 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（195）
 
@@ -440,7 +440,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（199）
+## ⚠️ 需斟酌（200）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2429,6 +2429,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3838.md"><img src="../images/m3838-stay-away-from-kindergarten.png" width="240" alt="請遠離幼兒園先生，我剛剛看見你在玩蔚藍檔案"></a><br><a href="../memes/m3838.md">請遠離幼兒園先生，我剛剛看見你在玩蔚藍檔案</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>文化交流不是性交，不一定要有一個插入方 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3842.md"><img src="../images/m3842-culture-exchange-not-sex.png" width="240" alt="文化交流不是性交，不一定要有一個插入方"></a><br><a href="../memes/m3842.md">文化交流不是性交，不一定要有一個插入方</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

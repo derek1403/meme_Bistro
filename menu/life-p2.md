@@ -81,6 +81,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3815.md"><img src="../images/m3815-jump-on-npc-head.jpg" width="240" alt="我：跳到 NPC 的頭上並試圖讓它頂著我走"></a><br><a href="../memes/m3815.md">我：跳到 NPC 的頭上並試圖讓它頂著我走</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3823.md"><img src="../images/m3823-bus-guide-fuji-engagement.png" width="240" alt="右手邊是富士山——接下來請大家看向我的左手"></a><br><a href="../memes/m3823.md">右手邊是富士山——接下來請大家看向我的左手</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3844.md"><img src="../images/m3844-thomas-never-seen-such-bullshit.png" width="240" alt="Thomas has never seen such bullshit before"></a><br><a href="../memes/m3844.md">Thomas has never seen such bullshit before</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
 ## ★★（129）

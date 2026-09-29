@@ -5,7 +5,7 @@
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
 - [🧠 硬核（319）](#hardcore)
-- [👀 直觀（2893）](#intuitive)
+- [👀 直觀（2896）](#intuitive)
 - [🔤 諧音／文字梗（455）](#pun)
 - [🔥 地獄梗（328）](#dark)
 
@@ -337,7 +337,7 @@
 
 <a id="intuitive"></a>
 
-## 👀 直觀（2893）
+## 👀 直觀（2896）
 
 看圖就懂
 
@@ -3234,6 +3234,9 @@
 - 🌍 [請遠離幼兒園先生，我剛剛看見你在玩蔚藍檔案](../memes/m3838.md) ★ ⚠️ 戀童暗示
 - 🌍 [他根本不懂我這些日子有多難熬（戴上國軍小帽版）](../memes/m3839.md) ★
 - 🌍 [畢竟這是一輩子的事（戴上國軍小帽版）](../memes/m3840.md) ★
+- 🌍 [文化交流不是性交，不一定要有一個插入方](../memes/m3842.md) ★ ⚠️ 性暗示
+- 💻 [台灣人講話很像 ChatGPT？回覆全都用 ChatGPT 的語氣](../memes/m3843.md) ★
+- 🍺 [Thomas has never seen such bullshit before](../memes/m3844.md) ★
 
 <a id="pun"></a>
 

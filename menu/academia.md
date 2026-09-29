@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 164 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 165 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（133）
+## ★（134）
 
 <table>
 <tr>
@@ -243,6 +243,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3914.md"><img src="../images/m3914-teacher-copy-then-erase.png" width="240" alt="老師：黑板上的東西趕緊抄下來——也是老師 5 秒後"></a><br><a href="../memes/m3914.md">老師：黑板上的東西趕緊抄下來——也是老師 5 秒後</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3923.md"><img src="../images/m3923-have-you-seen-my-liver.png" width="240" alt="不好意思你有看到我的肝嗎？大概這麼大，我要帶他回去讀期末考了"></a><br><a href="../memes/m3923.md">不好意思你有看到我的肝嗎？大概這麼大，我要帶他回去讀期末考了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

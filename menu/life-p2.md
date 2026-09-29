@@ -102,7 +102,7 @@
 </tr>
 </table>
 
-## ★★（130）
+## ★★（131）
 
 <table>
 <tr>
@@ -334,6 +334,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3854.md"><img src="../images/m3854-grandma-toeic-100.jpg" width="240" alt="跟阿嬤說我要考多益，結果她祝我考 100 分"></a><br><a href="../memes/m3854.md">跟阿嬤說我要考多益，結果她祝我考 100 分</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3921.md"><img src="../images/m3921-how-tough-f9-elsword.png" width="240" alt="你有多猛？——我都開著 F9 打艾爾"></a><br><a href="../memes/m3921.md">你有多猛？——我都開著 F9 打艾爾</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -346,7 +347,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（357）
+## ⚠️ 需斟酌（358）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3915,6 +3916,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3915.md"><img src="../images/m3915-naruto-no-mistake-in-flower-field.png" width="240" alt="雛田你放心，我是不會在花田裡犯錯的——結果多了兩個小孩"></a><br><a href="../memes/m3915.md">雛田你放心，我是不會在花田裡犯錯的——結果多了兩個小孩</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>エロ漫画家：來畫 H 的女孩子——讀者：H 圖的女孩子——省略 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3922.md"><img src="../images/m3922-ero-manga-artist-and-reader.jpg" width="240" alt="エロ漫画家：來畫 H 的女孩子——讀者：H 圖的女孩子——省略"></a><br><a href="../memes/m3922.md">エロ漫画家：來畫 H 的女孩子——讀者：H 圖的女孩子——省略</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

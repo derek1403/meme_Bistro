@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 377 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 378 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（242）
 
@@ -537,7 +537,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（81）
+## ⚠️ 需斟酌（82）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -1346,6 +1346,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3860.md"><img src="../images/m3860-covid-backronym.png" width="240" alt="COVID-19 這個名字也不太好：中國因 2019 年忽視疾病而滅亡"></a><br><a href="../memes/m3860.md">COVID-19 這個名字也不太好：中國因 2019 年忽視疾病而滅亡</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>金正恩的萬聖節：不給糖就導彈 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3885.md"><img src="../images/m3885-kim-halloween-missiles.jpg" width="240" alt="金正恩的萬聖節：不給糖就導彈"></a><br><a href="../memes/m3885.md">金正恩的萬聖節：不給糖就導彈</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 

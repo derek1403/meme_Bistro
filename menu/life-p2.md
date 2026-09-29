@@ -93,6 +93,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3872.md"><img src="../images/m3872-whatever-you-like-account.png" width="240" alt="佬：想怎麼玩都可以，玩的開心最重要！——我的帳號："></a><br><a href="../memes/m3872.md">佬：想怎麼玩都可以，玩的開心最重要！——我的帳號：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3882.md"><img src="../images/m3882-boy-possessed-cannot-read.jpg" width="240" alt="這名可憐的男孩被惡魔附身了，失去了閱讀的能力"></a><br><a href="../memes/m3882.md">這名可憐的男孩被惡魔附身了，失去了閱讀的能力</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

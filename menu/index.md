@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 3712 張。用瀏覽器的 Ctrl+F 搜尋關鍵字最快。
+共 3718 張。用瀏覽器的 Ctrl+F 搜尋關鍵字最快。
 
 頁次：[1](index.md) ・ [2](index-p2.md)
 

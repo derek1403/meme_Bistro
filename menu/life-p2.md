@@ -30,10 +30,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3710.md"><img src="../images/m3710-no-oshi-no-ko-this-week.png" width="240" alt="當你發現這個星期沒有《我推的孩子》時"></a><br><a href="../memes/m3710.md">當你發現這個星期沒有《我推的孩子》時</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3717.md"><img src="../images/m3717-couples-share-drink-alone-two-glasses.png" width="240" alt="大家都在情侶共飲，她自己一個人插兩杯"></a><br><a href="../memes/m3717.md">大家都在情侶共飲，她自己一個人插兩杯</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（118）
+## ★★（120）
 
 <table>
 <tr>
@@ -242,10 +243,12 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3699.md"><img src="../images/m3699-dad-deal-read-per-death-touhou.png" width="240" alt="角色每死一次就讀十分鐘書——兒子：好的爸爸（拿出東方）"></a><br><a href="../memes/m3699.md">角色每死一次就讀十分鐘書——兒子：好的爸爸（拿出東方）</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3714.md"><img src="../images/m3714-kokoro-poker-face-mask.png" width="240" alt="面無表情的心在抽鬼牌——但她的面具出賣了她"></a><br><a href="../memes/m3714.md">面無表情的心在抽鬼牌——但她的面具出賣了她</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3715.md"><img src="../images/m3715-chen-cat-tower.png" width="240" alt="藍幫貓咪買了貓跳台，結果霸佔的是橙"></a><br><a href="../memes/m3715.md">藍幫貓咪買了貓跳台，結果霸佔的是橙</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（322）
+## ⚠️ 需斟酌（323）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3464,6 +3467,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3709.md"><img src="../images/m3709-ads-while-reading-manga.png" width="240" alt="正在網路上看漫畫的我：賣藥廣告與「你怎麼還單身」廣告從兩側包夾"></a><br><a href="../memes/m3709.md">正在網路上看漫畫的我：賣藥廣告與「你怎麼還單身」廣告從兩側包夾</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我說我酗酒和有毒癮——不，那是你面對問題的方式 — ⚠️ 藥物</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3716.md"><img src="../images/m3716-thats-how-you-treat-your-problem.png" width="240" alt="我說我酗酒和有毒癮——不，那是你面對問題的方式"></a><br><a href="../memes/m3716.md">我說我酗酒和有毒癮——不，那是你面對問題的方式</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

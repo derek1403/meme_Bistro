@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 400 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 402 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（181）
 
@@ -332,7 +332,7 @@
 </tr>
 </table>
 
-## ★★（40）
+## ★★（41）
 
 <table>
 <tr>
@@ -405,10 +405,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3670.md"><img src="../images/m3670-dnf-love-chain-renown.png" width="240" alt="DNF 悲情戀愛鏈：最後玩家只愛冒險家名望"></a><br><a href="../memes/m3670.md">DNF 悲情戀愛鏈：最後玩家只愛冒險家名望</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3718.md"><img src="../images/m3718-elon-parody-retweeted.png" width="240" alt="是惡搞帳號啊，鬆了口氣——結果本人轉推了"></a><br><a href="../memes/m3718.md">是惡搞帳號啊，鬆了口氣——結果本人轉推了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（179）
+## ⚠️ 需斟酌（180）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2197,6 +2198,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3701.md"><img src="../images/m3701-subway-thats-a-trap.jpg" width="240" alt="地鐵上的可愛女孩——That's a trap. I know."></a><br><a href="../memes/m3701.md">地鐵上的可愛女孩——That's a trap. I know.</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>防彈少年團、核彈中年團、中彈老年團 — ⚠️ 暗殺、死亡</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3713.md"><img src="../images/m3713-bts-nuclear-assassinated.png" width="240" alt="防彈少年團、核彈中年團、中彈老年團"></a><br><a href="../memes/m3713.md">防彈少年團、核彈中年團、中彈老年團</a><br><sub>🔥🔤 ★★</sub></td>
 </tr>
 </table>
 

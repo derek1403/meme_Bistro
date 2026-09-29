@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 441 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 442 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（195）
 
@@ -440,7 +440,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（200）
+## ⚠️ 需斟酌（201）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2439,6 +2439,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3842.md"><img src="../images/m3842-culture-exchange-not-sex.png" width="240" alt="文化交流不是性交，不一定要有一個插入方"></a><br><a href="../memes/m3842.md">文化交流不是性交，不一定要有一個插入方</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>以前的我：我是異性戀；現在的我：男的才好，不會懷孕 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3848.md"><img src="../images/m3848-was-straight-now-femboy.png" width="240" alt="以前的我：我是異性戀；現在的我：男的才好，不會懷孕"></a><br><a href="../memes/m3848.md">以前的我：我是異性戀；現在的我：男的才好，不會懷孕</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

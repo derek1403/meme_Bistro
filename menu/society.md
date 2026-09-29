@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 471 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 474 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（205）
+## ★（206）
 
 <table>
 <tr>
@@ -369,10 +369,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3893.md"><img src="../images/m3893-referee-put-card-away.jpg" width="240" alt="好啦不要哭啦！我收起來啦！"></a><br><a href="../memes/m3893.md">好啦不要哭啦！我收起來啦！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3897.md"><img src="../images/m3897-doraemon-no-license.jpg" width="240" alt="那個口袋不是什麼都拿得出來嘛，為什麼拿不出駕照來呢？"></a><br><a href="../memes/m3897.md">那個口袋不是什麼都拿得出來嘛，為什麼拿不出駕照來呢？</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（46）
+## ★★（47）
 
 <table>
 <tr>
@@ -455,10 +456,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3808.md"><img src="../images/m3808-news-anchor-suo-yuki.png" width="240" alt="關鍵時刻主持人：我最喜歡周防有希了"></a><br><a href="../memes/m3808.md">關鍵時刻主持人：我最喜歡周防有希了</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3896.md"><img src="../images/m3896-lu-xun-men-dressing-as-women.png" width="240" alt="魯迅：我們中國最偉大最永久的藝術就是男人扮女人——這話我還真說過"></a><br><a href="../memes/m3896.md">魯迅：我們中國最偉大最永久的藝術就是男人扮女人——這話我還真說過</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（220）
+## ⚠️ 需斟酌（221）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2657,6 +2659,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3888.md"><img src="../images/m3888-puberty-voice-crack-vs-girls.jpg" width="240" alt="青春期男孩抱怨變聲，旁邊是青春期的女孩"></a><br><a href="../memes/m3888.md">青春期男孩抱怨變聲，旁邊是青春期的女孩</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>如果已婚請穿好衣服……如果只是為了搏眼球，請再穿少一點 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3900.md"><img src="../images/m3900-dress-respect-reversal.jpg" width="240" alt="如果已婚請穿好衣服……如果只是為了搏眼球，請再穿少一點"></a><br><a href="../memes/m3900.md">如果已婚請穿好衣服……如果只是為了搏眼球，請再穿少一點</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

@@ -342,7 +342,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（355）
+## ⚠️ 需斟酌（356）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3891,6 +3891,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3895.md"><img src="../images/m3895-girl-saves-drowning-fish.jpg" width="240" alt="小妹妹拯救了差點被水淹死的魚"></a><br><a href="../memes/m3895.md">小妹妹拯救了差點被水淹死的魚</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>水之呼吸、雷之呼吸、獸之呼吸、蟲之呼吸——尼古丁之呼吸 — ⚠️ 菸</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3898.md"><img src="../images/m3898-breathing-of-nicotine.jpg" width="240" alt="水之呼吸、雷之呼吸、獸之呼吸、蟲之呼吸——尼古丁之呼吸"></a><br><a href="../memes/m3898.md">水之呼吸、雷之呼吸、獸之呼吸、蟲之呼吸——尼古丁之呼吸</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

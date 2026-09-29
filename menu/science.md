@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 236 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 237 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（102）
+## ★（103）
 
 <table>
 <tr>
@@ -187,6 +187,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3313.md"><img src="../images/m3313-toilet-general-relativity-grid.png" width="240" alt="這個設計師可能學過廣義相對論"></a><br><a href="../memes/m3313.md">這個設計師可能學過廣義相對論</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3360.md"><img src="../images/m3360-aliens-celebrate-one-orbit.png" width="240" alt="他們在慶祝啥？他們的行星繞著恆星轉了一整圈"></a><br><a href="../memes/m3360.md">他們在慶祝啥？他們的行星繞著恆星轉了一整圈</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3404.md"><img src="../images/m3404-demon-slayer-total-concentration-nurse.jpg" width="240" alt="護理師：打針前說「使出全集中呼吸！」小朋友就會深呼吸"></a><br><a href="../memes/m3404.md">護理師：打針前說「使出全集中呼吸！」小朋友就會深呼吸</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3767.md"><img src="../images/m3767-flat-earth-geologist-computers.png" width="240" alt="我是電腦工程師，我斷言地球是平的——我是地質學家，電腦裡面有小人在工作"></a><br><a href="../memes/m3767.md">我是電腦工程師，我斷言地球是平的——我是地質學家，電腦裡面有小人在工作</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

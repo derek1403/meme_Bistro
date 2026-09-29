@@ -56,6 +56,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3758.md"><img src="../images/m3758-midnight-open-genshin.png" width="240" alt="半夜睡醒打開原神的你"></a><br><a href="../memes/m3758.md">半夜睡醒打開原神的你</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3761.md"><img src="../images/m3761-fat-reading-like-ordering.png" width="240" alt="一個人只要夠胖，哪怕是認真讀書都像在點餐"></a><br><a href="../memes/m3761.md">一個人只要夠胖，哪怕是認真讀書都像在點餐</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3764.md"><img src="../images/m3764-someone-walking-slow.png" width="240" alt="當你很趕時間，但就是有人在你前面慢慢走"></a><br><a href="../memes/m3764.md">當你很趕時間，但就是有人在你前面慢慢走</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3765.md"><img src="../images/m3765-fake-motorcycle-gift.png" width="240" alt="拆開禮物以為是重機，結果是一堆臉盆與籃子拼的"></a><br><a href="../memes/m3765.md">拆開禮物以為是重機，結果是一堆臉盆與籃子拼的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3766.md"><img src="../images/m3766-shower-random-song.png" width="240" alt="當我沖涼時，隨機出來的歌是不想聽的"></a><br><a href="../memes/m3766.md">當我沖涼時，隨機出來的歌是不想聽的</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -292,7 +300,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（329）
+## ⚠️ 需斟酌（330）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3581,6 +3589,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3762.md"><img src="../images/m3762-two-girls-one-cup.png" width="240" alt="兩女一杯（布丁版）"></a><br><a href="../memes/m3762.md">兩女一杯（布丁版）</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我在追動漫時父母走進我房間——是海灘福利集——比基尼掉了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3768.md"><img src="../images/m3768-parents-walk-in-beach-episode.png" width="240" alt="我在追動漫時父母走進我房間——是海灘福利集——比基尼掉了"></a><br><a href="../memes/m3768.md">我在追動漫時父母走進我房間——是海灘福利集——比基尼掉了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

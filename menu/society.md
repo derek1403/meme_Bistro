@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 421 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 424 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（188）
+## ★（190）
 
 <table>
 <tr>
@@ -340,10 +340,14 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3782.md"><img src="../images/m3782-blind-date-hardest-women.jpg" width="240" alt="所謂相親，大多是一群不擅搞定女人的男人去面對最難搞定的女人"></a><br><a href="../memes/m3782.md">所謂相親，大多是一群不擅搞定女人的男人去面對最難搞定的女人</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3783.md"><img src="../images/m3783-back-to-work-violin.png" width="240" alt="過年完回到公司，重拾工作內容的我"></a><br><a href="../memes/m3783.md">過年完回到公司，重拾工作內容的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3803.md"><img src="../images/m3803-table-tennis-face-lebrun.png" width="240" alt="不是……哥們，哪個鏡頭把東道主拍成這樣"></a><br><a href="../memes/m3803.md">不是……哥們，哪個鏡頭把東道主拍成這樣</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3806.md"><img src="../images/m3806-dikec-no-gear-spent-on-cat.png" width="240" alt="土耳其無課金裝備的選手，大概是課在貓咪身上了"></a><br><a href="../memes/m3806.md">土耳其無課金裝備的選手，大概是課在貓咪身上了</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（44）
+## ★★（45）
 
 <table>
 <tr>
@@ -422,6 +426,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3749.md"><img src="../images/m3749-celebrate-early-military-service.png" width="240" alt="度秒如年：提早 0.01 秒慶祝，換來兩年兵役"></a><br><a href="../memes/m3749.md">度秒如年：提早 0.01 秒慶祝，換來兩年兵役</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3798.md"><img src="../images/m3798-japan-coach-light-yagami.jpg" width="240" alt="其他國家的隊伍看來是不用玩了：日本隊教練在寫筆記"></a><br><a href="../memes/m3798.md">其他國家的隊伍看來是不用玩了：日本隊教練在寫筆記</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3805.md"><img src="../images/m3805-olympic-shooters-gacha.png" width="240" alt="我課金大佬、我無課大佬、我替身使者"></a><br><a href="../memes/m3805.md">我課金大佬、我無課大佬、我替身使者</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

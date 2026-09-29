@@ -74,6 +74,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3796.md"><img src="../images/m3796-girls-vs-boys-photoshop.png" width="240" alt="女生學 P 圖 vs 男生學 P 圖"></a><br><a href="../memes/m3796.md">女生學 P 圖 vs 男生學 P 圖</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3799.md"><img src="../images/m3799-mango-whole-vs-cut.png" width="240" alt="謝謝我不喜歡吃芒果——切好的：我最喜歡芒果了"></a><br><a href="../memes/m3799.md">謝謝我不喜歡吃芒果——切好的：我最喜歡芒果了</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3804.md"><img src="../images/m3804-finally-an-event-i-can-join.png" width="240" alt="終於找到一項我能參加的賽事了（趴在冰上睡覺）"></a><br><a href="../memes/m3804.md">終於找到一項我能參加的賽事了（趴在冰上睡覺）</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

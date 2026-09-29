@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 448 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 452 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（198）
 
@@ -445,7 +445,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（204）
+## ⚠️ 需斟酌（208）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2484,6 +2484,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3859.md"><img src="../images/m3859-kim-calls-trump-ww3.jpg" width="240" alt="喂？阿川喔？我小金啦！要玩三戰都不揪的喔？"></a><br><a href="../memes/m3859.md">喂？阿川喔？我小金啦！要玩三戰都不揪的喔？</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>說明武漢肺炎的疫情真相，或者抽 25 張牌 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3861.md"><img src="../images/m3861-uno-draw-25-truth.jpg" width="240" alt="說明武漢肺炎的疫情真相，或者抽 25 張牌"></a><br><a href="../memes/m3861.md">說明武漢肺炎的疫情真相，或者抽 25 張牌</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>蝙蝠已經盡最大努力長得不像個食材了 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3862.md"><img src="../images/m3862-bats-tried-not-to-be-food.jpg" width="240" alt="蝙蝠已經盡最大努力長得不像個食材了"></a><br><a href="../memes/m3862.md">蝙蝠已經盡最大努力長得不像個食材了</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>2020 可能沒這麼糟啦——這他媽的才一月而已 — ⚠️ 死亡、災難</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3863.md"><img src="../images/m3863-2020-only-january.jpg" width="240" alt="2020 可能沒這麼糟啦——這他媽的才一月而已"></a><br><a href="../memes/m3863.md">2020 可能沒這麼糟啦——這他媽的才一月而已</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>廣電總局違規手遊名單：涉嫌開妓院、涉嫌干涉玩家夢境 — ⚠️ 政治</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3865.md"><img src="../images/m3865-nrta-banned-mobile-games.png" width="240" alt="廣電總局違規手遊名單：涉嫌開妓院、涉嫌干涉玩家夢境"></a><br><a href="../memes/m3865.md">廣電總局違規手遊名單：涉嫌開妓院、涉嫌干涉玩家夢境</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

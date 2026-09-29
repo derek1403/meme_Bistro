@@ -335,7 +335,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（352）
+## ⚠️ 需斟酌（353）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3854,6 +3854,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3853.md"><img src="../images/m3853-watermelons-reality-vs-doujin.jpg" width="240" alt="現實中的奶子 vs 本本中的奶子"></a><br><a href="../memes/m3853.md">現實中的奶子 vs 本本中的奶子</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>我報輸出結果輸出很難看——沒關係我準備開廣嘴你了 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3864.md"><img src="../images/m3864-output-ugly-guild-comfort.png" width="240" alt="我報輸出結果輸出很難看——沒關係我準備開廣嘴你了"></a><br><a href="../memes/m3864.md">我報輸出結果輸出很難看——沒關係我準備開廣嘴你了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

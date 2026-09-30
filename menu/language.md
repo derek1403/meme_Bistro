@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 381 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 382 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（243）
 
@@ -440,7 +440,7 @@
 </tr>
 </table>
 
-## ★★（55）
+## ★★（56）
 
 <table>
 <tr>
@@ -538,6 +538,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3910.md"><img src="../images/m3910-japanese-names-taiwanese-puns.png" width="240" alt="想取一個一看就知道是台灣人的日本名字：森上梅友前"></a><br><a href="../memes/m3910.md">想取一個一看就知道是台灣人的日本名字：森上梅友前</a><br><sub>🔤 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3943.md"><img src="../images/m3943-zhao-yuzheng-bipolar.jpg" width="240" alt="月經難聽就講生理期很難嗎？——你趙玉政發作喔"></a><br><a href="../memes/m3943.md">月經難聽就講生理期很難嗎？——你趙玉政發作喔</a><br><sub>🔤 ★★</sub></td>
 </tr>
 </table>
 

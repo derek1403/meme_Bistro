@@ -99,10 +99,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3918.md"><img src="../images/m3918-my-hobbies-netflix-bed-fridge.png" width="240" alt="當別人問到我有什麼興趣"></a><br><a href="../memes/m3918.md">當別人問到我有什麼興趣</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3919.md"><img src="../images/m3919-finding-video-while-food-waits.png" width="240" alt="正在找配飯用影片的我 vs 我的食物"></a><br><a href="../memes/m3919.md">正在找配飯用影片的我 vs 我的食物</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3940.md"><img src="../images/m3940-what-did-i-just-see.png" width="240" alt="我剛才到底都看了什麼"></a><br><a href="../memes/m3940.md">我剛才到底都看了什麼</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（131）
+## ★★（134）
 
 <table>
 <tr>
@@ -335,6 +336,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3854.md"><img src="../images/m3854-grandma-toeic-100.jpg" width="240" alt="跟阿嬤說我要考多益，結果她祝我考 100 分"></a><br><a href="../memes/m3854.md">跟阿嬤說我要考多益，結果她祝我考 100 分</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3921.md"><img src="../images/m3921-how-tough-f9-elsword.png" width="240" alt="你有多猛？——我都開著 F9 打艾爾"></a><br><a href="../memes/m3921.md">你有多猛？——我都開著 F9 打艾爾</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3939.md"><img src="../images/m3939-hsr-dragon-mouth-bug-fix.png" width="240" alt="崩鐵的龍嘴巴不會張開的 bug 修正前 vs 修正後"></a><br><a href="../memes/m3939.md">崩鐵的龍嘴巴不會張開的 bug 修正前 vs 修正後</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3941.md"><img src="../images/m3941-cote-traitor-caught-face.png" width="240" alt="實力至上主義教室：窩裡反的人被抓到時的表情"></a><br><a href="../memes/m3941.md">實力至上主義教室：窩裡反的人被抓到時的表情</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3944.md"><img src="../images/m3944-pictures-have-no-sound.png" width="240" alt="圖片是聽不到聲音的——但每一張你腦中都有聲音"></a><br><a href="../memes/m3944.md">圖片是聽不到聲音的——但每一張你腦中都有聲音</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
@@ -347,7 +353,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（364）
+## ⚠️ 需斟酌（367）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3986,6 +3992,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3937.md"><img src="../images/m3937-joseph-suzi-q-japanese-culture.png" width="240" alt="喬瑟夫向絲吉 Q 解釋偷吃朋子的事：我只是在體驗日本的文化啦"></a><br><a href="../memes/m3937.md">喬瑟夫向絲吉 Q 解釋偷吃朋子的事：我只是在體驗日本的文化啦</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>咖啡拉花：五條悟被腰斬 — ⚠️ 血腥暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3938.md"><img src="../images/m3938-gojo-latte-art.jpg" width="240" alt="咖啡拉花：五條悟被腰斬"></a><br><a href="../memes/m3938.md">咖啡拉花：五條悟被腰斬</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>CA 對上一排都有清除 debuff 技能的角色 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3942.md"><img src="../images/m3942-elsword-ca-vs-debuff-cleanse.png" width="240" alt="CA 對上一排都有清除 debuff 技能的角色"></a><br><a href="../memes/m3942.md">CA 對上一排都有清除 debuff 技能的角色</a><br><sub>👀 ★★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>瑪莉到了音樂教室打開盒子一看：糟！老爸拿我的小提琴去火拼了 — ⚠️ 槍械</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3946.md"><img src="../images/m3946-violin-case-father-daughter.png" width="240" alt="瑪莉到了音樂教室打開盒子一看：糟！老爸拿我的小提琴去火拼了"></a><br><a href="../memes/m3946.md">瑪莉到了音樂教室打開盒子一看：糟！老爸拿我的小提琴去火拼了</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

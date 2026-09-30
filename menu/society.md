@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 489 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 490 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（213）
 
@@ -474,7 +474,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（229）
+## ⚠️ 需斟酌（230）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2763,6 +2763,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3934.md"><img src="../images/m3934-management-committee-visit.jpg" width="240" alt="住戶生病了，管理委員會的委員前來關心……"></a><br><a href="../memes/m3934.md">住戶生病了，管理委員會的委員前來關心……</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>拔～多大年紀還沒有性經驗最尷尬？——當爸爸以後！ — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3945.md"><img src="../images/m3945-dad-when-lose-virginity.jpg" width="240" alt="拔～多大年紀還沒有性經驗最尷尬？——當爸爸以後！"></a><br><a href="../memes/m3945.md">拔～多大年紀還沒有性經驗最尷尬？——當爸爸以後！</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

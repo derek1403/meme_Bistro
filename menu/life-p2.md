@@ -347,7 +347,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（358）
+## ⚠️ 需斟酌（364）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -3926,6 +3926,66 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3922.md"><img src="../images/m3922-ero-manga-artist-and-reader.jpg" width="240" alt="エロ漫画家：來畫 H 的女孩子——讀者：H 圖的女孩子——省略"></a><br><a href="../memes/m3922.md">エロ漫画家：來畫 H 的女孩子——讀者：H 圖的女孩子——省略</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>談戀愛太麻煩？用 galgame 經驗就可以了——不是用這個 — ⚠️ 性侵暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3927.md"><img src="../images/m3927-galgame-dating-experience.png" width="240" alt="談戀愛太麻煩？用 galgame 經驗就可以了——不是用這個"></a><br><a href="../memes/m3927.md">談戀愛太麻煩？用 galgame 經驗就可以了——不是用這個</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>禁止標誌：此處禁止…… — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3931.md"><img src="../images/m3931-no-sex-road-sign.png" width="240" alt="禁止標誌：此處禁止……"></a><br><a href="../memes/m3931.md">禁止標誌：此處禁止……</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你想打噴嚏卻又打不出來時 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3933.md"><img src="../images/m3933-sneeze-wont-come-out.jpg" width="240" alt="當你想打噴嚏卻又打不出來時"></a><br><a href="../memes/m3933.md">當你想打噴嚏卻又打不出來時</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>FBI：幹嘛暫停，繼續播啊 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3935.md"><img src="../images/m3935-fbi-why-paused.png" width="240" alt="FBI：幹嘛暫停，繼續播啊"></a><br><a href="../memes/m3935.md">FBI：幹嘛暫停，繼續播啊</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>鳥媽媽叼蟲回鳥巢——小鳥們： — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3936.md"><img src="../images/m3936-mother-bird-brings-bugs.png" width="240" alt="鳥媽媽叼蟲回鳥巢——小鳥們："></a><br><a href="../memes/m3936.md">鳥媽媽叼蟲回鳥巢——小鳥們：</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>喬瑟夫向絲吉 Q 解釋偷吃朋子的事：我只是在體驗日本的文化啦 — ⚠️ 裸露、外遇</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3937.md"><img src="../images/m3937-joseph-suzi-q-japanese-culture.png" width="240" alt="喬瑟夫向絲吉 Q 解釋偷吃朋子的事：我只是在體驗日本的文化啦"></a><br><a href="../memes/m3937.md">喬瑟夫向絲吉 Q 解釋偷吃朋子的事：我只是在體驗日本的文化啦</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 425 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 426 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（309）
+## ★（310）
 
 <table>
 <tr>
@@ -553,6 +553,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3750.md"><img src="../images/m3750-css-changes-dog-swap.png" width="240" alt="當你在 CSS 檔案改了一點東西"></a><br><a href="../memes/m3750.md">當你在 CSS 檔案改了一點東西</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3797.md"><img src="../images/m3797-doctor-nurse-programmer-tester.png" width="240" alt="醫生與護士 vs 程式設計師與測試員"></a><br><a href="../memes/m3797.md">醫生與護士 vs 程式設計師與測試員</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3843.md"><img src="../images/m3843-taiwanese-talk-like-chatgpt.png" width="240" alt="台灣人講話很像 ChatGPT？回覆全都用 ChatGPT 的語氣"></a><br><a href="../memes/m3843.md">台灣人講話很像 ChatGPT？回覆全都用 ChatGPT 的語氣</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3924.md"><img src="../images/m3924-girls-vs-boys-with-ai.png" width="240" alt="Girls with AI vs Boys with AI"></a><br><a href="../memes/m3924.md">Girls with AI vs Boys with AI</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

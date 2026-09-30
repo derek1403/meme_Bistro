@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 484 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 489 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（212）
+## ★（213）
 
 <table>
 <tr>
@@ -383,6 +383,7 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3917.md"><img src="../images/m3917-epic-none-of-my-business.png" width="240" alt="為什麼三四十歲還在沉迷遊戲？Epic：關我屁事、關你屁事"></a><br><a href="../memes/m3917.md">為什麼三四十歲還在沉迷遊戲？Epic：關我屁事、關你屁事</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3920.md"><img src="../images/m3920-born-as-a-baby-judges-cry.png" width="240" alt="參賽者：我出生時還是個嬰兒——真人秀評委："></a><br><a href="../memes/m3920.md">參賽者：我出生時還是個嬰兒——真人秀評委：</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3929.md"><img src="../images/m3929-seine-triathlon-immunity.png" width="240" alt="塞納河拿來當鐵人三項場地：我都不知道鐵人三項還要比免疫力"></a><br><a href="../memes/m3929.md">塞納河拿來當鐵人三項場地：我都不知道鐵人三項還要比免疫力</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
@@ -473,7 +474,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（225）
+## ⚠️ 需斟酌（229）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2722,6 +2723,46 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3909.md"><img src="../images/m3909-pink-taiwan-territory-games.png" width="240" alt="台灣是國家嗎？他是中國的國土！——但他們可以玩遊戲"></a><br><a href="../memes/m3909.md">台灣是國家嗎？他是中國的國土！——但他們可以玩遊戲</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>阿茲海默症可不是鬧著玩的：那位是我老婆嗎？還是我該付錢了？ — ⚠️ 亂倫、疾病</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3928.md"><img src="../images/m3928-alzheimers-wife-or-pay.png" width="240" alt="阿茲海默症可不是鬧著玩的：那位是我老婆嗎？還是我該付錢了？"></a><br><a href="../memes/m3928.md">阿茲海默症可不是鬧著玩的：那位是我老婆嗎？還是我該付錢了？</a><br><sub>🔥 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>在日本搓澡擦背是增進感情的方法——而不是用「你是誰」回應 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3930.md"><img src="../images/m3930-japan-scrub-back-who-are-you.png" width="240" alt="在日本搓澡擦背是增進感情的方法——而不是用「你是誰」回應"></a><br><a href="../memes/m3930.md">在日本搓澡擦背是增進感情的方法——而不是用「你是誰」回應</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>公車上被女的打了一巴掌，我大喊：孩子是不是我的——你是你姐姐啊 — ⚠️ 亂倫</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3932.md"><img src="../images/m3932-bus-slap-sister.png" width="240" alt="公車上被女的打了一巴掌，我大喊：孩子是不是我的——你是你姐姐啊"></a><br><a href="../memes/m3932.md">公車上被女的打了一巴掌，我大喊：孩子是不是我的——你是你姐姐啊</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>住戶生病了，管理委員會的委員前來關心…… — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3934.md"><img src="../images/m3934-management-committee-visit.jpg" width="240" alt="住戶生病了，管理委員會的委員前來關心……"></a><br><a href="../memes/m3934.md">住戶生病了，管理委員會的委員前來關心……</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

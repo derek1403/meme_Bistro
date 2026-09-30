@@ -101,9 +101,12 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3919.md"><img src="../images/m3919-finding-video-while-food-waits.png" width="240" alt="正在找配飯用影片的我 vs 我的食物"></a><br><a href="../memes/m3919.md">正在找配飯用影片的我 vs 我的食物</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3940.md"><img src="../images/m3940-what-did-i-just-see.png" width="240" alt="我剛才到底都看了什麼"></a><br><a href="../memes/m3940.md">我剛才到底都看了什麼</a><br><sub>👀 ★</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3948.md"><img src="../images/m3948-finger-hostage.png" width="240" alt="綁匪拿刀挾持人質——仔細一看，是兩根手指頭"></a><br><a href="../memes/m3948.md">綁匪拿刀挾持人質——仔細一看，是兩根手指頭</a><br><sub>👀 ★</sub></td>
+</tr>
 </table>
 
-## ★★（134）
+## ★★（136）
 
 <table>
 <tr>
@@ -341,6 +344,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3941.md"><img src="../images/m3941-cote-traitor-caught-face.png" width="240" alt="實力至上主義教室：窩裡反的人被抓到時的表情"></a><br><a href="../memes/m3941.md">實力至上主義教室：窩裡反的人被抓到時的表情</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3944.md"><img src="../images/m3944-pictures-have-no-sound.png" width="240" alt="圖片是聽不到聲音的——但每一張你腦中都有聲音"></a><br><a href="../memes/m3944.md">圖片是聽不到聲音的——但每一張你腦中都有聲音</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3952.md"><img src="../images/m3952-ena-wall-of-text.png" width="240" alt="Me when [一整面小作文] Who else agrees? 😎"></a><br><a href="../memes/m3952.md">Me when [一整面小作文] Who else agrees? 😎</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3953.md"><img src="../images/m3953-stop-breathing-until-mrbeast.png" width="240" alt="我決定要停止呼吸，直到吉米·唐納森來我這隻影片下面留言（留言功能已關閉）"></a><br><a href="../memes/m3953.md">我決定要停止呼吸，直到吉米·唐納森來我這隻影片下面留言（留言功能已關閉）</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

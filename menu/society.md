@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 490 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 493 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（213）
 
@@ -474,7 +474,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（230）
+## ⚠️ 需斟酌（233）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2773,6 +2773,36 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3945.md"><img src="../images/m3945-dad-when-lose-virginity.jpg" width="240" alt="拔～多大年紀還沒有性經驗最尷尬？——當爸爸以後！"></a><br><a href="../memes/m3945.md">拔～多大年紀還沒有性經驗最尷尬？——當爸爸以後！</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>魏律師，張三在路邊侵犯女生，我問他可以加入嗎……——「你不僅立功了，還爽了」 — ⚠️ 性侵地獄梗</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3947.md"><img src="../images/m3947-weird-legal-knowledge.png" width="240" alt="魏律師，張三在路邊侵犯女生，我問他可以加入嗎……——「你不僅立功了，還爽了」"></a><br><a href="../memes/m3947.md">魏律師，張三在路邊侵犯女生，我問他可以加入嗎……——「你不僅立功了，還爽了」</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>你最喜歡的東方角色就會代表你的性格——戀童癖、戀童癖、戀童癖…… — ⚠️ 戀童癖指控</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3950.md"><img src="../images/m3950-touhou-personality-all-same.png" width="240" alt="你最喜歡的東方角色就會代表你的性格——戀童癖、戀童癖、戀童癖……"></a><br><a href="../memes/m3950.md">你最喜歡的東方角色就會代表你的性格——戀童癖、戀童癖、戀童癖……</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>「避孕方法」——Google 給你一整張衛教圖，Bing 給你一個男孩子 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3951.md"><img src="../images/m3951-google-vs-bing-contraception.png" width="240" alt="「避孕方法」——Google 給你一整張衛教圖，Bing 給你一個男孩子"></a><br><a href="../memes/m3951.md">「避孕方法」——Google 給你一整張衛教圖，Bing 給你一個男孩子</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

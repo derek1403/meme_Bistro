@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 493 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 495 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（213）
 
@@ -387,7 +387,7 @@
 </tr>
 </table>
 
-## ★★（47）
+## ★★（48）
 
 <table>
 <tr>
@@ -471,10 +471,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3808.md"><img src="../images/m3808-news-anchor-suo-yuki.png" width="240" alt="關鍵時刻主持人：我最喜歡周防有希了"></a><br><a href="../memes/m3808.md">關鍵時刻主持人：我最喜歡周防有希了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3896.md"><img src="../images/m3896-lu-xun-men-dressing-as-women.png" width="240" alt="魯迅：我們中國最偉大最永久的藝術就是男人扮女人——這話我還真說過"></a><br><a href="../memes/m3896.md">魯迅：我們中國最偉大最永久的藝術就是男人扮女人——這話我還真說過</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3958.md"><img src="../images/m3958-flattery-for-money.png" width="240" alt="這是什麼車啊，怎麼旁邊還站著貂蟬啊——這碗飯就該你吃"></a><br><a href="../memes/m3958.md">這是什麼車啊，怎麼旁邊還站著貂蟬啊——這碗飯就該你吃</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 
-## ⚠️ 需斟酌（233）
+## ⚠️ 需斟酌（234）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -2803,6 +2804,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3951.md"><img src="../images/m3951-google-vs-bing-contraception.png" width="240" alt="「避孕方法」——Google 給你一整張衛教圖，Bing 給你一個男孩子"></a><br><a href="../memes/m3951.md">「避孕方法」——Google 給你一整張衛教圖，Bing 給你一個男孩子</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>下列哪項違反倫理道德？A 毆打妻子 B 嘗一口豬肉 C 限制女性自由 D 與幼童成婚 — ⚠️ 宗教諷刺</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3954.md"><img src="../images/m3954-which-is-unethical-quiz.jpg" width="240" alt="下列哪項違反倫理道德？A 毆打妻子 B 嘗一口豬肉 C 限制女性自由 D 與幼童成婚"></a><br><a href="../memes/m3954.md">下列哪項違反倫理道德？A 毆打妻子 B 嘗一口豬肉 C 限制女性自由 D 與幼童成婚</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 396 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 397 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（113）
 
@@ -664,7 +664,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（32）
+## ⚠️ 需斟酌（33）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -983,6 +983,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3902.md"><img src="../images/m3902-surgery-50-percent-twice.jpg" width="240" alt="手術只有 50% 的存活機會——手術動兩次就好啦！——水啦！"></a><br><a href="../memes/m3902.md">手術只有 50% 的存活機會——手術動兩次就好啦！——水啦！</a><br><sub>🔥 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>當你因為數學掛科想自殺，但你並沒有死，因為你算錯了繩子的長度 — ⚠️ 自殺</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3957.md"><img src="../images/m3957-miscalculated-rope-length.jpg" width="240" alt="當你因為數學掛科想自殺，但你並沒有死，因為你算錯了繩子的長度"></a><br><a href="../memes/m3957.md">當你因為數學掛科想自殺，但你並沒有死，因為你算錯了繩子的長度</a><br><sub>🔥 ★★</sub></td>
 </tr>
 </table>
 

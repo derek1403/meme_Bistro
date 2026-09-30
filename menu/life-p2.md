@@ -360,7 +360,7 @@
 </tr>
 </table>
 
-## ⚠️ 需斟酌（367）
+## ⚠️ 需斟酌（369）
 
 > 以下迷因涉及性、死亡、種族、宗教、政治等敏感題材，點開前請確認你能接受。
 
@@ -4029,6 +4029,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3946.md"><img src="../images/m3946-violin-case-father-daughter.png" width="240" alt="瑪莉到了音樂教室打開盒子一看：糟！老爸拿我的小提琴去火拼了"></a><br><a href="../memes/m3946.md">瑪莉到了音樂教室打開盒子一看：糟！老爸拿我的小提琴去火拼了</a><br><sub>👀 ★★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>Anti stress balls——紓壓球 — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3955.md"><img src="../images/m3955-anti-stress-balls-reimu.png" width="240" alt="Anti stress balls——紓壓球"></a><br><a href="../memes/m3955.md">Anti stress balls——紓壓球</a><br><sub>👀 ★</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details><summary>胡迪和巴斯驚恐地看著——阿薛正在改造幽幽子 fumo — ⚠️ 性暗示</summary>
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3956.md"><img src="../images/m3956-sid-modifies-yuyuko-fumo.png" width="240" alt="胡迪和巴斯驚恐地看著——阿薛正在改造幽幽子 fumo"></a><br><a href="../memes/m3956.md">胡迪和巴斯驚恐地看著——阿薛正在改造幽幽子 fumo</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

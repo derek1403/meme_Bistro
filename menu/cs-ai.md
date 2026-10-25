@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 426 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 433 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（310）
+## ★（316）
 
 <table>
 <tr>
@@ -556,10 +556,20 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3924.md"><img src="../images/m3924-girls-vs-boys-with-ai.png" width="240" alt="Girls with AI vs Boys with AI"></a><br><a href="../memes/m3924.md">Girls with AI vs Boys with AI</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3959.md"><img src="../images/m3959-me-and-claude-2025-2026.png" width="240" alt="我和 Claude：2025 vs 2026"></a><br><a href="../memes/m3959.md">我和 Claude：2025 vs 2026</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3963.md"><img src="../images/m3963-one-pushup-ai-agent.png" width="240" alt="每次等 AI 代理跑完，我就做一下伏地挺身"></a><br><a href="../memes/m3963.md">每次等 AI 代理跑完，我就做一下伏地挺身</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3966.md"><img src="../images/m3966-vampire-wolfman-programmer-token-limit.png" width="240" alt="吸血鬼怕陽光、狼人怕滿月、工程師怕 Claude token 用量"></a><br><a href="../memes/m3966.md">吸血鬼怕陽光、狼人怕滿月、工程師怕 Claude token 用量</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3970.md"><img src="../images/m3970-linkedin-interview-work-dinosaur.png" width="240" alt="LinkedIn 上的我 vs 面試的我 vs 上班的我"></a><br><a href="../memes/m3970.md">LinkedIn 上的我 vs 面試的我 vs 上班的我</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3971.md"><img src="../images/m3971-ai-model-name-letter-count.png" width="240" alt="AI 模型排行：名字字母數"></a><br><a href="../memes/m3971.md">AI 模型排行：名字字母數</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3975.md"><img src="../images/m3975-vibe-coding-final-boss-windows12.png" width="240" alt="Vibe coding 最終魔王：create windows12 and make no mistakes"></a><br><a href="../memes/m3975.md">Vibe coding 最終魔王：create windows12 and make no mistakes</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（81）
+## ★★（82）
 
 <table>
 <tr>
@@ -702,6 +712,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3297.md"><img src="../images/m3297-index-at-1-matlab-party.png" width="240" alt="在派對上說「我的索引從 1 開始」"></a><br><a href="../memes/m3297.md">在派對上說「我的索引從 1 開始」</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3429.md"><img src="../images/m3429-amd-yes-teletubbies.jpg" width="240" alt="2014 年說 AMD YES 會沒朋友，2020 年大家都在喊"></a><br><a href="../memes/m3429.md">2014 年說 AMD YES 會沒朋友，2020 年大家都在喊</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3469.md"><img src="../images/m3469-milk-if-they-have-cola-six.jpg" width="240" alt="買瓶牛奶，如果有賣可樂就帶六瓶——結果帶回六瓶牛奶"></a><br><a href="../memes/m3469.md">買瓶牛奶，如果有賣可樂就帶六瓶——結果帶回六瓶牛奶</a><br><sub>🧠 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3961.md"><img src="../images/m3961-gemini-under-where-coordinates.png" width="240" alt="看下面！——Under where?——說「home」"></a><br><a href="../memes/m3961.md">看下面！——Under where?——說「home」</a><br><sub>👀🔤 ★★</sub></td>
 </tr>
 </table>
 

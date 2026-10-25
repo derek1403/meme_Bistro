@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 240 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 243 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（104）
+## ★（105）
 
 <table>
 <tr>
@@ -191,10 +191,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3767.md"><img src="../images/m3767-flat-earth-geologist-computers.png" width="240" alt="我是電腦工程師，我斷言地球是平的——我是地質學家，電腦裡面有小人在工作"></a><br><a href="../memes/m3767.md">我是電腦工程師，我斷言地球是平的——我是地質學家，電腦裡面有小人在工作</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3880.md"><img src="../images/m3880-einstein-speed-is-relative.jpg" width="240" alt="警官，你聽我說啦，速度其實是相對的"></a><br><a href="../memes/m3880.md">警官，你聽我說啦，速度其實是相對的</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3968.md"><img src="../images/m3968-law-students-physics-students.png" width="240" alt="法學院學生守法，物理系學生遵守物理定律"></a><br><a href="../memes/m3968.md">法學院學生守法，物理系學生遵守物理定律</a><br><sub>🔤 ★</sub></td>
 </tr>
 </table>
 
-## ★★（81）
+## ★★（83）
 
 <table>
 <tr>
@@ -337,6 +338,10 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3664.md"><img src="../images/m3664-kimetsu-exam-fog.jpg" width="240" alt="鬼滅考題：炎柱與炭治郎招式碰撞產生霧氣——(D) 我只知道炎柱最後死了"></a><br><a href="../memes/m3664.md">鬼滅考題：炎柱與炭治郎招式碰撞產生霧氣——(D) 我只知道炎柱最後死了</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3687.md"><img src="../images/m3687-noble-gas-no-hug.png" width="240" alt="所有元素互相擁抱，只有惰性氣體自己一個"></a><br><a href="../memes/m3687.md">所有元素互相擁抱，只有惰性氣體自己一個</a><br><sub>👀 ★★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3740.md"><img src="../images/m3740-oppenheimer-okuu-fumo.png" width="240" alt="1944 年奧本海默正在解釋他的設計時拍下的照片"></a><br><a href="../memes/m3740.md">1944 年奧本海默正在解釋他的設計時拍下的照片</a><br><sub>👀 ★★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3967.md"><img src="../images/m3967-radar-convection-swole-doge-cheems.jpg" width="240" alt="對流在外海時：大雷雨訊息，發！——上陸時："></a><br><a href="../memes/m3967.md">對流在外海時：大雷雨訊息，發！——上陸時：</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3973.md"><img src="../images/m3973-double-pendulum-bear-behind-cub.png" width="240" alt="單擺小熊，背後是雙擺大熊"></a><br><a href="../memes/m3973.md">單擺小熊，背後是雙擺大熊</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 

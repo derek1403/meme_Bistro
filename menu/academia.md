@@ -4,7 +4,7 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 166 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 167 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
 ## ★（134）
 
@@ -247,7 +247,7 @@
 </tr>
 </table>
 
-## ★★（13）
+## ★★（14）
 
 <table>
 <tr>
@@ -272,6 +272,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3949.md"><img src="../images/m3949-wedding-invitation-paper.png" width="240" alt="寫成論文格式的婚禮邀請函——摘要、方法、結論、參考文獻一個都不能少"></a><br><a href="../memes/m3949.md">寫成論文格式的婚禮邀請函——摘要、方法、結論、參考文獻一個都不能少</a><br><sub>👀 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3974.md"><img src="../images/m3974-latex-in-messaging-utopia.png" width="240" alt="如果聊天軟體和社群都支援 LaTeX，社會會變這樣"></a><br><a href="../memes/m3974.md">如果聊天軟體和社群都支援 LaTeX，社會會變這樣</a><br><sub>👀 ★★</sub></td>
 </tr>
 </table>
 

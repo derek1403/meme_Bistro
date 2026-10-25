@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 382 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 383 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（243）
+## ★（244）
 
 <table>
 <tr>
@@ -437,6 +437,9 @@
 <td align="center" valign="top" width="33%"><a href="../memes/m3712.md"><img src="../images/m3712-comfortable-come-for-food.png" width="240" alt="Comfortable sir? No, no... Comeforfood"></a><br><a href="../memes/m3712.md">Comfortable sir? No, no... Comeforfood</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3832.md"><img src="../images/m3832-long-legs-long-face.png" width="240" alt="相親終於遇到正常人——這麼長的腿真給男朋友長臉"></a><br><a href="../memes/m3832.md">相親終於遇到正常人——這麼長的腿真給男朋友長臉</a><br><sub>🔤 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3926.md"><img src="../images/m3926-three-intelligence-insults.png" width="240" alt="這些全都是侮辱：你看起來沒那麼聰明、你比看起來聰明、你跟看起來一樣聰明"></a><br><a href="../memes/m3926.md">這些全都是侮辱：你看起來沒那麼聰明、你比看起來聰明、你跟看起來一樣聰明</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3964.md"><img src="../images/m3964-others-love-river-dog-splashed.png" width="240" alt="別人的愛河——路過的我"></a><br><a href="../memes/m3964.md">別人的愛河——路過的我</a><br><sub>🔤👀 ★</sub></td>
 </tr>
 </table>
 

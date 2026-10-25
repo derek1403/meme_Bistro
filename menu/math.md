@@ -4,9 +4,9 @@
 
 [⬅ 回酒館大廳](../README.md) ・ [📋 總表](index.md) ・ [🏷️ 標籤](tags.md) ・ [🍸 看不懂專區](explained.md)
 
-共 397 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
+共 400 張。依難度排序：★ 一看就懂 → ★★★ 要有學科背景。
 
-## ★（113）
+## ★（114）
 
 <table>
 <tr>
@@ -206,10 +206,11 @@
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3826.md"><img src="../images/m3826-guess-who-15-dog.jpg" width="240" alt="猜一猜我是誰：我的前面是 14、後面是 16——我是狗"></a><br><a href="../memes/m3826.md">猜一猜我是誰：我的前面是 14、後面是 16——我是狗</a><br><sub>👀 ★</sub></td>
 <td align="center" valign="top" width="33%"><a href="../memes/m3903.md"><img src="../images/m3903-plus-equals-times.jpg" width="240" alt="2+2=4、2×2=4，所以 + = ×——愛因斯坦被架住：冷靜！冷靜！"></a><br><a href="../memes/m3903.md">2+2=4、2×2=4，所以 + = ×——愛因斯坦被架住：冷靜！冷靜！</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3969.md"><img src="../images/m3969-math-girls-fight-boys-hug.png" width="240" alt="3+3、3×3、3³ 吵架；2²、2+2、2×2 抱在一起"></a><br><a href="../memes/m3969.md">3+3、3×3、3³ 吵架；2²、2+2、2×2 抱在一起</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 
-## ★★（187）
+## ★★（188）
 
 <table>
 <tr>
@@ -542,10 +543,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3925.md"><img src="../images/m3925-rational-circles-no-intersection.png" width="240" alt="兩個有理數圓明明畫起來相交，交集卻是空集合"></a><br><a href="../memes/m3925.md">兩個有理數圓明明畫起來相交，交集卻是空集合</a><br><sub>🧠 ★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3962.md"><img src="../images/m3962-galaxy-brain-survivorship-plane.png" width="240" alt="倖存者偏差飛機 vs 銀河大腦：把飛機做在子彈打不到的地方"></a><br><a href="../memes/m3962.md">倖存者偏差飛機 vs 銀河大腦：把飛機做在子彈打不到的地方</a><br><sub>🧠👀 ★★</sub></td>
 </tr>
 </table>
 
-## ★★★（64）
+## ★★★（65）
 
 <table>
 <tr>
@@ -661,6 +663,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3794.md"><img src="../images/m3794-matrix-world-strang.png" width="240" alt="Matrix World：一張圖看懂所有矩陣的分類"></a><br><a href="../memes/m3794.md">Matrix World：一張圖看懂所有矩陣的分類</a><br><sub>🧠 ★★★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3972.md"><img src="../images/m3972-mom-full-name-complex-quotient-ring.png" width="240" alt="媽媽叫你全名時：ℝ[x]/⟨x²+1⟩"></a><br><a href="../memes/m3972.md">媽媽叫你全名時：ℝ[x]/⟨x²+1⟩</a><br><sub>🧠 ★★★</sub></td>
 </tr>
 </table>
 

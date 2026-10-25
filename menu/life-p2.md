@@ -103,6 +103,11 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="../memes/m3948.md"><img src="../images/m3948-finger-hostage.png" width="240" alt="綁匪拿刀挾持人質——仔細一看，是兩根手指頭"></a><br><a href="../memes/m3948.md">綁匪拿刀挾持人質——仔細一看，是兩根手指頭</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3960.md"><img src="../images/m3960-cat-sprinter-starting-blocks.png" width="240" alt="第 10 道選手已就位"></a><br><a href="../memes/m3960.md">第 10 道選手已就位</a><br><sub>👀 ★</sub></td>
+<td align="center" valign="top" width="33%"><a href="../memes/m3965.md"><img src="../images/m3965-smart-classmates-other-level.png" width="240" alt="學歷好又聰明的人，早就在你看不到的層次了"></a><br><a href="../memes/m3965.md">學歷好又聰明的人，早就在你看不到的層次了</a><br><sub>👀 ★</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="../memes/m3976.md"><img src="../images/m3976-three-insults-intelligence.png" width="240" alt="不知怎麼地，這三句全都是侮辱"></a><br><a href="../memes/m3976.md">不知怎麼地，這三句全都是侮辱</a><br><sub>👀 ★</sub></td>
 </tr>
 </table>
 

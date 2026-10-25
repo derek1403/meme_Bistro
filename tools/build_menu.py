@@ -7,6 +7,7 @@
   menu/tags.md         標籤索引
   menu/explained.md    附笑點解說的梗（看不懂專區）
   menu/bartender_pick.md  調酒師今日精選（依日期隨機）
+  site/memes.json      網頁版今日精選的資料（網頁在瀏覽器端依台灣日期抽）
   README.md 中 <!-- MENU:START --> ... <!-- MENU:END --> 區塊
 
 用法：
@@ -15,6 +16,7 @@
 只用標準函式庫。
 """
 import datetime
+import json
 import random
 import re
 import sys
@@ -25,6 +27,8 @@ ROOT = Path(__file__).resolve().parent.parent
 MEMES = ROOT / 'memes'
 IMAGES = ROOT / 'images'
 MENU = ROOT / 'menu'
+SITE = ROOT / 'site'
+SITE_URL = 'https://derek1403.github.io/meme_Bistro/'
 README = ROOT / 'README.md'
 
 TOPICS = {
@@ -283,14 +287,26 @@ def build_explained(cards):
     return ''.join(out)
 
 
+def pick_pool(cards):
+    return [c for c in cards if not c.get('content_warning')]
+
+
 def build_pick(cards):
     today = datetime.date.today()
     rng = random.Random(today.isoformat())
-    pool = [c for c in cards if not c.get('content_warning')]
+    pool = pick_pool(cards)
     picks = rng.sample(pool, min(PICK_COUNT, len(pool)))
     return ''.join([GENERATED, '# 🎲 調酒師今日精選\n\n', BACK, '\n',
-                    f'每次執行 `tools/build_menu.py` 會依當天日期（{today.isoformat()}）隨機抽出 {len(picks)} 杯，'
+                    f'> 🌐 **每日自動刷新版 → [{SITE_URL}]({SITE_URL})**'
+                    '（依台灣日期每天換一批，可翻看前後日、依主題篩選）\n\n',
+                    f'以下是靜態備份：每次執行 `tools/build_menu.py` 會依當天日期（{today.isoformat()}）隨機抽出 {len(picks)} 杯，'
                     '不含需斟酌的內容。\n\n', gallery(picks)])
+
+
+def build_site_data(cards):
+    rows = [{'id': c['id'], 't': c['title'], 'img': Path(c['image']).name, 'topic': c['topic'],
+             'h': c['humor'], 'd': c['difficulty']} for c in pick_pool(cards)]
+    return json.dumps(rows, ensure_ascii=False, separators=(',', ':')) + '\n'
 
 
 def build_readme_block(cards):
@@ -348,6 +364,8 @@ def main():
     for name, text in split.items():
         (MENU / name).write_text(text, encoding='utf-8', newline='\n')
     pages = split
+    SITE.mkdir(exist_ok=True)
+    (SITE / 'memes.json').write_text(build_site_data(cards), encoding='utf-8', newline='\n')
 
     readme = README.read_text(encoding='utf-8')
     block = f'<!-- MENU:START -->\n{build_readme_block(cards)}\n<!-- MENU:END -->'

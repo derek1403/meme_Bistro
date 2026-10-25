@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>調酒師今日精選</title>
+<meta name="description" content="meme_Bistro 迷因酒館：依台灣日期每天自動換一批的 12 杯迷因。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍻</text></svg>">
+<style>
+:root {
+  --bg: #faf6ef;
+  --surface: #ffffff;
+  --surface-2: #f2ebdf;
+  --text: #2b2118;
+  --muted: #7a6a58;
+  --line: #e4d9c7;
+  --accent: #b5621b;
+  --accent-text: #ffffff;
+  --shadow: 0 1px 2px rgba(60, 40, 20, .08), 0 4px 14px rgba(60, 40, 20, .06);
+  --radius: 14px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #17120e;
+    --surface: #221b15;
+    --surface-2: #2c231b;
+    --text: #f1e8dc;
+    --muted: #a8977f;
+    --line: #3a2f25;
+    --accent: #e8964a;
+    --accent-text: #1a120a;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 4px 14px rgba(0, 0, 0, .3);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #17120e;
+  --surface: #221b15;
+  --surface-2: #2c231b;
+  --text: #f1e8dc;
+  --muted: #a8977f;
+  --line: #3a2f25;
+  --accent: #e8964a;
+  --accent-text: #1a120a;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 4px 14px rgba(0, 0, 0, .3);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+a { color: var(--accent); }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 24px 16px 48px; }
+
+header h1 { margin: 0; font-size: clamp(1.5rem, 4vw, 2.1rem); letter-spacing: .02em; }
+header .sub { margin: 4px 0 0; color: var(--muted); }
+header .sub a { color: inherit; }
+
+.bar {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+  margin: 20px 0 12px;
+}
+.date-nav { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.date-label { font-variant-numeric: tabular-nums; font-weight: 600; padding: 0 6px; }
+.mode { font-size: .85rem; color: var(--muted); }
+button, .chip {
+  font: inherit; font-size: .92rem; cursor: pointer;
+  border: 1px solid var(--line); background: var(--surface); color: var(--text);
+  border-radius: 999px; padding: 6px 14px; line-height: 1.3;
+  transition: background .15s, border-color .15s;
+}
+button:hover:not(:disabled), .chip:hover { border-color: var(--accent); }
+button:disabled { opacity: .4; cursor: default; }
+button:focus-visible, .chip:focus-visible, .card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.primary { background: var(--accent); color: var(--accent-text); border-color: var(--accent); font-weight: 600; }
+.spacer { flex: 1; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+
+.grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+@media (max-width: 760px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; } }
+@media (max-width: 420px) { .grid { grid-template-columns: minmax(0, 1fr); } }
+
+.card {
+  display: flex; flex-direction: column; text-align: left;
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow); overflow: hidden; padding: 0; cursor: pointer;
+  transition: transform .15s, border-color .15s;
+}
+.card:hover { transform: translateY(-2px); border-color: var(--accent); }
+.thumb { position: relative; aspect-ratio: 1 / 1; overflow: hidden; background: var(--surface-2); display: flex; align-items: center; justify-content: center; }
+.thumb img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; display: block; }
+.thumb .broken { color: var(--muted); font-size: .85rem; padding: 12px; text-align: center; }
+.card .meta { padding: 10px 12px 12px; }
+.card .title { font-size: .95rem; font-weight: 600; overflow-wrap: anywhere; }
+.card .badges { font-size: .85rem; color: var(--muted); margin-top: 2px; }
+
+.empty, .status { color: var(--muted); text-align: center; padding: 48px 0; }
+footer { margin-top: 36px; color: var(--muted); font-size: .85rem; text-align: center; }
+footer a { color: inherit; }
+
+dialog {
+  width: min(920px, calc(100vw - 32px)); max-height: calc(100vh - 32px);
+  padding: 0; border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--surface); color: var(--text); box-shadow: var(--shadow);
+}
+dialog::backdrop { background: rgba(10, 6, 2, .72); }
+.lb { display: flex; flex-direction: column; max-height: calc(100vh - 34px); }
+.lb-img { background: var(--surface-2); display: flex; justify-content: center; }
+.lb-img img { max-width: 100%; max-height: 62vh; object-fit: contain; display: block; }
+.lb-body { padding: 16px 20px 20px; overflow-y: auto; }
+.lb-body h2 { margin: 0 0 4px; font-size: 1.2rem; overflow-wrap: anywhere; }
+.lb-body .badges { color: var(--muted); font-size: .9rem; }
+.lb-body .oneliner { margin: 12px 0 0; }
+.lb-body h3 { margin: 16px 0 4px; font-size: 1rem; }
+.lb-body ul { margin: 4px 0; padding-left: 1.3em; }
+.lb-body code { background: var(--surface-2); padding: 0 4px; border-radius: 4px; font-size: .9em; }
+.lb-body .note { color: var(--muted); margin: 12px 0 0; }
+.lb-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 16px; }
+.lb-actions a { font-size: .92rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🎲 調酒師今日精選</h1>
+    <p class="sub">🍻 <a href="https://github.com/derek1403/meme_Bistro">meme_Bistro 迷因酒館</a> ・ 依台灣日期每天自動換一批，看不懂的點開有解說</p>
+  </header>
+
+  <div class="bar">
+    <div class="date-nav">
+      <button id="prev" type="button" aria-label="前一天">◀ 前一天</button>
+      <span class="date-label" id="dateLabel"></span>
+      <button id="next" type="button" aria-label="後一天">後一天 ▶</button>
+      <button id="today" type="button">今天</button>
+    </div>
+    <span class="mode" id="mode"></span>
+    <span class="spacer"></span>
+    <button id="reroll" class="primary" type="button">🍹 再來一杯</button>
+  </div>
+
+  <div class="chips" id="chips" role="group" aria-label="依主題篩選"></div>
+
+  <main id="grid" class="grid" aria-live="polite"></main>
+  <p class="status" id="status">吧台準備中……</p>
+
+  <footer>
+    同一天、同一主題，誰打開都是同一批 ・ <a href="https://github.com/derek1403/meme_Bistro/blob/master/menu/bartender_pick.md">靜態備份</a>
+  </footer>
+</div>
+
+<dialog id="lightbox" aria-label="迷因詳情">
+  <div class="lb">
+    <div class="lb-img"><img id="lbImg" alt=""></div>
+    <div class="lb-body">
+      <h2 id="lbTitle"></h2>
+      <div class="badges" id="lbBadges"></div>
+      <div id="lbText"></div>
+      <div class="lb-actions">
+        <button id="lbPrev" type="button" aria-label="上一張">◀</button>
+        <button id="lbNext" type="button" aria-label="下一張">▶</button>
+        <a id="lbLink" target="_blank" rel="noopener">在 GitHub 看卡片 ↗</a>
+        <span class="spacer"></span>
+        <button id="lbClose" type="button" autofocus>關閉</button>
+      </div>
+    </div>
+  </div>
+</dialog>
+
+<script>
+(() => {
+  const REPO = 'derek1403/meme_Bistro';
+  const RAW = `https://raw.githubusercontent.com/${REPO}/master/`;
+  const BLOB = `https://github.com/${REPO}/blob/master/`;
+  const PICK_COUNT = 12;
+  const TOPICS = {
+    all: ['🍸', '全部'],
+    math: ['🧮', '數學'],
+    science: ['🔬', '物理與自然科學'],
+    'cs-ai': ['💻', '程式與 AI'],
+    academia: ['🎓', '學術與研究生活'],
+    language: ['🗣️', '語言與諧音'],
+    life: ['🍺', '日常與生活'],
+    society: ['🌍', '社會與地獄梗'],
+  };
+  const HUMOR = { hardcore: '🧠', intuitive: '👀', pun: '🔤', dark: '🔥' };
+  const STARS = { 1: '★', 2: '★★', 3: '★★★' };
+
+  const $ = id => document.getElementById(id);
+  const els = {
+    prev: $('prev'), next: $('next'), today: $('today'), reroll: $('reroll'),
+    dateLabel: $('dateLabel'), mode: $('mode'), chips: $('chips'), grid: $('grid'), status: $('status'),
+    lb: $('lightbox'), lbImg: $('lbImg'), lbTitle: $('lbTitle'), lbBadges: $('lbBadges'),
+    lbText: $('lbText'), lbLink: $('lbLink'), lbPrev: $('lbPrev'), lbNext: $('lbNext'), lbClose: $('lbClose'),
+  };
+
+  // ---- 日期（一律以台灣時間為準） ----
+  const taipeiToday = () =>
+    new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Taipei', year: 'numeric', month: '2-digit', day: '2-digit' })
+      .format(new Date());
+  const shiftDate = (iso, days) => {
+    const d = new Date(iso + 'T00:00:00Z');
+    d.setUTCDate(d.getUTCDate() + days);
+    return d.toISOString().slice(0, 10);
+  };
+  const validDate = s => /^\d{4}-\d{2}-\d{2}$/.test(s) && !isNaN(new Date(s + 'T00:00:00Z'));
+
+  // ---- 以字串為種子的亂數（cyrb128 + sfc32） ----
+  function cyrb128(str) {
+    let h1 = 1779033703, h2 = 3144134277, h3 = 1013904242, h4 = 2773480762;
+    for (let i = 0; i < str.length; i++) {
+      const k = str.charCodeAt(i);
+      h1 = h2 ^ Math.imul(h1 ^ k, 597399067);
+      h2 = h3 ^ Math.imul(h2 ^ k, 2869860233);
+      h3 = h4 ^ Math.imul(h3 ^ k, 951274213);
+      h4 = h1 ^ Math.imul(h4 ^ k, 2716044179);
+    }
+    h1 = Math.imul(h3 ^ (h1 >>> 18), 597399067);
+    h2 = Math.imul(h4 ^ (h2 >>> 22), 2869860233);
+    h3 = Math.imul(h1 ^ (h3 >>> 17), 951274213);
+    h4 = Math.imul(h2 ^ (h4 >>> 19), 2716044179);
+    h1 ^= (h2 ^ h3 ^ h4); h2 ^= h1; h3 ^= h1; h4 ^= h1;
+    return [h1 >>> 0, h2 >>> 0, h3 >>> 0, h4 >>> 0];
+  }
+  function sfc32(a, b, c, d) {
+    return () => {
+      a |= 0; b |= 0; c |= 0; d |= 0;
+      const t = (((a + b) | 0) + d) | 0;
+      d = (d + 1) | 0;
+      a = b ^ (b >>> 9);
+      b = (c + (c << 3)) | 0;
+      c = (c << 21) | (c >>> 11);
+      c = (c + t) | 0;
+      return (t >>> 0) / 4294967296;
+    };
+  }
+  function sample(pool, n, seed) {
+    const rand = sfc32(...cyrb128(seed));
+    for (let i = 0; i < 12; i++) rand(); // 暖機
+    const arr = pool.slice();
+    const k = Math.min(n, arr.length);
+    for (let i = 0; i < k; i++) {
+      const j = i + Math.floor(rand() * (arr.length - i));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr.slice(0, k);
+  }
+
+  // ---- 狀態 ----
+  let memes = [];
+  let picks = [];
+  let lbIndex = -1;
+  const params = new URLSearchParams(location.search);
+  const state = {
+    date: validDate(params.get('date') || '') ? params.get('date') : taipeiToday(),
+    topic: TOPICS[params.get('topic')] ? params.get('topic') : 'all',
+    randomSeed: null, // 非 null 時為「再來一杯」隨機模式
+  };
+  if (state.date > taipeiToday()) state.date = taipeiToday();
+  let lastToday = taipeiToday();
+
+  function syncUrl() {
+    const p = new URLSearchParams();
+    if (state.date !== taipeiToday()) p.set('date', state.date);
+    if (state.topic !== 'all') p.set('topic', state.topic);
+    const qs = p.toString();
+    history.replaceState(null, '', location.pathname + (qs ? '?' + qs : ''));
+  }
+
+  const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const badges = m => `${m.h.map(h => HUMOR[h] || '').join('')} ${STARS[m.d] || ''}`;
+
+  function renderChips() {
+    els.chips.innerHTML = Object.entries(TOPICS).map(([key, [emoji, label]]) =>
+      `<button type="button" class="chip" data-topic="${key}" aria-pressed="${key === state.topic}">${emoji} ${esc(label)}</button>`
+    ).join('');
+  }
+
+  function render() {
+    const today = taipeiToday();
+    const pool = state.topic === 'all' ? memes : memes.filter(m => m.topic === state.topic);
+    const seed = state.randomSeed ?? `${state.date}|${state.topic}`;
+    picks = sample(pool, PICK_COUNT, seed);
+
+    els.dateLabel.textContent = state.date;
+    els.next.disabled = state.date >= today;
+    els.today.disabled = state.date === today && state.randomSeed === null;
+    els.mode.textContent = state.randomSeed !== null ? '🎰 隨機模式（按「今天」回到今日精選）'
+      : state.date === today ? '台灣時間今天' : '回顧';
+    renderChips();
+    syncUrl();
+
+    els.status.hidden = picks.length > 0;
+    els.status.textContent = '這個主題今天沒酒可倒。';
+    els.grid.innerHTML = picks.map((m, i) => `
+      <button type="button" class="card" data-i="${i}">
+        <div class="thumb"><img src="${RAW}images/${encodeURIComponent(m.img)}" alt="${esc(m.t)}" loading="lazy"></div>
+        <div class="meta"><div class="title">${esc(m.t)}</div><div class="badges">${badges(m)}</div></div>
+      </button>`).join('');
+    els.grid.querySelectorAll('img').forEach(img => img.addEventListener('error', () => {
+      img.replaceWith(Object.assign(document.createElement('div'), { className: 'broken', textContent: '圖片載入失敗' }));
+    }, { once: true }));
+  }
+
+  // ---- 燈箱與解說 ----
+  const cardCache = new Map();
+  function inline(s) {
+    return esc(s)
+      .replace(/`([^`]+)`/g, '<code>$1</code>')
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  }
+  function mdBlock(lines) {
+    const out = [];
+    let list = false;
+    for (const raw of lines) {
+      const line = raw.trim();
+      const li = line.match(/^[-*]\s+(.*)$/);
+      if (li) {
+        if (!list) { out.push('<ul>'); list = true; }
+        out.push(`<li>${inline(li[1])}</li>`);
+        continue;
+      }
+      if (list) { out.push('</ul>'); list = false; }
+      if (line) out.push(`<p>${inline(line)}</p>`);
+    }
+    if (list) out.push('</ul>');
+    return out.join('');
+  }
+  function parseCard(text) {
+    const body = text.replace(/\r\n/g, '\n').replace(/^---\n[\s\S]*?\n---\n/, '');
+    const one = body.match(/^\*\*一句話\*\*[:：]\s*(.+)$/m);
+    const sec = body.match(/^## 🍸 笑點解說\s*\n([\s\S]*?)(?=^## |(?![\s\S]))/m);
+    return { one: one ? one[1].trim() : '', explain: sec ? sec[1].trim().split('\n') : [] };
+  }
+  async function loadCard(id) {
+    if (!cardCache.has(id)) {
+      cardCache.set(id, fetch(`${RAW}memes/${id}.md`).then(r => {
+        if (!r.ok) throw new Error(r.status);
+        return r.text();
+      }).then(parseCard).catch(err => { cardCache.delete(id); throw err; }));
+    }
+    return cardCache.get(id);
+  }
+
+  async function openLightbox(i) {
+    lbIndex = (i + picks.length) % picks.length;
+    const m = picks[lbIndex];
+    els.lbImg.src = `${RAW}images/${encodeURIComponent(m.img)}`;
+    els.lbImg.alt = m.t;
+    els.lbTitle.textContent = m.t;
+    els.lbBadges.textContent = `${badges(m)} ・ ${TOPICS[m.topic] ? TOPICS[m.topic].join(' ') : m.topic}`;
+    els.lbLink.href = `${BLOB}memes/${m.id}.md`;
+    els.lbText.innerHTML = '<p class="note">讀取解說中……</p>';
+    if (!els.lb.open) els.lb.showModal();
+    try {
+      const card = await loadCard(m.id);
+      if (picks[lbIndex] !== m) return;
+      const parts = [];
+      if (card.one) parts.push(`<p class="oneliner"><strong>一句話</strong>：${inline(card.one)}</p>`);
+      if (card.explain.length) parts.push(`<h3>🍸 笑點解說</h3>${mdBlock(card.explain)}`);
+      els.lbText.innerHTML = parts.join('') || '<p class="note">這杯沒附解說，直接乾了吧。</p>';
+    } catch {
+      if (picks[lbIndex] === m) els.lbText.innerHTML = '<p class="note">解說載入失敗，可以到 GitHub 卡片頁看。</p>';
+    }
+  }
+
+  // ---- 事件 ----
+  els.grid.addEventListener('click', e => {
+    const card = e.target.closest('.card');
+    if (card) openLightbox(+card.dataset.i);
+  });
+  els.chips.addEventListener('click', e => {
+    const chip = e.target.closest('.chip');
+    if (!chip) return;
+    state.topic = chip.dataset.topic;
+    if (state.randomSeed !== null) state.randomSeed = String(Math.random());
+    render();
+  });
+  els.prev.addEventListener('click', () => { state.randomSeed = null; state.date = shiftDate(state.date, -1); render(); });
+  els.next.addEventListener('click', () => { state.randomSeed = null; state.date = shiftDate(state.date, 1); render(); });
+  els.today.addEventListener('click', () => { state.randomSeed = null; state.date = taipeiToday(); render(); });
+  els.reroll.addEventListener('click', () => { state.randomSeed = String(Math.random()); render(); });
+
+  els.lbPrev.addEventListener('click', () => openLightbox(lbIndex - 1));
+  els.lbNext.addEventListener('click', () => openLightbox(lbIndex + 1));
+  els.lbClose.addEventListener('click', () => els.lb.close());
+  els.lb.addEventListener('click', e => { if (e.target === els.lb) els.lb.close(); });
+  els.lb.addEventListener('close', () => { els.lbImg.removeAttribute('src'); });
+  document.addEventListener('keydown', e => {
+    if (!els.lb.open) return;
+    if (e.key === 'ArrowLeft') openLightbox(lbIndex - 1);
+    if (e.key === 'ArrowRight') openLightbox(lbIndex + 1);
+  });
+
+  // 頁面開著跨過台灣午夜時，若正在看「今天」就自動換成新的一天
+  setInterval(() => {
+    const now = taipeiToday();
+    if (now === lastToday) return;
+    const wasToday = state.date === lastToday && state.randomSeed === null;
+    lastToday = now;
+    if (wasToday && !els.lb.open) { state.date = now; render(); }
+  }, 60 * 1000);
+
+  fetch('memes.json').then(r => {
+    if (!r.ok) throw new Error(r.status);
+    return r.json();
+  }).then(data => {
+    memes = data;
+    render();
+  }).catch(() => {
+    els.status.textContent = '酒單載入失敗，請重新整理再試一次。';
+  });
+})();
+</script>
+</body>
+</html>

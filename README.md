@@ -31,7 +31,7 @@
 | 找某個概念的梗（例如「拓樸」「Claude」） | [🏷️ 標籤索引](menu/tags.md) |
 | 只想看諧音梗／硬核梗 | [😂 依笑點類型](menu/humor.md) |
 | 看不懂，想看解說 | [🍸 看不懂專區](menu/explained.md) |
-| 什麼都不想，隨便刷 | [🎲 調酒師今日精選](menu/bartender_pick.md) 或直接逛上面的主題 |
+| 什麼都不想，隨便刷 | [🎲 調酒師今日精選（網頁，每天自動換）](https://derek1403.github.io/meme_Bistro/) 或直接逛上面的主題 |
 
 在 GitHub 上也可以用 repo 搜尋（按 `/`）找 `memes/` 裡的文字。
 
